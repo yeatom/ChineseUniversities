@@ -10,10 +10,18 @@ The objective of this project is to crawl and consolidate a complete list of hig
 ## Data Structure
 The project is organized by region/country:
 
+- `world_universities.csv`: A consolidated list of all universities worldwide.
 - `China/`: Contains data for Mainland China, Hong Kong, Macau, and Taiwan.
   - Data stored in `china_universities.csv`.
   - Includes conversion from Traditional to Simplified Chinese for HK/Macau/Taiwan entries.
 - `Japan/`: (In Progress) Planned structure for Japanese institutions.
+
+## Summary Generation
+To update the global summary file, run:
+```bash
+python3 generate_summary.py
+```
+This script traverses all regional folders and aggregates individual CSVs into the root `world_universities.csv`, adding a `country` column based on the folder name.
 
 ## Current Progress
 - [x] **Mainland China**: Extracted from official lists.
