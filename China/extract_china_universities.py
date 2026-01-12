@@ -1,12 +1,12 @@
 import pandas as pd
-import json
+import csv
 import os
 
 def extract_universities():
     # Use absolute path or relative to project root
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     file_path = os.path.join(base_dir, 'China', 'China University List.xls')
-    output_path = os.path.join(base_dir, 'China', 'china_universities.json')
+    output_path = os.path.join(base_dir, 'China', 'china_universities.csv')
     
     try:
         # Read the excel file. Based on inspection, headers are on the second row (index 1)
@@ -29,9 +29,13 @@ def extract_universities():
                     "english_name": ""
                 })
         
-        # Save to JSON
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(university_list, f, ensure_ascii=False, indent=4)
+        # Save to CSV
+        with open(output_path, 'w', encoding='utf-8-sig', newline='') as f:
+            fieldnames = ['chinese_name', 'english_name']
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            for uni in university_list:
+                writer.writerow(uni)
             
         print(f"Successfully extracted {len(university_list)} universities to {output_path}")
         

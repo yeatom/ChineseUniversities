@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import json
+import csv
 import os
 import re
 from opencc import OpenCC
@@ -20,10 +20,15 @@ def normalize(name):
 def update_macau():
     url = "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Macau"
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    json_path = os.path.join(base_dir, 'china_universities.json')
+    csv_path = os.path.join(base_dir, 'china_universities.csv')
     
-    with open(json_path, 'r', encoding='utf-8') as f:
-        universities = json.load(f)
+    universities = []
+    if os.path.exists(csv_path):
+        with open(csv_path, 'r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                universities.append(row)
+    
     uni_map = {normalize(u['chinese_name']): i for i, u in enumerate(universities)}
     
     headers = {
@@ -52,7 +57,7 @@ def update_macau():
                 norm_chi = normalize(chi_name)
                 if norm_chi in uni_map:
                     idx = uni_map[norm_chi]
-                    if not universities[idx]['english_name']:
+                    if not universities[idx].get('english_name'):
                         universities[idx]['english_name'] = eng_name
                         matched += 1
                 else:
@@ -63,8 +68,12 @@ def update_macau():
                     uni_map[norm_chi] = len(universities) - 1
                     added += 1
                     
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(universities, f, ensure_ascii=False, indent=4)
+    with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
+        fieldnames = ['chinese_name', 'english_name']
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for uni in universities:
+            writer.writerow(uni)
         
     print(f"Macau: Matched {matched}, Added {added}")
 
