@@ -23,9 +23,22 @@ def generate_summary():
 
                         # Ensure expected columns exist
                         if 'chinese_name' in df.columns and 'english_name' in df.columns:
+                            # Clean english_name: 
+                            # 1. Replace commas with spaces
+                            df['english_name'] = df['english_name'].astype(str).str.replace(',', ' ', regex=False)
+                            # 2. Handle quotes
+                            def clean_quotes(s):
+                                s = s.strip()
+                                # Remove wrapping quotes
+                                if len(s) >= 2 and s.startswith('"') and s.endswith('"'):
+                                    s = s[1:-1].strip()
+                                # Replace internal double quotes with single quotes to avoid CSV wrapping
+                                return s.replace('"', "'")
+                            
+                            df['english_name'] = df['english_name'].apply(clean_quotes)
+                            
                             # Add country column using folder name
                             df['country'] = item
-                            # Also normalize Japan folder contents if it ever has data
                             all_dfs.append(df[['chinese_name', 'english_name', 'country']])
                         else:
                             print(f"Skipping {file_path}: Missing required columns. Found: {list(df.columns)}")

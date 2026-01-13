@@ -1,0 +1,3838 @@
+[
+    {
+        "chinese_name": "爱知学院大学短期大学部",
+        "original_name": "愛知学院大学短期大学部"
+    },
+    {
+        "chinese_name": "爱知产业大学短期大学",
+        "original_name": "愛知産業大学短期大学"
+    },
+    {
+        "chinese_name": "爱甲学院专门学校",
+        "original_name": "愛甲学院専門学校"
+    },
+    {
+        "chinese_name": "爱知县立艺术大学",
+        "original_name": "愛知県立芸術大学"
+    },
+    {
+        "chinese_name": "安川专门学校罗伊摩登学院",
+        "original_name": "安川専門学校ロイモード学院"
+    },
+    {
+        "chinese_name": "爱普生情报科学专门学校",
+        "original_name": "エプソン情報科学専門学校"
+    },
+    {
+        "chinese_name": "爱知县立大学",
+        "original_name": "愛知県立大学"
+    },
+    {
+        "chinese_name": "爱知商务专门学校",
+        "original_name": "あいちビジネス専門学校"
+    },
+    {
+        "chinese_name": "爱媛大学",
+        "original_name": "愛媛大学"
+    },
+    {
+        "chinese_name": "爱知东邦大学",
+        "original_name": "愛知東邦大学"
+    },
+    {
+        "chinese_name": "阿尔法医疗福祉专门学校",
+        "original_name": "アルファ医療福祉専門学校"
+    },
+    {
+        "chinese_name": "爱知教育大学",
+        "original_name": "愛知教育大学"
+    },
+    {
+        "chinese_name": "爱国学园大学",
+        "original_name": "愛国学園大学"
+    },
+    {
+        "chinese_name": "爱知文教大学",
+        "original_name": "愛知文教大学"
+    },
+    {
+        "chinese_name": "爱知大学",
+        "original_name": "愛知大学"
+    },
+    {
+        "chinese_name": "爱知医科大学",
+        "original_name": "愛知医科大学"
+    },
+    {
+        "chinese_name": "爱知学院大学",
+        "original_name": "愛知学院大学"
+    },
+    {
+        "chinese_name": "爱知学泉大学",
+        "original_name": "愛知学泉大学"
+    },
+    {
+        "chinese_name": "爱知工科大学",
+        "original_name": "愛知工科大学"
+    },
+    {
+        "chinese_name": "爱知工业大学",
+        "original_name": "愛知工業大学"
+    },
+    {
+        "chinese_name": "爱知产业大学",
+        "original_name": "愛知産業大学"
+    },
+    {
+        "chinese_name": "爱知淑德大学",
+        "original_name": "愛知淑徳大学"
+    },
+    {
+        "chinese_name": "安田女子大学",
+        "original_name": "安田女子大学"
+    },
+    {
+        "chinese_name": "柏木实业专门学校",
+        "original_name": "柏木実業専門学校"
+    },
+    {
+        "chinese_name": "北洋大学",
+        "original_name": "北洋大学"
+    },
+    {
+        "chinese_name": "白凤短期大学",
+        "original_name": "白鳳短期大学"
+    },
+    {
+        "chinese_name": "八户学院大学",
+        "original_name": "八戸学院大学"
+    },
+    {
+        "chinese_name": "北星学园大学短期大学部",
+        "original_name": "北星学園大学短期大学部"
+    },
+    {
+        "chinese_name": "浜松医科大学",
+        "original_name": "浜松医科大学"
+    },
+    {
+        "chinese_name": "兵库教育大学",
+        "original_name": "兵庫教育大学"
+    },
+    {
+        "chinese_name": "北陆大学",
+        "original_name": "北陸大学"
+    },
+    {
+        "chinese_name": "阪南大学",
+        "original_name": "阪南大学"
+    },
+    {
+        "chinese_name": "宝塚大学",
+        "original_name": "宝塚大学"
+    },
+    {
+        "chinese_name": "宝塚医疗大学",
+        "original_name": "宝塚医療大学"
+    },
+    {
+        "chinese_name": "别府大学短期大学部",
+        "original_name": "別府大学短期大学部"
+    },
+    {
+        "chinese_name": "别府沟部学园短期大学",
+        "original_name": "別府溝部学園短期大学"
+    },
+    {
+        "chinese_name": "兵库大学",
+        "original_name": "兵庫大学"
+    },
+    {
+        "chinese_name": "北九州市立大学",
+        "original_name": "北九州市立大学"
+    },
+    {
+        "chinese_name": "兵库医科大学",
+        "original_name": "兵庫医科大学"
+    },
+    {
+        "chinese_name": "北陆先端科学技术大学院大学",
+        "original_name": "北陸先端科学技術大学院大学"
+    },
+    {
+        "chinese_name": "北亚大学",
+        "original_name": "ノースアジア大学"
+    },
+    {
+        "chinese_name": "白鸥大学",
+        "original_name": "白鴎大学"
+    },
+    {
+        "chinese_name": "别府大学",
+        "original_name": "別府大学"
+    },
+    {
+        "chinese_name": "北海道大学",
+        "original_name": "北海道大学"
+    },
+    {
+        "chinese_name": "兵库县立大学",
+        "original_name": "兵庫県立大学"
+    },
+    {
+        "chinese_name": "八户工业大学",
+        "original_name": "八戸工業大学"
+    },
+    {
+        "chinese_name": "北星学园大学",
+        "original_name": "北星学園大学"
+    },
+    {
+        "chinese_name": "北海学园大学",
+        "original_name": "北海学園大学"
+    },
+    {
+        "chinese_name": "北海商科大学",
+        "original_name": "北海商科大学"
+    },
+    {
+        "chinese_name": "北海道医疗大学",
+        "original_name": "北海道医療大学"
+    },
+    {
+        "chinese_name": "北海道科学大学",
+        "original_name": "北海道科学大学"
+    },
+    {
+        "chinese_name": "北海道情报大学",
+        "original_name": "北海道情報大学"
+    },
+    {
+        "chinese_name": "北海道文教大学",
+        "original_name": "北海道文教大学"
+    },
+    {
+        "chinese_name": "北里大学",
+        "original_name": "北里大学"
+    },
+    {
+        "chinese_name": "白百合女子大学",
+        "original_name": "白百合女子大学"
+    },
+    {
+        "chinese_name": "比治山大学",
+        "original_name": "比治山大学"
+    },
+    {
+        "chinese_name": "北海道教育大学",
+        "original_name": "北海道教育大学"
+    },
+    {
+        "chinese_name": "北见工业大学",
+        "original_name": "北見工業大学"
+    },
+    {
+        "chinese_name": "茨城女子短期大学",
+        "original_name": "茨城女子短期大学"
+    },
+    {
+        "chinese_name": "创形美术学校",
+        "original_name": "創形美術学校"
+    },
+    {
+        "chinese_name": "CAD制图专门学校",
+        "original_name": "CAD製図専門学校"
+    },
+    {
+        "chinese_name": "冲绳医疗工学院",
+        "original_name": "沖縄医療工学院"
+    },
+    {
+        "chinese_name": "产业能率大学",
+        "original_name": "産業能率大学"
+    },
+    {
+        "chinese_name": "朝日大学",
+        "original_name": "朝日大学"
+    },
+    {
+        "chinese_name": "川口文化服装专门学校",
+        "original_name": "川口文化服装専門学校"
+    },
+    {
+        "chinese_name": "赤堀糕点制作专门学校",
+        "original_name": "赤堀製菓専門学校"
+    },
+    {
+        "chinese_name": "川崎医疗短期大学",
+        "original_name": "川崎医療短期大学"
+    },
+    {
+        "chinese_name": "川村学园女子大学",
+        "original_name": "川村学園女子大学"
+    },
+    {
+        "chinese_name": "成蹊大学",
+        "original_name": "成蹊大学"
+    },
+    {
+        "chinese_name": "嵯峨美术大学",
+        "original_name": "嵯峨美術大学"
+    },
+    {
+        "chinese_name": "城西大学",
+        "original_name": "城西大学"
+    },
+    {
+        "chinese_name": "城西短期大学",
+        "original_name": "城西短期大学"
+    },
+    {
+        "chinese_name": "赤门汽车维修专门学校",
+        "original_name": "専門学校赤門自動車整備大学校"
+    },
+    {
+        "chinese_name": "茨城基督教大学",
+        "original_name": "茨城キリスト教大学"
+    },
+    {
+        "chinese_name": "常磐大学",
+        "original_name": "常磐大学"
+    },
+    {
+        "chinese_name": "成安造型大学",
+        "original_name": "成安造形大学"
+    },
+    {
+        "chinese_name": "崇城大学",
+        "original_name": "崇城大学"
+    },
+    {
+        "chinese_name": "冲绳大学",
+        "original_name": "沖縄大学"
+    },
+    {
+        "chinese_name": "冲绳国际大学",
+        "original_name": "沖縄国際大学"
+    },
+    {
+        "chinese_name": "冲绳科学技术大学院大学",
+        "original_name": "沖縄科学技術大学院大学"
+    },
+    {
+        "chinese_name": "成城大学",
+        "original_name": "成城大学"
+    },
+    {
+        "chinese_name": "池坊短期大学",
+        "original_name": "池坊短期大学"
+    },
+    {
+        "chinese_name": "城西国际大学",
+        "original_name": "城西国際大学"
+    },
+    {
+        "chinese_name": "茨城县立医疗大学",
+        "original_name": "茨城県立医療大学"
+    },
+    {
+        "chinese_name": "创价大学",
+        "original_name": "創価大学"
+    },
+    {
+        "chinese_name": "常叶大学",
+        "original_name": "常葉大学"
+    },
+    {
+        "chinese_name": "仓敷艺术科学大学",
+        "original_name": "倉敷芸術科学大学"
+    },
+    {
+        "chinese_name": "仓敷作阳大学",
+        "original_name": "くらしき作陽大学"
+    },
+    {
+        "chinese_name": "冲绳县立艺术大学",
+        "original_name": "沖縄県立芸術大学"
+    },
+    {
+        "chinese_name": "茨城大学",
+        "original_name": "茨城大学"
+    },
+    {
+        "chinese_name": "产业医科大学",
+        "original_name": "産業医科大学"
+    },
+    {
+        "chinese_name": "大阪文化服装学院",
+        "original_name": "大阪文化服装学院"
+    },
+    {
+        "chinese_name": "大阪樟荫女子大学",
+        "original_name": "大阪樟蔭女子大学"
+    },
+    {
+        "chinese_name": "大阪女学院大学",
+        "original_name": "大阪女学院大学"
+    },
+    {
+        "chinese_name": "东京COOLJAPAN专门学校",
+        "original_name": "専門学校東京クールジャパン"
+    },
+    {
+        "chinese_name": "大阪女学院短期大学",
+        "original_name": "大阪女学院短期大学"
+    },
+    {
+        "chinese_name": "东京经济大学",
+        "original_name": "東京経済大学"
+    },
+    {
+        "chinese_name": "岛根县立大学",
+        "original_name": "島根県立大学"
+    },
+    {
+        "chinese_name": "东京演员电影放送专门学校",
+        "original_name": "東京俳優・映画&放送専門学校"
+    },
+    {
+        "chinese_name": "岛根康复学院",
+        "original_name": "リハビリテーションカレッジ島根"
+    },
+    {
+        "chinese_name": "大阪动画学院专门学校",
+        "original_name": "大阪アニメーションカレッジ専門学校"
+    },
+    {
+        "chinese_name": "大原薄记公务员医疗信息商务专门学校津田沼校",
+        "original_name": "大原簿記公務員医療情報ビジネス専門学校津田沼校"
+    },
+    {
+        "chinese_name": "大阪外语专门学校",
+        "original_name": "大阪外語専門学校"
+    },
+    {
+        "chinese_name": "大原簿记信息商务专门学校横滨校区",
+        "original_name": "大原簿記情報ビジネス専門学校横浜校"
+    },
+    {
+        "chinese_name": "东和IT专门学校",
+        "original_name": "東和IT専門学校"
+    },
+    {
+        "chinese_name": "大分工业高等专门学校",
+        "original_name": "大分工業高等専門学校"
+    },
+    {
+        "chinese_name": "德岛工业短期大学",
+        "original_name": "徳島工業短期大学"
+    },
+    {
+        "chinese_name": "东京日建工科专门学校",
+        "original_name": "東京日建工科専門学校"
+    },
+    {
+        "chinese_name": "大阪医专",
+        "original_name": "大阪医専"
+    },
+    {
+        "chinese_name": "独协大学",
+        "original_name": "獨協大学"
+    },
+    {
+        "chinese_name": "东京电机大学",
+        "original_name": "東京電機大学"
+    },
+    {
+        "chinese_name": "都留文科大学",
+        "original_name": "都留文科大学"
+    },
+    {
+        "chinese_name": "帝京大学",
+        "original_name": "帝京大学"
+    },
+    {
+        "chinese_name": "东京医科大学",
+        "original_name": "東京医科大学"
+    },
+    {
+        "chinese_name": "东京医疗保健大学",
+        "original_name": "東京医療保健大学"
+    },
+    {
+        "chinese_name": "东京音乐大学",
+        "original_name": "東京音楽大学"
+    },
+    {
+        "chinese_name": "东京家政大学",
+        "original_name": "東京家政大学"
+    },
+    {
+        "chinese_name": "东京工科大学",
+        "original_name": "東京工科大学"
+    },
+    {
+        "chinese_name": "东京工艺大学",
+        "original_name": "東京工芸大学"
+    },
+    {
+        "chinese_name": "东京女子大学",
+        "original_name": "東京女子大学"
+    },
+    {
+        "chinese_name": "东京造型大学",
+        "original_name": "東京造形大学"
+    },
+    {
+        "chinese_name": "东京农业大学",
+        "original_name": "東京農業大学"
+    },
+    {
+        "chinese_name": "东京富士大学",
+        "original_name": "東京富士大学"
+    },
+    {
+        "chinese_name": "东京药科大学",
+        "original_name": "東京薬科大学"
+    },
+    {
+        "chinese_name": "东邦大学",
+        "original_name": "東邦大学"
+    },
+    {
+        "chinese_name": "东洋大学",
+        "original_name": "東洋大学"
+    },
+    {
+        "chinese_name": "东洋学园大学",
+        "original_name": "東洋学園大学"
+    },
+    {
+        "chinese_name": "帝京平成大学",
+        "original_name": "帝京平成大学"
+    },
+    {
+        "chinese_name": "东京情报大学",
+        "original_name": "東京情報大学"
+    },
+    {
+        "chinese_name": "大妻女子大学",
+        "original_name": "大妻女子大学"
+    },
+    {
+        "chinese_name": "大正大学",
+        "original_name": "大正大学"
+    },
+    {
+        "chinese_name": "大东文化大学",
+        "original_name": "大東文化大学"
+    },
+    {
+        "chinese_name": "多摩大学",
+        "original_name": "多摩大学"
+    },
+    {
+        "chinese_name": "多摩美术大学",
+        "original_name": "多摩美術大学"
+    },
+    {
+        "chinese_name": "东海学院大学",
+        "original_name": "東海学院大学"
+    },
+    {
+        "chinese_name": "帝塚山大学",
+        "original_name": "帝塚山大学"
+    },
+    {
+        "chinese_name": "东北大学",
+        "original_name": "東北大学"
+    },
+    {
+        "chinese_name": "东京大学",
+        "original_name": "東京大学"
+    },
+    {
+        "chinese_name": "东京外国语大学",
+        "original_name": "東京外国語大学"
+    },
+    {
+        "chinese_name": "东京学艺大学",
+        "original_name": "東京学芸大学"
+    },
+    {
+        "chinese_name": "东京农工大学",
+        "original_name": "東京農工大学"
+    },
+    {
+        "chinese_name": "东京艺术大学",
+        "original_name": "東京芸術大学"
+    },
+    {
+        "chinese_name": "东京海洋大学",
+        "original_name": "東京海洋大学"
+    },
+    {
+        "chinese_name": "电气通信大学",
+        "original_name": "電気通信大学"
+    },
+    {
+        "chinese_name": "东亚大学",
+        "original_name": "東亜大学"
+    },
+    {
+        "chinese_name": "德岛文理大学",
+        "original_name": "徳島文理大学"
+    },
+    {
+        "chinese_name": "岛根大学",
+        "original_name": "島根大学"
+    },
+    {
+        "chinese_name": "东北电子专门学校",
+        "original_name": "東北電子専門学校"
+    },
+    {
+        "chinese_name": "东放学园音响专门学校",
+        "original_name": "東放学園音響専門学校"
+    },
+    {
+        "chinese_name": "东京MODE学园专门学校",
+        "original_name": "東京モード学園"
+    },
+    {
+        "chinese_name": "东京福祉保育专门学校",
+        "original_name": "東京福祉保育専門学校"
+    },
+    {
+        "chinese_name": "东京广播学院专门学校",
+        "original_name": "専門学校東京アナウンス学院"
+    },
+    {
+        "chinese_name": "东京国际商务学院专门学校",
+        "original_name": "専門学校東京国際ビジネスカレッジ"
+    },
+    {
+        "chinese_name": "东京优雅糕点烹饪专门学校",
+        "original_name": "東京ベルエポック製菓調理専門学校"
+    },
+    {
+        "chinese_name": "东京技术学院专门学校",
+        "original_name": "専門学校東京テクニカルカレッジ"
+    },
+    {
+        "chinese_name": "东京交流艺术专门学校",
+        "original_name": "東京コミュニケーションアート専門学校"
+    },
+    {
+        "chinese_name": "东京商科法科学院专门学校",
+        "original_name": "東京商科・法科学院専門学校"
+    },
+    {
+        "chinese_name": "东京设计技术中心专门学校",
+        "original_name": "東京デザインテクノロジーセンター専門学校"
+    },
+    {
+        "chinese_name": "东京设计专门学校",
+        "original_name": "東京デザイン専門学校"
+    },
+    {
+        "chinese_name": "东京数字艺术专门学校",
+        "original_name": "専門学校デジタルアーツ東京"
+    },
+    {
+        "chinese_name": "东京糕点制作学校",
+        "original_name": "東京製菓学校"
+    },
+    {
+        "chinese_name": "东京动画学院专门学校",
+        "original_name": "東京アニメーションカレッジ専門学校"
+    },
+    {
+        "chinese_name": "东京时尚商业学院",
+        "original_name": "ファッションビジネスカレッジ東京"
+    },
+    {
+        "chinese_name": "读卖理工医疗福祉专门学校",
+        "original_name": "読売理工医療福祉専門学校"
+    },
+    {
+        "chinese_name": "东京经营短期大学",
+        "original_name": "東京経営短期大学"
+    },
+    {
+        "chinese_name": "东京女子医科大学",
+        "original_name": "東京女子医科大学"
+    },
+    {
+        "chinese_name": "大阪观光商务学院",
+        "original_name": "大阪観光ビジネス学院"
+    },
+    {
+        "chinese_name": "帝京大学短期大学",
+        "original_name": "帝京大学短期大学"
+    },
+    {
+        "chinese_name": "东放学园专门学校",
+        "original_name": "東放学園専門学校"
+    },
+    {
+        "chinese_name": "东北医科药科大学",
+        "original_name": "東北医科薬科大学"
+    },
+    {
+        "chinese_name": "东大阪大学短期大学部",
+        "original_name": "東大阪大学短期大学部"
+    },
+    {
+        "chinese_name": "东京国际学园外语专门学校",
+        "original_name": "東京国際学園外語専門学校"
+    },
+    {
+        "chinese_name": "大阪大学",
+        "original_name": "大阪大学"
+    },
+    {
+        "chinese_name": "东京立正短期大学",
+        "original_name": "東京立正短期大学"
+    },
+    {
+        "chinese_name": "大阪信息计算机专门学校",
+        "original_name": "大阪情報コンピュータ専門学校"
+    },
+    {
+        "chinese_name": "东京心理音乐疗法福祉专门学校",
+        "original_name": "東京心理音楽療法福祉専門学校"
+    },
+    {
+        "chinese_name": "东洋美术学校",
+        "original_name": "東洋美術学校"
+    },
+    {
+        "chinese_name": "东日本国际大学",
+        "original_name": "東日本国際大学"
+    },
+    {
+        "chinese_name": "大原大学院大学",
+        "original_name": "大原大学院大学"
+    },
+    {
+        "chinese_name": "东京甜品咖啡专门学校",
+        "original_name": "東京スイーツアンドカフェ専門学校"
+    },
+    {
+        "chinese_name": "东京营养食粮专门学校",
+        "original_name": "東京栄養食糧専門学校"
+    },
+    {
+        "chinese_name": "东京工学院专门学校",
+        "original_name": "東京工学院専門学校"
+    },
+    {
+        "chinese_name": "大阪学院大学短期大学部",
+        "original_name": "大阪学院大学短期大学部"
+    },
+    {
+        "chinese_name": "大阪综合设计专门学校",
+        "original_name": "大阪総合デザイン専門学校"
+    },
+    {
+        "chinese_name": "大阪艺术大学附属大阪美术专门学校",
+        "original_name": "大阪芸術大学附属大阪美術専門学校"
+    },
+    {
+        "chinese_name": "大阪MODE学园专门学校",
+        "original_name": "大阪モード学園"
+    },
+    {
+        "chinese_name": "东海大学",
+        "original_name": "東海大学"
+    },
+    {
+        "chinese_name": "大阪艺术大学",
+        "original_name": "大阪芸術大学"
+    },
+    {
+        "chinese_name": "带广畜产大学",
+        "original_name": "帯広畜産大学"
+    },
+    {
+        "chinese_name": "DRESSMAKER学院",
+        "original_name": "ドレスメーカー学院"
+    },
+    {
+        "chinese_name": "东京电子专门学校",
+        "original_name": "東京電子専門学校"
+    },
+    {
+        "chinese_name": "大阪成蹊短期大学",
+        "original_name": "大阪成蹊短期大学"
+    },
+    {
+        "chinese_name": "大阪艺术大学短期大学部",
+        "original_name": "大阪芸術大学短期大学部"
+    },
+    {
+        "chinese_name": "大分大学",
+        "original_name": "大分大学"
+    },
+    {
+        "chinese_name": "东北学院大学",
+        "original_name": "東北学院大学"
+    },
+    {
+        "chinese_name": "东北工业大学",
+        "original_name": "東北工業大学"
+    },
+    {
+        "chinese_name": "东北福祉大学",
+        "original_name": "東北福祉大学"
+    },
+    {
+        "chinese_name": "东北艺术工科大学",
+        "original_name": "東北芸術工科大学"
+    },
+    {
+        "chinese_name": "东北公益文科大学",
+        "original_name": "東北公益文科大学"
+    },
+    {
+        "chinese_name": "东京国际大学",
+        "original_name": "東京国際大学"
+    },
+    {
+        "chinese_name": "东邦音乐大学",
+        "original_name": "東邦音楽大学"
+    },
+    {
+        "chinese_name": "大同大学",
+        "original_name": "大同大学"
+    },
+    {
+        "chinese_name": "大谷大学",
+        "original_name": "大谷大学"
+    },
+    {
+        "chinese_name": "大阪大谷大学",
+        "original_name": "大阪大谷大学"
+    },
+    {
+        "chinese_name": "大原医疗秘书福祉专门学校大宫校",
+        "original_name": "大原医療秘書福祉専門学校大宮校"
+    },
+    {
+        "chinese_name": "东京国际商务学院专门学校神户校",
+        "original_name": "専門学校東京国際ビジネスカレッジ神戸校"
+    },
+    {
+        "chinese_name": "大阪公立大学",
+        "original_name": "大阪公立大学"
+    },
+    {
+        "chinese_name": "东海学园大学",
+        "original_name": "東海学園大学"
+    },
+    {
+        "chinese_name": "大阪医科药科大学",
+        "original_name": "大阪医科薬科大学"
+    },
+    {
+        "chinese_name": "大原簿记专门学校大阪校",
+        "original_name": "大原簿記専門学校大阪校"
+    },
+    {
+        "chinese_name": "东京齿科卫生专门学校",
+        "original_name": "東京歯科衛生専門学校"
+    },
+    {
+        "chinese_name": "东京都市大学",
+        "original_name": "東京都市大学"
+    },
+    {
+        "chinese_name": "东北外国语观光专门学校",
+        "original_name": "東北外語観光専門学校"
+    },
+    {
+        "chinese_name": "东京成德大学",
+        "original_name": "東京成徳大学"
+    },
+    {
+        "chinese_name": "东京福祉大学",
+        "original_name": "東京福祉大学"
+    },
+    {
+        "chinese_name": "东京航空旅游酒店管理学校",
+        "original_name": "東京エアトラベル・ホテル専門学校"
+    },
+    {
+        "chinese_name": "大妻女子大学短期大学部",
+        "original_name": "大妻女子大学短期大学部"
+    },
+    {
+        "chinese_name": "东京英语专门学校",
+        "original_name": "東京英語専門学校"
+    },
+    {
+        "chinese_name": "东京山手厨师专门学校",
+        "original_name": "東京山手調理師専門学校"
+    },
+    {
+        "chinese_name": "东京综合写真专门学校",
+        "original_name": "東京綜合写真専門学校"
+    },
+    {
+        "chinese_name": "大阪YMCA国际专门学校",
+        "original_name": "大阪YMCA国際専門学校"
+    },
+    {
+        "chinese_name": "大阪音乐专门学校",
+        "original_name": "大阪スクールオブミュージック専門学校"
+    },
+    {
+        "chinese_name": "东京家政学院大学",
+        "original_name": "東京家政学院大学"
+    },
+    {
+        "chinese_name": "第一工科大学",
+        "original_name": "第一工科大学"
+    },
+    {
+        "chinese_name": "东京酒店与旅游学院专门学校",
+        "original_name": "東京ホテル・トラベル学院専門学校"
+    },
+    {
+        "chinese_name": "大原外语旅游与婚礼美容专门学校",
+        "original_name": "大原外語観光＆ブライダルビューティー専門学校"
+    },
+    {
+        "chinese_name": "东京福祉专门学校",
+        "original_name": "東京福祉専門学校"
+    },
+    {
+        "chinese_name": "东京理科大学",
+        "original_name": "東京理科大学"
+    },
+    {
+        "chinese_name": "东放学园电影专门学校",
+        "original_name": "東放学園映画専門学校"
+    },
+    {
+        "chinese_name": "东京服饰专门学校",
+        "original_name": "東京服飾専門学校"
+    },
+    {
+        "chinese_name": "东亚经理专门学校神户站前分校",
+        "original_name": "東亜経理専門学校神戸駅前校"
+    },
+    {
+        "chinese_name": "东京音乐学院专门学校",
+        "original_name": "専門学校ミュージシャンズ・インスティテュート東京"
+    },
+    {
+        "chinese_name": "东海齿科医疗专门学校",
+        "original_name": "東海歯科医療専門学校"
+    },
+    {
+        "chinese_name": "东京动漫与声优&电竞专门学校",
+        "original_name": "東京アニメ・声優&eスポーツ専門学校"
+    },
+    {
+        "chinese_name": "东京外语专门学校",
+        "original_name": "東京外語専門学校"
+    },
+    {
+        "chinese_name": "东京都立大学",
+        "original_name": "東京都立大学"
+    },
+    {
+        "chinese_name": "东京音乐与舞蹈专门学校",
+        "original_name": "東京スクールオブミュージック＆ダンス専門学校"
+    },
+    {
+        "chinese_name": "东京商务外语学院专门学校",
+        "original_name": "専門学校東京ビジネス外語カレッジ"
+    },
+    {
+        "chinese_name": "德岛大学",
+        "original_name": "徳島大学"
+    },
+    {
+        "chinese_name": "独协医科大学",
+        "original_name": "獨協医科大学"
+    },
+    {
+        "chinese_name": "东京神学大学",
+        "original_name": "東京神学大学"
+    },
+    {
+        "chinese_name": "大阪府立大学",
+        "original_name": "大阪府立大学"
+    },
+    {
+        "chinese_name": "大阪市立大学",
+        "original_name": "大阪市立大学"
+    },
+    {
+        "chinese_name": "东京音乐专门学校涩谷校区",
+        "original_name": "東京スクールオブミュージック専門学校渋谷"
+    },
+    {
+        "chinese_name": "东京都立产业技术大学院大学",
+        "original_name": "東京都立産業技術大学院大学"
+    },
+    {
+        "chinese_name": "东京音乐专门学校",
+        "original_name": "東京スクール オブ ミュージック専門学校"
+    },
+    {
+        "chinese_name": "东海学院文化教养专门学校",
+        "original_name": "東海学院文化教養専門学校"
+    },
+    {
+        "chinese_name": "东京寿司和食烹饪专门学校",
+        "original_name": "東京すし和食調理専門学校"
+    },
+    {
+        "chinese_name": "德岛文理大学短期大学部",
+        "original_name": "徳島文理大学短期大学部"
+    },
+    {
+        "chinese_name": "东京未来大学福祉保育专门学校",
+        "original_name": "東京未来大学福祉保育専門学校"
+    },
+    {
+        "chinese_name": "大原薄记公务员医疗福祉保育专门学校立川校",
+        "original_name": "大原簿記公務員医療福祉保育専門学校立川校"
+    },
+    {
+        "chinese_name": "东京科学大学",
+        "original_name": "東京科学大学"
+    },
+    {
+        "chinese_name": "东京动画制作学院专门学校",
+        "original_name": "東京アニメーター学院専門学校"
+    },
+    {
+        "chinese_name": "东京设计师学院专门学校",
+        "original_name": "専門学校東京デザイナー・アカデミー"
+    },
+    {
+        "chinese_name": "大阪教育大学",
+        "original_name": "大阪教育大学"
+    },
+    {
+        "chinese_name": "大阪音乐大学",
+        "original_name": "大阪音楽大学"
+    },
+    {
+        "chinese_name": "大阪学院大学",
+        "original_name": "大阪学院大学"
+    },
+    {
+        "chinese_name": "大阪观光大学",
+        "original_name": "大阪観光大学"
+    },
+    {
+        "chinese_name": "大阪经济大学",
+        "original_name": "大阪経済大学"
+    },
+    {
+        "chinese_name": "大阪经济法科大学",
+        "original_name": "大阪経済法科大学"
+    },
+    {
+        "chinese_name": "大阪工业大学",
+        "original_name": "大阪工業大学"
+    },
+    {
+        "chinese_name": "大阪国际大学",
+        "original_name": "大阪国際大学"
+    },
+    {
+        "chinese_name": "大阪产业大学",
+        "original_name": "大阪産業大学"
+    },
+    {
+        "chinese_name": "大阪齿科大学",
+        "original_name": "大阪歯科大学"
+    },
+    {
+        "chinese_name": "大阪商业大学",
+        "original_name": "大阪商業大学"
+    },
+    {
+        "chinese_name": "大阪成蹊大学",
+        "original_name": "大阪成蹊大学"
+    },
+    {
+        "chinese_name": "大阪体育大学",
+        "original_name": "大阪体育大学"
+    },
+    {
+        "chinese_name": "大阪电气通信大学",
+        "original_name": "大阪電気通信大学"
+    },
+    {
+        "chinese_name": "东洋英和女学院大学",
+        "original_name": "東洋英和女学院大学"
+    },
+    {
+        "chinese_name": "帝京科学大学",
+        "original_name": "帝京科学大学"
+    },
+    {
+        "chinese_name": "东大阪大学",
+        "original_name": "東大阪大学"
+    },
+    {
+        "chinese_name": "大和大学",
+        "original_name": "大和大学"
+    },
+    {
+        "chinese_name": "大手前大学",
+        "original_name": "大手前大学"
+    },
+    {
+        "chinese_name": "大阪生物医疗专门学校",
+        "original_name": "大阪バイオメディカル専門学校"
+    },
+    {
+        "chinese_name": "大原簿记学校",
+        "original_name": "大原簿記学校"
+    },
+    {
+        "chinese_name": "ESP音乐专门学校大阪校区",
+        "original_name": "専門学校ESPエンタテインメント大阪"
+    },
+    {
+        "chinese_name": "ELIC商务与公务员专门学校",
+        "original_name": "ELICビジネス&公務員専門学校"
+    },
+    {
+        "chinese_name": "ECC国际外语专门学校",
+        "original_name": "ECC国際外語専門学校"
+    },
+    {
+        "chinese_name": "ECC计算机专门学校",
+        "original_name": "ECCコンピュータ専門学校"
+    },
+    {
+        "chinese_name": "ESP音乐专门学校东京校区",
+        "original_name": "専門学校ESPエンタテインメント東京"
+    },
+    {
+        "chinese_name": "二松学舍大学",
+        "original_name": "二松学舎大学"
+    },
+    {
+        "chinese_name": "福冈大学",
+        "original_name": "福岡大学"
+    },
+    {
+        "chinese_name": "福冈工业大学",
+        "original_name": "福岡工業大学"
+    },
+    {
+        "chinese_name": "福冈齿科大学",
+        "original_name": "福岡歯科大学"
+    },
+    {
+        "chinese_name": "福岛县立医科大学",
+        "original_name": "福島県立医科大学"
+    },
+    {
+        "chinese_name": "福冈设计与科技专门学校",
+        "original_name": "福岡デザイン&テクノロジー専門学校"
+    },
+    {
+        "chinese_name": "福冈国际医疗福祉大学",
+        "original_name": "福岡国際医療福祉大学"
+    },
+    {
+        "chinese_name": "富士计算机专门学校",
+        "original_name": "富士コンピュータ専門学校"
+    },
+    {
+        "chinese_name": "放送艺术学院专门学校",
+        "original_name": "放送芸術学院専門学校"
+    },
+    {
+        "chinese_name": "富山大学",
+        "original_name": "富山大学"
+    },
+    {
+        "chinese_name": "福井大学",
+        "original_name": "福井大学"
+    },
+    {
+        "chinese_name": "丰桥技术科学大学",
+        "original_name": "豊橋技術科学大学"
+    },
+    {
+        "chinese_name": "富山国际大学",
+        "original_name": "富山国際大学"
+    },
+    {
+        "chinese_name": "福井工业大学",
+        "original_name": "福井工業大学"
+    },
+    {
+        "chinese_name": "富士国际商务专门学校",
+        "original_name": "富士国際ビジネス専門学校"
+    },
+    {
+        "chinese_name": "福冈女学院大学",
+        "original_name": "福岡女学院大学"
+    },
+    {
+        "chinese_name": "FORUM信息专门学校",
+        "original_name": "フォーラム情報アカデミー専門学校"
+    },
+    {
+        "chinese_name": "服部营养专门学校",
+        "original_name": "服部栄養専門学校"
+    },
+    {
+        "chinese_name": "福冈教育大学",
+        "original_name": "福岡教育大学"
+    },
+    {
+        "chinese_name": "法政大学",
+        "original_name": "法政大学"
+    },
+    {
+        "chinese_name": "丰桥创造大学",
+        "original_name": "豊橋創造大学"
+    },
+    {
+        "chinese_name": "佛教大学",
+        "original_name": "佛教大学"
+    },
+    {
+        "chinese_name": "菲莉斯女学院大学",
+        "original_name": "フェリス女学院大学"
+    },
+    {
+        "chinese_name": "福山大学",
+        "original_name": "福山大学"
+    },
+    {
+        "chinese_name": "福冈设计专门学校",
+        "original_name": "福岡デザイン専門学校"
+    },
+    {
+        "chinese_name": "富山创意专门学校",
+        "original_name": "富山クリエイティブ専門学校"
+    },
+    {
+        "chinese_name": "富山县立大学",
+        "original_name": "富山県立大学"
+    },
+    {
+        "chinese_name": "福井县立大学",
+        "original_name": "福井県立大学"
+    },
+    {
+        "chinese_name": "富士大学",
+        "original_name": "富士大学"
+    },
+    {
+        "chinese_name": "福山平成大学",
+        "original_name": "福山平成大学"
+    },
+    {
+        "chinese_name": "福山市立大学",
+        "original_name": "福山市立大学"
+    },
+    {
+        "chinese_name": "福冈县立大学",
+        "original_name": "福岡県立大学"
+    },
+    {
+        "chinese_name": "福冈女子大学",
+        "original_name": "福岡女子大学"
+    },
+    {
+        "chinese_name": "福岛大学",
+        "original_name": "福島大学"
+    },
+    {
+        "chinese_name": "国际佛教学大学院大学",
+        "original_name": "国際仏教学大学院大学"
+    },
+    {
+        "chinese_name": "冈山科学技术专门学校",
+        "original_name": "岡山科学技術専門学校"
+    },
+    {
+        "chinese_name": "国际技术设计与汽车专门学校",
+        "original_name": "国際テクニカルデザイン・自動車専門学校"
+    },
+    {
+        "chinese_name": "关西会计专门学校",
+        "original_name": "関西経理専門学校"
+    },
+    {
+        "chinese_name": "广岛大学",
+        "original_name": "広島大学"
+    },
+    {
+        "chinese_name": "国际贡献专门大学校",
+        "original_name": "国際貢献専門大学校"
+    },
+    {
+        "chinese_name": "关西外国语大学短期大学部",
+        "original_name": "関西外国語大学短期大学部"
+    },
+    {
+        "chinese_name": "格雷格外语专门学校横滨校区",
+        "original_name": "グレッグ外語専門学校横浜校"
+    },
+    {
+        "chinese_name": "高崎健康福祉大学",
+        "original_name": "高崎健康福祉大学"
+    },
+    {
+        "chinese_name": "广岛国际学院大学",
+        "original_name": "広島国際学院大学"
+    },
+    {
+        "chinese_name": "广岛都市学园大学",
+        "original_name": "広島都市学園大学"
+    },
+    {
+        "chinese_name": "国际观光专门学校",
+        "original_name": "国際観光専門学校"
+    },
+    {
+        "chinese_name": "公立诹访东京理科大学",
+        "original_name": "公立諏訪東京理科大学"
+    },
+    {
+        "chinese_name": "国际语言学院外国语专门学校",
+        "original_name": "国際ことば学院外国語専門学校"
+    },
+    {
+        "chinese_name": "国际动画专门学校",
+        "original_name": "国際アニメーション専門学校"
+    },
+    {
+        "chinese_name": "广岛市医师会看护专门学校",
+        "original_name": "広島市医師会看護専門学校"
+    },
+    {
+        "chinese_name": "冈山商科大学专门学校",
+        "original_name": "岡山商科大学専門学校"
+    },
+    {
+        "chinese_name": "关东学院大学",
+        "original_name": "関東学院大学"
+    },
+    {
+        "chinese_name": "关西医科大学",
+        "original_name": "関西医科大学"
+    },
+    {
+        "chinese_name": "关西外国语大学",
+        "original_name": "関西外国語大学"
+    },
+    {
+        "chinese_name": "国际大学",
+        "original_name": "国際大学"
+    },
+    {
+        "chinese_name": "关西国际大学",
+        "original_name": "関西国際大学"
+    },
+    {
+        "chinese_name": "格雷格外语专门学校",
+        "original_name": "グレッグ外語専門学校"
+    },
+    {
+        "chinese_name": "关西外语专门学校",
+        "original_name": "関西外語専門学校"
+    },
+    {
+        "chinese_name": "广岛国际商务学院专门学校",
+        "original_name": "専門学校広島国際ビジネスカレッジ"
+    },
+    {
+        "chinese_name": "国际双业务专门学校",
+        "original_name": "国際デュアルビジネス専門学校"
+    },
+    {
+        "chinese_name": "格雷格外语专门学校新宿校区",
+        "original_name": "グレッグ外語専門学校新宿校"
+    },
+    {
+        "chinese_name": "公立鸟取环境大学",
+        "original_name": "公立鳥取環境大学"
+    },
+    {
+        "chinese_name": "国际电子会计专门学校",
+        "original_name": "国際電子会計専門学校"
+    },
+    {
+        "chinese_name": "国际观光专门学校名古屋校区",
+        "original_name": "国際観光専門学校名古屋校"
+    },
+    {
+        "chinese_name": "国际外语旅游航空专门学校",
+        "original_name": "国際外語・観光・エアライン専門学校"
+    },
+    {
+        "chinese_name": "国际情报经济专门学校",
+        "original_name": "国際情報経済専門学校"
+    },
+    {
+        "chinese_name": "国际情报商务专门学校",
+        "original_name": "国際情報ビジネス専門学校"
+    },
+    {
+        "chinese_name": "国际商务专门学校",
+        "original_name": "専門学校インターナショナル・スクール オブ ビジネス"
+    },
+    {
+        "chinese_name": "共爱学园前桥国际大学",
+        "original_name": "共愛学園前橋国際大学"
+    },
+    {
+        "chinese_name": "高冈法科大学",
+        "original_name": "高岡法科大学"
+    },
+    {
+        "chinese_name": "高野山大学",
+        "original_name": "高野山大学"
+    },
+    {
+        "chinese_name": "宫崎大学",
+        "original_name": "宮崎大学"
+    },
+    {
+        "chinese_name": "国际短期大学",
+        "original_name": "国際短期大学"
+    },
+    {
+        "chinese_name": "关东学园大学",
+        "original_name": "関東学園大学"
+    },
+    {
+        "chinese_name": "高崎商科大学",
+        "original_name": "高崎商科大学"
+    },
+    {
+        "chinese_name": "共荣大学",
+        "original_name": "共栄大学"
+    },
+    {
+        "chinese_name": "宫崎产业经营大学",
+        "original_name": "宮崎産業経営大学"
+    },
+    {
+        "chinese_name": "公立函馆未来大学",
+        "original_name": "公立はこだて未来大学"
+    },
+    {
+        "chinese_name": "顾彼思商学院",
+        "original_name": "グロービス経営大学院大学"
+    },
+    {
+        "chinese_name": "关西学院大学",
+        "original_name": "関西学院大学"
+    },
+    {
+        "chinese_name": "国际时尚专门职大学",
+        "original_name": "国際ファッション専門職大学"
+    },
+    {
+        "chinese_name": "国际医疗福祉大学",
+        "original_name": "国際医療福祉大学"
+    },
+    {
+        "chinese_name": "国际商务设计专门学校",
+        "original_name": "国際ビジネスデザイン専門学校"
+    },
+    {
+        "chinese_name": "国际食品糕点制作专门学校",
+        "original_name": "国際フード製菓専門学校"
+    },
+    {
+        "chinese_name": "国际综合健康专门学校",
+        "original_name": "国際総合健康専門学校"
+    },
+    {
+        "chinese_name": "关西大学",
+        "original_name": "関西大学"
+    },
+    {
+        "chinese_name": "关西本田技术学院",
+        "original_name": "ホンダテクニカルカレッジ関西"
+    },
+    {
+        "chinese_name": "冈山医疗福祉专门学校",
+        "original_name": "岡山医療福祉専門学校"
+    },
+    {
+        "chinese_name": "高知大学",
+        "original_name": "高知大学"
+    },
+    {
+        "chinese_name": "关东本田技术学院",
+        "original_name": "ホンダテクニカルカレッジ関東"
+    },
+    {
+        "chinese_name": "国际旅游酒店婚礼专门学校",
+        "original_name": "国際トラベル・ホテル・ブライダル専門学校"
+    },
+    {
+        "chinese_name": "高田短期大学",
+        "original_name": "高田短期大学"
+    },
+    {
+        "chinese_name": "宫城大学",
+        "original_name": "宮城大学"
+    },
+    {
+        "chinese_name": "国际教养大学",
+        "original_name": "国際教養大学"
+    },
+    {
+        "chinese_name": "高崎经济大学",
+        "original_name": "高崎経済大学"
+    },
+    {
+        "chinese_name": "国际武道大学",
+        "original_name": "国際武道大学"
+    },
+    {
+        "chinese_name": "共立女子大学",
+        "original_name": "共立女子大学"
+    },
+    {
+        "chinese_name": "国立音乐大学",
+        "original_name": "国立音楽大学"
+    },
+    {
+        "chinese_name": "工学院大学",
+        "original_name": "工学院大学"
+    },
+    {
+        "chinese_name": "国学院大学",
+        "original_name": "國學院大學"
+    },
+    {
+        "chinese_name": "国际基督教大学",
+        "original_name": "国際基督教大学"
+    },
+    {
+        "chinese_name": "国士馆大学",
+        "original_name": "国士舘大学"
+    },
+    {
+        "chinese_name": "高千穗大学",
+        "original_name": "高千穂大学"
+    },
+    {
+        "chinese_name": "冈山商科大学",
+        "original_name": "岡山商科大学"
+    },
+    {
+        "chinese_name": "冈山理科大学",
+        "original_name": "岡山理科大学"
+    },
+    {
+        "chinese_name": "广岛文化学园大学",
+        "original_name": "広島文化学園大学"
+    },
+    {
+        "chinese_name": "广岛经济大学",
+        "original_name": "広島経済大学"
+    },
+    {
+        "chinese_name": "广岛工业大学",
+        "original_name": "広島工業大学"
+    },
+    {
+        "chinese_name": "广岛国际大学",
+        "original_name": "広島国際大学"
+    },
+    {
+        "chinese_name": "广岛修道大学",
+        "original_name": "広島修道大学"
+    },
+    {
+        "chinese_name": "广岛女学院大学",
+        "original_name": "広島女学院大学"
+    },
+    {
+        "chinese_name": "冈山县立大学",
+        "original_name": "岡山県立大学"
+    },
+    {
+        "chinese_name": "广岛市立大学",
+        "original_name": "広島市立大学"
+    },
+    {
+        "chinese_name": "高知县立大学",
+        "original_name": "高知県立大学"
+    },
+    {
+        "chinese_name": "高知工科大学",
+        "original_name": "高知工科大学"
+    },
+    {
+        "chinese_name": "宫崎公立大学",
+        "original_name": "宮崎公立大学"
+    },
+    {
+        "chinese_name": "宫城教育大学",
+        "original_name": "宮城教育大学"
+    },
+    {
+        "chinese_name": "高松大学",
+        "original_name": "高松大学"
+    },
+    {
+        "chinese_name": "冈山大学",
+        "original_name": "岡山大学"
+    },
+    {
+        "chinese_name": "横滨国立大学",
+        "original_name": "横浜国立大学"
+    },
+    {
+        "chinese_name": "好莱坞大学院大学",
+        "original_name": "ハリウッド大学院大学"
+    },
+    {
+        "chinese_name": "和歌山工业高等专门学校",
+        "original_name": "和歌山工業高等専門学校"
+    },
+    {
+        "chinese_name": "HAL名古屋专门学校",
+        "original_name": "HAL名古屋"
+    },
+    {
+        "chinese_name": "横滨设计学院",
+        "original_name": "横浜デザイン学院"
+    },
+    {
+        "chinese_name": "函馆工业高等专门学校",
+        "original_name": "函館工業高等専門学校"
+    },
+    {
+        "chinese_name": "HIKO MIZUNO珠宝首饰设计专门学校",
+        "original_name": "専門学校ヒコ・みづのジュエリーカレッジ"
+    },
+    {
+        "chinese_name": "横滨系统工学院专门学校",
+        "original_name": "横浜システム工学院専門学校"
+    },
+    {
+        "chinese_name": "惠泉女学园大学",
+        "original_name": "恵泉女学園大学"
+    },
+    {
+        "chinese_name": "横滨日建工科专门学校",
+        "original_name": "横浜日建工科専門学校"
+    },
+    {
+        "chinese_name": "和光大学",
+        "original_name": "和光大学"
+    },
+    {
+        "chinese_name": "鹤见大学",
+        "original_name": "鶴見大学"
+    },
+    {
+        "chinese_name": "横滨商科大学",
+        "original_name": "横浜商科大学"
+    },
+    {
+        "chinese_name": "横滨美术大学",
+        "original_name": "横浜美術大学"
+    },
+    {
+        "chinese_name": "和歌山县立医科大学",
+        "original_name": "和歌山県立医科大学"
+    },
+    {
+        "chinese_name": "好莱坞美容专门学校",
+        "original_name": "ハリウッド美容専門学校"
+    },
+    {
+        "chinese_name": "横滨经理专门学校",
+        "original_name": "横浜経理専門学校"
+    },
+    {
+        "chinese_name": "HAL大阪专门学校",
+        "original_name": "HAL大阪"
+    },
+    {
+        "chinese_name": "HAL东京专门学校",
+        "original_name": "HAL東京"
+    },
+    {
+        "chinese_name": "横滨市立大学",
+        "original_name": "横浜市立大学"
+    },
+    {
+        "chinese_name": "函馆大学",
+        "original_name": "函館大学"
+    },
+    {
+        "chinese_name": "皇学馆大学",
+        "original_name": "皇學館大学"
+    },
+    {
+        "chinese_name": "花园大学",
+        "original_name": "花園大学"
+    },
+    {
+        "chinese_name": "活水女子大学",
+        "original_name": "活水女子大学"
+    },
+    {
+        "chinese_name": "和歌山YMCA国际福祉专门学校",
+        "original_name": "和歌山YMCA国際福祉専門学校"
+    },
+    {
+        "chinese_name": "和歌山大学",
+        "original_name": "和歌山大学"
+    },
+    {
+        "chinese_name": "华学园营养专门学校",
+        "original_name": "華学園栄養専門学校"
+    },
+    {
+        "chinese_name": "环太平洋大学",
+        "original_name": "環太平洋大学"
+    },
+    {
+        "chinese_name": "横滨YMCA学院专门学校",
+        "original_name": "横浜YMCA学院専門学校"
+    },
+    {
+        "chinese_name": "会津大学",
+        "original_name": "会津大学"
+    },
+    {
+        "chinese_name": "弘前学院大学",
+        "original_name": "弘前学院大学"
+    },
+    {
+        "chinese_name": "和洋女子大学",
+        "original_name": "和洋女子大学"
+    },
+    {
+        "chinese_name": "弘前大学",
+        "original_name": "弘前大学"
+    },
+    {
+        "chinese_name": "IGL医疗福祉专门学校",
+        "original_name": "IGL医療福祉専門学校"
+    },
+    {
+        "chinese_name": "ICS艺术学院专门学校",
+        "original_name": "専門学校ICSカレッジオブアーツ"
+    },
+    {
+        "chinese_name": "就实大学",
+        "original_name": "就実大学"
+    },
+    {
+        "chinese_name": "静冈英和学院大学短期大学部",
+        "original_name": "静岡英和学院大学短期大学部"
+    },
+    {
+        "chinese_name": "吉田学园情报商务专门学校",
+        "original_name": "吉田学園情報ビジネス専門学校"
+    },
+    {
+        "chinese_name": "京都传统工艺大学校",
+        "original_name": "京都伝統工芸大学校"
+    },
+    {
+        "chinese_name": "静冈设计专门学校",
+        "original_name": "静岡デザイン専門学校"
+    },
+    {
+        "chinese_name": "静冈国际航空专门学校",
+        "original_name": "静岡インターナショナル・エア・リゾート専門学校"
+    },
+    {
+        "chinese_name": "金泽美术工艺大学",
+        "original_name": "金沢美術工芸大学"
+    },
+    {
+        "chinese_name": "静冈文化艺术大学",
+        "original_name": "静岡文化芸術大学"
+    },
+    {
+        "chinese_name": "津田塾大学",
+        "original_name": "津田塾大学"
+    },
+    {
+        "chinese_name": "江户川大学",
+        "original_name": "江戸川大学"
+    },
+    {
+        "chinese_name": "敬爱大学",
+        "original_name": "敬愛大学"
+    },
+    {
+        "chinese_name": "嘉悦大学",
+        "original_name": "嘉悦大学"
+    },
+    {
+        "chinese_name": "驹泽大学",
+        "original_name": "駒澤大学"
+    },
+    {
+        "chinese_name": "静冈英和学院大学",
+        "original_name": "静岡英和学院大学"
+    },
+    {
+        "chinese_name": "静冈产业大学",
+        "original_name": "静岡産業大学"
+    },
+    {
+        "chinese_name": "静冈福祉大学",
+        "original_name": "静岡福祉大学"
+    },
+    {
+        "chinese_name": "静冈理工科大学",
+        "original_name": "静岡理工科大学"
+    },
+    {
+        "chinese_name": "吉备国际大学",
+        "original_name": "吉備国際大学"
+    },
+    {
+        "chinese_name": "九州共立大学",
+        "original_name": "九州共立大学"
+    },
+    {
+        "chinese_name": "九州国际大学",
+        "original_name": "九州国際大学"
+    },
+    {
+        "chinese_name": "九州产业大学",
+        "original_name": "九州産業大学"
+    },
+    {
+        "chinese_name": "九州情报大学",
+        "original_name": "九州情報大学"
+    },
+    {
+        "chinese_name": "九州女子大学",
+        "original_name": "九州女子大学"
+    },
+    {
+        "chinese_name": "久留米大学",
+        "original_name": "久留米大学"
+    },
+    {
+        "chinese_name": "甲南大学",
+        "original_name": "甲南大学"
+    },
+    {
+        "chinese_name": "京都光华女子大学短期大学部",
+        "original_name": "京都光華女子大学短期大学部"
+    },
+    {
+        "chinese_name": "京都计算机学院洛北校",
+        "original_name": "京都コンピュータ学院洛北校"
+    },
+    {
+        "chinese_name": "京都产业大学",
+        "original_name": "京都産業大学"
+    },
+    {
+        "chinese_name": "姬路情报系统专门学校",
+        "original_name": "姫路情報システム専門学校"
+    },
+    {
+        "chinese_name": "静冈产业技术专门学校",
+        "original_name": "静岡産業技術専門学校"
+    },
+    {
+        "chinese_name": "就实短期大学",
+        "original_name": "就実短期大学"
+    },
+    {
+        "chinese_name": "京都美术工艺大学",
+        "original_name": "京都美術工芸大学"
+    },
+    {
+        "chinese_name": "久留米工业大学",
+        "original_name": "久留米工業大学"
+    },
+    {
+        "chinese_name": "九州看护福祉大学",
+        "original_name": "九州看護福祉大学"
+    },
+    {
+        "chinese_name": "九州保健福祉大学",
+        "original_name": "九州保健福祉大学"
+    },
+    {
+        "chinese_name": "京都医健专门学院",
+        "original_name": "京都医健専門学校"
+    },
+    {
+        "chinese_name": "金泽大学",
+        "original_name": "金沢大学"
+    },
+    {
+        "chinese_name": "静冈大学",
+        "original_name": "静岡大学"
+    },
+    {
+        "chinese_name": "京都大学",
+        "original_name": "京都大学"
+    },
+    {
+        "chinese_name": "京都工艺纤维大学",
+        "original_name": "京都工芸繊維大学"
+    },
+    {
+        "chinese_name": "近畿大学",
+        "original_name": "近畿大学"
+    },
+    {
+        "chinese_name": "敬和学园大学",
+        "original_name": "敬和学園大学"
+    },
+    {
+        "chinese_name": "金泽医科大学",
+        "original_name": "金沢医科大学"
+    },
+    {
+        "chinese_name": "金泽工业大学",
+        "original_name": "金沢工業大学"
+    },
+    {
+        "chinese_name": "金泽星稜大学",
+        "original_name": "金沢星稜大学"
+    },
+    {
+        "chinese_name": "金城大学",
+        "original_name": "金城大学"
+    },
+    {
+        "chinese_name": "甲子园大学",
+        "original_name": "甲子園大学"
+    },
+    {
+        "chinese_name": "甲南女子大学",
+        "original_name": "甲南女子大学"
+    },
+    {
+        "chinese_name": "姫路独协大学",
+        "original_name": "姫路獨協大学"
+    },
+    {
+        "chinese_name": "京都市立艺术大学",
+        "original_name": "京都市立芸術大学"
+    },
+    {
+        "chinese_name": "京都府立大学",
+        "original_name": "京都府立大学"
+    },
+    {
+        "chinese_name": "京都府立医科大学",
+        "original_name": "京都府立医科大学"
+    },
+    {
+        "chinese_name": "京都艺术设计专门学校",
+        "original_name": "京都芸術デザイン専門学校"
+    },
+    {
+        "chinese_name": "今治明德短期大学",
+        "original_name": "今治明徳短期大学"
+    },
+    {
+        "chinese_name": "京都外国语专门学校",
+        "original_name": "京都外国語専門学校"
+    },
+    {
+        "chinese_name": "京都艺术大学",
+        "original_name": "京都芸術大学"
+    },
+    {
+        "chinese_name": "金城大学短期大学部",
+        "original_name": "金城大学短期大学部"
+    },
+    {
+        "chinese_name": "京都先端科学大学",
+        "original_name": "京都先端科学大学"
+    },
+    {
+        "chinese_name": "计算机教育学院专门学校",
+        "original_name": "専門学校コンピュータ教育学院"
+    },
+    {
+        "chinese_name": "骏台旅游与酒店专门学校",
+        "original_name": "駿台トラベル＆ホテル専門学校"
+    },
+    {
+        "chinese_name": "京都西山短期大学",
+        "original_name": "京都西山短期大学"
+    },
+    {
+        "chinese_name": "骏台电子情报与商科专门学校",
+        "original_name": "駿台電子情報アンドビジネス専門学校"
+    },
+    {
+        "chinese_name": "驹泽女子大学",
+        "original_name": "駒沢女子大学"
+    },
+    {
+        "chinese_name": "京都药科大学",
+        "original_name": "京都薬科大学"
+    },
+    {
+        "chinese_name": "骏台观光与外语商务专门学校",
+        "original_name": "駿台観光アンド外語ビジネス専門学校"
+    },
+    {
+        "chinese_name": "京都计算机学院鸭川校",
+        "original_name": "京都コンピュータ学院鴨川校"
+    },
+    {
+        "chinese_name": "静冈县立大学",
+        "original_name": "静岡県立大学"
+    },
+    {
+        "chinese_name": "京都经济短期大学",
+        "original_name": "京都経済短期大学"
+    },
+    {
+        "chinese_name": "京都计算机学院京都站前校区",
+        "original_name": "京都コンピュータ学院京都駅前校"
+    },
+    {
+        "chinese_name": "九州大学",
+        "original_name": "九州大学"
+    },
+    {
+        "chinese_name": "九州工业大学",
+        "original_name": "九州工業大学"
+    },
+    {
+        "chinese_name": "迹见学园女子大学",
+        "original_name": "跡見学園女子大学"
+    },
+    {
+        "chinese_name": "骏河台大学",
+        "original_name": "駿河台大学"
+    },
+    {
+        "chinese_name": "金城学院大学",
+        "original_name": "金城学院大学"
+    },
+    {
+        "chinese_name": "京都外国语大学",
+        "original_name": "京都外国語大学"
+    },
+    {
+        "chinese_name": "京都看护大学",
+        "original_name": "京都看護大学"
+    },
+    {
+        "chinese_name": "京都光华女子大学",
+        "original_name": "京都光華女子大学"
+    },
+    {
+        "chinese_name": "京都情报大学院大学",
+        "original_name": "京都情報大学院大学"
+    },
+    {
+        "chinese_name": "京都女子大学",
+        "original_name": "京都女子大学"
+    },
+    {
+        "chinese_name": "京都精华大学",
+        "original_name": "京都精華大学"
+    },
+    {
+        "chinese_name": "京都橘大学",
+        "original_name": "京都橘大学"
+    },
+    {
+        "chinese_name": "京都圣母院女子大学",
+        "original_name": "京都ノートルダム女子大学"
+    },
+    {
+        "chinese_name": "京都文教大学",
+        "original_name": "京都文教大学"
+    },
+    {
+        "chinese_name": "九州路德学院大学",
+        "original_name": "九州ルーテル学院大学"
+    },
+    {
+        "chinese_name": "京都教育大学",
+        "original_name": "京都教育大学"
+    },
+    {
+        "chinese_name": "九州英数学馆专门学校",
+        "original_name": "専門学校九州英数学舘"
+    },
+    {
+        "chinese_name": "京都营养医疗专门学校",
+        "original_name": "京都栄養医療専門学校"
+    },
+    {
+        "chinese_name": "九州产业大学造型短期大学部",
+        "original_name": "九州産業大学造形短期大学部"
+    },
+    {
+        "chinese_name": "开智国际大学",
+        "original_name": "開智国際大学"
+    },
+    {
+        "chinese_name": "开志专门职大学",
+        "original_name": "開志専門職大学"
+    },
+    {
+        "chinese_name": "流通科学大学",
+        "original_name": "流通科学大学"
+    },
+    {
+        "chinese_name": "铃鹿大学",
+        "original_name": "鈴鹿大学"
+    },
+    {
+        "chinese_name": "里千家学园茶道专门学校",
+        "original_name": "裏千家学園茶道専門学校"
+    },
+    {
+        "chinese_name": "立教大学",
+        "original_name": "立教大学"
+    },
+    {
+        "chinese_name": "立正大学",
+        "original_name": "立正大学"
+    },
+    {
+        "chinese_name": "路德学院大学",
+        "original_name": "ルーテル学院大学"
+    },
+    {
+        "chinese_name": "芦屋大学",
+        "original_name": "芦屋大学"
+    },
+    {
+        "chinese_name": "鹿儿岛国际大学",
+        "original_name": "鹿児島国際大学"
+    },
+    {
+        "chinese_name": "鹿儿岛大学",
+        "original_name": "鹿児島大学"
+    },
+    {
+        "chinese_name": "鹿屋体育大学",
+        "original_name": "鹿屋体育大学"
+    },
+    {
+        "chinese_name": "琉球大学",
+        "original_name": "琉球大学"
+    },
+    {
+        "chinese_name": "流通经济大学",
+        "original_name": "流通経済大学"
+    },
+    {
+        "chinese_name": "铃鹿医疗科学大学",
+        "original_name": "鈴鹿医療科学大学"
+    },
+    {
+        "chinese_name": "龙谷大学",
+        "original_name": "龍谷大学"
+    },
+    {
+        "chinese_name": "立命馆亚洲太平洋大学",
+        "original_name": "立命館アジア太平洋大学"
+    },
+    {
+        "chinese_name": "立命馆大学",
+        "original_name": "立命館大学"
+    },
+    {
+        "chinese_name": "酪农学园大学",
+        "original_name": "酪農学園大学"
+    },
+    {
+        "chinese_name": "丽泽大学",
+        "original_name": "麗澤大学"
+    },
+    {
+        "chinese_name": "明治学院大学",
+        "original_name": "明治学院大学"
+    },
+    {
+        "chinese_name": "明治药科大学",
+        "original_name": "明治薬科大学"
+    },
+    {
+        "chinese_name": "明星大学",
+        "original_name": "明星大学"
+    },
+    {
+        "chinese_name": "目白大学",
+        "original_name": "目白大学"
+    },
+    {
+        "chinese_name": "米子工业高等专门学校",
+        "original_name": "米子工業高等専門学校"
+    },
+    {
+        "chinese_name": "名古屋女子大学短期大学部",
+        "original_name": "名古屋女子大学短期大学部"
+    },
+    {
+        "chinese_name": "名古屋工学院专门学校",
+        "original_name": "名古屋工学院専門学校"
+    },
+    {
+        "chinese_name": "名古屋辻学园烹饪专门学校",
+        "original_name": "名古屋辻学園調理専門学校"
+    },
+    {
+        "chinese_name": "名古屋医专",
+        "original_name": "名古屋医専"
+    },
+    {
+        "chinese_name": "麻生流行文化专门学校",
+        "original_name": "ASOポップカルチャー専門学校"
+    },
+    {
+        "chinese_name": "名古屋工业大学",
+        "original_name": "名古屋工業大学"
+    },
+    {
+        "chinese_name": "梅花女子大学",
+        "original_name": "梅花女子大学"
+    },
+    {
+        "chinese_name": "名古屋市立大学",
+        "original_name": "名古屋市立大学"
+    },
+    {
+        "chinese_name": "麻生信息商务专门学校",
+        "original_name": "麻生情報ビジネス専門学校"
+    },
+    {
+        "chinese_name": "名古屋MODE学园专门学校",
+        "original_name": "名古屋モード学園"
+    },
+    {
+        "chinese_name": "名古屋经营会计专门学校",
+        "original_name": "名古屋経営会計専門学校"
+    },
+    {
+        "chinese_name": "名古屋造型大学",
+        "original_name": "名古屋造形大学"
+    },
+    {
+        "chinese_name": "麻布大学",
+        "original_name": "麻布大学"
+    },
+    {
+        "chinese_name": "目白大学短期大学部",
+        "original_name": "目白大学短期大学部"
+    },
+    {
+        "chinese_name": "名古屋经营短期大学",
+        "original_name": "名古屋経営短期大学"
+    },
+    {
+        "chinese_name": "名古屋音乐大学",
+        "original_name": "名古屋音楽大学"
+    },
+    {
+        "chinese_name": "名古屋外国语大学",
+        "original_name": "名古屋外国語大学"
+    },
+    {
+        "chinese_name": "名古屋学院大学",
+        "original_name": "名古屋学院大学"
+    },
+    {
+        "chinese_name": "名古屋经济大学",
+        "original_name": "名古屋経済大学"
+    },
+    {
+        "chinese_name": "名古屋艺术大学",
+        "original_name": "名古屋芸術大学"
+    },
+    {
+        "chinese_name": "名古屋产业大学",
+        "original_name": "名古屋産業大学"
+    },
+    {
+        "chinese_name": "名古屋商科大学",
+        "original_name": "名古屋商科大学"
+    },
+    {
+        "chinese_name": "名城大学",
+        "original_name": "名城大学"
+    },
+    {
+        "chinese_name": "名古屋大学",
+        "original_name": "名古屋大学"
+    },
+    {
+        "chinese_name": "米山时装经贸专门学校",
+        "original_name": "米山ファッション・ビジネス専門学校"
+    },
+    {
+        "chinese_name": "蜜丝芭莉美容专门学校",
+        "original_name": "ミス・パリ・ビューティ専門学校"
+    },
+    {
+        "chinese_name": "目白时尚艺术学院",
+        "original_name": "目白ファッション＆アートカレッジ"
+    },
+    {
+        "chinese_name": "名古屋动物专门学校",
+        "original_name": "名古屋動物専門学校"
+    },
+    {
+        "chinese_name": "名古屋设计与科技专门学校",
+        "original_name": "名古屋デザイン＆テクノロジー専門学校"
+    },
+    {
+        "chinese_name": "明治大学",
+        "original_name": "明治大学"
+    },
+    {
+        "chinese_name": "明海大学",
+        "original_name": "明海大学"
+    },
+    {
+        "chinese_name": "名樱大学",
+        "original_name": "名桜大学"
+    },
+    {
+        "chinese_name": "梅光学院大学",
+        "original_name": "梅光学院大学"
+    },
+    {
+        "chinese_name": "鸣门教育大学",
+        "original_name": "鳴門教育大学"
+    },
+    {
+        "chinese_name": "女子美术大学短期大学部",
+        "original_name": "女子美術大学短期大学部"
+    },
+    {
+        "chinese_name": "NIPPON待客服务专门学校",
+        "original_name": "NIPPONおもてなし専門学校"
+    },
+    {
+        "chinese_name": "奈良县立医科大学",
+        "original_name": "奈良県立医科大学"
+    },
+    {
+        "chinese_name": "奈良计算机专门学校",
+        "original_name": "奈良コンピュータ専門学校"
+    },
+    {
+        "chinese_name": "奈良先端科学技术大学院大学",
+        "original_name": "奈良先端科学技術大学院大学"
+    },
+    {
+        "chinese_name": "女子营养大学",
+        "original_name": "女子栄養大学"
+    },
+    {
+        "chinese_name": "南山大学",
+        "original_name": "南山大学"
+    },
+    {
+        "chinese_name": "南九州大学",
+        "original_name": "南九州大学"
+    },
+    {
+        "chinese_name": "女子美术大学",
+        "original_name": "女子美術大学"
+    },
+    {
+        "chinese_name": "奈良大学",
+        "original_name": "奈良大学"
+    },
+    {
+        "chinese_name": "奈良教育大学",
+        "original_name": "奈良教育大学"
+    },
+    {
+        "chinese_name": "奈良女子大学",
+        "original_name": "奈良女子大学"
+    },
+    {
+        "chinese_name": "鸟取大学",
+        "original_name": "鳥取大学"
+    },
+    {
+        "chinese_name": "ORION信息技术专门学校",
+        "original_name": "オリオンIT専門学校"
+    },
+    {
+        "chinese_name": "OCA大阪设计与技术专门学校",
+        "original_name": "OCA大阪デザイン＆テクノロジー専門学校"
+    },
+    {
+        "chinese_name": "Prospera学院商务专门学校",
+        "original_name": "プロスペラ学院ビジネス専門学校"
+    },
+    {
+        "chinese_name": "浦和大学",
+        "original_name": "浦和大学"
+    },
+    {
+        "chinese_name": "平成音乐大学",
+        "original_name": "平成音楽大学"
+    },
+    {
+        "chinese_name": "平安女学院大学",
+        "original_name": "平安女学院大学"
+    },
+    {
+        "chinese_name": "浦和专门学校",
+        "original_name": "浦和専門学校"
+    },
+    {
+        "chinese_name": "岐阜协立大学",
+        "original_name": "岐阜協立大学"
+    },
+    {
+        "chinese_name": "群马PAZ大学福祉专门学校",
+        "original_name": "群馬パース大学福祉専門学校"
+    },
+    {
+        "chinese_name": "群马医疗福祉大学",
+        "original_name": "群馬医療福祉大学"
+    },
+    {
+        "chinese_name": "埼玉汽车大学校",
+        "original_name": "埼玉自動車大学校"
+    },
+    {
+        "chinese_name": "情报安全大学院大学",
+        "original_name": "情報セキュリティ大学院大学"
+    },
+    {
+        "chinese_name": "岐阜女子大学",
+        "original_name": "岐阜女子大学"
+    },
+    {
+        "chinese_name": "千叶日建工科专门学校",
+        "original_name": "千葉日建工科専門学校"
+    },
+    {
+        "chinese_name": "青山制图专门学校",
+        "original_name": "青山製図専門学校"
+    },
+    {
+        "chinese_name": "清泉女子大学",
+        "original_name": "清泉女子大学"
+    },
+    {
+        "chinese_name": "秋田县立大学",
+        "original_name": "秋田県立大学"
+    },
+    {
+        "chinese_name": "清风情报工科学院",
+        "original_name": "清風情報工科学院"
+    },
+    {
+        "chinese_name": "千叶大学",
+        "original_name": "千葉大学"
+    },
+    {
+        "chinese_name": "埼玉女子短期大学",
+        "original_name": "埼玉女子短期大学"
+    },
+    {
+        "chinese_name": "埼玉学园大学",
+        "original_name": "埼玉学園大学"
+    },
+    {
+        "chinese_name": "埼玉工业大学",
+        "original_name": "埼玉工業大学"
+    },
+    {
+        "chinese_name": "青森明之星短期大学",
+        "original_name": "青森明の星短期大学"
+    },
+    {
+        "chinese_name": "岐阜大学",
+        "original_name": "岐阜大学"
+    },
+    {
+        "chinese_name": "秋田公立美术大学",
+        "original_name": "秋田公立美術大学"
+    },
+    {
+        "chinese_name": "群马县立女子大学",
+        "original_name": "群馬県立女子大学"
+    },
+    {
+        "chinese_name": "前桥工科大学",
+        "original_name": "前橋工科大学"
+    },
+    {
+        "chinese_name": "岐阜药科大学",
+        "original_name": "岐阜薬科大学"
+    },
+    {
+        "chinese_name": "情报科学艺术大学院大学",
+        "original_name": "情報科学芸術大学院大学"
+    },
+    {
+        "chinese_name": "青森大学",
+        "original_name": "青森大学"
+    },
+    {
+        "chinese_name": "青森中央学院大学",
+        "original_name": "青森中央学院大学"
+    },
+    {
+        "chinese_name": "千叶科学大学",
+        "original_name": "千葉科学大学"
+    },
+    {
+        "chinese_name": "千叶工业大学",
+        "original_name": "千葉工業大学"
+    },
+    {
+        "chinese_name": "千叶商科大学",
+        "original_name": "千葉商科大学"
+    },
+    {
+        "chinese_name": "青山学院大学",
+        "original_name": "青山学院大学"
+    },
+    {
+        "chinese_name": "庆应义塾大学",
+        "original_name": "慶應義塾大学"
+    },
+    {
+        "chinese_name": "岐阜圣德学园大学",
+        "original_name": "岐阜聖徳学園大学"
+    },
+    {
+        "chinese_name": "秋田大学",
+        "original_name": "秋田大学"
+    },
+    {
+        "chinese_name": "群马大学",
+        "original_name": "群馬大学"
+    },
+    {
+        "chinese_name": "埼玉大学",
+        "original_name": "埼玉大学"
+    },
+    {
+        "chinese_name": "日本大学",
+        "original_name": "日本大学"
+    },
+    {
+        "chinese_name": "日本设计福祉专门学校",
+        "original_name": "日本デザイン福祉専門学校"
+    },
+    {
+        "chinese_name": "日本航空大学校",
+        "original_name": "日本航空大学校"
+    },
+    {
+        "chinese_name": "日本国际学园大学",
+        "original_name": "日本国際学園大学"
+    },
+    {
+        "chinese_name": "日本工业大学",
+        "original_name": "日本工業大学"
+    },
+    {
+        "chinese_name": "日本药科大学",
+        "original_name": "日本薬科大学"
+    },
+    {
+        "chinese_name": "日本映画大学",
+        "original_name": "日本映画大学"
+    },
+    {
+        "chinese_name": "日本产业专门学校",
+        "original_name": "日本産業専門学校"
+    },
+    {
+        "chinese_name": "日本医疗商务专门学校",
+        "original_name": "日本医療ビジネス大学校"
+    },
+    {
+        "chinese_name": "日本动漫与漫画专门学校",
+        "original_name": "日本アニメ・マンガ専門学校"
+    },
+    {
+        "chinese_name": "日本儿童教育专门学校",
+        "original_name": "日本児童教育専門学校"
+    },
+    {
+        "chinese_name": "日本电子专门学校",
+        "original_name": "日本電子専門学校"
+    },
+    {
+        "chinese_name": "日本工学院八王子专门学校",
+        "original_name": "日本工学院八王子専門学校"
+    },
+    {
+        "chinese_name": "日本工学院专门学校",
+        "original_name": "日本工学院専門学校"
+    },
+    {
+        "chinese_name": "日本健康医疗专门学校",
+        "original_name": "日本健康医療専門学校"
+    },
+    {
+        "chinese_name": "日本理工情报专门学校",
+        "original_name": "日本理工情報専門学校"
+    },
+    {
+        "chinese_name": "日本外国语专门学校",
+        "original_name": "日本外国語専門学校"
+    },
+    {
+        "chinese_name": "日商簿记三鹰福祉专门学校",
+        "original_name": "日商簿記三鷹福祉専門学校"
+    },
+    {
+        "chinese_name": "日中文化艺术专门学校",
+        "original_name": "日中文化芸術専門学校"
+    },
+    {
+        "chinese_name": "日本健康体育专门学校",
+        "original_name": "日本ウェルネススポーツ専門学校"
+    },
+    {
+        "chinese_name": "日本酒店专门学校",
+        "original_name": "専門学校日本ホテルスクール"
+    },
+    {
+        "chinese_name": "日产枥木自动车大学校",
+        "original_name": "日産栃木自動車大学校"
+    },
+    {
+        "chinese_name": "日本设计师学院专门学校",
+        "original_name": "専門学校日本デザイナー学院"
+    },
+    {
+        "chinese_name": "日本写真艺术专门学校",
+        "original_name": "日本写真芸術専門学校"
+    },
+    {
+        "chinese_name": "日本国际IT学院专门学校",
+        "original_name": "専門学校ニホン国際ITカレッジ"
+    },
+    {
+        "chinese_name": "日本医科学专门学校",
+        "original_name": "専門学校日本医科学大学校"
+    },
+    {
+        "chinese_name": "日本计算机专门学校",
+        "original_name": "日本コンピュータ専門学校"
+    },
+    {
+        "chinese_name": "日本福祉大学",
+        "original_name": "日本福祉大学"
+    },
+    {
+        "chinese_name": "人类环境大学",
+        "original_name": "人間環境大学"
+    },
+    {
+        "chinese_name": "日本文理大学",
+        "original_name": "日本文理大学"
+    },
+    {
+        "chinese_name": "日本综合医疗专门学校",
+        "original_name": "日本総合医療専門学校"
+    },
+    {
+        "chinese_name": "日本福祉大学中央福祉专门学校",
+        "original_name": "日本福祉大学中央福祉専門学校"
+    },
+    {
+        "chinese_name": "日本糕点专门学校",
+        "original_name": "日本菓子専門学校"
+    },
+    {
+        "chinese_name": "日本医疗福祉专门学校",
+        "original_name": "日本メディカル福祉専門学校"
+    },
+    {
+        "chinese_name": "日本福祉教育专门学校",
+        "original_name": "日本福祉教育専門学校"
+    },
+    {
+        "chinese_name": "日本大学短期大学部",
+        "original_name": "日本大学短期大学部"
+    },
+    {
+        "chinese_name": "日本国际工科专门学校",
+        "original_name": "日本国際工科専門学校"
+    },
+    {
+        "chinese_name": "日产京都汽车专门学校",
+        "original_name": "専門学校日産京都自動車大学校"
+    },
+    {
+        "chinese_name": "日本医科大学",
+        "original_name": "日本医科大学"
+    },
+    {
+        "chinese_name": "日本社会事业大学",
+        "original_name": "日本社会事業大学"
+    },
+    {
+        "chinese_name": "日本兽医生命科学大学",
+        "original_name": "日本獣医生命科学大学"
+    },
+    {
+        "chinese_name": "日本女子大学",
+        "original_name": "日本女子大学"
+    },
+    {
+        "chinese_name": "日本体育大学",
+        "original_name": "日本体育大学"
+    },
+    {
+        "chinese_name": "日本经济大学",
+        "original_name": "日本経済大学"
+    },
+    {
+        "chinese_name": "神田外语大学",
+        "original_name": "神田外語大学"
+    },
+    {
+        "chinese_name": "淑德大学",
+        "original_name": "淑徳大学"
+    },
+    {
+        "chinese_name": "圣德大学",
+        "original_name": "聖徳大学"
+    },
+    {
+        "chinese_name": "松荫大学",
+        "original_name": "松蔭大学"
+    },
+    {
+        "chinese_name": "上野学园大学",
+        "original_name": "上野学園大学"
+    },
+    {
+        "chinese_name": "顺天堂大学",
+        "original_name": "順天堂大学"
+    },
+    {
+        "chinese_name": "上智大学",
+        "original_name": "上智大学"
+    },
+    {
+        "chinese_name": "杉野服饰大学",
+        "original_name": "杉野服飾大学"
+    },
+    {
+        "chinese_name": "圣心女子大学",
+        "original_name": "聖心女子大学"
+    },
+    {
+        "chinese_name": "圣隶克里斯托弗大学",
+        "original_name": "聖隷クリストファー大学"
+    },
+    {
+        "chinese_name": "山阳学园大学",
+        "original_name": "山陽学園大学"
+    },
+    {
+        "chinese_name": "山口县立大学",
+        "original_name": "山口県立大学"
+    },
+    {
+        "chinese_name": "室兰工业大学",
+        "original_name": "室蘭工業大学"
+    },
+    {
+        "chinese_name": "山形大学",
+        "original_name": "山形大学"
+    },
+    {
+        "chinese_name": "四国大学",
+        "original_name": "四国大学"
+    },
+    {
+        "chinese_name": "四国学院大学",
+        "original_name": "四国学院大学"
+    },
+    {
+        "chinese_name": "松山大学",
+        "original_name": "松山大学"
+    },
+    {
+        "chinese_name": "山口大学",
+        "original_name": "山口大学"
+    },
+    {
+        "chinese_name": "上越教育大学",
+        "original_name": "上越教育大学"
+    },
+    {
+        "chinese_name": "松山东云女子大学",
+        "original_name": "松山東雲女子大学"
+    },
+    {
+        "chinese_name": "石卷专修大学",
+        "original_name": "石巻専修大学"
+    },
+    {
+        "chinese_name": "山野美容专门学校",
+        "original_name": "山野美容専門学校"
+    },
+    {
+        "chinese_name": "山野美容艺术短期大学",
+        "original_name": "山野美容芸術短期大学"
+    },
+    {
+        "chinese_name": "圣路加国际大学",
+        "original_name": "聖路加国際大学"
+    },
+    {
+        "chinese_name": "辻厨师专门学校",
+        "original_name": "辻調理師専門学校"
+    },
+    {
+        "chinese_name": "十文字学园女子大学",
+        "original_name": "十文字学園女子大学"
+    },
+    {
+        "chinese_name": "桑泽设计研究所专门学校",
+        "original_name": "専門学校桑沢デザイン研究所"
+    },
+    {
+        "chinese_name": "神户海星女子学院大学",
+        "original_name": "神戸海星女子学院大学"
+    },
+    {
+        "chinese_name": "辻学园营养专门学校",
+        "original_name": "辻学園栄養専門学校"
+    },
+    {
+        "chinese_name": "松山学园松山福祉专门学校",
+        "original_name": "松山学園松山福祉専門学校"
+    },
+    {
+        "chinese_name": "三重大学",
+        "original_name": "三重大学"
+    },
+    {
+        "chinese_name": "神户大学",
+        "original_name": "神戸大学"
+    },
+    {
+        "chinese_name": "神奈川大学",
+        "original_name": "神奈川大学"
+    },
+    {
+        "chinese_name": "神奈川工科大学",
+        "original_name": "神奈川工科大学"
+    },
+    {
+        "chinese_name": "神奈川齿科大学",
+        "original_name": "神奈川歯科大学"
+    },
+    {
+        "chinese_name": "圣玛丽安医科大学",
+        "original_name": "聖マリアンナ医科大学"
+    },
+    {
+        "chinese_name": "事业创造大学院大学",
+        "original_name": "事業創造大学院大学"
+    },
+    {
+        "chinese_name": "山梨英和大学",
+        "original_name": "山梨英和大学"
+    },
+    {
+        "chinese_name": "山梨学院大学",
+        "original_name": "山梨学院大学"
+    },
+    {
+        "chinese_name": "松本大学",
+        "original_name": "松本大学"
+    },
+    {
+        "chinese_name": "四天王寺大学",
+        "original_name": "四天王寺大学"
+    },
+    {
+        "chinese_name": "摄南大学",
+        "original_name": "摂南大学"
+    },
+    {
+        "chinese_name": "神户学院大学",
+        "original_name": "神戸学院大学"
+    },
+    {
+        "chinese_name": "神户艺术工科大学",
+        "original_name": "神戸芸術工科大学"
+    },
+    {
+        "chinese_name": "神户国际大学",
+        "original_name": "神戸国際大学"
+    },
+    {
+        "chinese_name": "神户松荫女子学院大学",
+        "original_name": "神戸松蔭女子学院大学"
+    },
+    {
+        "chinese_name": "神户情报大学院大学",
+        "original_name": "神戸情報大学院大学"
+    },
+    {
+        "chinese_name": "神户市外国语大学",
+        "original_name": "神戸市外国語大学"
+    },
+    {
+        "chinese_name": "山阳女子短期大学",
+        "original_name": "山陽女子短期大学"
+    },
+    {
+        "chinese_name": "山梨大学",
+        "original_name": "山梨大学"
+    },
+    {
+        "chinese_name": "神奈川经济专门学校",
+        "original_name": "神奈川経済専門学校"
+    },
+    {
+        "chinese_name": "上田安子服饰专门学校",
+        "original_name": "上田安子服飾専門学校"
+    },
+    {
+        "chinese_name": "尚美音乐学院专门学校",
+        "original_name": "尚美ミュージックカレッジ専門学校"
+    },
+    {
+        "chinese_name": "神户电子专门学校",
+        "original_name": "神戸電子専門学校"
+    },
+    {
+        "chinese_name": "涩谷外国语专门学校",
+        "original_name": "渋谷外国語専門学校"
+    },
+    {
+        "chinese_name": "松本齿科大学",
+        "original_name": "松本歯科大学"
+    },
+    {
+        "chinese_name": "山阳小野田市立山口东京理科大学",
+        "original_name": "山陽小野田市立山口東京理科大学"
+    },
+    {
+        "chinese_name": "上野法科商务专门学校",
+        "original_name": "上野法科ビジネス専門学校"
+    },
+    {
+        "chinese_name": "上武大学",
+        "original_name": "上武大学"
+    },
+    {
+        "chinese_name": "尚美学园大学",
+        "original_name": "尚美学園大学"
+    },
+    {
+        "chinese_name": "圣学院大学",
+        "original_name": "聖学院大学"
+    },
+    {
+        "chinese_name": "椙山女学园大学",
+        "original_name": "椙山女学園大学"
+    },
+    {
+        "chinese_name": "四日市大学",
+        "original_name": "四日市大学"
+    },
+    {
+        "chinese_name": "圣泉大学",
+        "original_name": "聖泉大学"
+    },
+    {
+        "chinese_name": "山手料理糕点专门学校",
+        "original_name": "山手調理製菓専門学校"
+    },
+    {
+        "chinese_name": "圣玛丽外语专门学校",
+        "original_name": "セントメリー外語専門学校"
+    },
+    {
+        "chinese_name": "神田外语学院专门学校",
+        "original_name": "専門学校神田外語学院"
+    },
+    {
+        "chinese_name": "辻学园烹饪糕点专门学校",
+        "original_name": "辻学園調理・製菓専門学校"
+    },
+    {
+        "chinese_name": "山村学园短期大学",
+        "original_name": "山村学園短期大学"
+    },
+    {
+        "chinese_name": "四日市福祉专门学校",
+        "original_name": "四日市福祉専門学校"
+    },
+    {
+        "chinese_name": "神户亲和大学",
+        "original_name": "神戸親和大学"
+    },
+    {
+        "chinese_name": "水户日建工科专门学校",
+        "original_name": "水戸日建工科専門学校"
+    },
+    {
+        "chinese_name": "神户医疗未来大学",
+        "original_name": "神戸医療未来大学"
+    },
+    {
+        "chinese_name": "神户甲阳音乐与舞蹈专门学校",
+        "original_name": "神戸・甲陽音楽&ダンス専門学校"
+    },
+    {
+        "chinese_name": "山胁美术专门学校",
+        "original_name": "山脇美術専門学校"
+    },
+    {
+        "chinese_name": "神户糕点专门学校",
+        "original_name": "神戸製菓専門学校"
+    },
+    {
+        "chinese_name": "圣德大学短期大学部",
+        "original_name": "聖徳大学短期大学部"
+    },
+    {
+        "chinese_name": "首都医校",
+        "original_name": "首都医校"
+    },
+    {
+        "chinese_name": "神奈川县立保健福祉大学",
+        "original_name": "神奈川県立保健福祉大学"
+    },
+    {
+        "chinese_name": "山梨县立大学",
+        "original_name": "山梨県立大学"
+    },
+    {
+        "chinese_name": "尚絅学院大学",
+        "original_name": "尚絅学院大学"
+    },
+    {
+        "chinese_name": "数字好莱坞大学",
+        "original_name": "デジタルハリウッド大学"
+    },
+    {
+        "chinese_name": "藤田医科大学",
+        "original_name": "藤田医科大学"
+    },
+    {
+        "chinese_name": "桐荫横滨大学",
+        "original_name": "桐蔭横浜大学"
+    },
+    {
+        "chinese_name": "太成学院大学",
+        "original_name": "太成学院大学"
+    },
+    {
+        "chinese_name": "桃山学院大学",
+        "original_name": "桃山学院大学"
+    },
+    {
+        "chinese_name": "TRIDENT外语、酒店与婚礼专门学校",
+        "original_name": "トライデント外国語・ホテル・ブライダル専門学校"
+    },
+    {
+        "chinese_name": "拓殖大学北海道短期大学",
+        "original_name": "拓殖大学北海道短期大学"
+    },
+    {
+        "chinese_name": "同朋大学",
+        "original_name": "同朋大学"
+    },
+    {
+        "chinese_name": "同志社女子大学",
+        "original_name": "同志社女子大学"
+    },
+    {
+        "chinese_name": "桐朋学园大学",
+        "original_name": "桐朋学園大学"
+    },
+    {
+        "chinese_name": "拓殖大学",
+        "original_name": "拓殖大学"
+    },
+    {
+        "chinese_name": "同志社大学",
+        "original_name": "同志社大学"
+    },
+    {
+        "chinese_name": "天理大学",
+        "original_name": "天理大学"
+    },
+    {
+        "chinese_name": "武藏大学",
+        "original_name": "武蔵大学"
+    },
+    {
+        "chinese_name": "武藏野大学",
+        "original_name": "武蔵野大学"
+    },
+    {
+        "chinese_name": "武藏野美术大学",
+        "original_name": "武蔵野美術大学"
+    },
+    {
+        "chinese_name": "武藏丘短期大学",
+        "original_name": "武蔵丘短期大学"
+    },
+    {
+        "chinese_name": "外语商务专门学校",
+        "original_name": "外語ビジネス専門学校"
+    },
+    {
+        "chinese_name": "武藏野学艺专门学校",
+        "original_name": "武蔵野学芸専門学校"
+    },
+    {
+        "chinese_name": "武藏野学院大学",
+        "original_name": "武蔵野学院大学"
+    },
+    {
+        "chinese_name": "文化服装学院",
+        "original_name": "文化服装学院"
+    },
+    {
+        "chinese_name": "文化外国语专门学校",
+        "original_name": "文化外国語専門学校"
+    },
+    {
+        "chinese_name": "文教大学",
+        "original_name": "文教大学"
+    },
+    {
+        "chinese_name": "武藏野音乐大学",
+        "original_name": "武蔵野音楽大学"
+    },
+    {
+        "chinese_name": "文星艺术大学",
+        "original_name": "文星芸術大学"
+    },
+    {
+        "chinese_name": "WOC眼镜医疗技术专门学校",
+        "original_name": "専門学校ワールドオプティカルカレッジ"
+    },
+    {
+        "chinese_name": "丸之内商务专门学校",
+        "original_name": "丸の内ビジネス専門学校"
+    },
+    {
+        "chinese_name": "文化学园大学",
+        "original_name": "文化学園大学"
+    },
+    {
+        "chinese_name": "文化时尚大学院大学",
+        "original_name": "文化ファッション大学院大学"
+    },
+    {
+        "chinese_name": "文京学院大学",
+        "original_name": "文京学院大学"
+    },
+    {
+        "chinese_name": "尾道市立大学",
+        "original_name": "尾道市立大学"
+    },
+    {
+        "chinese_name": "新潟大学",
+        "original_name": "新潟大学"
+    },
+    {
+        "chinese_name": "星药科大学",
+        "original_name": "星薬科大学"
+    },
+    {
+        "chinese_name": "西日本工业大学",
+        "original_name": "西日本工業大学"
+    },
+    {
+        "chinese_name": "湘南工科大学",
+        "original_name": "湘南工科大学"
+    },
+    {
+        "chinese_name": "香兰女子短期大学",
+        "original_name": "香蘭女子短期大学"
+    },
+    {
+        "chinese_name": "秀林数字与语言专门学校",
+        "original_name": "専門学校デジタル＆ランゲージ秀林"
+    },
+    {
+        "chinese_name": "熊本YMCA学院",
+        "original_name": "熊本YMCA学院"
+    },
+    {
+        "chinese_name": "旭川市立大学",
+        "original_name": "旭川市立大学"
+    },
+    {
+        "chinese_name": "相模女子大学",
+        "original_name": "相模女子大学"
+    },
+    {
+        "chinese_name": "洗足学园音乐大学",
+        "original_name": "洗足学園音楽大学"
+    },
+    {
+        "chinese_name": "新潟经营大学",
+        "original_name": "新潟経営大学"
+    },
+    {
+        "chinese_name": "新潟工科大学",
+        "original_name": "新潟工科大学"
+    },
+    {
+        "chinese_name": "新潟产业大学",
+        "original_name": "新潟産業大学"
+    },
+    {
+        "chinese_name": "新潟青陵大学",
+        "original_name": "新潟青陵大学"
+    },
+    {
+        "chinese_name": "新潟食品农业大学",
+        "original_name": "新潟食料農業大学"
+    },
+    {
+        "chinese_name": "熊本工业专门学校",
+        "original_name": "熊本工業専門学校"
+    },
+    {
+        "chinese_name": "熊本学园大学",
+        "original_name": "熊本学園大学"
+    },
+    {
+        "chinese_name": "星槎道都大学",
+        "original_name": "星槎道都大学"
+    },
+    {
+        "chinese_name": "小诸看护专门学校",
+        "original_name": "小諸看護専門学校"
+    },
+    {
+        "chinese_name": "新潟康复大学",
+        "original_name": "新潟リハビリテーション大学"
+    },
+    {
+        "chinese_name": "秀明大学",
+        "original_name": "秀明大学"
+    },
+    {
+        "chinese_name": "西日本短期大学",
+        "original_name": "西日本短期大学"
+    },
+    {
+        "chinese_name": "修成建设专门学校",
+        "original_name": "修成建設専門学校"
+    },
+    {
+        "chinese_name": "新潟计算机专门学校",
+        "original_name": "新潟コンピュータ専門学校"
+    },
+    {
+        "chinese_name": "香川大学",
+        "original_name": "香川大学"
+    },
+    {
+        "chinese_name": "熊本大学",
+        "original_name": "熊本大学"
+    },
+    {
+        "chinese_name": "西武文理大学",
+        "original_name": "西武文理大学"
+    },
+    {
+        "chinese_name": "信州大学",
+        "original_name": "信州大学"
+    },
+    {
+        "chinese_name": "星城大学",
+        "original_name": "星城大学"
+    },
+    {
+        "chinese_name": "西九州大学",
+        "original_name": "西九州大学"
+    },
+    {
+        "chinese_name": "信息科学专门学校",
+        "original_name": "情報科学専門学校"
+    },
+    {
+        "chinese_name": "西神看护专门学校",
+        "original_name": "西神看護専門学校"
+    },
+    {
+        "chinese_name": "新东京齿科技工学校",
+        "original_name": "新東京歯科技工士学校"
+    },
+    {
+        "chinese_name": "信息经营创新专门职大学",
+        "original_name": "情報経営イノベーション専門職大学"
+    },
+    {
+        "chinese_name": "仙台数字艺术专门学校",
+        "original_name": "専門学校デジタルアーツ仙台"
+    },
+    {
+        "chinese_name": "穴吹西点福祉学院专门学校",
+        "original_name": "専門学校穴吹パティシエ福祉カレッジ"
+    },
+    {
+        "chinese_name": "新潟医疗福祉大学",
+        "original_name": "新潟医療福祉大学"
+    },
+    {
+        "chinese_name": "湘南医疗福祉专门学校",
+        "original_name": "湘南医療福祉専門学校"
+    },
+    {
+        "chinese_name": "香兰时尚设计专门学校",
+        "original_name": "香蘭ファッションデザイン専門学校"
+    },
+    {
+        "chinese_name": "相爱大学",
+        "original_name": "相愛大学"
+    },
+    {
+        "chinese_name": "心医疗福利专门学校",
+        "original_name": "こころ医療福祉専門学校"
+    },
+    {
+        "chinese_name": "仙台大学",
+        "original_name": "仙台大学"
+    },
+    {
+        "chinese_name": "学习院大学",
+        "original_name": "学習院大学"
+    },
+    {
+        "chinese_name": "学习院女子大学",
+        "original_name": "学習院女子大学"
+    },
+    {
+        "chinese_name": "杏林大学",
+        "original_name": "杏林大学"
+    },
+    {
+        "chinese_name": "县立广岛大学",
+        "original_name": "県立広島大学"
+    },
+    {
+        "chinese_name": "下关市立大学",
+        "original_name": "下関市立大学"
+    },
+    {
+        "chinese_name": "熊本县立大学",
+        "original_name": "熊本県立大学"
+    },
+    {
+        "chinese_name": "小樽商科大学",
+        "original_name": "小樽商科大学"
+    },
+    {
+        "chinese_name": "旭川医科大学",
+        "original_name": "旭川医科大学"
+    },
+    {
+        "chinese_name": "西南学院大学",
+        "original_name": "西南学院大学"
+    },
+    {
+        "chinese_name": "YIC看护福祉专门学校",
+        "original_name": "YIC看護福祉専門学校"
+    },
+    {
+        "chinese_name": "约克全球商务专门学校",
+        "original_name": "ヨークグローバルビジネスアカデミー専門学校"
+    },
+    {
+        "chinese_name": "宇都宫文星短期大学",
+        "original_name": "宇都宮文星短期大学"
+    },
+    {
+        "chinese_name": "YIC京都宠物综合专门学校",
+        "original_name": "YIC京都ペット総合専門学校"
+    },
+    {
+        "chinese_name": "园田学园女子大学",
+        "original_name": "園田学園女子大学"
+    },
+    {
+        "chinese_name": "玉川大学",
+        "original_name": "玉川大学"
+    },
+    {
+        "chinese_name": "翼路学园",
+        "original_name": "エール学園"
+    },
+    {
+        "chinese_name": "宇部工业高等专门学校",
+        "original_name": "宇部工業高等専門学校"
+    },
+    {
+        "chinese_name": "艺术学院神户专门学校",
+        "original_name": "専門学校アートカレッジ神戸"
+    },
+    {
+        "chinese_name": "音响艺术专门学校",
+        "original_name": "音響芸術専門学校"
+    },
+    {
+        "chinese_name": "伊丽莎白音乐大学",
+        "original_name": "エリザベト音楽大学"
+    },
+    {
+        "chinese_name": "羽衣国际大学",
+        "original_name": "羽衣国際大学"
+    },
+    {
+        "chinese_name": "宇都宫共和大学",
+        "original_name": "宇都宮共和大学"
+    },
+    {
+        "chinese_name": "樱花学园大学",
+        "original_name": "桜花学園大学"
+    },
+    {
+        "chinese_name": "岩手县立大学",
+        "original_name": "岩手県立大学"
+    },
+    {
+        "chinese_name": "阳光科技学院专门学校",
+        "original_name": "専門学校サンテクノカレッジ"
+    },
+    {
+        "chinese_name": "育英馆大学",
+        "original_name": "育英館大学"
+    },
+    {
+        "chinese_name": "一桥大学",
+        "original_name": "一橋大学"
+    },
+    {
+        "chinese_name": "御茶水女子大学",
+        "original_name": "お茶の水女子大学"
+    },
+    {
+        "chinese_name": "亚细亚大学",
+        "original_name": "亜細亜大学"
+    },
+    {
+        "chinese_name": "樱美林大学",
+        "original_name": "桜美林大学"
+    },
+    {
+        "chinese_name": "宇部开拓者大学",
+        "original_name": "宇部フロンティア大学"
+    },
+    {
+        "chinese_name": "岩手大学",
+        "original_name": "岩手大学"
+    },
+    {
+        "chinese_name": "宇都宫大学",
+        "original_name": "宇都宮大学"
+    },
+    {
+        "chinese_name": "滋庆医疗科学大学",
+        "original_name": "滋慶医療科学大学"
+    },
+    {
+        "chinese_name": "札幌大学",
+        "original_name": "札幌大学"
+    },
+    {
+        "chinese_name": "中村国际酒店专门学校",
+        "original_name": "中村国際ホテル専門学校"
+    },
+    {
+        "chinese_name": "札幌设计师学院专门学校",
+        "original_name": "専門学校札幌デザイナー学院"
+    },
+    {
+        "chinese_name": "专修大学",
+        "original_name": "専修大学"
+    },
+    {
+        "chinese_name": "长崎外国语大学",
+        "original_name": "長崎外国語大学"
+    },
+    {
+        "chinese_name": "中央情报经理专门学校",
+        "original_name": "中央情報経理専門学校"
+    },
+    {
+        "chinese_name": "专门学校丰田神户汽车大学校",
+        "original_name": "専門学校トヨタ神戸自動車大学校"
+    },
+    {
+        "chinese_name": "周南公立大学",
+        "original_name": "周南公立大学"
+    },
+    {
+        "chinese_name": "佐伯营养专门学校",
+        "original_name": "佐伯栄養専門学校"
+    },
+    {
+        "chinese_name": "镇西学院大学",
+        "original_name": "鎮西学院大学"
+    },
+    {
+        "chinese_name": "早稻田外语专门学校",
+        "original_name": "早稲田外語専門学校"
+    },
+    {
+        "chinese_name": "早稻田国际商务专门学校",
+        "original_name": "専門学校早稲田国際ビジネスカレッジ"
+    },
+    {
+        "chinese_name": "专门学校东京工科汽车大学校世田谷校区",
+        "original_name": "専門学校東京工科自動車大学校世田谷校"
+    },
+    {
+        "chinese_name": "专门学校YIC京都工科汽车大学校",
+        "original_name": "＜専＞YIC京都工科自動車大学校"
+    },
+    {
+        "chinese_name": "长冈造型大学",
+        "original_name": "長岡造形大学"
+    },
+    {
+        "chinese_name": "长野县看护大学",
+        "original_name": "長野県看護大学"
+    },
+    {
+        "chinese_name": "制作大学",
+        "original_name": "ものつくり大学"
+    },
+    {
+        "chinese_name": "中央学院大学",
+        "original_name": "中央学院大学"
+    },
+    {
+        "chinese_name": "芝浦工业大学",
+        "original_name": "芝浦工業大学"
+    },
+    {
+        "chinese_name": "昭和大学",
+        "original_name": "昭和大学"
+    },
+    {
+        "chinese_name": "昭和女子大学",
+        "original_name": "昭和女子大学"
+    },
+    {
+        "chinese_name": "中央大学",
+        "original_name": "中央大学"
+    },
+    {
+        "chinese_name": "中京学院大学",
+        "original_name": "中京学院大学"
+    },
+    {
+        "chinese_name": "中部学院大学",
+        "original_name": "中部学院大学"
+    },
+    {
+        "chinese_name": "中国学园大学",
+        "original_name": "中国学園大学"
+    },
+    {
+        "chinese_name": "长崎县立大学",
+        "original_name": "長崎県立大学"
+    },
+    {
+        "chinese_name": "至诚馆大学",
+        "original_name": "至誠館大学"
+    },
+    {
+        "chinese_name": "筑紫女学园大学",
+        "original_name": "筑紫女学園大学"
+    },
+    {
+        "chinese_name": "中村学园大学",
+        "original_name": "中村学園大学"
+    },
+    {
+        "chinese_name": "长冈技术科学大学",
+        "original_name": "長岡技術科学大学"
+    },
+    {
+        "chinese_name": "追手门学院大学",
+        "original_name": "追手門学院大学"
+    },
+    {
+        "chinese_name": "政策研究大学院大学",
+        "original_name": "政策研究大学院大学"
+    },
+    {
+        "chinese_name": "种智院大学",
+        "original_name": "種智院大学"
+    },
+    {
+        "chinese_name": "专门学校麻生工科汽车大学校",
+        "original_name": "専門学校麻生工科自動車大学校"
+    },
+    {
+        "chinese_name": "专门学校东京汽车大学校",
+        "original_name": "専門学校東京自動車大学校"
+    },
+    {
+        "chinese_name": "中部学院大学短期大学部",
+        "original_name": "中部学院大学短期大学部"
+    },
+    {
+        "chinese_name": "专门学校盈科国际学院",
+        "original_name": "専門学校 EIKA International College"
+    },
+    {
+        "chinese_name": "中央美术学园",
+        "original_name": "中央美術学園"
+    },
+    {
+        "chinese_name": "早稻田大学",
+        "original_name": "早稲田大学"
+    },
+    {
+        "chinese_name": "中央法律专门学校",
+        "original_name": "中央法律専門学校"
+    },
+    {
+        "chinese_name": "专门学校中央农业大学校",
+        "original_name": "専門学校中央農業大学校"
+    },
+    {
+        "chinese_name": "足利大学",
+        "original_name": "足利大学"
+    },
+    {
+        "chinese_name": "长野平青学园",
+        "original_name": "長野平青学園"
+    },
+    {
+        "chinese_name": "专门学校丰田东京汽车大学校",
+        "original_name": "専門学校トヨタ東京自動車大学校"
+    },
+    {
+        "chinese_name": "专门学校静冈工科汽车大学校",
+        "original_name": "専門学校静岡工科自動車大学校"
+    },
+    {
+        "chinese_name": "早稻田文理专门学校",
+        "original_name": "早稲田文理専門学校"
+    },
+    {
+        "chinese_name": "专门学校东京经理综合学院",
+        "original_name": "専門学校東京経理綜合学院"
+    },
+    {
+        "chinese_name": "中央动物专门学校",
+        "original_name": "中央動物専門学校"
+    },
+    {
+        "chinese_name": "筑波学院大学",
+        "original_name": "筑波学院大学"
+    },
+    {
+        "chinese_name": "专门学校读卖自动车大学校",
+        "original_name": "専門学校読売自動車大学校"
+    },
+    {
+        "chinese_name": "专门学校新潟国际自动车大学校",
+        "original_name": "専門学校新潟国際自動車大学校"
+    },
+    {
+        "chinese_name": "筑波亚洲福祉专门学校",
+        "original_name": "つくばアジア福祉専門学校"
+    },
+    {
+        "chinese_name": "中国短期大学",
+        "original_name": "中国短期大学"
+    },
+    {
+        "chinese_name": "中日本航空专门学校",
+        "original_name": "中日本航空専門学校"
+    },
+    {
+        "chinese_name": "专门学校大原汽车工科大学校",
+        "original_name": "専門学校大原自動車工科大学校"
+    },
+    {
+        "chinese_name": "滋贺大学",
+        "original_name": "滋賀大学"
+    },
+    {
+        "chinese_name": "滋贺医科大学",
+        "original_name": "滋賀医科大学"
+    },
+    {
+        "chinese_name": "昭和音乐大学",
+        "original_name": "昭和音楽大学"
+    },
+    {
+        "chinese_name": "长冈大学",
+        "original_name": "長岡大学"
+    },
+    {
+        "chinese_name": "长野大学",
+        "original_name": "長野大学"
+    },
+    {
+        "chinese_name": "滋贺县立大学",
+        "original_name": "滋賀県立大学"
+    },
+    {
+        "chinese_name": "佐贺女子短期大学",
+        "original_name": "佐賀女子短期大学"
+    },
+    {
+        "chinese_name": "专门学校丰田名古屋汽车大学校",
+        "original_name": "専門学校トヨタ名古屋自動車大学校"
+    },
+    {
+        "chinese_name": "中央情报专门学校",
+        "original_name": "中央情報専門学校"
+    },
+    {
+        "chinese_name": "中部乐器技术专门学校",
+        "original_name": "中部楽器技術専門学校"
+    },
+    {
+        "chinese_name": "资生堂美容技术专门学校",
+        "original_name": "資生堂美容技術専門学校"
+    },
+    {
+        "chinese_name": "长崎短期大学",
+        "original_name": "長崎短期大学"
+    },
+    {
+        "chinese_name": "早稻田速记医疗福祉专门学校",
+        "original_name": "早稲田速記医療福祉専門学校"
+    },
+    {
+        "chinese_name": "中央工学校",
+        "original_name": "中央工学校"
+    },
+    {
+        "chinese_name": "中野商务专门学校",
+        "original_name": "専門学校中野スクールオブビジネス"
+    },
+    {
+        "chinese_name": "筑波大学",
+        "original_name": "筑波大学"
+    },
+    {
+        "chinese_name": "专门学校东京工科汽车大学校",
+        "original_name": "専門学校東京工科自動車大学校"
+    },
+    {
+        "chinese_name": "专门学校动漫艺术学院",
+        "original_name": "専門学校アニメ・アーティスト・アカデミー"
+    },
+    {
+        "chinese_name": "折尾爱真短期大学",
+        "original_name": "折尾愛真短期大学"
+    },
+    {
+        "chinese_name": "中日本自动车短期大学",
+        "original_name": "中日本自動車短期大学"
+    },
+    {
+        "chinese_name": "佐野日本大学短期大学",
+        "original_name": "佐野日本大学短期大学"
+    },
+    {
+        "chinese_name": "专门学校日本自动车大学校",
+        "original_name": "専門学校日本自動車大学校"
+    },
+    {
+        "chinese_name": "佐贺大学",
+        "original_name": "佐賀大学"
+    },
+    {
+        "chinese_name": "长崎大学",
+        "original_name": "長崎大学"
+    },
+    {
+        "chinese_name": "综合研究大学院大学",
+        "original_name": "総合研究大学院大学"
+    },
+    {
+        "chinese_name": "札幌学院大学",
+        "original_name": "札幌学院大学"
+    },
+    {
+        "chinese_name": "札幌国际大学",
+        "original_name": "札幌国際大学"
+    },
+    {
+        "chinese_name": "作新学院大学",
+        "original_name": "作新学院大学"
+    },
+    {
+        "chinese_name": "自治医科大学",
+        "original_name": "自治医科大学"
+    },
+    {
+        "chinese_name": "中京大学",
+        "original_name": "中京大学"
+    },
+    {
+        "chinese_name": "中部大学",
+        "original_name": "中部大学"
+    },
+    {
+        "chinese_name": "长浜生物科技大学",
+        "original_name": "長浜バイオ大学"
+    },
+    {
+        "chinese_name": "长崎国际大学",
+        "original_name": "長崎国際大学"
+    },
+    {
+        "chinese_name": "长崎纯心大学",
+        "original_name": "長崎純心大学"
+    },
+    {
+        "chinese_name": "长崎综合科学大学",
+        "original_name": "長崎総合科学大学"
+    },
+    {
+        "chinese_name": "志学馆大学",
+        "original_name": "志學館大学"
+    },
+    {
+        "chinese_name": "札幌医科大学",
+        "original_name": "札幌医科大学"
+    },
+    {
+        "chinese_name": "札幌市立大学",
+        "original_name": "札幌市立大学"
+    }
+]

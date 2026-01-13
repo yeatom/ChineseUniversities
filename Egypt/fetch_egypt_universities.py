@@ -30,7 +30,16 @@ def fetch_egypt_universities():
             writer = csv.writer(f)
             writer.writerow(["Chinese Name", "English Name"])
             for item in data:
-                writer.writerow([item.get("CHINESE_NAME"), item.get("ENGLISH_NAME")])
+                chinese_name = item.get("CHINESE_NAME")
+                english_name = str(item.get("ENGLISH_NAME", "")).strip()
+                
+                # Remove wrapping quotes
+                if english_name.startswith('"') and english_name.endswith('"'):
+                    english_name = english_name[1:-1].strip()
+                # Replace internal double quotes with single quotes to avoid CSV quoting
+                english_name = english_name.replace('"', "'").replace(',', ' ')
+                
+                writer.writerow([chinese_name, english_name])
         
         print(f"Successfully saved {len(data)} universities to {csv_path}")
         

@@ -21,6 +21,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# Secrets
+.env
+
 # OS
 .DS_Store
 .DS_Store?
