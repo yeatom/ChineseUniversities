@@ -12,13 +12,16 @@ The objective of this project is to consolidate a complete list of higher educat
 - **Country**: The country where the institution is located.
 
 ## Data Structure
-The project is organized by region/country folders:
+The project is organized into a modular directory structure for scalability:
 
-- `world_universities.csv`: The master consolidated list of all universities.
-- `China/`: Mainland China, Hong Kong, Macau, and Taiwan records. Missing English names are filled using AI translation.
-- `Japan/`: Data for Japanese institutions, translated from Japanese originals.
-- `Poland/`: Data for Polish institutions, translated from Polish originals.
-- `Egypt/`: Data for Egyptian institutions.
+- **Root Directory**:
+    - `world_universities.csv`: The master consolidated database with unique `_id` fields.
+    - `generate_summary.py`: The aggregator script that combines all regional data.
+- **Country Folders (`CountryName/`)**:
+    - `[country]_universities.csv`: Processed bilingual data for the specific country.
+    - `update_[country]_universities.py`: Automation script for fetching and cleaning regional data.
+- **Shared Utilities**:
+    - `gemini_translator.py`: Core logic for AI-powered translations via Gemini 2.0 Flash.
 
 ## Features & Automation
 - **AI-Powered Translation**: Uses **Gemini 2.0 Flash** to provide official international English names based on original language names (Polish, Japanese, etc.) or Chinese context.

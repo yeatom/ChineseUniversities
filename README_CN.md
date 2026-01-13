@@ -12,13 +12,16 @@
 - **国家**: 院校所属国家。
 
 ## 数据结构
-项目按地区/国家文件夹组织：
+项目采用模块化的目录结构，以便于扩展和管理：
 
-- `world_universities.csv`: 所有大学的汇总主表。
-- `China/`: 包含中国大陆、香港、澳门和台湾的记录。缺失的英文名已通过 AI 翻译补全。
-- `Japan/`: 日本院校数据，译自日语原名。
-- `Poland/`: 波兰院校数据，译自波兰语原名。
-- `Egypt/`: 埃及院校数据。
+- **根目录**:
+    - `world_universities.csv`: 汇总后的主数据库，包含唯一 `_id` 字段。
+    - `generate_summary.py`: 用于聚合所有地区 CSV 文件的汇总脚本。
+- **国家/地区文件夹 (`CountryName/`)**:
+    - `[country]_universities.csv`: 已清洗的中英文双语院校数据。
+    - `update_[country]_universities.py`: 用于获取和处理该地区数据的专用自动化脚本。
+- **共享工具**:
+    - `gemini_translator.py`: 基于 Gemini 2.0 Flash 的 AI 翻译核心逻辑。
 
 ## 功能特性与自动化
 - **AI 驱动翻译**: 使用 **Gemini 2.0 Flash**，主要基于原始语言名称（波兰语、日语等）提供官方国际英文名，并参考中文语境。
