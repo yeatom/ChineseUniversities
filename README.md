@@ -2,113 +2,71 @@
 
 A comprehensive database of universities worldwide, providing standardized **English** and **Chinese** names for each institution.
 
-[中文版](README_CN.md)
+## Project Overview
 
-## Project Goal
-The objective of this project is to consolidate a complete list of higher education institutions globally. For every university, we provide:
-- **_id**: A unique identifier for the combined list.
-- **Chinese Name**: Official simplified Chinese name.
-- **English Name**: Standard international name, cleaned for CSV compatibility.
-- **Country Chinese**: The country name in Chinese.
-- **Country English**: The country name in English.
+This project maintains a curated list of higher education institutions globally. It serves as a centralized database where every university entry includes:
+- **_id**: A unique identifier.
+- **Chinese Name**: The official name in Simplified Chinese.
+- **English Name**: The standardized international English name (translated/verified via AI).
+- **Country**: The country name in both Chinese and English.
 
-## Data Structure
-The project is organized into a modular directory structure for scalability:
+**Total Records:** ~10,300+ entries across 100+ countries.
 
-- **Root Directory**:
-    - `world_universities.csv`: The master consolidated database with unique `_id` fields.
-    - `generate_summary.py`: The aggregator script that combines all regional data.
-- **Country Folders (`CountryName/`)**:
-    - `[country]_universities.csv`: Processed bilingual data for the specific country.
-    - `update_[country]_universities.py`: Automation script for fetching and cleaning regional data.
-- **Shared Utilities**:
-    - `gemini_translator.py`: Core logic for AI-powered translations via Gemini 2.0 Flash.
+## 🚀 Quick Start
 
-## Features & Automation
-- **AI-Powered Translation**: Uses **Gemini 2.0 Flash** to provide official international English names based on original language names (Polish, Japanese, etc.) or Chinese context.
-- **Incremental Updates**: Scripts track existing records to avoid redundant API calls and save costs.
-- **Data Cleaning**: 
-    - Automatically removes wrapping double quotes around names.
-    - Replaces internal double quotes with single quotes.
-    - Replaces commas with spaces in English names to ensure clean CSV formatting without escaping issues.
-- **Master Summary**: A central script aggregates all regional CSVs into the root database with unique IDs.
+The entire project is managed by a single unified script: `main.py`.
 
-## Summary Generation
-To update the global summary file:
+### Prerequisites
+1.  Python 3.8+
+2.  Install dependencies:
+    ```bash
+    pip install pandas google-genai python-dotenv
+    ```
+3.  Set up your `.env` file with your Gemini API key (required for translation):
+    ```env
+    GEMINI_API_KEY=your_api_key_here
+    ```
+
+### Usage
+Run the project manager script to normalize data, translate missing names, and generate the final summary:
+
 ```bash
-python generate_summary.py
+python3 main.py
 ```
 
-## Current Progress
-- [x] 🇨🇳 **China**: 3000 records (including HK/Macau/Taiwan).
-- [x] 🇺🇸 **USA**: 1539 records.
-- [x] 🇯🇵 **Japan**: 959 records, Gemini-translated from Japanese.
-- [x] 🇫🇷 **France**: 497 records, Gemini-translated from French.
-- [x] 🇷🇺 **Russia**: 477 records, Gemini-translated from Russian.
-- [x] 🇩🇪 **Germany**: 283 records, Gemini-translated from German.
-- [x] 🇰🇷 **South Korea**: 261 records, Gemini-translated from Korean.
-- [x] 🇮🇳 **India**: 245 records.
-- [x] �🇹 **Italy**: 184 records, Gemini-translated from Italian.
-- [x] 🇬🇧 **UK**: 163 records.
-- [x] 🇵🇭 **Philippines**: 159 records.
-- [x] 🇨🇦 **Canada**: 149 records.
-- [x] 🇲🇾 **Malaysia**: 116 records.
-- [x] 🇦🇺 **Australia**: 114 records.
-- [x] 🇵🇱 **Poland**: 88 records, Gemini-translated from Polish.
-- [x] �🇸 **Spain**: 76 records, Gemini-translated from Spanish.
-- [x] 🇳🇿 **New Zealand**: 65 records.
-- [x] 🇹🇷 **Turkey**: 57 records.
-- [x] 🇲🇽 **Mexico**: 49 records, Gemini-translated from Spanish.
-- [x] 🇳🇱 **Netherlands**: 47 records, Gemini-translated from Dutch.
-- [x] 🇻🇳 **Vietnam**: 47 records.
-- [x] 🇿🇦 **South Africa**: 38 records.
-- [x] 🇲🇳 **Mongolia**: 36 records.
-- [x] 🇸🇪 **Sweden**: 31 records, Gemini-translated from Swedish.
-- [x] 🇪🇬 **Egypt**: 28 records.
-- [x] 🇨🇭 **Switzerland**: 26 records, Gemini-translated.
-- [x] 🇵🇹 **Portugal**: 26 records, Gemini-translated from Portuguese.
-- [x] 🇨🇿 **Czech Republic**: 25 records, Gemini-translated from Czech.
-- [x] 🇧🇩 **Bangladesh**: 24 records.
-- [x] 🇦🇫 **Afghanistan**: 22 records.
-- [x] 🇳🇴 **Norway**: 21 records.
-- [x] 🇸🇬 **Singapore**: 15 records.
-- [x] 🇮🇪 **Ireland**: 14 records.
-- [x] 🇮🇱 **Israel**: 14 records.
-- [x] 🇦🇪 **UAE**: 13 records.
-- [x] 🇬🇪 **Georgia**: 13 records, Gemini-translated from Georgian.
-- [x] 🇱🇰 **Sri Lanka**: 12 records.
-- [x] 🇰🇪 **Kenya**: 11 records.
-- [x] 🇪🇹 **Ethiopia**: 9 records.
-- [x] 🇰🇭 **Cambodia**: 8 records.
-- [x] 🇲🇩 **Moldova**: 8 records.
-- [x] 🇨🇲 **Cameroon**: 4 records.
-- [x] 🇱🇦 **Laos**: 4 records.
-- [x] 🇫🇯 **Fiji**: 3 records.
-- [x] 🇶🇦 **Qatar**: 2 records.
-- [ ] **Europe**: Planned.
+This script performs three main tasks:
+1.  **Normalize**: Standardizes CSV headers and cleans up formatting in every country folder.
+2.  **Translate**: Scans for non-English names (e.g., French, Spanish, Russian) and uses **Gemini 2.0 Flash** to translating them into standard English.
+3.  **Summarize**: Aggregates all country data into the master file `world_universities.csv`.
 
-## Technical Stack
-- **Python 3**: Core processing.
-- **Pandas**: Data manipulation and CSV management.
-- **Gemini 2.0 Flash**: Academic-grade translation and entity mapping.
-- **Requests / Curl**: Official API interactions.
-- **python-dotenv**: Secure environment variable management.
+## 📂 Project Structure
 
-## Setup & Usage
-1. **API Key**: Create a `.env` file in the root directory:
-   ```env
-   GEMINI_API_KEY=your_key_here
-   ```
-2. **Install Dependencies**:
-   ```bash
-   pip install pandas google-generativeai python-dotenv requests
-   ```
-3. **Run Update Scripts**:
-   ```bash
-   python Poland/update_poland_universities.py
-   python Japan/update_japan_universities.py
-   ```
+The data is organized by country. Each country folder contains the source data.
 
-## Storage Format
-- Encoding: `UTF-8 with BOM` for Excel compatibility.
-- Normalized column names (`_id`, `chinese_name`, `english_name`, `country_chinese`, `country_english`).
+```
+.
+├── main.py                     # The core management script
+├── world_universities.csv      # The final output (Master Database)
+├── China/                      # Special handling for China data (contains fetch scripts)
+├── USA/
+│   ├── usa_universities.csv    # Cleaned data
+│   └── raw.json                # Raw data backup
+├── France/
+│   ├── france_universities.csv
+│   └── raw.json
+└── ... (other countries)
+```
+
+## ✨ Key Features
+
+- **Automated AI Translation**: Uses the Gemini API to detect non-English names (e.g., "Université de Paris" or "東京大学") and translates them to their official English equivalents.
+- **Strict English Validation**: Enforces "English-only" names in the final output. Terms like *Universidad*, *Ecole*, *Hochschule* are automatically flagged and translated.
+- **Data Standardization**: Automatically cleans headers, removes duplicate columns, and fixes common formatting issues (e.g., smart quotes, extra spaces).
+- **Regions**: Special handling for **Hong Kong**, **Macau**, and **Taiwan** to ensure correct formatting in the global list.
+
+## Data Sources
+- **China**: Collected via specific scrapers (retained in `China/` folder).
+- **Global**: A compilation from various official lists, standardized into a uniform format.
+
+## License
+MIT
