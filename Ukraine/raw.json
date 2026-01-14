@@ -1,0 +1,730 @@
+[
+  {
+    "chinese_name": "敖德萨国立理工大学",
+    "english_name": "Odessa Polytechnic National University"
+  },
+  {
+    "chinese_name": "敖德萨国立音乐学院",
+    "english_name": "Odesa National A.V. Nezhdanova Academy of Music"
+  },
+  {
+    "chinese_name": "敖德萨国立农业大学",
+    "english_name": "Odesa State Agrarian University"
+  },
+  {
+    "chinese_name": "敖德萨国立经济大学",
+    "english_name": "Odessa National Economic University"
+  },
+  {
+    "chinese_name": "敖德萨国立医科大学",
+    "english_name": "Odessa National Medical University"
+  },
+  {
+    "chinese_name": "敖德萨国立大学",
+    "english_name": "Odesa I.I. Mechnikov National University"
+  },
+  {
+    "chinese_name": "敖德萨国立海洋大学",
+    "english_name": "Odessa National Maritime University"
+  },
+  {
+    "chinese_name": "鲍里斯•格林申科基辅大学",
+    "english_name": "Borys Grinchenko Kyiv University"
+  },
+  {
+    "chinese_name": "别尔江斯克国立师范大学",
+    "english_name": "Berdyansk State Pedagogical University"
+  },
+  {
+    "chinese_name": "波尔塔瓦国立农学院",
+    "english_name": "Poltava State Agrarian Academy"
+  },
+  {
+    "chinese_name": "波尔塔瓦国立师范大学",
+    "english_name": "Poltava V.G. Korolenko National Pedagogical University"
+  },
+  {
+    "chinese_name": "波尔塔瓦国立医科大学",
+    "english_name": "Poltava State Medical University"
+  },
+  {
+    "chinese_name": "白采尔科维国立农业大学",
+    "english_name": "Bila Tserkva National Agrarian University"
+  },
+  {
+    "chinese_name": "波尔塔瓦经济与贸易大学",
+    "english_name": "Poltava University of Economics and Trade"
+  },
+  {
+    "chinese_name": "别尔江斯克管理与商务大学",
+    "english_name": "Berdyansk University Of Management and Business Ltd"
+  },
+  {
+    "chinese_name": "顿涅茨克国立经济与贸易大学",
+    "english_name": "Donetsk National University of Economics and Trade named after Mykhailo Tugan-Baranovsky"
+  },
+  {
+    "chinese_name": "第聂伯文化艺术学院",
+    "english_name": "Dnipropetrovsk College of Culture and Arts"
+  },
+  {
+    "chinese_name": "顿涅茨克国立大学",
+    "english_name": "Donetsk National University"
+  },
+  {
+    "chinese_name": "东乌克兰国立大学",
+    "english_name": "Volodymyr Dahl East Ukrainian National University"
+  },
+  {
+    "chinese_name": "顿涅茨克国立技术大学",
+    "english_name": "Donetsk National Technical University"
+  },
+  {
+    "chinese_name": "顿巴斯国立师范大学",
+    "english_name": "Donbass State Pedagogical University"
+  },
+  {
+    "chinese_name": "顿涅茨克国立医科大学",
+    "english_name": "M.Gorky Donetsk National Medical University"
+  },
+  {
+    "chinese_name": "德罗霍贝奇国立师范大学",
+    "english_name": "Drohobych Ivan Franko State Pedagogical University"
+  },
+  {
+    "chinese_name": "顿巴斯国立工程学院",
+    "english_name": "Donbass State Engineering Academy"
+  },
+  {
+    "chinese_name": "东欧经济与管理大学",
+    "english_name": "Eastern European University of Economics and Management"
+  },
+  {
+    "chinese_name": "东欧大学",
+    "english_name": "Rauf Ablyazov East European University"
+  },
+  {
+    "chinese_name": "第聂伯理工大学",
+    "english_name": "Dnipro University of Technology"
+  },
+  {
+    "chinese_name": "第聂伯彼得罗夫斯克阿尔弗雷德·诺贝尔大学克列缅丘格分校",
+    "english_name": "Kremenchuk Institute of Private Educational Establishment Alfred Nobel University Dnipropetrovsk"
+  },
+  {
+    "chinese_name": "国立药科大学",
+    "english_name": "National University of Pharmacy"
+  },
+  {
+    "chinese_name": "国立智能技术与通信大学",
+    "english_name": "State University of Intellectual Technologies and Communications"
+  },
+  {
+    "chinese_name": "国立经贸大学",
+    "english_name": "State University of Trade and Economics"
+  },
+  {
+    "chinese_name": "国立大学“敖德萨海洋学院”",
+    "english_name": "National University Odessa Maritime Academy"
+  },
+  {
+    "chinese_name": "国立生物技术大学",
+    "english_name": "State Biotechnological University"
+  },
+  {
+    "chinese_name": "国立大学敖德萨法学院",
+    "english_name": "National University Odesa Law Academy"
+  },
+  {
+    "chinese_name": "国立造型艺术与建筑学院",
+    "english_name": "National Academy of Fine Arts and Architecture"
+  },
+  {
+    "chinese_name": "国际技术大学“尼古拉耶夫理工学院”",
+    "english_name": "International Technological University Mykolayiv Polytechnics"
+  },
+  {
+    "chinese_name": "国际科技大学",
+    "english_name": "International Scientific and Technical University"
+  },
+  {
+    "chinese_name": "国立统计、会计与审计学院",
+    "english_name": "National Academy of Statistics  Accounting and Audit"
+  },
+  {
+    "chinese_name": "国家内务学院",
+    "english_name": "National Academy of Internal Affairs"
+  },
+  {
+    "chinese_name": "国立医科大学",
+    "english_name": "Bogomolets National Medical University"
+  },
+  {
+    "chinese_name": "国立大学“敖德萨法律学院”",
+    "english_name": "National University Odesa Law Academy"
+  },
+  {
+    "chinese_name": "国际人文大学",
+    "english_name": "International Humanitarian University"
+  },
+  {
+    "chinese_name": "国立信息与通信技术大学",
+    "english_name": "State University of Information and Communication Technology"
+  },
+  {
+    "chinese_name": "国立文化与艺术管理学院",
+    "english_name": "National Academy of Culture and Arts Management"
+  },
+  {
+    "chinese_name": "国立大学“波尔塔瓦理工学院”",
+    "english_name": "National University “Yuri Kondratyuk Poltava Polytechnic”"
+  },
+  {
+    "chinese_name": "国立航空大学",
+    "english_name": "National Aviation University"
+  },
+  {
+    "chinese_name": "国立技术大学哈尔科夫工学院",
+    "english_name": "National Technical University Kharkiv Polytechnic Institute"
+  },
+  {
+    "chinese_name": "国立交通大学",
+    "english_name": "National Transport University"
+  },
+  {
+    "chinese_name": "国立食品技术大学",
+    "english_name": "National University of Food Technologies"
+  },
+  {
+    "chinese_name": "国立水与环境工程大学",
+    "english_name": "National University of Water and Environmental Engineering"
+  },
+  {
+    "chinese_name": "国立艺术与建筑学院",
+    "english_name": "National Academy of Fine Arts and Architecture"
+  },
+  {
+    "chinese_name": "国立造船大学",
+    "english_name": "Admiral Makarov National University of Shipbuilding"
+  },
+  {
+    "chinese_name": "格卢霍夫国立师范大学",
+    "english_name": "Oleksandr Dovzhenko Hlukhiv National Pedagogical University"
+  },
+  {
+    "chinese_name": "国立大学“基辅莫吉拉学院”",
+    "english_name": "National University of Kyiv-Mohyla Academy"
+  },
+  {
+    "chinese_name": "国立航空航天大学哈尔科夫航空学院",
+    "english_name": "National Aerospace University – Kharkiv Aviation Institute"
+  },
+  {
+    "chinese_name": "国立美术与建筑学院",
+    "english_name": "National Academy of Fine Arts and Architecture"
+  },
+  {
+    "chinese_name": "国立文化与艺术管理人员学院",
+    "english_name": "National Academy of Managerial Staff of Culture and Arts"
+  },
+  {
+    "chinese_name": "国立大学扎波罗热工学院",
+    "english_name": "Zaporizhzhia Polytechnic National university"
+  },
+  {
+    "chinese_name": "哈尔科夫理工学院",
+    "english_name": "Kharkiv Polytechnic Institute"
+  },
+  {
+    "chinese_name": "哈尔科夫国立内务大学",
+    "english_name": "Kharkiv National University of Internal Affairs"
+  },
+  {
+    "chinese_name": "哈尔科夫国立工艺美术学院",
+    "english_name": "Kharkiv State Academy of Design and Arts"
+  },
+  {
+    "chinese_name": "哈尔科夫国立体育学院",
+    "english_name": "Kharkiv State Academy of Physical Culture"
+  },
+  {
+    "chinese_name": "哈尔科夫国立文化学院",
+    "english_name": "Kharkiv State Academy of Culture"
+  },
+  {
+    "chinese_name": "哈尔科夫国立医科大学",
+    "english_name": "Kharkiv National Medical University"
+  },
+  {
+    "chinese_name": "赫尔松国立大学",
+    "english_name": "Kherson State University"
+  },
+  {
+    "chinese_name": "赫尔松国立技术大学",
+    "english_name": "Kherson National Technical University"
+  },
+  {
+    "chinese_name": "赫梅利尼茨基国立大学",
+    "english_name": "Khmelnytskyi National University"
+  },
+  {
+    "chinese_name": "哈尔科夫国立大学",
+    "english_name": "V.N.Karazin Kharkiv National University"
+  },
+  {
+    "chinese_name": "哈尔科夫国立经济大学",
+    "english_name": "Simon Kuznets Kharkiv National University of Economics"
+  },
+  {
+    "chinese_name": "哈尔科夫国立师范大学",
+    "english_name": "H.S.Skovoroda Kharkiv National Pedagogical University"
+  },
+  {
+    "chinese_name": "哈尔科夫国立空军大学",
+    "english_name": "Ivan Kozhedub Kharkiv National Air Force University"
+  },
+  {
+    "chinese_name": "哈尔科夫国立汽车道路大学",
+    "english_name": "Kharkiv National Automobile and Highway University"
+  },
+  {
+    "chinese_name": "赫尔松国立海事学院",
+    "english_name": "Kherson State Maritime Academy"
+  },
+  {
+    "chinese_name": "哈尔科夫国立市政大学",
+    "english_name": "Kharkiv National University of Urban Economy named after O.M. Beketov"
+  },
+  {
+    "chinese_name": "黑海国立大学",
+    "english_name": "Petro Mohyla Black Sea National University"
+  },
+  {
+    "chinese_name": "哈尔科夫国立无线电电子大学",
+    "english_name": "Kharkiv National University of Radio Electronics"
+  },
+  {
+    "chinese_name": "基辅国际大学",
+    "english_name": "Kyiv International University"
+  },
+  {
+    "chinese_name": "基辅商业与法律合作学院",
+    "english_name": "Kyiv Cooperative Institute of business and law"
+  },
+  {
+    "chinese_name": "捷尔诺波尔国立技术大学",
+    "english_name": "Ternopil Ivan Puluj National Technical University"
+  },
+  {
+    "chinese_name": "基辅文化大学",
+    "english_name": "Kyiv University of Culture"
+  },
+  {
+    "chinese_name": "基辅商业与技术学院",
+    "english_name": "Kiev Institute of Business and Technologies"
+  },
+  {
+    "chinese_name": "捷尔诺波尔国立师范大学",
+    "english_name": "Ternopil Volodymyr Hnatiuk National Pedagogical University"
+  },
+  {
+    "chinese_name": "经济与人文国际大学",
+    "english_name": "Academician Stepan Demianchuk International University of Economics and Humanities"
+  },
+  {
+    "chinese_name": "基辅市立马戏艺术学院",
+    "english_name": "Kyiv Municipal Academy of Circus and Variety Arts"
+  },
+  {
+    "chinese_name": "基辅国立戏剧、电影与电视大学",
+    "english_name": "I.K. Karpenko-Kary Kyiv National University of Theatre  Cinema and Television"
+  },
+  {
+    "chinese_name": "基辅国立工艺与设计大学",
+    "english_name": "Kyiv National University of Technologies and Design"
+  },
+  {
+    "chinese_name": "基辅国立建筑大学",
+    "english_name": "Kyiv National University of Construction and Architecture"
+  },
+  {
+    "chinese_name": "基辅国立文化艺术大学",
+    "english_name": "Kyiv National University of Culture and Arts"
+  },
+  {
+    "chinese_name": "经典私立大学",
+    "english_name": "Classic Private University"
+  },
+  {
+    "chinese_name": "基辅国立大学",
+    "english_name": "Taras Shevchenko National University of Kyiv"
+  },
+  {
+    "chinese_name": "基辅国立经济大学",
+    "english_name": "Kyiv National Economic University named after Vadym Hetman"
+  },
+  {
+    "chinese_name": "基辅国立语言大学",
+    "english_name": "Kyiv National Linguistic University"
+  },
+  {
+    "chinese_name": "基辅市立音乐学院",
+    "english_name": "R. Glier Kyiv Municipal Academy of Music"
+  },
+  {
+    "chinese_name": "基辅旅游、经济与法律大学",
+    "english_name": "Kyiv University of Tourism  Economics and Law"
+  },
+  {
+    "chinese_name": "克里沃罗格国立师范大学",
+    "english_name": "Kryvyi Rih State Pedagogical University"
+  },
+  {
+    "chinese_name": "喀尔巴阡国立大学",
+    "english_name": "Vasyl Stefanyk Precarpathian National University"
+  },
+  {
+    "chinese_name": "跨地区人事管理学院",
+    "english_name": "Inter-Regional Academy of Personnel Management"
+  },
+  {
+    "chinese_name": "克里沃罗格国立大学",
+    "english_name": "Kryvyi Rih National University"
+  },
+  {
+    "chinese_name": "卡缅涅茨-波多利斯基国立大学",
+    "english_name": "Kamianets-Podilskyi Ivan Ohiienko National University"
+  },
+  {
+    "chinese_name": "克拉玛托尔斯克经济与人文学院",
+    "english_name": "Kramatorsk Institute of Economics and Humanities"
+  },
+  {
+    "chinese_name": "卢茨克国立技术大学",
+    "english_name": "Lutsk National Technical University"
+  },
+  {
+    "chinese_name": "利沃夫国立体育大学",
+    "english_name": "Lviv State University of Physical Culture named after Ivan Boberskyj"
+  },
+  {
+    "chinese_name": "利沃夫国立医科大学",
+    "english_name": "Danylo Halytsky Lviv National Medical University"
+  },
+  {
+    "chinese_name": "卢甘斯克国立大学",
+    "english_name": "Luhansk Taras Shevchenko National University"
+  },
+  {
+    "chinese_name": "卢甘斯克国立文化艺术学院",
+    "english_name": "Lugansk State Academy of Culture and Arts"
+  },
+  {
+    "chinese_name": "里夫纳国立人文大学",
+    "english_name": "Rivne State University of the Humanities"
+  },
+  {
+    "chinese_name": "利沃夫国立大学",
+    "english_name": "Ivan Franko National University of Lviv"
+  },
+  {
+    "chinese_name": "利沃夫国立技术大学",
+    "english_name": "Lviv Polytechnic National University"
+  },
+  {
+    "chinese_name": "利沃夫国立艺术学院",
+    "english_name": "Lviv National Academy of Arts"
+  },
+  {
+    "chinese_name": "卢甘斯克国立医科大学",
+    "english_name": "Lugansk State Medical University"
+  },
+  {
+    "chinese_name": "利沃夫国立音乐学院",
+    "english_name": "Lviv National Music Academy named after Mykola Lysenko"
+  },
+  {
+    "chinese_name": "梅利托波尔国立师范大学",
+    "english_name": "Melitopol Bohdan Khmelnytsky State Pedagogical University"
+  },
+  {
+    "chinese_name": "马里乌波尔国立大学",
+    "english_name": "Mariupol State University"
+  },
+  {
+    "chinese_name": "涅任国立大学",
+    "english_name": "Nizhyn Mykola Gogol State University"
+  },
+  {
+    "chinese_name": "尼古拉耶夫国立大学",
+    "english_name": "Mykolaiv V.O. Sukhomlynskyi National University"
+  },
+  {
+    "chinese_name": "南乌克兰国立师范大学",
+    "english_name": "South Ukrainian National Pedagogical University named after K.D.Ushynsky"
+  },
+  {
+    "chinese_name": "欧洲大学",
+    "english_name": "European University"
+  },
+  {
+    "chinese_name": "佩列亚斯拉夫-格里戈里·斯科沃罗达大学",
+    "english_name": "Hryhorii Skovoroda University in Pereiaslav"
+  },
+  {
+    "chinese_name": "切尔尼戈夫国立理工大学",
+    "english_name": "Chernihiv Polytechnic National University"
+  },
+  {
+    "chinese_name": "切尔卡瑟国立大学",
+    "english_name": "Bohdan Khmelnytsky National University of Cherkasy"
+  },
+  {
+    "chinese_name": "切尔卡瑟国立理工大学",
+    "english_name": "Cherkasy State Technological University"
+  },
+  {
+    "chinese_name": "区域人力管理学院",
+    "english_name": "Interregional Academy of Personnel Management"
+  },
+  {
+    "chinese_name": "切尔诺夫策国立大学",
+    "english_name": "Yuriy Fedkovych Chernivtsi National University"
+  },
+  {
+    "chinese_name": "日托米尔军事学院",
+    "english_name": "Zhytomyr Military Institute named after S. P. Korolyov"
+  },
+  {
+    "chinese_name": "日托米尔国立大学",
+    "english_name": "Zhytomyr Ivan Franko State University"
+  },
+  {
+    "chinese_name": "人类发展开放国际大学“乌克兰”",
+    "english_name": "Open International UNIVERSITY of Human Development UKRAINE"
+  },
+  {
+    "chinese_name": "苏梅建筑学院",
+    "english_name": "Sumy Construction College"
+  },
+  {
+    "chinese_name": "苏梅国立大学",
+    "english_name": "Sumy State University"
+  },
+  {
+    "chinese_name": "苏梅国立农业大学",
+    "english_name": "Sumy National Agrarian University"
+  },
+  {
+    "chinese_name": "苏梅国立师范大学",
+    "english_name": "Sumy State Pedagogical University named after A.S.Makarenko"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院食品生物技术与基因组学研究所",
+    "english_name": "Institute of Food Biotechnology and Genomics of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院电动力学研究所",
+    "english_name": "Institute of Electrodynamics of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国立大学",
+    "english_name": "Dragomanov Ukrainian State University"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院表面化学研究所",
+    "english_name": "O. O. Chuiko Institute of Surface Chemistry of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院焊接研究所",
+    "english_name": "Ye.O.Paton Electric Welding Institute of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院控制研究所",
+    "english_name": "V.M. Glushkov Institute of Cybernetics of NAS of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院工程热物理研究所",
+    "english_name": "Institute of Engineering Thermophysics of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰辩护学院",
+    "english_name": "The Academy of Advocacy of Ukraine"
+  },
+  {
+    "chinese_name": "沃伦国立大学",
+    "english_name": "Lesya Ukrainka Volyn National University"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院高分子化学研究所",
+    "english_name": "Institute of Macromolecular Chemistry of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院低温物理与技术研究所",
+    "english_name": "B.I. Verkin Institute for Low Temperature Physics and Engineering of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院微生物学与病毒学研究所",
+    "english_name": "D.K. Zabolotny Institute of Microbiology and Virology of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家医学科学院眼病与组织疗法研究所",
+    "english_name": "V.P. Filatov Institute of Eye Diseases and Tissue Therapy of the National Academy of Medical Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌日戈罗德国立大学",
+    "english_name": "State University Uzhhorod National University"
+  },
+  {
+    "chinese_name": "乌克兰天主教大学",
+    "english_name": "Ukrainian Catholic University"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院半导体物理研究所",
+    "english_name": "V.Ye. Lashkaryov Institute of Semiconductor Physics of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家农业科学院动物育种与遗传学研究所",
+    "english_name": "Institute of Animal Breeding and Genetics of National Academy of Agrarian Science of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院金属物理研究所",
+    "english_name": "G. V. Kurdyumov Institute for Metal Physics of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院丘克表面化学研究所",
+    "english_name": "Chuiko Institute of Surface Chemistry of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国立柴可夫斯基音乐学院",
+    "english_name": "Ukrainian National Tchaikovsky Academy of Music"
+  },
+  {
+    "chinese_name": "乌克兰国家边防学院",
+    "english_name": "Bohdan Khmelnytsky National Academy of the State Border Guard Service of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国立生物资源与自然环境大学",
+    "english_name": "National University of Life and Environmental Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院机械工程问题研究所",
+    "english_name": "A. Podgorny Institute for Problems of Mechanical Engineering of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院单晶研究所",
+    "english_name": "Institute for Single Crystals of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国立铁路运输大学",
+    "english_name": "Ukrainian state university of railway transport"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院金属与合金物理技术研究所",
+    "english_name": "Physical and Technological Institute of Metals and Alloys of National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家教育科学院师范教育与成人教育研究所",
+    "english_name": "Ivan Ziaziun Institute of Pedagogical Education and Adult Education of the National Academy of Educational Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "文尼察国立师范大学",
+    "english_name": "Vinnytsia Mykhailo Kotsiubynskyi State Pedagogical University"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院材料科学问题研究所",
+    "english_name": "Frantsevich Institute for Problems of Materials Science of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院细胞生物学研究所",
+    "english_name": "Institute of Cell Biology National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院克里姆斯基东方研究所",
+    "english_name": "A. Krymskyi Institute of Oriental Studies of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "文尼察国立农业大学",
+    "english_name": "Vinnytsia National Agrarian University"
+  },
+  {
+    "chinese_name": "文尼察国立技术大学",
+    "english_name": "Vinnytsia National Technical University"
+  },
+  {
+    "chinese_name": "乌克兰国防大学",
+    "english_name": "National Defence University of Ukraine named after Ivan Cherniakhovskyi"
+  },
+  {
+    "chinese_name": "乌克兰国立化学技术大学",
+    "english_name": "Ukrainian State University of Chemical Technology"
+  },
+  {
+    "chinese_name": "乌克兰国立体育与运动大学",
+    "english_name": "National University of Ukraine on Physical Education and Sport"
+  },
+  {
+    "chinese_name": "乌曼国立师范大学",
+    "english_name": "Pavlo Tychyna Uman State Pedagogical University"
+  },
+  {
+    "chinese_name": "乌克兰国立技术大学基辅工学院",
+    "english_name": "National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院能源建模问题研究所",
+    "english_name": "G.E. Pukhov Institute for Problems in Modelling in Power Engineering of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院数学研究所",
+    "english_name": "Institute of Mathematics of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰卫生部国立医学研究生教育学院",
+    "english_name": "Shupyk National Healthcare University of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院水生生物研究所",
+    "english_name": "Institute of Hydrobiology of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院物理机械研究所",
+    "english_name": "Karpenko Physico-Mechanical Institute of the National Academy of Sciences of Ukraine"
+  },
+  {
+    "chinese_name": "乌克兰国家科学院核研究所",
+    "english_name": "Institute for Nuclear Research of National Academy of Science of Ukraine"
+  },
+  {
+    "chinese_name": "西乌克兰国立大学",
+    "english_name": "West Ukrainian National University"
+  },
+  {
+    "chinese_name": "亚速滨海国立技术大学",
+    "english_name": "Pryazovskyi State Technical University"
+  },
+  {
+    "chinese_name": "伊万诺-弗兰科夫斯克国立石油天然气技术大学",
+    "english_name": "Ivano-Frankivsk National Technical University of Oil and Gas"
+  },
+  {
+    "chinese_name": "扎波罗热国立大学",
+    "english_name": "Zaporizhzhia National University"
+  },
+  {
+    "chinese_name": "智者雅罗斯拉夫国立法律大学",
+    "english_name": "Yaroslav Mudryi National Law University"
+  },
+  {
+    "chinese_name": "扎波罗热经济与信息技术学院",
+    "english_name": "Zaporizhzhia Institute of Economics and Information Technologies"
+  },
+  {
+    "chinese_name": "扎波罗热国立医科大学",
+    "english_name": "Zaporizhzhia State Medical University"
+  },
+  {
+    "chinese_name": "中乌克兰国立技术大学",
+    "english_name": "Central Ukrainian National Technical University"
+  }
+]

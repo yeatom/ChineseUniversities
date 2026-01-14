@@ -21,19 +21,8 @@ def normalize(name):
 def update_taiwan():
     url = "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Taiwan"
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    csv_path = os.path.join(base_dir, 'china_universities.csv')
-    
-    if not os.path.exists(csv_path):
-        print(f"Error: {csv_path} not found")
-        return
-
-    universities = []
-    with open(csv_path, 'r', encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            universities.append(row)
-                
-    uni_map = {normalize(u['chinese_name']): i for i, u in enumerate(universities)}
+    # Output to separate file
+    csv_path = os.path.join(base_dir, 'taiwan_universities.csv')
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -45,8 +34,7 @@ def update_taiwan():
     
     tables = soup.find_all('table', {'class': 'wikitable'})
     
-    matched_count = 0
-    added_count = 0
+    taiwan_list = []
     
     for table in tables:
         # Identify name indices
@@ -76,29 +64,19 @@ def update_taiwan():
                 
                 if not eng_name or not chi_name: continue
                 
-                norm_chi = normalize(chi_name)
-                if norm_chi in uni_map:
-                    idx = uni_map[norm_chi]
-                    if not universities[idx].get('english_name'):
-                        universities[idx]['english_name'] = eng_name
-                        matched_count += 1
-                else:
-                    universities.append({
-                        "chinese_name": chi_name,
-                        "english_name": eng_name
-                    })
-                    uni_map[norm_chi] = len(universities) - 1
-                    added_count += 1
+                taiwan_list.append({
+                    "chinese_name": chi_name,
+                    "english_name": eng_name
+                })
                     
     with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
         fieldnames = ['chinese_name', 'english_name']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for uni in universities:
+        for uni in taiwan_list:
             writer.writerow(uni)
         
-    print(f"Matched {matched_count} Taiwan universities.")
-    print(f"Added {added_count} new Taiwan universities to JSON.")
+    print(f"Saved {len(taiwan_list)} Taiwan universities to {csv_path}")
 
 if __name__ == "__main__":
     update_taiwan()

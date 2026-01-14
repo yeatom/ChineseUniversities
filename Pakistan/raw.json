@@ -1,0 +1,382 @@
+[
+  {
+    "chinese_name": "阿拉马·伊克巴尔开放大学",
+    "english_name": "Allama Iqbal Open University"
+  },
+  {
+    "chinese_name": "阿巴辛大学",
+    "english_name": "Abasyn University"
+  },
+  {
+    "chinese_name": "阿伯塔巴德科技大学",
+    "english_name": "Abbottabad University of Science and Technology"
+  },
+  {
+    "chinese_name": "阿迦汗大学",
+    "english_name": "Aga Khan University"
+  },
+  {
+    "chinese_name": "巴哈瓦尔布尔伊斯兰大学",
+    "english_name": "The Islamia University of Bahawalpur"
+  },
+  {
+    "chinese_name": "本努科技大学",
+    "english_name": "University of Science and Technology  Bannu"
+  },
+  {
+    "chinese_name": "巴基斯坦经济发展学院",
+    "english_name": "Pakistan Institute of Development Economics"
+  },
+  {
+    "chinese_name": "白沙瓦萨哈德科学与信息技术大学",
+    "english_name": "Sarhad University of Science & Information Technology  Peshawar"
+  },
+  {
+    "chinese_name": "白沙瓦伊斯兰学院",
+    "english_name": "Islamia College Peshawar"
+  },
+  {
+    "chinese_name": "巴哈瓦尔布尔政府萨迪克女子大学学院",
+    "english_name": "The Government Sadiq College Women University Bahawalpur"
+  },
+  {
+    "chinese_name": "白沙瓦大学",
+    "english_name": "University of Peshawar"
+  },
+  {
+    "chinese_name": "巴基斯坦工程与应用科学学院",
+    "english_name": "Pakistan Institute of Engineering and Applied Sciences"
+  },
+  {
+    "chinese_name": "巴利亚大学",
+    "english_name": "Bahria University"
+  },
+  {
+    "chinese_name": "巴哈丁·扎卡里亚大学",
+    "english_name": "Bahauddin Zakariya University"
+  },
+  {
+    "chinese_name": "比肯豪斯国立大学",
+    "english_name": "Beaconhouse National University"
+  },
+  {
+    "chinese_name": "俾路支斯坦大学",
+    "english_name": "University of Balochistan"
+  },
+  {
+    "chinese_name": "白沙瓦农业大学",
+    "english_name": "The University of Agriculture Peshawar"
+  },
+  {
+    "chinese_name": "白沙瓦工程技术大学",
+    "english_name": "University of Engineering and Technology  Peshawar"
+  },
+  {
+    "chinese_name": "巴沙汗大学",
+    "english_name": "Bacha Khan University"
+  },
+  {
+    "chinese_name": "CECOS信息技术与新兴科学大学",
+    "english_name": "CECOS University of IT and Emerging Sciences"
+  },
+  {
+    "chinese_name": "达伍德工程与技术大学",
+    "english_name": "Dawood University of Engineering and Technology"
+  },
+  {
+    "chinese_name": "法蒂玛真纳女子大学",
+    "english_name": "Fatima Jinnah Women University"
+  },
+  {
+    "chinese_name": "福尔曼基督教学院",
+    "english_name": "Forman Christian College"
+  },
+  {
+    "chinese_name": "费萨拉巴德大学",
+    "english_name": "The University of Faisalabad"
+  },
+  {
+    "chinese_name": "费萨拉巴德农业大学",
+    "english_name": "University of Agriculture Faisalabad"
+  },
+  {
+    "chinese_name": "费萨拉巴德政府学院大学",
+    "english_name": "Government College University  Faisalabad"
+  },
+  {
+    "chinese_name": "管理与技术大学",
+    "english_name": "University of Management and Technology"
+  },
+  {
+    "chinese_name": "古吉拉特大学",
+    "english_name": "University of Gujrat"
+  },
+  {
+    "chinese_name": "古兰伊沙克汗工程科学技术研究所",
+    "english_name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology"
+  },
+  {
+    "chinese_name": "国际伊斯兰大学",
+    "english_name": "International Islamic University"
+  },
+  {
+    "chinese_name": "国防大学",
+    "english_name": "National Defence University"
+  },
+  {
+    "chinese_name": "国立现代语言大学",
+    "english_name": "National University of Modern Languages"
+  },
+  {
+    "chinese_name": "国立科学与技术大学",
+    "english_name": "National University of Sciences and Technology"
+  },
+  {
+    "chinese_name": "戈马尔大学",
+    "english_name": "Gomal University"
+  },
+  {
+    "chinese_name": "国家计算机与新兴科学大学",
+    "english_name": "National University of Computer and Emerging Sciences"
+  },
+  {
+    "chinese_name": "工商管理与经济国家学院",
+    "english_name": "National College of Business Administration and Economics"
+  },
+  {
+    "chinese_name": "航空大学",
+    "english_name": "Air University"
+  },
+  {
+    "chinese_name": "哈维里大学",
+    "english_name": "The Hajvery University"
+  },
+  {
+    "chinese_name": "哈扎拉大学",
+    "english_name": "Hazara University"
+  },
+  {
+    "chinese_name": "喀喇昆仑国际大学",
+    "english_name": "Karakurum International University"
+  },
+  {
+    "chinese_name": "开伯尔·普赫图赫瓦农业大学",
+    "english_name": "Khyber Pakhtunkhwa Agricultural University"
+  },
+  {
+    "chinese_name": "卡拉奇工商管理学院",
+    "english_name": "Institute of Business Administration Karachi"
+  },
+  {
+    "chinese_name": "凯尔布尔沙阿·阿卜杜勒·拉提夫大学",
+    "english_name": "Shah Abdul Latif University  Khairpur"
+  },
+  {
+    "chinese_name": "卡拉奇大学",
+    "english_name": "University of Karachi"
+  },
+  {
+    "chinese_name": "科哈特科技大学",
+    "english_name": "Kohat University of Science and Technology"
+  },
+  {
+    "chinese_name": "拉合尔管理科技学院",
+    "english_name": "The Institute of Management Sciences Lahore"
+  },
+  {
+    "chinese_name": "拉合尔兽医与动物科学大学",
+    "english_name": "University of Veterinary and Animal Sciences  Lahore"
+  },
+  {
+    "chinese_name": "联邦乌尔都文学与科技大学",
+    "english_name": "Federal Urdu University of Arts  Sciences and Technology"
+  },
+  {
+    "chinese_name": "里法国际大学",
+    "english_name": "Riphah International University"
+  },
+  {
+    "chinese_name": "拉希姆亚尔汗哈瓦德法雷德工程与信息技术大学",
+    "english_name": "Khwaja Fareed University of Engineering & Information Technology  Rahim Yar Khan"
+  },
+  {
+    "chinese_name": "拉斯贝拉农业水和海洋科学大学",
+    "english_name": "Lasbela University of Agriculture  Water and Marine Sciences"
+  },
+  {
+    "chinese_name": "拉合尔高等学院",
+    "english_name": "The Superior College Lahore"
+  },
+  {
+    "chinese_name": "拉合尔国家艺术学院",
+    "english_name": "National College of Arts  Lahore"
+  },
+  {
+    "chinese_name": "拉基马尔瓦特大学",
+    "english_name": "University of Lakki Marwat"
+  },
+  {
+    "chinese_name": "拉合尔政府学院大学",
+    "english_name": "Government College University Lahore"
+  },
+  {
+    "chinese_name": "拉合尔管理科学大学",
+    "english_name": "Lahore University of Management Sciences"
+  },
+  {
+    "chinese_name": "拉合尔工程与技术大学",
+    "english_name": "University of Engineering and Technology  Lahore"
+  },
+  {
+    "chinese_name": "拉合尔民哈吉大学",
+    "english_name": "Minhaj University Lahore"
+  },
+  {
+    "chinese_name": "拉合尔大学",
+    "english_name": "The University of Lahore"
+  },
+  {
+    "chinese_name": "拉合尔女子大学",
+    "english_name": "Lahore College for Women University"
+  },
+  {
+    "chinese_name": "拉合尔教育大学",
+    "english_name": "University of Education  Lahore"
+  },
+  {
+    "chinese_name": "马尔丹阿卜杜勒·瓦利汗大学",
+    "english_name": "Abdul Wali Khan University Mardan"
+  },
+  {
+    "chinese_name": "穆罕默德·阿里·金纳大学",
+    "english_name": "Mohammad Ali Jinnah University"
+  },
+  {
+    "chinese_name": "木尔坦南旁遮普学院",
+    "english_name": "Institute of Southern Punjab  Multan"
+  },
+  {
+    "chinese_name": "木尔坦女子大学",
+    "english_name": "The Women University Multan"
+  },
+  {
+    "chinese_name": "迈赫兰工程技术大学",
+    "english_name": "Mehran University of Engineering and Technology"
+  },
+  {
+    "chinese_name": "马拉坎大学",
+    "english_name": "University of Malakand"
+  },
+  {
+    "chinese_name": "内德工程技术大学",
+    "english_name": "NED University of Engineering and Technology"
+  },
+  {
+    "chinese_name": "诺罗瓦尔大学",
+    "english_name": "University of Narowal"
+  },
+  {
+    "chinese_name": "普莱斯顿大学",
+    "english_name": "Preston University"
+  },
+  {
+    "chinese_name": "普莱斯顿管理科学与技术大学",
+    "english_name": "Preston Institute of Management  Science and Technology"
+  },
+  {
+    "chinese_name": "皮尔·迈赫·阿里·沙阿干旱农业大学",
+    "english_name": "Pir Mehr Ali Shah Arid Agriculture University"
+  },
+  {
+    "chinese_name": "旁遮普大学",
+    "english_name": "University of the Punjab"
+  },
+  {
+    "chinese_name": "斯瓦特大学",
+    "english_name": "University of Swat"
+  },
+  {
+    "chinese_name": "沙希德佐勒菲卡尔阿里布托科技学院",
+    "english_name": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology"
+  },
+  {
+    "chinese_name": "沙希德佐勒菲卡尔·阿里·布托科技学院",
+    "english_name": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology"
+  },
+  {
+    "chinese_name": "萨戈达大学",
+    "english_name": "University of Sargodha"
+  },
+  {
+    "chinese_name": "赛义德先生工程与技术大学",
+    "english_name": "Sir Syed University of Engineering and Technology"
+  },
+  {
+    "chinese_name": "苏库尔IBA大学",
+    "english_name": "Sukkur IBA University"
+  },
+  {
+    "chinese_name": "沙希德·贝娜齐尔·布托大学",
+    "english_name": "Shaheed Benazir Bhutto University"
+  },
+  {
+    "chinese_name": "首都科技大学",
+    "english_name": "Capital University of Science and Technology"
+  },
+  {
+    "chinese_name": "斯瓦比大学",
+    "english_name": "University of Swabi"
+  },
+  {
+    "chinese_name": "塔西拉工程技术大学",
+    "english_name": "University of Engineering and Technology  Taxila"
+  },
+  {
+    "chinese_name": "Wah大学",
+    "english_name": "University of Wah"
+  },
+  {
+    "chinese_name": "锡亚尔科特政府女子大学学院",
+    "english_name": "Government College Women University  Sialkot"
+  },
+  {
+    "chinese_name": "信德农业大学",
+    "english_name": "Sindh Agriculture University Tandojam"
+  },
+  {
+    "chinese_name": "锡亚尔科特大学",
+    "english_name": "University of Sialkot"
+  },
+  {
+    "chinese_name": "信德大学",
+    "english_name": "University of Sindh"
+  },
+  {
+    "chinese_name": "伊斯兰堡基金会大学",
+    "english_name": "Foundation University Islamabad"
+  },
+  {
+    "chinese_name": "伊克拉国民大学",
+    "english_name": "Iqra National University"
+  },
+  {
+    "chinese_name": "伊斯兰堡COMSATS大学",
+    "english_name": "COMSATS University Islamabad"
+  },
+  {
+    "chinese_name": "伊克拉大学",
+    "english_name": "Iqra University"
+  },
+  {
+    "chinese_name": "中央旁遮普大学",
+    "english_name": "University of Central Punjab"
+  },
+  {
+    "chinese_name": "真纳大学",
+    "english_name": "Quaid-i-Azam University"
+  },
+  {
+    "chinese_name": "真纳女子大学",
+    "english_name": "Jinnah University for Women"
+  }
+]

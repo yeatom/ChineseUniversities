@@ -1,0 +1,32 @@
+[
+  {
+    "TWOCODE": null,
+    "IMG": null,
+    "COUNTRYINDEX": "A",
+    "EDITTIME": null,
+    "ADDTIME": null,
+    "ENGLISH_NAME": "الكليات التقنية",
+    "CHINESE_NAME": "高等技术学院",
+    "STATUS": "0",
+    "COUNTRY": "阿曼",
+    "UNIVERSITYINDEX": "G",
+    "THREECODE": null,
+    "ID": "102296",
+    "ICON": null
+  },
+  {
+    "TWOCODE": null,
+    "IMG": null,
+    "COUNTRYINDEX": "A",
+    "EDITTIME": null,
+    "ADDTIME": null,
+    "ENGLISH_NAME": "Sultan Qaboos University",
+    "CHINESE_NAME": "卡布斯苏丹大学",
+    "STATUS": "0",
+    "COUNTRY": "阿曼",
+    "UNIVERSITYINDEX": "K",
+    "THREECODE": null,
+    "ID": "105849",
+    "ICON": null
+  }
+]

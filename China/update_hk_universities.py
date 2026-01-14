@@ -82,45 +82,25 @@ def get_hk_universities():
 
 def update_json():
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    csv_path = os.path.join(base_dir, 'china_universities.csv')
+    # Change output to a separate CSV file
+    csv_path = os.path.join(base_dir, 'hk_universities.csv')
     
-    if not os.path.exists(csv_path):
-        print(f"Error: {csv_path} not found.")
-        return
-
-    universities = []
-    with open(csv_path, 'r', encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            universities.append(row)
-
     hk_universities = get_hk_universities()
     print(f"Found {len(hk_universities)} universities in Hong Kong page.")
 
-    # Mapping
-    uni_map = {normalize(u['chinese_name']): i for i, u in enumerate(universities)}
-    
-    matched_count = 0
-    added_count = 0
+    if not hk_universities:
+        return
+
+    # Prepare data for CSV
+    universities = []
     for hk_uni in hk_universities:
         if not hk_uni['chinese'] or not hk_uni['english']:
             continue
-            
-        norm_chi = normalize(hk_uni['chinese'])
-        if norm_chi in uni_map:
-            idx = uni_map[norm_chi]
-            if not universities[idx].get('english_name'):
-                universities[idx]['english_name'] = hk_uni['english']
-                matched_count += 1
-        else:
-            # Add new university to the list
-            universities.append({
-                "chinese_name": hk_uni['chinese'],
-                "english_name": hk_uni['english']
-            })
-            # Update map to prevent duplicates if multiple tables have same school
-            uni_map[norm_chi] = len(universities) - 1
-            added_count += 1
+        
+        universities.append({
+            "chinese_name": hk_uni['chinese'],
+            "english_name": hk_uni['english']
+        })
 
     with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
         fieldnames = ['chinese_name', 'english_name']
@@ -129,8 +109,7 @@ def update_json():
         for uni in universities:
             writer.writerow(uni)
         
-    print(f"Successfully matched and updated {matched_count} Hong Kong universities.")
-    print(f"Added {added_count} new Hong Kong universities to CSV.")
+    print(f"saved {len(universities)} Hong Kong universities to {csv_path}.")
 
 if __name__ == "__main__":
     update_json()

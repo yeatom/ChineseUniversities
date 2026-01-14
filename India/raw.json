@@ -1,0 +1,978 @@
+[
+  {
+    "chinese_name": "A.P.J.阿卜杜尔卡拉姆博士科技大学",
+    "english_name": "Dr. A.P.J. Abdul Kalam Technical University"
+  },
+  {
+    "chinese_name": "安得拉邦国家理工学院",
+    "english_name": "National Institute of Technology Andhra Pradesh"
+  },
+  {
+    "chinese_name": "阿查里亚龙树大学",
+    "english_name": "Acharya Nagarjuna University"
+  },
+  {
+    "chinese_name": "阿姆里塔威施瓦威达匹萨姆学院",
+    "english_name": "Amrita Vishwa Vidyapeetham"
+  },
+  {
+    "chinese_name": "阿格拉森喜玛拉雅加瓦尔大学",
+    "english_name": "Maharaja Agrasen Himalayan Garhwal University"
+  },
+  {
+    "chinese_name": "阿姆拉瓦蒂大学",
+    "english_name": "Amravati University"
+  },
+  {
+    "chinese_name": "阿格拉毗姆劳安贝德卡尔博士大学",
+    "english_name": "Dr.Bhimrao Ambedkar University  Agra"
+  },
+  {
+    "chinese_name": "奥里萨邦农业与技术大学",
+    "english_name": "Odisha University of Agriculture and Technology"
+  },
+  {
+    "chinese_name": "阿希尔亚女神大学",
+    "english_name": "Devi Ahilya Vishwavidyalaya"
+  },
+  {
+    "chinese_name": "安那大学",
+    "english_name": "Anna University"
+  },
+  {
+    "chinese_name": "阿拉哈巴德大学",
+    "english_name": "University of Allahabad"
+  },
+  {
+    "chinese_name": "安得拉大学",
+    "english_name": "Andhra University"
+  },
+  {
+    "chinese_name": "阿拉嘎帕大学",
+    "english_name": "Alagappa University"
+  },
+  {
+    "chinese_name": "阿里格尔穆斯林大学",
+    "english_name": "Aligarh Muslim University"
+  },
+  {
+    "chinese_name": "安纳马莱大学",
+    "english_name": "Annamalai University"
+  },
+  {
+    "chinese_name": "奥斯马尼亚大学",
+    "english_name": "Osmania University"
+  },
+  {
+    "chinese_name": "阿尔尼大学",
+    "english_name": "Arni University"
+  },
+  {
+    "chinese_name": "阿米提大学",
+    "english_name": "Amity University"
+  },
+  {
+    "chinese_name": "贝内特大学",
+    "english_name": "Bennett University"
+  },
+  {
+    "chinese_name": "巴巴萨赫布安贝德卡尔默拉特瓦拉博士大学",
+    "english_name": "Dr. Babasaheb Ambedkar Marathwada University"
+  },
+  {
+    "chinese_name": "博帕尔印度科学教育与研究学院",
+    "english_name": "Indian Institute of Science Education and Research Bhopal"
+  },
+  {
+    "chinese_name": "巴拉特高等教育与研究学院",
+    "english_name": "Bharath Institute of Higher Education & Research"
+  },
+  {
+    "chinese_name": "辨喜瑜伽研究学院",
+    "english_name": "Swami Vivekananda Yoga Anusandhana Samsthana"
+  },
+  {
+    "chinese_name": "巴拉西达萨恩大学",
+    "english_name": "Bharathidasan University"
+  },
+  {
+    "chinese_name": "北阿坎德邦梵语大学",
+    "english_name": "Uttarakhand Sanskrit University"
+  },
+  {
+    "chinese_name": "北阿坎德邦技术大学",
+    "english_name": "Uttarakhand Technical University"
+  },
+  {
+    "chinese_name": "巴尔达曼大学",
+    "english_name": "The University of Burdwan"
+  },
+  {
+    "chinese_name": "伯尔格杜尔拉赫大学",
+    "english_name": "Barkatullah University"
+  },
+  {
+    "chinese_name": "比久伯德纳耶格科技大学",
+    "english_name": "Biju Patnaik University of Technology"
+  },
+  {
+    "chinese_name": "巴拉西耶尔大学",
+    "english_name": "Bharathiar University"
+  },
+  {
+    "chinese_name": "本地治理大学",
+    "english_name": "Pondicherry University"
+  },
+  {
+    "chinese_name": "巴拉理工学院",
+    "english_name": "Birla Institute of Technology"
+  },
+  {
+    "chinese_name": "北孟加拉邦大学",
+    "english_name": "University of North Bengal"
+  },
+  {
+    "chinese_name": "B.S阿卜杜勒拉赫曼新月科技学院",
+    "english_name": "B. S. Abdur Rahman Crescent Institute Of Science & Technology"
+  },
+  {
+    "chinese_name": "贝拿勒斯印度教大学",
+    "english_name": "Banaras Hindu University"
+  },
+  {
+    "chinese_name": "班加罗尔大学",
+    "english_name": "Bangalore University"
+  },
+  {
+    "chinese_name": "巴拉科技学院",
+    "english_name": "The Birla Institute of Technology and Science"
+  },
+  {
+    "chinese_name": "昌迪加尔大学",
+    "english_name": "Chandigarh University"
+  },
+  {
+    "chinese_name": "查罗塔尔科技大学",
+    "english_name": "Charotar University of Science and Technology"
+  },
+  {
+    "chinese_name": "C.V.拉曼博士大学",
+    "english_name": "Dr. C.V.Raman University"
+  },
+  {
+    "chinese_name": "杜尔加布尔国家技术学院",
+    "english_name": "National Institute of Technology  Durgapur"
+  },
+  {
+    "chinese_name": "蒂拉克马哈拉施特拉邦学院",
+    "english_name": "Tilak Maharashtra Vidyapeeth"
+  },
+  {
+    "chinese_name": "迪恩达亚尔乌巴特亚耶戈勒克布尔大学",
+    "english_name": "Deen Dayal Upadhyay Gorakhpur University"
+  },
+  {
+    "chinese_name": "达亚南达萨格尔大学",
+    "english_name": "Dayananda Sagar University"
+  },
+  {
+    "chinese_name": "东北山区大学",
+    "english_name": "North-Eastern Hill University"
+  },
+  {
+    "chinese_name": "达阿尔巴格教育学院",
+    "english_name": "Dayalbagh Educational Institute"
+  },
+  {
+    "chinese_name": "蒂鲁吉拉伯利国家技术学院",
+    "english_name": "National Institute of Technology Tiruchirapalli"
+  },
+  {
+    "chinese_name": "德里大学",
+    "english_name": "University of Delhi"
+  },
+  {
+    "chinese_name": "达尔瓦德卡纳塔克大学",
+    "english_name": "Karnatak University，Dharwad"
+  },
+  {
+    "chinese_name": "德里技术大学",
+    "english_name": "Delhi Technological University"
+  },
+  {
+    "chinese_name": "EIILM大学",
+    "english_name": "EIILM University"
+  },
+  {
+    "chinese_name": "甘地技术管理大学",
+    "english_name": "Gandhi Institute of Technology and Management  University"
+  },
+  {
+    "chinese_name": "国立药物教育研究学院",
+    "english_name": "National Institute of Pharmaceutical Education and Research"
+  },
+  {
+    "chinese_name": "国家时装技术学院",
+    "english_name": "National Institute of Fashion Technology"
+  },
+  {
+    "chinese_name": "甘地格拉姆乡村学院",
+    "english_name": "The Gandhigram Rural Institute"
+  },
+  {
+    "chinese_name": "戈芬德巴拉布彭特农业技术大学",
+    "english_name": "G.B.Pant University of Agriculture & Technology"
+  },
+  {
+    "chinese_name": "高尔本格大学",
+    "english_name": "University of Gour Banga"
+  },
+  {
+    "chinese_name": "格恩努尔大学",
+    "english_name": "Kannur University"
+  },
+  {
+    "chinese_name": "国家圣徒图克多基马哈拉伊那格浦尔大学",
+    "english_name": "Rashtrasant Tukadoji Maharaj Nagpur University"
+  },
+  {
+    "chinese_name": "高哈提大学",
+    "english_name": "Gauhati University"
+  },
+  {
+    "chinese_name": "国家伊斯兰大学",
+    "english_name": "Jamia Millia Islamia"
+  },
+  {
+    "chinese_name": "古吉拉特大学",
+    "english_name": "Gujarat University"
+  },
+  {
+    "chinese_name": "古鲁格谢德拉大学",
+    "english_name": "Kurukshetra University"
+  },
+  {
+    "chinese_name": "古鲁杰默贝什沃尔科技大学",
+    "english_name": "Guru Jambeshwar University of Science and Technology"
+  },
+  {
+    "chinese_name": "管理学综合学院",
+    "english_name": "Institute for Integrated Learning in Management"
+  },
+  {
+    "chinese_name": "古鲁戈宾德辛格因德勒布勒斯特大学",
+    "english_name": "Guru Gobind Singh Indraprastha University"
+  },
+  {
+    "chinese_name": "果阿大学",
+    "english_name": "Goa University"
+  },
+  {
+    "chinese_name": "古吉拉特技术大学",
+    "english_name": "Gujarat Technological University"
+  },
+  {
+    "chinese_name": "国王瑟亚吉拉奥巴罗达大学",
+    "english_name": "Maharaja Sayajirao University of Baroda"
+  },
+  {
+    "chinese_name": "革命家什亚姆吉克里希纳沃尔马格杰奇大学",
+    "english_name": "Krantiguru Shyamji Krishna Verma Kachchh University"
+  },
+  {
+    "chinese_name": "花园城市大学",
+    "english_name": "Garden City University"
+  },
+  {
+    "chinese_name": "海得拉巴尼赫鲁科技大学",
+    "english_name": "Jawaharlal Nehru Technological University Hyderabad"
+  },
+  {
+    "chinese_name": "霍米巴巴国家学院",
+    "english_name": "Homi Bhabha National Institute"
+  },
+  {
+    "chinese_name": "海洋工程研究学院",
+    "english_name": "Marine Engineering and Research Institute"
+  },
+  {
+    "chinese_name": "哈米尔普尔国家技术学院",
+    "english_name": "National Institute of Technology  Hamirpur"
+  },
+  {
+    "chinese_name": "化学技术学院",
+    "english_name": "Institute of Chemical Technology"
+  },
+  {
+    "chinese_name": "海得拉巴大学",
+    "english_name": "University of Hyderabad"
+  },
+  {
+    "chinese_name": "哈里辛格高尔博士大学",
+    "english_name": "Dr. Harisingh Gour Vishwavidyalaya"
+  },
+  {
+    "chinese_name": "ICFAI大学",
+    "english_name": "The ICFAI University"
+  },
+  {
+    "chinese_name": "贾朗达尔比姆拉奥·拉姆吉·安贝德卡尔国家技术学院",
+    "english_name": "Dr. B. R. Ambedkar national Institute of Technology  Jalandhar"
+  },
+  {
+    "chinese_name": "教育高级研究院",
+    "english_name": "Institute of Advanced Studies in Education Deemed University"
+  },
+  {
+    "chinese_name": "加济阿巴德管理技术学院",
+    "english_name": "Institute of Management Technology  Ghaziabad"
+  },
+  {
+    "chinese_name": "基督学院",
+    "english_name": "CHRIST University"
+  },
+  {
+    "chinese_name": "贾伊恩学院",
+    "english_name": "JAIN (Deemed-to-be University)"
+  },
+  {
+    "chinese_name": "贾姆谢德布尔国家技术学院",
+    "english_name": "National Institute of Technology Jamshedpur"
+  },
+  {
+    "chinese_name": "贾米亚哈姆达德学院",
+    "english_name": "Jamia Hamdard"
+  },
+  {
+    "chinese_name": "加尔各答印度科学教育与研究学院",
+    "english_name": "Indian Institute of Science Education and Research Kolkata"
+  },
+  {
+    "chinese_name": "贾德沃布尔大学",
+    "english_name": "Jadavpur University"
+  },
+  {
+    "chinese_name": "吉瓦吉大学",
+    "english_name": "Jiwaji University"
+  },
+  {
+    "chinese_name": "贾达普大学",
+    "english_name": "Jadavpur University"
+  },
+  {
+    "chinese_name": "加瓦尔黑姆瓦迪嫩登综合性大学",
+    "english_name": "Hemwati Nandan Bahuguna Garhwal University"
+  },
+  {
+    "chinese_name": "杰伊纳拉扬维亚斯大学",
+    "english_name": "Jai Narain Vyas University"
+  },
+  {
+    "chinese_name": "加尔各答大学",
+    "english_name": "University of Calcutta"
+  },
+  {
+    "chinese_name": "羯陵伽大学",
+    "english_name": "Kalinga University"
+  },
+  {
+    "chinese_name": "贾迪什普拉萨德切伯尔默尔迪伯雷瓦拉先生大学",
+    "english_name": "Shri Jagdish Prasad Jhabarmal Tibrewala University"
+  },
+  {
+    "chinese_name": "贾伊比信息技术大学",
+    "english_name": "Jaypee University of Information Technology"
+  },
+  {
+    "chinese_name": "羯陵伽工业技术学院",
+    "english_name": "Kalinga Institute of Industrial Technology"
+  },
+  {
+    "chinese_name": "卡纳塔克中央大学",
+    "english_name": "Central University of Karnataka"
+  },
+  {
+    "chinese_name": "卡利亚尼大学",
+    "english_name": "University of Kalyani"
+  },
+  {
+    "chinese_name": "卡基纳达尼赫鲁科技大学",
+    "english_name": "Jawaharlal Nehru Technological University Kakinada"
+  },
+  {
+    "chinese_name": "卡纳塔克邦塞阿斯卡尔国家技术学院",
+    "english_name": "National Institute of Technology Karnataka  Surathkal"
+  },
+  {
+    "chinese_name": "卡利卡特大学",
+    "english_name": "University of Calicut"
+  },
+  {
+    "chinese_name": "卡拉萨林根研究与教育学院",
+    "english_name": "Kalasalingam Academy of Research and Education"
+  },
+  {
+    "chinese_name": "卡利卡特国家技术学院",
+    "english_name": "National Institute of Technology Calicut"
+  },
+  {
+    "chinese_name": "库鲁克谢特拉国家技术学院",
+    "english_name": "National Institute of Technology  Kurukshetra"
+  },
+  {
+    "chinese_name": "科内鲁·拉克什迈亚教育基金会学院",
+    "english_name": "Koneru Lakshmaiah Education Foundation"
+  },
+  {
+    "chinese_name": "喀拉拉大学",
+    "english_name": "University of Kerala"
+  },
+  {
+    "chinese_name": "库马温大学",
+    "english_name": "Kumaun University"
+  },
+  {
+    "chinese_name": "喀拉拉邦农业大学",
+    "english_name": "Kerala Agricultural University"
+  },
+  {
+    "chinese_name": "卡卡提亚大学",
+    "english_name": "Kakatiya University"
+  },
+  {
+    "chinese_name": "坎普尔查特拉帕蒂沙胡吉马哈拉杰大学",
+    "english_name": "Chhatrapati Shahu Ji Maharaj University  Kanpur"
+  },
+  {
+    "chinese_name": "科学与创新研究学院",
+    "english_name": "Academy of Scientific and Innovative Research"
+  },
+  {
+    "chinese_name": "科钦科技大学",
+    "english_name": "Cochin University of Science and Technology"
+  },
+  {
+    "chinese_name": "卡伦扬技术与科学学院",
+    "english_name": "Karunya Institute of Technology and Sciences"
+  },
+  {
+    "chinese_name": "克里希纳库玛尔辛格帕沃纳格尔国王大学",
+    "english_name": "Maharaja Krishnakumarsinhji Bhavnagar University"
+  },
+  {
+    "chinese_name": "鲁尔克拉国家技术学院",
+    "english_name": "National Institute of Technology Rourkela"
+  },
+  {
+    "chinese_name": "拉贾斯坦邦贾纳丹·赖·纳加尔维迪亚佩斯学院",
+    "english_name": "Janardan Rai Nagar Rajasthan Vidyapeeth University"
+  },
+  {
+    "chinese_name": "罗摩克里希那传道会维韦卡南达教育与研究学院",
+    "english_name": "Ramakrishna Mission Vivekananda Educational and Research Institute"
+  },
+  {
+    "chinese_name": "拉吉夫甘地健康科学大学",
+    "english_name": "Rajiv Gandhi University of Health Sciences"
+  },
+  {
+    "chinese_name": "拉吉夫甘地科技大学",
+    "english_name": "Rajiv Gandhi Prodoyogiki Vishwavidyalaya"
+  },
+  {
+    "chinese_name": "拉贾斯坦大学",
+    "english_name": "University of Rajasthan"
+  },
+  {
+    "chinese_name": "勒克瑙大学",
+    "english_name": "University of Lucknow"
+  },
+  {
+    "chinese_name": "拉姆马诺洛西亚阿瓦德博士土邦大学",
+    "english_name": "Dr. Ram Manohar Lohia Awadh University"
+  },
+  {
+    "chinese_name": "罗宾德拉纳特泰戈尔大学（前身为AISECT大学）",
+    "english_name": "Rabindranath Tagore University (formerly known as AISECT University)"
+  },
+  {
+    "chinese_name": "拉雅拉西马大学",
+    "english_name": "Rayalaseema University"
+  },
+  {
+    "chinese_name": "拉夫里专业大学",
+    "english_name": "Lovely Professional University"
+  },
+  {
+    "chinese_name": "罗塔克马哈希达亚南德大学",
+    "english_name": "Maharshi Dayanand University  Rohtak"
+  },
+  {
+    "chinese_name": "马尼帕尔大学",
+    "english_name": "Manipal University"
+  },
+  {
+    "chinese_name": "马格特大学",
+    "english_name": "Magadh University"
+  },
+  {
+    "chinese_name": "梅加拉亚国家技术学院",
+    "english_name": "National Institute of Technology Meghalaya"
+  },
+  {
+    "chinese_name": "马拉维亚国家理工学院",
+    "english_name": "Malaviya National Institute of Technology"
+  },
+  {
+    "chinese_name": "毛拉纳阿扎德理工学院",
+    "english_name": "Maulana Azad National Institute of Technology"
+  },
+  {
+    "chinese_name": "门格洛尔大学",
+    "english_name": "Mangalore University"
+  },
+  {
+    "chinese_name": "玛克恩拉尔杰杜尔韦蒂国立新闻与传播大学",
+    "english_name": "Makhanlal Chaturvedi National University of Journalism & Communication"
+  },
+  {
+    "chinese_name": "孟买大学",
+    "english_name": "University of Mumbai"
+  },
+  {
+    "chinese_name": "马杜赖卡马拉杰大学",
+    "english_name": "Madurai Kamaraj University"
+  },
+  {
+    "chinese_name": "默诺默尼耶姆孙德尔纳尔大学",
+    "english_name": "Manonmaniam Sundaranar University"
+  },
+  {
+    "chinese_name": "M.J.P.罗希尔汉德大学",
+    "english_name": "M.J.P. Rohilkhand University"
+  },
+  {
+    "chinese_name": "毛拉那阿扎德国家乌尔都大学",
+    "english_name": "Maulana Azad National Urdu University"
+  },
+  {
+    "chinese_name": "米佐拉姆大学",
+    "english_name": "Mizoram University"
+  },
+  {
+    "chinese_name": "密拉特乔杜里·查兰·辛格大学",
+    "english_name": "Chaudhary Charan Singh University  Meerut"
+  },
+  {
+    "chinese_name": "米佐拉姆国家技术学院",
+    "english_name": "National Institute of Technology Mizoram"
+  },
+  {
+    "chinese_name": "马德拉斯大学",
+    "english_name": "University of Madras"
+  },
+  {
+    "chinese_name": "迈索尔大学",
+    "english_name": "University of Mysore"
+  },
+  {
+    "chinese_name": "梅沃尔大学",
+    "english_name": "Mewar University"
+  },
+  {
+    "chinese_name": "马尼帕尔高等教育学院",
+    "english_name": "Manipal Academy of Higher Education"
+  },
+  {
+    "chinese_name": "马哈尔希达亚南德萨拉斯瓦蒂大学",
+    "english_name": "Maharshi Dayanand Saraswati University  Ajmer"
+  },
+  {
+    "chinese_name": "那格浦尔维斯瓦拉亚国家技术学院",
+    "english_name": "Visvesvaraya National Institute of Technology  Nagpur"
+  },
+  {
+    "chinese_name": "那加兰邦国家技术学院",
+    "english_name": "National Institute of Technology Nagaland"
+  },
+  {
+    "chinese_name": "纳兰达学院",
+    "english_name": "Nalanda College  Biharsharif"
+  },
+  {
+    "chinese_name": "女王杜尔加瓦蒂大学",
+    "english_name": "Rani Durgavati Vishwavidyalaya"
+  },
+  {
+    "chinese_name": "尼赫鲁科技大学",
+    "english_name": "Jawaharlal Nehru Technological University"
+  },
+  {
+    "chinese_name": "尼赫鲁高级科学研究中心",
+    "english_name": "Jawaharlal Nehru Centre For Advanced Scientific Research"
+  },
+  {
+    "chinese_name": "尼赫鲁大学",
+    "english_name": "Jawaharlal Nehru University"
+  },
+  {
+    "chinese_name": "尼尔玛大学",
+    "english_name": "Nirma University"
+  },
+  {
+    "chinese_name": "尼赫鲁科技大学阿嫩达布尔",
+    "english_name": "Jawaharlal Nehru Technological University Anantapur"
+  },
+  {
+    "chinese_name": "那格浦尔大学",
+    "english_name": "Nagpur University"
+  },
+  {
+    "chinese_name": "O.P.金达尔全球学院",
+    "english_name": "O.P. Jindal Global University"
+  },
+  {
+    "chinese_name": "帕蒂亚拉塔帕尔工程技术学院",
+    "english_name": "Thapar Institute of Engineering and Technology  Patiala"
+  },
+  {
+    "chinese_name": "普纳帕拉蒂维迪雅皮斯学院",
+    "english_name": "Bharati Vidyapeeth"
+  },
+  {
+    "chinese_name": "普纳高级技术国防学院",
+    "english_name": "Defence Institute of Advanced Technology  Pune"
+  },
+  {
+    "chinese_name": "旁遮普农业大学",
+    "english_name": "Punjab Agricultural University"
+  },
+  {
+    "chinese_name": "旁遮普技术大学",
+    "english_name": "Punjab Technical University"
+  },
+  {
+    "chinese_name": "Pt拉维申格尔舒格拉大学",
+    "english_name": "Pt. Ravishankar Shukla University"
+  },
+  {
+    "chinese_name": "旁遮普大学",
+    "english_name": "Panjab University"
+  },
+  {
+    "chinese_name": "旁遮普中央大学",
+    "english_name": "Central University of Punjab"
+  },
+  {
+    "chinese_name": "佩里亚大学",
+    "english_name": "Periyar University"
+  },
+  {
+    "chinese_name": "乔特里瑟尔文库玛尔喜马偕尔邦农业大学",
+    "english_name": "Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya"
+  },
+  {
+    "chinese_name": "圣雄甘地大学",
+    "english_name": "Mahatama Gandhi University"
+  },
+  {
+    "chinese_name": "苏拉特萨达尔瓦拉布哈伊国家技术学院",
+    "english_name": "Sardar Vallabhbhai National Institute of Technology  Surat"
+  },
+  {
+    "chinese_name": "萨巴马蒂大学",
+    "english_name": "Sabarmati University"
+  },
+  {
+    "chinese_name": "山姆希金波顿农业、技术与科学研究所",
+    "english_name": "Sam Higginbottom Institute of Agriculture  Technology & Sciences"
+  },
+  {
+    "chinese_name": "苏里尼大学",
+    "english_name": "Shoolini University"
+  },
+  {
+    "chinese_name": "萨雅巴玛学院",
+    "english_name": "Sathyabama University"
+  },
+  {
+    "chinese_name": "斯里·奇特拉·蒂鲁纳尔医学科学与技术学院",
+    "english_name": "Sree Chitra Tirunal Institute for Medical Sciences and"
+  },
+  {
+    "chinese_name": "苏曼迪普·维迪亚佩斯学院",
+    "english_name": "Sumandeep Vidyapeeth"
+  },
+  {
+    "chinese_name": "萨维德里普莱浦那大学",
+    "english_name": "Savitribai Phule Pune University"
+  },
+  {
+    "chinese_name": "斯瓦米拉玛嫩德朝圣默拉特瓦拉大学",
+    "english_name": "Swami Ramanand Teerth Marathwada University"
+  },
+  {
+    "chinese_name": "圣人古鲁那纳克大学",
+    "english_name": "Guru Nanak Dev University"
+  },
+  {
+    "chinese_name": "圣雄甘地农业大学",
+    "english_name": "Mahatma Gandhi Kashi Vidyapeeth"
+  },
+  {
+    "chinese_name": "室利克里什纳大学",
+    "english_name": "Sri krishnadevaraya University"
+  },
+  {
+    "chinese_name": "斯派塞纪念学院",
+    "english_name": "Spicer Memorial College"
+  },
+  {
+    "chinese_name": "圣隆格奥瓦尔工程技术学院",
+    "english_name": "Sant Longowal Institute of Engineering and Technology"
+  },
+  {
+    "chinese_name": "室利文格黛斯瓦拉大学",
+    "english_name": "Sri Venkateswara University"
+  },
+  {
+    "chinese_name": "SRM大学",
+    "english_name": "SRM University"
+  },
+  {
+    "chinese_name": "石油与能源研究大学",
+    "english_name": "University of Petroleum and Energy Studies"
+  },
+  {
+    "chinese_name": "沙尔达大学",
+    "english_name": "Sharda University"
+  },
+  {
+    "chinese_name": "绍皮德大学",
+    "english_name": "Shobhit University"
+  },
+  {
+    "chinese_name": "索拉什特拉大学",
+    "english_name": "Saurashtra University"
+  },
+  {
+    "chinese_name": "萨达尔帕特尔大学",
+    "english_name": "Sardar Patel University"
+  },
+  {
+    "chinese_name": "泰米尔纳德邦农业大学",
+    "english_name": "Tamil Nadu Agricultural University"
+  },
+  {
+    "chinese_name": "特里凡得琅印度科学教育与研究学院",
+    "english_name": "Indian Institute of Science Education and Research  Thiruvananthapuram"
+  },
+  {
+    "chinese_name": "塔塔基础研究院",
+    "english_name": "Tata Institute of Fundamental Research"
+  },
+  {
+    "chinese_name": "提鲁瓦鲁瓦大学",
+    "english_name": "Thiruvalluvar University"
+  },
+  {
+    "chinese_name": "泰米尔纳德邦博士M.G.拉马钱德兰医科大学",
+    "english_name": "The Tamilnadu Dr. M.G.R. Medical University"
+  },
+  {
+    "chinese_name": "塔塔社科学院",
+    "english_name": "Tata Institute of Social Sciences"
+  },
+  {
+    "chinese_name": "太平洋高等教育研究院大学",
+    "english_name": "Pacific Academy of Higher Education Research University"
+  },
+  {
+    "chinese_name": "韦洛尔理工学院",
+    "english_name": "Vellore Institute of Technology"
+  },
+  {
+    "chinese_name": "维什沃格尔玛大学",
+    "english_name": "Vishwakarma University"
+  },
+  {
+    "chinese_name": "维德雅瑟格大学",
+    "english_name": "Vidyasagar University"
+  },
+  {
+    "chinese_name": "瓦兰加尔国家技术学院",
+    "english_name": "National Institute of Technology Warangal"
+  },
+  {
+    "chinese_name": "伟大的诗人迦梨陀娑梵语大学",
+    "english_name": "Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya"
+  },
+  {
+    "chinese_name": "韦斯科技大学",
+    "english_name": "Visvesvaraya Technological University"
+  },
+  {
+    "chinese_name": "维纳耶格使命锡金邦大学",
+    "english_name": "Vinayaka Missions Sikkim University"
+  },
+  {
+    "chinese_name": "维尔纳尔默德南古吉拉特大学",
+    "english_name": "Veer Narmad South Gujarat University"
+  },
+  {
+    "chinese_name": "西尔恰尔阿萨姆大学",
+    "english_name": "Assam University  Silchar"
+  },
+  {
+    "chinese_name": "西孟加拉邦毛拉·阿布·卡拉姆·阿扎德技术大学",
+    "english_name": "Maulana Abul Kalam Azad University of Technology  West Bengal"
+  },
+  {
+    "chinese_name": "锡尔杰尔国家技术学院",
+    "english_name": "National Institute of Technology Silchar"
+  },
+  {
+    "chinese_name": "希瓦吉大学",
+    "english_name": "Shivaji University"
+  },
+  {
+    "chinese_name": "喜马偕尔邦大学",
+    "english_name": "Himachal Pradesh University"
+  },
+  {
+    "chinese_name": "西尼亚大学",
+    "english_name": "Singhania University"
+  },
+  {
+    "chinese_name": "希普尔印度工程科学与技术学院",
+    "english_name": "Indian Institute of Engineering Science and Technology  Shibpur"
+  },
+  {
+    "chinese_name": "锡金邦玛尼帕尔大学",
+    "english_name": "Sikkim Manipal University"
+  },
+  {
+    "chinese_name": "印度理工学院果阿分校",
+    "english_name": "Indian Institute of Technology Goa"
+  },
+  {
+    "chinese_name": "印度科学培育协会学院",
+    "english_name": "Indian Association for the Cultivation of Science"
+  },
+  {
+    "chinese_name": "印度理工学院巴特那分校",
+    "english_name": "Indian Institute of Technology Patna"
+  },
+  {
+    "chinese_name": "印度理工学院卡拉格普尔分校",
+    "english_name": "Indian Institute of Technology Kharagpur"
+  },
+  {
+    "chinese_name": "印度统计学院",
+    "english_name": "Indian Statistical Institute"
+  },
+  {
+    "chinese_name": "印多尔印度管理学院",
+    "english_name": "Indian Institute of Management Indore"
+  },
+  {
+    "chinese_name": "印度理工学院焦特布尔分校",
+    "english_name": "Indian Institute of Technology Jodhpur"
+  },
+  {
+    "chinese_name": "印度教育与研究科学学院莫哈利分校",
+    "english_name": "Indian Institute of Science Education and Research Mohali"
+  },
+  {
+    "chinese_name": "印度理工学院瓦拉纳西分校（巴纳拉斯印度大学）",
+    "english_name": "Indian Institute of Technology (Banaras Hindu University)  Varanasi"
+  },
+  {
+    "chinese_name": "印度理工学院布巴内斯瓦尔分校",
+    "english_name": "Indian Institute of Technology Bhubaneswar"
+  },
+  {
+    "chinese_name": "印度斯坦科技学院",
+    "english_name": "Hindustan Institute of Technology and Science"
+  },
+  {
+    "chinese_name": "印度理工学院丹巴德分校（印度矿业学院）",
+    "english_name": "Indian Institute of Technology (Indian School of Mines)  Dhanbad"
+  },
+  {
+    "chinese_name": "印度理工学院印多尔分校",
+    "english_name": "Indian Institute of Technology Indore"
+  },
+  {
+    "chinese_name": "印度理工学院孟买分校",
+    "english_name": "Indian Institute of Technology Bombay"
+  },
+  {
+    "chinese_name": "印度国际大学",
+    "english_name": "Visva Bharati"
+  },
+  {
+    "chinese_name": "印度理工学院曼迪分校",
+    "english_name": "Indian Institute of Technology Mandi"
+  },
+  {
+    "chinese_name": "约吉维马拉大学",
+    "english_name": "Yogi Vemana University"
+  },
+  {
+    "chinese_name": "印度理工学院海德巴拉分校",
+    "english_name": "Indian Institute of Technology Hyderabad"
+  },
+  {
+    "chinese_name": "印度理工学院甘地讷格尔分校",
+    "english_name": "Indian Institute of Technology Gandhinagar"
+  },
+  {
+    "chinese_name": "艺术科技研究学院（萨斯特拉）",
+    "english_name": "Shanmugha Arts  Science  Technology & Research Academy (SASTRA)"
+  },
+  {
+    "chinese_name": "印度理工学院德里分校",
+    "english_name": "Indian Institute of Technology Delhi"
+  },
+  {
+    "chinese_name": "印度理工学院罗巴尔分校",
+    "english_name": "Indian Institute of Technology Ropar"
+  },
+  {
+    "chinese_name": "印度理工学院比莱分校",
+    "english_name": "Indian Institute of Technology Bhilai"
+  },
+  {
+    "chinese_name": "印度理工学院坎普尔分校",
+    "english_name": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "chinese_name": "印度科学学院",
+    "english_name": "Indian Institute of Science"
+  },
+  {
+    "chinese_name": "印度理工学院古瓦哈提分校",
+    "english_name": "Indian Institute of Technology Guwahati"
+  },
+  {
+    "chinese_name": "印度理工学院马德拉斯分校",
+    "english_name": "Indian Institute of Technology Madras"
+  },
+  {
+    "chinese_name": "英语与外国语大学",
+    "english_name": "The English And Foreign Languages University"
+  },
+  {
+    "chinese_name": "印度理工学院鲁基分校",
+    "english_name": "Indian Institute of Technology Roorkee"
+  },
+  {
+    "chinese_name": "斋浦尔IIS学院",
+    "english_name": "IIS (Deemed to be University)  Jaipur"
+  },
+  {
+    "chinese_name": "斋浦尔国家大学",
+    "english_name": "Jaipur National University"
+  }
+]

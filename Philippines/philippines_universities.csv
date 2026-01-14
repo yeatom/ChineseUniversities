@@ -1,4 +1,4 @@
-﻿Chinese Name,English Name
+﻿chinese_name,english_name
 AMA计算机学院,AMA Computer College
 安格拉斯大学,Angeles University Foundation
 奥西亚斯教育基金会,Osias Educational Foundation
@@ -28,7 +28,7 @@ AMA大学,AMA University
 德拉萨医学健康科学学院,De La Salle Medical and Health Sciences Institute
 菲律宾卫斯理大学,Wesleyan University-Philippines
 菲律宾北部大学,University of Northern Philippines
-菲律宾技术学院,Technological Institute of the Philippines
+菲律宾技术学院,Technological Institute of the Philippines
 菲律宾大学维萨亚斯分校,University of the Philippines  Visayas
 菲律宾师范大学,Philippine Normal University
 菲律宾大学洛斯班那斯分校,University of the Philippines  Los Banoss
@@ -38,19 +38,17 @@ AMA大学,AMA University
 菲律宾女子大学,The Philippine Women's University
 菲律宾莱西姆大学,Lyceum of the Philippines University
 菲律宾大学第利曼分校,University of the Philippines  Diliman
-菲律宾大学洛斯班那斯分校,University of the Philippines  Los Banos
 菲律宾基督大学,Adventist University of the Philippines
 菲律宾莱康大学,La Consolacion University Philippines
 菲律宾商船学校,Philippine Merchant Marine School
 菲律宾基督教大学,Philippine Christian University
 菲律宾科技大学,Technological University of the Philippines
 泛太平洋大学,Panpacific  University
-菲律宾师范大学,Pamantasang Normal Ng Pilipinas
 菲律宾大学碧瑶分校,University of the Philippines Baguio
 菲律宾健康科学学院,Philipine College of Health Sciences  INC
 菲律宾达沃女子学院,Philippine Women's College of Davao
 菲拉默基督教大学,Filamer Christian University
-菲律宾大学宿务学院,University of the Philippines – College of Cebu
+菲律宾大学宿务学院,University of the Philippines Cebu College
 格林维尔学院,Greenville College
 国家大学,National University
 国际基督高级研究院,Adventist International Institute of Advanced Studies
@@ -90,7 +88,7 @@ AMA大学,AMA University
 曼纽尔奎松大学,Manuel L. Quezon University
 马尼拉时报学院,The Manila Times College of Subic
 马尼拉信息学院,Informatics College Manila
-马尼拉市立大学,Universidad de Manila
+马尼拉市立大学,University of Manila
 曼纽安佛各大学卢塞纳校区,Manuel S. Enverga University Foundation-Lucena
 南方浸会学院,Southern Baptist College
 南棉兰老大学,University of Southern Mindanao

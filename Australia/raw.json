@@ -1,0 +1,458 @@
+[
+  {
+    "chinese_name": "澳大利亚国立大学",
+    "english_name": "The Australian National University"
+  },
+  {
+    "chinese_name": "澳大利亚自然疗法学院",
+    "english_name": "Australasian College of Natural Therapies"
+  },
+  {
+    "chinese_name": "澳大利亚联邦大学",
+    "english_name": "Federation University Australia"
+  },
+  {
+    "chinese_name": "阿德莱德大学",
+    "english_name": "The University of Adelaide"
+  },
+  {
+    "chinese_name": "澳大利亚应用心理学院",
+    "english_name": "Australian College of Applied Psychology"
+  },
+  {
+    "chinese_name": "澳大利亚音乐学院",
+    "english_name": "The Australian Institute of Music"
+  },
+  {
+    "chinese_name": "澳大拉西亚理工学院",
+    "english_name": "Academies Australasia Polytechnic"
+  },
+  {
+    "chinese_name": "澳大利亚蓝带学院",
+    "english_name": "Le Cordon Bleu Australia"
+  },
+  {
+    "chinese_name": "澳大利亚航空学院",
+    "english_name": "Aviation Australia"
+  },
+  {
+    "chinese_name": "澳大利亚商业管理学院",
+    "english_name": "Australian Institute of Business and Management"
+  },
+  {
+    "chinese_name": "澳大利亚凯斯林大学",
+    "english_name": "Australian Catholic University"
+  },
+  {
+    "chinese_name": "澳大利亚技术与商业学院",
+    "english_name": "Australian Institute of Technology And Commerce"
+  },
+  {
+    "chinese_name": "埃文代尔大学",
+    "english_name": "Avondale University"
+  },
+  {
+    "chinese_name": "阿德莱德高等教育学院",
+    "english_name": "Adelaide Institute of Higher Education"
+  },
+  {
+    "chinese_name": "澳大利亚商学院",
+    "english_name": "Australian Institute of Business"
+  },
+  {
+    "chinese_name": "澳大利亚国立管理与商业学院",
+    "english_name": "Australian National Institute of Management and Commerce"
+  },
+  {
+    "chinese_name": "澳大利亚高等教育学院",
+    "english_name": "Australian Institute of Higher Education"
+  },
+  {
+    "chinese_name": "澳大利亚与新西兰特许会计师协会",
+    "english_name": "Chartered Accountants Australia and New Zealand"
+  },
+  {
+    "chinese_name": "澳大利亚理工学院",
+    "english_name": "Polytechnic Institute Australia"
+  },
+  {
+    "chinese_name": "澳大利亚怀特豪斯设计学院",
+    "english_name": "Whitehouse Institute of Design  Australia"
+  },
+  {
+    "chinese_name": "澳津高等教育学院",
+    "english_name": "OZFORD Institute of Higher Education"
+  },
+  {
+    "chinese_name": "埃斯伯利学院",
+    "english_name": "Eynesbury College"
+  },
+  {
+    "chinese_name": "澳大利亚肯特学院",
+    "english_name": "Kent Institute Australia"
+  },
+  {
+    "chinese_name": "澳大利亚中汇学院",
+    "english_name": "Edvantage Institute Australia"
+  },
+  {
+    "chinese_name": "邦德大学",
+    "english_name": "Bond University"
+  },
+  {
+    "chinese_name": "博士山技术与继续教育学院",
+    "english_name": "Box Hill Institute"
+  },
+  {
+    "chinese_name": "查尔斯达尔文大学",
+    "english_name": "Charles Darwin University"
+  },
+  {
+    "chinese_name": "查尔斯特大学",
+    "english_name": "Charles Sturt University"
+  },
+  {
+    "chinese_name": "迪肯大学",
+    "english_name": "Deakin University"
+  },
+  {
+    "chinese_name": "弗林德斯大学",
+    "english_name": "Flinders University"
+  },
+  {
+    "chinese_name": "法学院",
+    "english_name": "The College of Law"
+  },
+  {
+    "chinese_name": "国家艺术学院",
+    "english_name": "National Art School"
+  },
+  {
+    "chinese_name": "国际酒店管理学院",
+    "english_name": "ICHM"
+  },
+  {
+    "chinese_name": "格里菲斯大学",
+    "english_name": "Griffith University"
+  },
+  {
+    "chinese_name": "国际研究学院",
+    "english_name": "The Institute of International Studies"
+  },
+  {
+    "chinese_name": "皇家墨尔本理工大学",
+    "english_name": "Royal Melbourne Institute of Technology"
+  },
+  {
+    "chinese_name": "霍姆斯格兰技术与继续教育学院",
+    "english_name": "Holmesglen Institute"
+  },
+  {
+    "chinese_name": "霍尔姆斯学院",
+    "english_name": "Holmes Institute"
+  },
+  {
+    "chinese_name": "剑桥国际学院",
+    "english_name": "CIC Higher Education"
+  },
+  {
+    "chinese_name": "JMC学院",
+    "english_name": "JMC Academy"
+  },
+  {
+    "chinese_name": "昆士兰大学",
+    "english_name": "The University of Queensland"
+  },
+  {
+    "chinese_name": "堪培拉大学",
+    "english_name": "University of Canberra"
+  },
+  {
+    "chinese_name": "科廷大学",
+    "english_name": "Curtin University"
+  },
+  {
+    "chinese_name": "堪培拉技术学院",
+    "english_name": "Canberra Institute of Technology"
+  },
+  {
+    "chinese_name": "康格学院",
+    "english_name": "Kangan Institute"
+  },
+  {
+    "chinese_name": "坎宁学院",
+    "english_name": "Canning College"
+  },
+  {
+    "chinese_name": "科廷学院",
+    "english_name": "Curtin College"
+  },
+  {
+    "chinese_name": "卡普兰商学院",
+    "english_name": "Kaplan Business School"
+  },
+  {
+    "chinese_name": "昆士兰商业技术学院",
+    "english_name": "Queensland Institute of Business and Technology"
+  },
+  {
+    "chinese_name": "昆士兰技术与继续教育学院",
+    "english_name": "TAFE Queensland"
+  },
+  {
+    "chinese_name": "昆士兰科技大学",
+    "english_name": "Queensland University of Technology"
+  },
+  {
+    "chinese_name": "拉筹伯学院",
+    "english_name": "La Trobe College"
+  },
+  {
+    "chinese_name": "拉萨尔学院墨尔本分校",
+    "english_name": "LCI Melbourne"
+  },
+  {
+    "chinese_name": "乐卓博大学",
+    "english_name": "La Trobe University"
+  },
+  {
+    "chinese_name": "里昂学院",
+    "english_name": "Lyons College"
+  },
+  {
+    "chinese_name": "墨尔本理工学院",
+    "english_name": "Melbourne Polytechnic"
+  },
+  {
+    "chinese_name": "墨尔本技术学院",
+    "english_name": "Melbourne Institute of Technology"
+  },
+  {
+    "chinese_name": "墨尔本大学",
+    "english_name": "The University of Melbourne"
+  },
+  {
+    "chinese_name": "默多克技术学院",
+    "english_name": "Murdoch Institute of Technology"
+  },
+  {
+    "chinese_name": "莫纳什学院",
+    "english_name": "Monash College"
+  },
+  {
+    "chinese_name": "墨尔本商业技术学院",
+    "english_name": "Melbourne Institute of Business and Technology"
+  },
+  {
+    "chinese_name": "麦考瑞大学",
+    "english_name": "Macquarie University"
+  },
+  {
+    "chinese_name": "莫纳什大学",
+    "english_name": "Monash University"
+  },
+  {
+    "chinese_name": "莫道克大学",
+    "english_name": "Murdoch University"
+  },
+  {
+    "chinese_name": "南十字星大学",
+    "english_name": "Southern Cross University"
+  },
+  {
+    "chinese_name": "纽卡斯尔大学",
+    "english_name": "The University of Newcastle"
+  },
+  {
+    "chinese_name": "南澳大利亚大学",
+    "english_name": "University of South Australia"
+  },
+  {
+    "chinese_name": "南昆士兰大学",
+    "english_name": "University of Southern Queensland"
+  },
+  {
+    "chinese_name": "南澳大利亚技术与继续教育学院",
+    "english_name": "TAFE SA"
+  },
+  {
+    "chinese_name": "南十字星教育学院",
+    "english_name": "Southern cross education institute"
+  },
+  {
+    "chinese_name": "纽卡斯尔国际学院",
+    "english_name": "Newcastle International College"
+  },
+  {
+    "chinese_name": "南澳大利亚商业技术学院",
+    "english_name": "South Australian Institute of Business and Technology"
+  },
+  {
+    "chinese_name": "奇泽姆技术与继续教育学院",
+    "english_name": "Chisholm Institute of TAFE"
+  },
+  {
+    "chinese_name": "斯文本科技大学",
+    "english_name": "Swinburne University of Technology"
+  },
+  {
+    "chinese_name": "SAE创意媒体学院",
+    "english_name": "SAE Creative Media Institute"
+  },
+  {
+    "chinese_name": "斯坦利学院",
+    "english_name": "Stanley College"
+  },
+  {
+    "chinese_name": "S P Jain全球管理学院",
+    "english_name": "S P Jain School of Global Management"
+  },
+  {
+    "chinese_name": "斯道兹学院",
+    "english_name": "Stotts Colleges"
+  },
+  {
+    "chinese_name": "桑瑞斯技术与继续教育学院",
+    "english_name": "Sunraysia Institute of TAFE"
+  },
+  {
+    "chinese_name": "塔斯马尼亚大学",
+    "english_name": "University of Tasmania"
+  },
+  {
+    "chinese_name": "塔斯马尼亚技术与继续教育学院",
+    "english_name": "TasTAFE"
+  },
+  {
+    "chinese_name": "泰勒学院",
+    "english_name": "Taylors College"
+  },
+  {
+    "chinese_name": "托伦斯大学",
+    "english_name": "Torrens University Australia"
+  },
+  {
+    "chinese_name": "伍伦贡大学",
+    "english_name": "University of Wollongong"
+  },
+  {
+    "chinese_name": "维多利亚大学",
+    "english_name": "Victoria University"
+  },
+  {
+    "chinese_name": "维多利亚理工学院",
+    "english_name": "Victorian Institute of Technology"
+  },
+  {
+    "chinese_name": "伍伦贡学院",
+    "english_name": "UOW College"
+  },
+  {
+    "chinese_name": "文特沃斯高等教育学院",
+    "english_name": "Wentworth Institute of Higher Education"
+  },
+  {
+    "chinese_name": "威廉安格利斯技术与继续教育学院",
+    "english_name": "William Angliss Institute of TAFE"
+  },
+  {
+    "chinese_name": "新英格兰大学",
+    "english_name": "University of New England"
+  },
+  {
+    "chinese_name": "新南威尔士大学",
+    "english_name": "The University of New South Wales"
+  },
+  {
+    "chinese_name": "悉尼大学",
+    "english_name": "The University of Sydney"
+  },
+  {
+    "chinese_name": "西澳大利亚大学",
+    "english_name": "The University of Western Australia"
+  },
+  {
+    "chinese_name": "悉尼科技大学",
+    "english_name": "University of Technology Sydney"
+  },
+  {
+    "chinese_name": "悉尼环球商学院",
+    "english_name": "Universal Business School Sydney"
+  },
+  {
+    "chinese_name": "悉尼传统中医学院",
+    "english_name": "Sydney Institute of Traditional Chinese Medicine"
+  },
+  {
+    "chinese_name": "悉尼科技大学学院",
+    "english_name": "University of Technology Sydney College"
+  },
+  {
+    "chinese_name": "悉尼理工学院",
+    "english_name": "Sydney Polytechnic Institute"
+  },
+  {
+    "chinese_name": "西悉尼大学",
+    "english_name": "Western Sydney University"
+  },
+  {
+    "chinese_name": "新南威尔士技术与继续教育学院",
+    "english_name": "TAFE NSW"
+  },
+  {
+    "chinese_name": "西澳大利亚理工学院",
+    "english_name": "The Polytechnic of Western Australia"
+  },
+  {
+    "chinese_name": "悉尼商业技术学院",
+    "english_name": "Sydney Institute of Business and Technology"
+  },
+  {
+    "chinese_name": "悉尼国际管理学院",
+    "english_name": "International College of Management  Sydney"
+  },
+  {
+    "chinese_name": "信息技术学院",
+    "english_name": "Academy of Information Technology"
+  },
+  {
+    "chinese_name": "西澳国际技术与继续教育学院",
+    "english_name": "TAFE International Western Australia"
+  },
+  {
+    "chinese_name": "阳光海岸大学",
+    "english_name": "University of the Sunshine Coast"
+  },
+  {
+    "chinese_name": "亚太国际学院",
+    "english_name": "Asia Pacific International College"
+  },
+  {
+    "chinese_name": "伊塞西雅学院",
+    "english_name": "Excelsia College"
+  },
+  {
+    "chinese_name": "音乐与表演艺术学院",
+    "english_name": "Academy of Music and Performing Arts"
+  },
+  {
+    "chinese_name": "伊迪斯科文大学",
+    "english_name": "Edith Cowan University"
+  },
+  {
+    "chinese_name": "伊迪斯科文学院",
+    "english_name": "Edith Cowan College"
+  },
+  {
+    "chinese_name": "英才教育学院",
+    "english_name": "Elite Education Institute"
+  },
+  {
+    "chinese_name": "中央昆士兰大学",
+    "english_name": "Central Queensland University"
+  },
+  {
+    "chinese_name": "詹姆斯库克大学",
+    "english_name": "James Cook University"
+  }
+]

@@ -55,22 +55,35 @@ python generate_summary.py
 - [x] 🇲🇾 **Malaysia**: 116 records.
 - [x] 🇦🇺 **Australia**: 114 records.
 - [x] 🇵🇱 **Poland**: 88 records, Gemini-translated from Polish.
+- [x] �🇸 **Spain**: 76 records, Gemini-translated from Spanish.
+- [x] 🇳🇿 **New Zealand**: 65 records.
+- [x] 🇹🇷 **Turkey**: 57 records.
+- [x] 🇲🇽 **Mexico**: 49 records, Gemini-translated from Spanish.
+- [x] 🇳🇱 **Netherlands**: 47 records, Gemini-translated from Dutch.
 - [x] 🇻🇳 **Vietnam**: 47 records.
 - [x] 🇿🇦 **South Africa**: 38 records.
+- [x] 🇲🇳 **Mongolia**: 36 records.
 - [x] 🇸🇪 **Sweden**: 31 records, Gemini-translated from Swedish.
 - [x] 🇪🇬 **Egypt**: 28 records.
 - [x] 🇨🇭 **Switzerland**: 26 records, Gemini-translated.
+- [x] 🇵🇹 **Portugal**: 26 records, Gemini-translated from Portuguese.
+- [x] 🇨🇿 **Czech Republic**: 25 records, Gemini-translated from Czech.
 - [x] 🇧🇩 **Bangladesh**: 24 records.
 - [x] 🇦🇫 **Afghanistan**: 22 records.
+- [x] 🇳🇴 **Norway**: 21 records.
 - [x] 🇸🇬 **Singapore**: 15 records.
 - [x] 🇮🇪 **Ireland**: 14 records.
 - [x] 🇮🇱 **Israel**: 14 records.
 - [x] 🇦🇪 **UAE**: 13 records.
+- [x] 🇬🇪 **Georgia**: 13 records, Gemini-translated from Georgian.
+- [x] 🇱🇰 **Sri Lanka**: 12 records.
 - [x] 🇰🇪 **Kenya**: 11 records.
 - [x] 🇪🇹 **Ethiopia**: 9 records.
 - [x] 🇰🇭 **Cambodia**: 8 records.
 - [x] 🇲🇩 **Moldova**: 8 records.
 - [x] 🇨🇲 **Cameroon**: 4 records.
+- [x] 🇱🇦 **Laos**: 4 records.
+- [x] 🇫🇯 **Fiji**: 3 records.
 - [x] 🇶🇦 **Qatar**: 2 records.
 - [ ] **Europe**: Planned.
 

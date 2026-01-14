@@ -1,0 +1,401 @@
+[
+  {
+    "chinese_name": "安卡拉哈哲巴依让维利大学",
+    "english_name": "Ankara Haci Bayram Veli University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "埃尔卡坎大学",
+    "english_name": "Necmettin Erbakan University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "埃斯基谢尔奥斯曼齐大学",
+    "english_name": "Eskisehir Osmangazi University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "埃尔吉耶斯大学",
+    "english_name": "Erciyes University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "爱琴海大学",
+    "english_name": "Ege University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "阿卡德尼兹大学",
+    "english_name": "Akdeniz University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "安卡拉大学",
+    "english_name": "Ankara University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "安卡拉伊迪迪林贝亚兹大学",
+    "english_name": "Ankara Yildirim Beyazit University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "安塔利亚比利时大学",
+    "english_name": "Antalya Bilim University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "阿塔图克大学",
+    "english_name": "Ataturk University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "埃斯基谢尔技术大学",
+    "english_name": "Eskisehir Technical University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "阿菲恩科塔特佩大学",
+    "english_name": "Afyon Kocatepe University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "巴里克希尔大学",
+    "english_name": "Balikesir University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "毕尔肯大学",
+    "english_name": "Ihsan Dogramaci Bilkent University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "贝彻思大学",
+    "english_name": "Bahcesehir University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "博卢阿班特伊扎特拜萨尔大学",
+    "english_name": "Bolu Abant Izzet Baysal University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "多鲁大学",
+    "english_name": "Anadolu University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "度库兹埃路尔大学",
+    "english_name": "Dokuz Eylul University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "菲拉特大学",
+    "english_name": "Firat University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "国防大学",
+    "english_name": "Milli Savunma Üniversitesi",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "哈西德佩大学",
+    "english_name": "Hacettepe University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "海峡大学",
+    "english_name": "Bogazici University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "警察学院",
+    "english_name": "Police Academy",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "加齐大学",
+    "english_name": "Gazi University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "吉布斯技术大学",
+    "english_name": "Gebze Technical University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "KOC大学",
+    "english_name": "Koc University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "库库罗瓦大学",
+    "english_name": "Cukurova University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "科贾埃利大学",
+    "english_name": "Kocaeli University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "卡拉布克大学",
+    "english_name": "Karabuk University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "马尼萨塞拉尔巴亚尔大学",
+    "english_name": "Manisa Celal Bayar University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "马尔马拉大学",
+    "english_name": "Marmara University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "梅尔辛大学",
+    "english_name": "Mersin University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "玛格拉锡特卡克茨曼大学",
+    "english_name": "Mugla Sitki Kocman University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "尼桑塔斯大学",
+    "english_name": "Nisantasi University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "帕姆卡莱大学",
+    "english_name": "Pamukkale University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "萨班哲大学",
+    "english_name": "Sabanci University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "萨卡利亚大学",
+    "english_name": "Sakarya University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "塞尔库克大学",
+    "english_name": "Selcuk University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "乌鲁达大学",
+    "english_name": "Uludag University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "五一九大学",
+    "english_name": "Ondokuz Mayis University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "乌斯库达大学",
+    "english_name": "Uskudar University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "锡瓦斯库胡里耶特大学",
+    "english_name": "Sivas Cumhuriyet Üniversitesi",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "叶迪特佩大学",
+    "english_name": "Yeditepe University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔奥坎大学",
+    "english_name": "Istanbul Okan University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊兹密尔经济大学",
+    "english_name": "Izmir University of Economics",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔大学",
+    "english_name": "Istanbul University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔商业大学",
+    "english_name": "Istanbul Commerce University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔技术大学",
+    "english_name": "Istanbul Technical University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔萨巴哈丁大学",
+    "english_name": "Istanbul Sabahattin Zaim University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔埃森尤特大学",
+    "english_name": "Istanbul Esenyurt University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔比尔基大学",
+    "english_name": "Istanbul Bilgi University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔阿依丁大学",
+    "english_name": "Istanbul Aydin University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊尔迪兹技术大学",
+    "english_name": "Yildiz Technical University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔梅迪波尔大学",
+    "english_name": "Istanbul Medipol University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔文化大学",
+    "english_name": "Istanbul Kultur University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "伊斯坦布尔大学“切拉帕夏”",
+    "english_name": "Istanbul University-Cerrahpaşa",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  },
+  {
+    "chinese_name": "中东科技大学",
+    "english_name": "Middle East Technical University",
+    "website": NaN,
+    "province": NaN,
+    "city": NaN
+  }
+]

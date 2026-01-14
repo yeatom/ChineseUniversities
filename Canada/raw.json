@@ -1,0 +1,594 @@
+[
+  {
+    "chinese_name": "阿尔哥玛大学",
+    "english_name": "Algoma University"
+  },
+  {
+    "chinese_name": "奥尔兹学院",
+    "english_name": "Olds College"
+  },
+  {
+    "chinese_name": "艾米丽卡尔艺术与设计大学",
+    "english_name": "Emily Carr University of Art & Design"
+  },
+  {
+    "chinese_name": "阿卡迪亚大学",
+    "english_name": "Acadia University"
+  },
+  {
+    "chinese_name": "爱德华王子岛大学",
+    "english_name": "University of Prince Edward Island"
+  },
+  {
+    "chinese_name": "奥克纳根学院",
+    "english_name": "Okanagan College"
+  },
+  {
+    "chinese_name": "阿希尼伯因社区学院",
+    "english_name": "Assiniboine Community College"
+  },
+  {
+    "chinese_name": "埃德蒙顿康考迪亚大学",
+    "english_name": "Concordia University of Edmonton"
+  },
+  {
+    "chinese_name": "阿尔伯塔大学",
+    "english_name": "University of Alberta"
+  },
+  {
+    "chinese_name": "安大略艺术与设计大学",
+    "english_name": "OCAD University"
+  },
+  {
+    "chinese_name": "阿尔伯塔艺术与设计学院",
+    "english_name": "Alberta College of Art and Design"
+  },
+  {
+    "chinese_name": "阿克森达管理学院",
+    "english_name": "Acsenda School of Management"
+  },
+  {
+    "chinese_name": "阿尔伯塔艺术大学",
+    "english_name": "Alberta University of the Arts"
+  },
+  {
+    "chinese_name": "安布罗斯大学",
+    "english_name": "Ambrose University"
+  },
+  {
+    "chinese_name": "安省理工大学",
+    "english_name": "University of Ontario Institute of Technology"
+  },
+  {
+    "chinese_name": "布赖尔克雷斯特学院与神学院",
+    "english_name": "Briercrest College and Seminary"
+  },
+  {
+    "chinese_name": "北阿尔伯塔理工学院",
+    "english_name": "Northern Alberta Institute of Technology"
+  },
+  {
+    "chinese_name": "布鲁克大学",
+    "english_name": "Brock University"
+  },
+  {
+    "chinese_name": "百年理工应用艺术与技术学院",
+    "english_name": "Centennial College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "北方应用艺术与技术学院",
+    "english_name": "Northern College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "波维河谷学院",
+    "english_name": "Bow Valley College"
+  },
+  {
+    "chinese_name": "不列颠哥伦比亚大学",
+    "english_name": "The University of British Columbia"
+  },
+  {
+    "chinese_name": "北不列颠哥伦比亚大学",
+    "english_name": "The University of Northern British Columbia"
+  },
+  {
+    "chinese_name": "不列颠哥伦比亚司法学院",
+    "english_name": "Justice Institute of British Columbia"
+  },
+  {
+    "chinese_name": "北岛学院",
+    "english_name": "North Island College"
+  },
+  {
+    "chinese_name": "布兰登大学",
+    "english_name": "Brandon University"
+  },
+  {
+    "chinese_name": "不列颠哥伦比亚理工学院",
+    "english_name": "British Columbia Institute of Technology"
+  },
+  {
+    "chinese_name": "北大西洋学院",
+    "english_name": "College of the North Atlantic"
+  },
+  {
+    "chinese_name": "多伦多大学",
+    "english_name": "University of Toronto"
+  },
+  {
+    "chinese_name": "戴尔豪斯大学",
+    "english_name": "Dalhousie University"
+  },
+  {
+    "chinese_name": "道森学院",
+    "english_name": "Dawson College"
+  },
+  {
+    "chinese_name": "道格拉斯学院",
+    "english_name": "Douglas College"
+  },
+  {
+    "chinese_name": "多伦多都会大学",
+    "english_name": "Toronto Metropolitan University"
+  },
+  {
+    "chinese_name": "德汉姆应用艺术与技术学院",
+    "english_name": "Durham College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "范莎应用艺术与技术学院",
+    "english_name": "Fanshawe College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "弗雷泽河谷大学",
+    "english_name": "University of the Fraser Valley"
+  },
+  {
+    "chinese_name": "弗莱明应用艺术与技术学院",
+    "english_name": "Sir Sandford Fleming College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "格兰特麦克埃文大学",
+    "english_name": "Grant MacEwan University"
+  },
+  {
+    "chinese_name": "圭尔夫大学",
+    "english_name": "The University of Guelph"
+  },
+  {
+    "chinese_name": "高贵林学院",
+    "english_name": "Coquitlam College"
+  },
+  {
+    "chinese_name": "国王大学",
+    "english_name": "The King's University"
+  },
+  {
+    "chinese_name": "皇家音乐学院",
+    "english_name": "The Royal Conservatory of Music"
+  },
+  {
+    "chinese_name": "皇家山大学",
+    "english_name": "Mount Royal University"
+  },
+  {
+    "chinese_name": "湖首大学",
+    "english_name": "Lakehead University"
+  },
+  {
+    "chinese_name": "皇后大学",
+    "english_name": "Queen's University"
+  },
+  {
+    "chinese_name": "汉伯学院",
+    "english_name": "Humber College Institute of Technology and Advanced Learning"
+  },
+  {
+    "chinese_name": "红鹿学院",
+    "english_name": "Red Deer College"
+  },
+  {
+    "chinese_name": "皇家路大学",
+    "english_name": "Royal Roads University"
+  },
+  {
+    "chinese_name": "滑铁卢大学",
+    "english_name": "University of Waterloo"
+  },
+  {
+    "chinese_name": "荷兰学院",
+    "english_name": "Holland College"
+  },
+  {
+    "chinese_name": "红河学院",
+    "english_name": "Red River College"
+  },
+  {
+    "chinese_name": "加西大学",
+    "english_name": "University Canada West"
+  },
+  {
+    "chinese_name": "加拿大奎斯特大学",
+    "english_name": "Quest University Canada"
+  },
+  {
+    "chinese_name": "加斯佩学院",
+    "english_name": "Cégep de la Gaspésie et des Îles"
+  },
+  {
+    "chinese_name": "救世主大学",
+    "english_name": "Redeemer University"
+  },
+  {
+    "chinese_name": "卡尔加里大学",
+    "english_name": "The University of Calgary"
+  },
+  {
+    "chinese_name": "坎伯伦应用艺术与技术学院",
+    "english_name": "Cambrian College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "康奈斯托加学院",
+    "english_name": "Conestoga College Institute of Technology and Advanced Learning"
+  },
+  {
+    "chinese_name": "卡普兰诺大学",
+    "english_name": "Capilano University"
+  },
+  {
+    "chinese_name": "昆特兰理工大学",
+    "english_name": "Kwantlen Polytechnic University"
+  },
+  {
+    "chinese_name": "魁北克大学席库提米分校",
+    "english_name": "Université du Québec à Chicoutimi"
+  },
+  {
+    "chinese_name": "魁北克大学蒙特利尔分校",
+    "english_name": "Université du Québec à Montréal"
+  },
+  {
+    "chinese_name": "魁北克大学里穆斯基分校",
+    "english_name": "Université du Québec à Rimouski"
+  },
+  {
+    "chinese_name": "魁北克大学三河分校",
+    "english_name": "Université du Québec à Trois-Rivières"
+  },
+  {
+    "chinese_name": "凯波布兰顿大学",
+    "english_name": "Cape Breton University"
+  },
+  {
+    "chinese_name": "康考迪亚大学",
+    "english_name": "Concordia University"
+  },
+  {
+    "chinese_name": "卡莫森学院",
+    "english_name": "Camosun College"
+  },
+  {
+    "chinese_name": "魁北克大学阿比蒂彼-特米斯卡明分校",
+    "english_name": "Université du Québec en Abitibi-Témiscamingue"
+  },
+  {
+    "chinese_name": "魁北克大学渥塔崴分校",
+    "english_name": "Université du Québec en Outaouais"
+  },
+  {
+    "chinese_name": "魁北克大学国立科学研究院",
+    "english_name": "Université du Québec, Institut national de la recherche scientifique"
+  },
+  {
+    "chinese_name": "卡纳多应用艺术与技术学院",
+    "english_name": "Canadore College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "魁北克大学高等技术学院",
+    "english_name": "Université du Québec, École de Technologie Supérieure"
+  },
+  {
+    "chinese_name": "克兰德尔大学",
+    "english_name": "Crandall University"
+  },
+  {
+    "chinese_name": "卡普兰诺学院",
+    "english_name": "Capilano College"
+  },
+  {
+    "chinese_name": "魁北克音乐与戏剧艺术学院",
+    "english_name": "Conservatoire de musique et d'art dramatique du Québec"
+  },
+  {
+    "chinese_name": "卡尔顿大学",
+    "english_name": "Carleton University"
+  },
+  {
+    "chinese_name": "莱斯桥大学",
+    "english_name": "The University of Lethbridge"
+  },
+  {
+    "chinese_name": "劳伦森大学",
+    "english_name": "Laurentian University"
+  },
+  {
+    "chinese_name": "联邦应用艺术与技术学院",
+    "english_name": "Confederation College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "莱姆顿应用艺术与技术学院",
+    "english_name": "Lambton College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "莱斯桥学院",
+    "english_name": "Lethbridge College"
+  },
+  {
+    "chinese_name": "落基山学院",
+    "english_name": "College of the Rockies"
+  },
+  {
+    "chinese_name": "兰加拉学院",
+    "english_name": "Langara College"
+  },
+  {
+    "chinese_name": "拉瓦尔大学",
+    "english_name": "Université Laval"
+  },
+  {
+    "chinese_name": "拉萨尔学院",
+    "english_name": "LaSalle College"
+  },
+  {
+    "chinese_name": "里贾纳大学",
+    "english_name": "University of Regina"
+  },
+  {
+    "chinese_name": "罗斯芒学院",
+    "english_name": "Cégep de Rosemont"
+  },
+  {
+    "chinese_name": "麦克马斯特大学",
+    "english_name": "McMaster University"
+  },
+  {
+    "chinese_name": "莫霍克应用艺术与技术学院",
+    "english_name": "Mohawk College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "麦迪森海特学院",
+    "english_name": "Medicine Hat College"
+  },
+  {
+    "chinese_name": "蒙特利尔大学",
+    "english_name": "Université de Montréal"
+  },
+  {
+    "chinese_name": "蒙特圣文森大学",
+    "english_name": "Mount Saint Vincent University"
+  },
+  {
+    "chinese_name": "蒙特利尔大学工学院",
+    "english_name": "École Polytechnique de Montréal, Université de Montréal"
+  },
+  {
+    "chinese_name": "曼尼托巴大学",
+    "english_name": "The University of Manitoba"
+  },
+  {
+    "chinese_name": "马里亚诺波利斯学院",
+    "english_name": "Marianopolis College"
+  },
+  {
+    "chinese_name": "麦吉尔大学",
+    "english_name": "McGill University"
+  },
+  {
+    "chinese_name": "蒙特埃里森大学",
+    "english_name": "Mount Allison University"
+  },
+  {
+    "chinese_name": "玛丽-维克多汉学院",
+    "english_name": "Cégep Marie-Victorin"
+  },
+  {
+    "chinese_name": "蒙特利尔大学高等商学院",
+    "english_name": "HEC Montréal, Université de Montréal"
+  },
+  {
+    "chinese_name": "曼尼托巴贸易与技术学院",
+    "english_name": "Manitoba Institute of Trades and Technology"
+  },
+  {
+    "chinese_name": "麦克马斯特神学院",
+    "english_name": "McMaster Divinity College"
+  },
+  {
+    "chinese_name": "尼亚加拉大学安大略分校",
+    "english_name": "Niagara University (Ontario)"
+  },
+  {
+    "chinese_name": "尼皮辛大学",
+    "english_name": "Nipissing University"
+  },
+  {
+    "chinese_name": "南阿尔伯塔理工学院",
+    "english_name": "Southern Alberta Institute of Technology"
+  },
+  {
+    "chinese_name": "纽芬兰纪念大学",
+    "english_name": "Memorial University of Newfoundland"
+  },
+  {
+    "chinese_name": "诺奎斯特学院",
+    "english_name": "NorQuest College"
+  },
+  {
+    "chinese_name": "尼亚加拉应用艺术与技术学院",
+    "english_name": "Niagara College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "乔治亚应用艺术与技术学院",
+    "english_name": "Georgian College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "乔治布朗应用艺术与技术学院",
+    "english_name": "George Brown College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "圣玛丽大学",
+    "english_name": "St.Mary's University"
+  },
+  {
+    "chinese_name": "萨斯卡彻温理工学院",
+    "english_name": "Saskatchewan Polytechnic"
+  },
+  {
+    "chinese_name": "萨斯卡彻温大学",
+    "english_name": "University of Saskatchewan"
+  },
+  {
+    "chinese_name": "圣力嘉应用艺术与技术学院",
+    "english_name": "Seneca College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "圣克莱尔应用艺术与技术学院",
+    "english_name": "St. Clair College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "圣劳伦斯应用艺术与技术学院",
+    "english_name": "St. Lawrence College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "圣汤姆斯大学",
+    "english_name": "St. Thomas University"
+  },
+  {
+    "chinese_name": "圣弗朗西斯泽维尔大学",
+    "english_name": "St. Francis Xavier University"
+  },
+  {
+    "chinese_name": "舍布鲁克大学",
+    "english_name": "Université de Sherbrooke"
+  },
+  {
+    "chinese_name": "索尔特应用艺术与技术学院",
+    "english_name": "Sault College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "汤普森河大学",
+    "english_name": "Thompson Rivers University"
+  },
+  {
+    "chinese_name": "特伦特大学",
+    "english_name": "Trent University"
+  },
+  {
+    "chinese_name": "天道大学学院与神学院",
+    "english_name": "Tyndale University College and Seminary"
+  },
+  {
+    "chinese_name": "瓦尼埃学院",
+    "english_name": "Vanier College"
+  },
+  {
+    "chinese_name": "温哥华岛大学",
+    "english_name": "Vancouver Island University"
+  },
+  {
+    "chinese_name": "渥太华大学",
+    "english_name": "University of Ottawa"
+  },
+  {
+    "chinese_name": "维真学院",
+    "english_name": "Regent College"
+  },
+  {
+    "chinese_name": "温哥华拉萨尔学院",
+    "english_name": "Lasalle College Vancouver"
+  },
+  {
+    "chinese_name": "维多利亚大学",
+    "english_name": "University of Victoria"
+  },
+  {
+    "chinese_name": "温尼伯大学",
+    "english_name": "The University of Winnipeg"
+  },
+  {
+    "chinese_name": "温哥华社区学院",
+    "english_name": "Vancouver Community College"
+  },
+  {
+    "chinese_name": "威尔弗瑞德劳瑞尔大学",
+    "english_name": "Wilfrid Laurier University"
+  },
+  {
+    "chinese_name": "温莎大学",
+    "english_name": "University of Windsor"
+  },
+  {
+    "chinese_name": "新斯科舍艺术与设计学院",
+    "english_name": "Nova Scotia College of Art and Design"
+  },
+  {
+    "chinese_name": "西三一大学",
+    "english_name": "Trinity Western University"
+  },
+  {
+    "chinese_name": "西蒙弗雷泽大学",
+    "english_name": "Simon Fraser University"
+  },
+  {
+    "chinese_name": "新布伦瑞克大学",
+    "english_name": "University of New Brunswick"
+  },
+  {
+    "chinese_name": "新不伦瑞克社区学院",
+    "english_name": "New Brunswick Community College"
+  },
+  {
+    "chinese_name": "新斯科舍艺术与设计大学",
+    "english_name": "NSCAD University"
+  },
+  {
+    "chinese_name": "西安大略大学",
+    "english_name": "The University of Western Ontario"
+  },
+  {
+    "chinese_name": "新斯科舍社区学院",
+    "english_name": "Nova Scotia Community College"
+  },
+  {
+    "chinese_name": "新喀里多尼亚学院",
+    "english_name": "College of New Caledonia"
+  },
+  {
+    "chinese_name": "谢尔丹学院",
+    "english_name": "Sheridan College Institute of Technology and Advanced Learning"
+  },
+  {
+    "chinese_name": "亚历山大学院",
+    "english_name": "Alexander College"
+  },
+  {
+    "chinese_name": "约克维尔大学",
+    "english_name": "Yorkville University"
+  },
+  {
+    "chinese_name": "约翰阿伯特学院",
+    "english_name": "John Abbott College"
+  },
+  {
+    "chinese_name": "约克大学",
+    "english_name": "York University"
+  },
+  {
+    "chinese_name": "亚岗昆应用艺术与技术学院",
+    "english_name": "Algonquin College of Applied Arts and Technology"
+  },
+  {
+    "chinese_name": "主教大学",
+    "english_name": "Bishop's University"
+  }
+]

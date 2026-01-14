@@ -1,0 +1,630 @@
+[
+  {
+    "chinese_name": "AMA计算机学院",
+    "english_name": "AMA Computer College"
+  },
+  {
+    "chinese_name": "安格拉斯大学",
+    "english_name": "Angeles University Foundation"
+  },
+  {
+    "chinese_name": "奥西亚斯教育基金会",
+    "english_name": "Osias Educational Foundation"
+  },
+  {
+    "chinese_name": "奥利瓦雷兹学院",
+    "english_name": "Olivarez College"
+  },
+  {
+    "chinese_name": "AMA大学",
+    "english_name": "AMA University"
+  },
+  {
+    "chinese_name": "巴伦苏埃拉城市大学",
+    "english_name": "Pamantasan ng Lungsod ng Valenzuela"
+  },
+  {
+    "chinese_name": "本格特国立大学",
+    "english_name": "Benguet State University"
+  },
+  {
+    "chinese_name": "八打雁国立大学",
+    "english_name": "Batangas State University"
+  },
+  {
+    "chinese_name": "八打雁大学",
+    "english_name": "University of Batangas"
+  },
+  {
+    "chinese_name": "北吕宋学院",
+    "english_name": "Lyceum Northern Luzon"
+  },
+  {
+    "chinese_name": "比科尔大学",
+    "english_name": "Bicol University"
+  },
+  {
+    "chinese_name": "巴利瓦格大学",
+    "english_name": "Baliuag University"
+  },
+  {
+    "chinese_name": "巴丹州立学院",
+    "english_name": "Bataan State College"
+  },
+  {
+    "chinese_name": "巴丹英雄纪念学院",
+    "english_name": "Bataan Heroes Memorial College"
+  },
+  {
+    "chinese_name": "布基农国立大学",
+    "english_name": "Bukidnon State University"
+  },
+  {
+    "chinese_name": "邦雅斯兰国立大学",
+    "english_name": "Pangasinan State University"
+  },
+  {
+    "chinese_name": "碧瑶大学",
+    "english_name": "University of Baguio"
+  },
+  {
+    "chinese_name": "达将戈斯圣母大学",
+    "english_name": "Notre Dame of Dadiangas University"
+  },
+  {
+    "chinese_name": "杜马盖地圣保罗大学",
+    "english_name": "St. Paul University Dumaguete"
+  },
+  {
+    "chinese_name": "达古潘学院",
+    "english_name": "Colegio de Dagupan"
+  },
+  {
+    "chinese_name": "东方大学",
+    "english_name": "University of the East"
+  },
+  {
+    "chinese_name": "德拉萨阿拉内塔大学",
+    "english_name": "De La Salle Araneta University"
+  },
+  {
+    "chinese_name": "德拉萨圣贝尼尔德学院",
+    "english_name": "De La Salle-College of Saint Benilde"
+  },
+  {
+    "chinese_name": "达沃雅典耀大学",
+    "english_name": "Ateneo De Davao University"
+  },
+  {
+    "chinese_name": "德拉萨大学达斯马瑞纳斯校区",
+    "english_name": "De La Salle University-Dasmarinas"
+  },
+  {
+    "chinese_name": "德拉萨大学",
+    "english_name": "De La Salle University"
+  },
+  {
+    "chinese_name": "德拉萨医学健康科学学院",
+    "english_name": "De La Salle Medical and Health Sciences Institute"
+  },
+  {
+    "chinese_name": "菲律宾卫斯理大学",
+    "english_name": "Wesleyan University-Philippines"
+  },
+  {
+    "chinese_name": "菲律宾北部大学",
+    "english_name": "University of Northern Philippines"
+  },
+  {
+    "chinese_name": "菲律宾技术学院",
+    "english_name": "Technological Institute of the Philippines"
+  },
+  {
+    "chinese_name": "菲律宾大学维萨亚斯分校",
+    "english_name": "University of the Philippines  Visayas"
+  },
+  {
+    "chinese_name": "菲律宾师范大学",
+    "english_name": "Philippine Normal University"
+  },
+  {
+    "chinese_name": "菲律宾大学洛斯班那斯分校",
+    "english_name": "University of the Philippines  Los Banoss"
+  },
+  {
+    "chinese_name": "菲律宾东南大学",
+    "english_name": "University of Southeastern Philippines"
+  },
+  {
+    "chinese_name": "法蒂玛大学",
+    "english_name": "Our Lady of Fatima University"
+  },
+  {
+    "chinese_name": "菲律宾理工大学",
+    "english_name": "Polytechnic University of the Philippines"
+  },
+  {
+    "chinese_name": "菲律宾女子大学",
+    "english_name": "The Philippine Women's University"
+  },
+  {
+    "chinese_name": "菲律宾莱西姆大学",
+    "english_name": "Lyceum of the Philippines University"
+  },
+  {
+    "chinese_name": "菲律宾大学第利曼分校",
+    "english_name": "University of the Philippines  Diliman"
+  },
+  {
+    "chinese_name": "菲律宾基督大学",
+    "english_name": "Adventist University of the Philippines"
+  },
+  {
+    "chinese_name": "菲律宾莱康大学",
+    "english_name": "La Consolacion University Philippines"
+  },
+  {
+    "chinese_name": "菲律宾商船学校",
+    "english_name": "Philippine Merchant Marine School"
+  },
+  {
+    "chinese_name": "菲律宾基督教大学",
+    "english_name": "Philippine Christian University"
+  },
+  {
+    "chinese_name": "菲律宾科技大学",
+    "english_name": "Technological University of the Philippines"
+  },
+  {
+    "chinese_name": "泛太平洋大学",
+    "english_name": "Panpacific  University"
+  },
+  {
+    "chinese_name": "菲律宾大学碧瑶分校",
+    "english_name": "University of the Philippines Baguio"
+  },
+  {
+    "chinese_name": "菲律宾健康科学学院",
+    "english_name": "Philipine College of Health Sciences  INC"
+  },
+  {
+    "chinese_name": "菲律宾达沃女子学院",
+    "english_name": "Philippine Women's College of Davao"
+  },
+  {
+    "chinese_name": "菲拉默基督教大学",
+    "english_name": "Filamer Christian University"
+  },
+  {
+    "chinese_name": "菲律宾大学宿务学院",
+    "english_name": "University of the Philippines – College of Cebu"
+  },
+  {
+    "chinese_name": "格林维尔学院",
+    "english_name": "Greenville College"
+  },
+  {
+    "chinese_name": "国家大学",
+    "english_name": "National University"
+  },
+  {
+    "chinese_name": "国际基督高级研究院",
+    "english_name": "Adventist International Institute of Advanced Studies"
+  },
+  {
+    "chinese_name": "国立比立勤大学",
+    "english_name": "Bulacan State University"
+  },
+  {
+    "chinese_name": "共和党学院",
+    "english_name": "Republican College"
+  },
+  {
+    "chinese_name": "共和学院",
+    "english_name": "Republican College"
+  },
+  {
+    "chinese_name": "共和国中央大学",
+    "english_name": "Republic Central Colleges"
+  },
+  {
+    "chinese_name": "哈里斯纪念学院",
+    "english_name": "Harris Memorial College"
+  },
+  {
+    "chinese_name": "加拉鄢教育基金会",
+    "english_name": "Calayan Educational Foundation"
+  },
+  {
+    "chinese_name": "甲米地圣约瑟夫学院",
+    "english_name": "St. Joseph College Cavite City"
+  },
+  {
+    "chinese_name": "卡拉潘神语学院",
+    "english_name": "Divine Word College of Calapan"
+  },
+  {
+    "chinese_name": "卡昂国立大学",
+    "english_name": "Cagayan State University"
+  },
+  {
+    "chinese_name": "卡洛斯·希拉多纪念国立大学",
+    "english_name": "Carlos Hilado Memorial State University"
+  },
+  {
+    "chinese_name": "卡威迪国立大学",
+    "english_name": "Cavite State University"
+  },
+  {
+    "chinese_name": "奎松市圣保罗大学",
+    "english_name": "St. Paul University Quezon City"
+  },
+  {
+    "chinese_name": "奎松市圣约瑟夫学院",
+    "english_name": "St. Joseph's College Quezon City"
+  },
+  {
+    "chinese_name": "凯迪雷拉大学",
+    "english_name": "University of the Cordilleras"
+  },
+  {
+    "chinese_name": "黎刹系统大学",
+    "english_name": "University of Rizal System"
+  },
+  {
+    "chinese_name": "喇沙大学",
+    "english_name": "La Salle University"
+  },
+  {
+    "chinese_name": "莱西姆大学八打雁校区",
+    "english_name": "Lyceum of the Philippines University Batangas"
+  },
+  {
+    "chinese_name": "黎刹大学",
+    "english_name": "Jose Rizal University"
+  },
+  {
+    "chinese_name": "拉古纳国立理工大学",
+    "english_name": "Laguna State Polytechnic University"
+  },
+  {
+    "chinese_name": "罗德里格斯科学与技术学院",
+    "english_name": "Eulogio 'Amang' Rodriguez Institute of Science and Technology"
+  },
+  {
+    "chinese_name": "莱特师范大学",
+    "english_name": "Leyte Normal University"
+  },
+  {
+    "chinese_name": "雷蒙马赛总统国立大学",
+    "english_name": "President Ramon Magsaysay State University"
+  },
+  {
+    "chinese_name": "雷省国立科技大学",
+    "english_name": "Nueva Ecija University of Science and Technology"
+  },
+  {
+    "chinese_name": "马普尔大学",
+    "english_name": "Mapua University"
+  },
+  {
+    "chinese_name": "马里亚诺马科斯国立大学",
+    "english_name": "Mariano Marcos State University"
+  },
+  {
+    "chinese_name": "玛弗洛斯技术学院",
+    "english_name": "Marvelous College of Technology Inc."
+  },
+  {
+    "chinese_name": "米莱姆学院",
+    "english_name": "Miriam College"
+  },
+  {
+    "chinese_name": "马尼拉圣保罗大学",
+    "english_name": "St.Paul University Manila"
+  },
+  {
+    "chinese_name": "马尼拉大学",
+    "english_name": "The University of Manila"
+  },
+  {
+    "chinese_name": "马尼拉拉康索列学院",
+    "english_name": "La Consolacion College Manila"
+  },
+  {
+    "chinese_name": "马尼拉维斯里安学院",
+    "english_name": "Wesleyan College of Manila"
+  },
+  {
+    "chinese_name": "棉兰老国立大学",
+    "english_name": "Mindanao State University"
+  },
+  {
+    "chinese_name": "玛利-贝尔纳德学院",
+    "english_name": "Marie - Bernarde College"
+  },
+  {
+    "chinese_name": "曼纽尔奎松大学",
+    "english_name": "Manuel L. Quezon University"
+  },
+  {
+    "chinese_name": "马尼拉时报学院",
+    "english_name": "The Manila Times College of Subic"
+  },
+  {
+    "chinese_name": "马尼拉信息学院",
+    "english_name": "Informatics College Manila"
+  },
+  {
+    "chinese_name": "马尼拉市立大学",
+    "english_name": "Universidad de Manila"
+  },
+  {
+    "chinese_name": "曼纽安佛各大学卢塞纳校区",
+    "english_name": "Manuel S. Enverga University Foundation-Lucena"
+  },
+  {
+    "chinese_name": "南方浸会学院",
+    "english_name": "Southern Baptist College"
+  },
+  {
+    "chinese_name": "南棉兰老大学",
+    "english_name": "University of Southern Mindanao"
+  },
+  {
+    "chinese_name": "内格罗斯大学雷科莱塔校区",
+    "english_name": "University of Negros Occidental-Recoleto"
+  },
+  {
+    "chinese_name": "那牙卡雷斯大学",
+    "english_name": "University of Nueva Caceres"
+  },
+  {
+    "chinese_name": "潘加西南大学",
+    "english_name": "University of Pangasinan"
+  },
+  {
+    "chinese_name": "圣拉萨尔大学",
+    "english_name": "University of St. La Salle"
+  },
+  {
+    "chinese_name": "三宝颜雅典耀大学",
+    "english_name": "Ateneo De Zamboanga University"
+  },
+  {
+    "chinese_name": "圣费尔南多圣路易斯学院",
+    "english_name": "Saint Louis College City of San Fernando"
+  },
+  {
+    "chinese_name": "圣名大学",
+    "english_name": "Holy Name University"
+  },
+  {
+    "chinese_name": "圣玛丽大学",
+    "english_name": "Saint Mary's University"
+  },
+  {
+    "chinese_name": "圣路易斯大学",
+    "english_name": "Saint Louis University"
+  },
+  {
+    "chinese_name": "圣安琪大学",
+    "english_name": "Holy Angel University"
+  },
+  {
+    "chinese_name": "圣若泽雷科莱托斯大学",
+    "english_name": "University of San Jose-Recoletos"
+  },
+  {
+    "chinese_name": "圣保罗大学土格加劳校区",
+    "english_name": "St.Paul University Philippines"
+  },
+  {
+    "chinese_name": "圣卡洛斯大学",
+    "english_name": "University of San Carlos"
+  },
+  {
+    "chinese_name": "宿务医科大学",
+    "english_name": "Cebu Doctors' University"
+  },
+  {
+    "chinese_name": "圣多米克沙维奥学院",
+    "english_name": "St Dominic Savio College"
+  },
+  {
+    "chinese_name": "圣塞巴斯蒂安学院",
+    "english_name": "San Sebastian College"
+  },
+  {
+    "chinese_name": "圣卡塔利娜学院",
+    "english_name": "Santa Catalina College"
+  },
+  {
+    "chinese_name": "山景学院",
+    "english_name": "Mountain View College"
+  },
+  {
+    "chinese_name": "宿务大学",
+    "english_name": "University of Cebu"
+  },
+  {
+    "chinese_name": "世界城市学院",
+    "english_name": "World Citi Colleges"
+  },
+  {
+    "chinese_name": "宿务理工学院大学",
+    "english_name": "Cebu Institute of Technology-University"
+  },
+  {
+    "chinese_name": "圣托马斯大学",
+    "english_name": "University of Santo Tomas"
+  },
+  {
+    "chinese_name": "圣奥古斯丁大学",
+    "english_name": "University of San Agustin"
+  },
+  {
+    "chinese_name": "STI西内格罗斯大学",
+    "english_name": "STI West Negros University"
+  },
+  {
+    "chinese_name": "土格加劳圣路易斯大学",
+    "english_name": "University of Saint Louis Tuguegarao"
+  },
+  {
+    "chinese_name": "太历国立大学",
+    "english_name": "Tarlac State University"
+  },
+  {
+    "chinese_name": "唐马里亚诺马科斯纪念国立大学南拉乌尼翁校区",
+    "english_name": "Don Mariano Marcos Memorial State University - South La Union Campus"
+  },
+  {
+    "chinese_name": "唐马里亚诺马科斯纪念国立大学",
+    "english_name": "Don Mariano Marcos Memorial State University"
+  },
+  {
+    "chinese_name": "塔克洛班圣保罗商学院",
+    "english_name": "Saint Paul's Business School of Tacloban"
+  },
+  {
+    "chinese_name": "维萨亚斯大学",
+    "english_name": "University of the Visayas"
+  },
+  {
+    "chinese_name": "西利曼大学",
+    "english_name": "Silliman University"
+  },
+  {
+    "chinese_name": "西南大学",
+    "english_name": "Southwestern University"
+  },
+  {
+    "chinese_name": "西北学会大学",
+    "english_name": "Lyceum-Northwestern University"
+  },
+  {
+    "chinese_name": "西米沙鄢国立大学",
+    "english_name": "West Visayas State University"
+  },
+  {
+    "chinese_name": "西棉兰老岛国立大学",
+    "english_name": "Western Mindanao State University"
+  },
+  {
+    "chinese_name": "西部理工学院",
+    "english_name": "Western Institute of Technology"
+  },
+  {
+    "chinese_name": "新纪元大学",
+    "english_name": "New Era University"
+  },
+  {
+    "chinese_name": "西北萨玛尔国立大学",
+    "english_name": "Northwest Samar State University"
+  },
+  {
+    "chinese_name": "伊莎贝拉国立大学",
+    "english_name": "Isabela State University"
+  },
+  {
+    "chinese_name": "亚洲圣多米尼克学院",
+    "english_name": "St. Dominic College of Asia"
+  },
+  {
+    "chinese_name": "亚洲太平洋大学",
+    "english_name": "University of Asia and the Pacific"
+  },
+  {
+    "chinese_name": "远东学院（奎松校区）",
+    "english_name": "Feu Fern College(Quezon City)"
+  },
+  {
+    "chinese_name": "永恒大学拉古纳分校",
+    "english_name": "University of Perpetual Help System Laguna"
+  },
+  {
+    "chinese_name": "伊洛伊洛大学",
+    "english_name": "University of Iloilo"
+  },
+  {
+    "chinese_name": "亚洲圣三一大学",
+    "english_name": "Trinity University of Asia"
+  },
+  {
+    "chinese_name": "永恒大学",
+    "english_name": "University of Perpetual Help System Dalta"
+  },
+  {
+    "chinese_name": "亚当森大学",
+    "english_name": "Adamson University"
+  },
+  {
+    "chinese_name": "亚洲管理学院",
+    "english_name": "Asian Institute of Management"
+  },
+  {
+    "chinese_name": "雅典耀大学",
+    "english_name": "Ateneo De Manila University"
+  },
+  {
+    "chinese_name": "远东大学",
+    "english_name": "Far Eastern University"
+  },
+  {
+    "chinese_name": "优西亚诺学院",
+    "english_name": "Unciano Colleges"
+  },
+  {
+    "chinese_name": "伊洛伊洛科技大学",
+    "english_name": "Iloilo Science and Technology University"
+  },
+  {
+    "chinese_name": "伊密里欧学院",
+    "english_name": "Emilio Aguinaldo College"
+  },
+  {
+    "chinese_name": "亚太学院",
+    "english_name": "Asia Pacific College"
+  },
+  {
+    "chinese_name": "亚洲社会研究院",
+    "english_name": "Asian Social Institute"
+  },
+  {
+    "chinese_name": "中正学院",
+    "english_name": "Chiang Kai Shek College"
+  },
+  {
+    "chinese_name": "泽维尔大学",
+    "english_name": "Xavier University"
+  },
+  {
+    "chinese_name": "中部菲律宾国立大学",
+    "english_name": "Central Philippines State University"
+  },
+  {
+    "chinese_name": "中央大学",
+    "english_name": "Centro Escolar University"
+  },
+  {
+    "chinese_name": "中菲律宾基督复临学院",
+    "english_name": "Central Philippine Adventist College"
+  },
+  {
+    "chinese_name": "中部菲律宾大学",
+    "english_name": "Central Philippine University"
+  },
+  {
+    "chinese_name": "中吕宋国立大学",
+    "english_name": "Central Luzon State University"
+  },
+  {
+    "chinese_name": "中途海事基金会",
+    "english_name": "Midway Maritime Foundation"
+  },
+  {
+    "chinese_name": "中棉兰老大学",
+    "english_name": "Central Mindanao University"
+  }
+]

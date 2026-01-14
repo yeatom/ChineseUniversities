@@ -1,0 +1,6114 @@
+[
+  {
+    "chinese_name": "埃尔金社区学院",
+    "english_name": "Elgin Community College"
+  },
+  {
+    "chinese_name": "阿什兰大学",
+    "english_name": "Ashland University"
+  },
+  {
+    "chinese_name": "阿维拉大学",
+    "english_name": "Avila University"
+  },
+  {
+    "chinese_name": "埃德蒙学院",
+    "english_name": "Edmonds College"
+  },
+  {
+    "chinese_name": "奥尔巴尼法学院",
+    "english_name": "Albany Law School"
+  },
+  {
+    "chinese_name": "奥古斯塔娜学院（伊利诺伊州）",
+    "english_name": "Augustana College"
+  },
+  {
+    "chinese_name": "奥古斯塔娜大学",
+    "english_name": "Augustana University"
+  },
+  {
+    "chinese_name": "埃默里与亨利学院",
+    "english_name": "Emory and Henry College"
+  },
+  {
+    "chinese_name": "阿尔弗雷德大学",
+    "english_name": "Alfred University"
+  },
+  {
+    "chinese_name": "阿卡迪亚大学",
+    "english_name": "Arcadia University"
+  },
+  {
+    "chinese_name": "爱纳学院",
+    "english_name": "Iona College"
+  },
+  {
+    "chinese_name": "奥勒尔罗伯茨大学",
+    "english_name": "Oral Roberts University"
+  },
+  {
+    "chinese_name": "阿肯色大学医学院",
+    "english_name": "University of Arkansas for Medical Sciences"
+  },
+  {
+    "chinese_name": "奥隆学院",
+    "english_name": "Ohlone College"
+  },
+  {
+    "chinese_name": "奥克兰大学",
+    "english_name": "Oakland University"
+  },
+  {
+    "chinese_name": "爱荷华州立大学",
+    "english_name": "Iowa State University"
+  },
+  {
+    "chinese_name": "阿克伦大学",
+    "english_name": "The University of Akron"
+  },
+  {
+    "chinese_name": "阿拉巴马大学伯明翰分校",
+    "english_name": "The University of Alabama at Birmingham"
+  },
+  {
+    "chinese_name": "爱达荷大学",
+    "english_name": "The University of Idaho"
+  },
+  {
+    "chinese_name": "阿德尔菲大学",
+    "english_name": "Adelphi University"
+  },
+  {
+    "chinese_name": "阿德勒大学",
+    "english_name": "Adler University"
+  },
+  {
+    "chinese_name": "阿尔罕布拉医科大学",
+    "english_name": "Alhambra Medical University"
+  },
+  {
+    "chinese_name": "奥尔巴尼药学与健康科学学院",
+    "english_name": "Albany College of Pharmacy and Health Sciences"
+  },
+  {
+    "chinese_name": "埃克德学院",
+    "english_name": "Eckerd College"
+  },
+  {
+    "chinese_name": "阿尔玛学院",
+    "english_name": "Alma College"
+  },
+  {
+    "chinese_name": "阿拉巴马农工大学",
+    "english_name": "Alabama Agricultural and Mechanical University"
+  },
+  {
+    "chinese_name": "阿尔比恩学院",
+    "english_name": "Albion College"
+  },
+  {
+    "chinese_name": "奥格尔绍普大学",
+    "english_name": "Oglethorpe University"
+  },
+  {
+    "chinese_name": "艾尔弗尼亚大学",
+    "english_name": "Alvernia University"
+  },
+  {
+    "chinese_name": "阿肯色州立大学",
+    "english_name": "Arkansas State University"
+  },
+  {
+    "chinese_name": "阿涅斯斯科特学院",
+    "english_name": "Agnes Scott College"
+  },
+  {
+    "chinese_name": "奥特本大学",
+    "english_name": "Otterbein University"
+  },
+  {
+    "chinese_name": "埃弗雷特社区学院",
+    "english_name": "Everett Community College"
+  },
+  {
+    "chinese_name": "阿勒格尼学院",
+    "english_name": "Allegheny College"
+  },
+  {
+    "chinese_name": "阿肯色大学史密斯堡分校",
+    "english_name": "University of Arkansas at Fort Smith"
+  },
+  {
+    "chinese_name": "阿拉斯加大学费尔班克斯分校",
+    "english_name": "University of Alaska Fairbanks"
+  },
+  {
+    "chinese_name": "奥柏林学院",
+    "english_name": "Oberlin College"
+  },
+  {
+    "chinese_name": "奥本大学蒙哥马利分校",
+    "english_name": "Auburn University at Montgomery"
+  },
+  {
+    "chinese_name": "阿肯色理工大学",
+    "english_name": "Arkansas Tech University"
+  },
+  {
+    "chinese_name": "奥尔布赖特学院",
+    "english_name": "Albright College"
+  },
+  {
+    "chinese_name": "爱荷华大学",
+    "english_name": "The University of Iowa"
+  },
+  {
+    "chinese_name": "阿祖萨太平洋大学",
+    "english_name": "Azusa Pacific University"
+  },
+  {
+    "chinese_name": "阿肯色大学派恩布拉夫分校",
+    "english_name": "University of Arkansas at Pine Bluff"
+  },
+  {
+    "chinese_name": "埃克学院",
+    "english_name": "Eckerd College"
+  },
+  {
+    "chinese_name": "安吉洛州立大学",
+    "english_name": "Angelo State University"
+  },
+  {
+    "chinese_name": "阿拉巴马大学",
+    "english_name": "The University of Alabama"
+  },
+  {
+    "chinese_name": "奥本大学",
+    "english_name": "Auburn University"
+  },
+  {
+    "chinese_name": "阿帕拉契州立大学",
+    "english_name": "Appalachian State University"
+  },
+  {
+    "chinese_name": "安柏瑞德航空航天大学",
+    "english_name": "Embry-Riddle Aeronautical University"
+  },
+  {
+    "chinese_name": "阿莱恩特国际大学",
+    "english_name": "Alliant International University"
+  },
+  {
+    "chinese_name": "奥利弗拿撒勒大学",
+    "english_name": "Olivet Nazarene University"
+  },
+  {
+    "chinese_name": "阿斯伯里大学",
+    "english_name": "Asbury University"
+  },
+  {
+    "chinese_name": "奥罗拉大学",
+    "english_name": "Aurora University"
+  },
+  {
+    "chinese_name": "阿肯色大学菲耶特维尔分校",
+    "english_name": "University of Arkansas  Fayetteville"
+  },
+  {
+    "chinese_name": "奥尔巴尼州立大学",
+    "english_name": "Albany State University"
+  },
+  {
+    "chinese_name": "埃尔姆斯女子学院",
+    "english_name": "College of Our Lady of the Elms"
+  },
+  {
+    "chinese_name": "安提亚克大学",
+    "english_name": "Antioch University"
+  },
+  {
+    "chinese_name": "阿尔维诺学院",
+    "english_name": "Alverno College"
+  },
+  {
+    "chinese_name": "奥斯汀佩伊州立大学",
+    "english_name": "Austin Peay State University"
+  },
+  {
+    "chinese_name": "阿默斯特学院",
+    "english_name": "Amherst College"
+  },
+  {
+    "chinese_name": "埃奇伍德大学",
+    "english_name": "Edgewood College"
+  },
+  {
+    "chinese_name": "安德森大学",
+    "english_name": "Anderson University"
+  },
+  {
+    "chinese_name": "爱达荷州立大学",
+    "english_name": "Idaho State University"
+  },
+  {
+    "chinese_name": "奥尔巴尼医学院",
+    "english_name": "Albany Medical College"
+  },
+  {
+    "chinese_name": "奥斯丁学院",
+    "english_name": "Austin College"
+  },
+  {
+    "chinese_name": "埃尔迈拉学院",
+    "english_name": "Elmira College"
+  },
+  {
+    "chinese_name": "奥古斯塔大学",
+    "english_name": "Augusta University"
+  },
+  {
+    "chinese_name": "埃德蒙社区学院",
+    "english_name": "Edmonds Community College"
+  },
+  {
+    "chinese_name": "奥利弗大学",
+    "english_name": "Olivet University"
+  },
+  {
+    "chinese_name": "奥林匹克学院",
+    "english_name": "Olympic College"
+  },
+  {
+    "chinese_name": "爱达荷学院",
+    "english_name": "The College of Idaho"
+  },
+  {
+    "chinese_name": "阿奎那斯学院",
+    "english_name": "Aquinas College"
+  },
+  {
+    "chinese_name": "奥斯堡大学",
+    "english_name": "Augsburg University"
+  },
+  {
+    "chinese_name": "埃塞克斯郡学院",
+    "english_name": "Essex County College"
+  },
+  {
+    "chinese_name": "阿拉巴马州立大学",
+    "english_name": "Alabama State University"
+  },
+  {
+    "chinese_name": "安娜玛丽亚学院",
+    "english_name": "Anna Maria College"
+  },
+  {
+    "chinese_name": "奥蒂斯艺术与设计学院",
+    "english_name": "Otis College of Art and Design"
+  },
+  {
+    "chinese_name": "艾德里安学院",
+    "english_name": "Adrian College"
+  },
+  {
+    "chinese_name": "阿比林基督大学",
+    "english_name": "Abilene Christian University"
+  },
+  {
+    "chinese_name": "阿肯色大学小石城分校",
+    "english_name": "University of Arkansas at Little Rock"
+  },
+  {
+    "chinese_name": "埃默里大学",
+    "english_name": "Emory University"
+  },
+  {
+    "chinese_name": "安德鲁斯大学",
+    "english_name": "Andrews University"
+  },
+  {
+    "chinese_name": "艾里克森研究院",
+    "english_name": "Erikson Institute"
+  },
+  {
+    "chinese_name": "阿拉巴马大学亨茨维尔分校",
+    "english_name": "The University of Alabama in Huntsville"
+  },
+  {
+    "chinese_name": "埃尔梅齐分子医学研究生院",
+    "english_name": "Elmezzi Graduate School of Molecular Medicine"
+  },
+  {
+    "chinese_name": "爱默生学院",
+    "english_name": "Emerson College"
+  },
+  {
+    "chinese_name": "安伯顿大学",
+    "english_name": "Amberton University"
+  },
+  {
+    "chinese_name": "阿斯伯里神学院",
+    "english_name": "Asbury Theological Seminary"
+  },
+  {
+    "chinese_name": "阿拉斯加大学东南分校",
+    "english_name": "University of Alaska Southeast"
+  },
+  {
+    "chinese_name": "阿拉斯加大学安克雷奇分校",
+    "english_name": "University of Alaska Anchorage"
+  },
+  {
+    "chinese_name": "爱荷华湖社区学院",
+    "english_name": "Iowa Lakes Community College"
+  },
+  {
+    "chinese_name": "奥兰治海岸学院",
+    "english_name": "Orange Coast College"
+  },
+  {
+    "chinese_name": "伯里亚学院",
+    "english_name": "Berea College"
+  },
+  {
+    "chinese_name": "比奥拉大学",
+    "english_name": "Biola University"
+  },
+  {
+    "chinese_name": "贝佩丝大学",
+    "english_name": "Bay Path University"
+  },
+  {
+    "chinese_name": "贝洛伊特学院",
+    "english_name": "Beloit College"
+  },
+  {
+    "chinese_name": "伯米吉州立大学",
+    "english_name": "Bemidji State University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚库茨敦大学",
+    "english_name": "Kutztown University of Pennsylvania"
+  },
+  {
+    "chinese_name": "布拉德利大学",
+    "english_name": "Bradley University"
+  },
+  {
+    "chinese_name": "波尔州立大学",
+    "english_name": "Ball State University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚州立大学",
+    "english_name": "The Pennsylvania State University"
+  },
+  {
+    "chinese_name": "北达科他州立大学",
+    "english_name": "North Dakota State University"
+  },
+  {
+    "chinese_name": "北科罗拉多大学",
+    "english_name": "University of Northern Colorado"
+  },
+  {
+    "chinese_name": "北德克萨斯大学",
+    "english_name": "University of North Texas"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学阿什维尔分校",
+    "english_name": "The University of North Carolina at Asheville"
+  },
+  {
+    "chinese_name": "布莱恩特大学",
+    "english_name": "Bryant University"
+  },
+  {
+    "chinese_name": "巴纳德学院",
+    "english_name": "Barnard College"
+  },
+  {
+    "chinese_name": "布林茅尔学院",
+    "english_name": "Bryn Mawr College"
+  },
+  {
+    "chinese_name": "本特利大学",
+    "english_name": "Bentley University"
+  },
+  {
+    "chinese_name": "邦克山社区学院",
+    "english_name": "Bunker Hill Community College"
+  },
+  {
+    "chinese_name": "宾夕法尼亚大学",
+    "english_name": "University of Pennsylvania"
+  },
+  {
+    "chinese_name": "贝拉明大学",
+    "english_name": "Bellarmine University"
+  },
+  {
+    "chinese_name": "波特兰社区学院",
+    "english_name": "Portland Community College"
+  },
+  {
+    "chinese_name": "贝勒医学院",
+    "english_name": "Baylor College of Medicine"
+  },
+  {
+    "chinese_name": "巴特勒社区学院（埃尔多拉多）",
+    "english_name": "Butler Community College（El Dorado）"
+  },
+  {
+    "chinese_name": "巴特勒大学",
+    "english_name": "Butler University"
+  },
+  {
+    "chinese_name": "布朗大学",
+    "english_name": "Brown University"
+  },
+  {
+    "chinese_name": "北弗吉尼亚社区学院",
+    "english_name": "Northern Virginia Community College"
+  },
+  {
+    "chinese_name": "波托马克大学",
+    "english_name": "University of the Potomac"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学艺术学院",
+    "english_name": "University of North Carolina School of the Arts"
+  },
+  {
+    "chinese_name": "北格林威尔大学",
+    "english_name": "North Greenville University"
+  },
+  {
+    "chinese_name": "贝瑞大学",
+    "english_name": "Barry University"
+  },
+  {
+    "chinese_name": "布莱克伯恩学院",
+    "english_name": "Blackburn College"
+  },
+  {
+    "chinese_name": "北阿拉巴马大学",
+    "english_name": "University of North Alabama"
+  },
+  {
+    "chinese_name": "博恩特帕克大学",
+    "english_name": "Point Park University"
+  },
+  {
+    "chinese_name": "波特兰州立大学",
+    "english_name": "Portland State University"
+  },
+  {
+    "chinese_name": "巴克内尔大学",
+    "english_name": "Bucknell University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚州西盆斯贝格大学",
+    "english_name": "Shippensburg University of Pennsylvania"
+  },
+  {
+    "chinese_name": "布兰戴斯大学",
+    "english_name": "Brandeis University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚约克学院",
+    "english_name": "York College of Pennsylvania"
+  },
+  {
+    "chinese_name": "波士顿精神分析学研究生院",
+    "english_name": "Boston Graduate School of Psychoanalysis"
+  },
+  {
+    "chinese_name": "班尼迪克坦学院",
+    "english_name": "Benedictine College"
+  },
+  {
+    "chinese_name": "北马里亚纳学院",
+    "english_name": "Northern Marianas College"
+  },
+  {
+    "chinese_name": "鲍勃琼斯大学",
+    "english_name": "Bob Jones University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚州西切斯特大学",
+    "english_name": "West Chester University of Pennsylvania"
+  },
+  {
+    "chinese_name": "波士顿大学",
+    "english_name": "Boston University"
+  },
+  {
+    "chinese_name": "北爱荷华大学",
+    "english_name": "University of Northern Iowa"
+  },
+  {
+    "chinese_name": "伯特利大学（田纳西州）",
+    "english_name": "Bethel University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚州印第安纳大学",
+    "english_name": "Indiana University of Pennsylvania"
+  },
+  {
+    "chinese_name": "伯特利大学（明尼苏达州）",
+    "english_name": "Bethel University"
+  },
+  {
+    "chinese_name": "伯克利学院",
+    "english_name": "Berkeley College"
+  },
+  {
+    "chinese_name": "比尤纳维斯特大学",
+    "english_name": "Buena Vista University"
+  },
+  {
+    "chinese_name": "半岛学院",
+    "english_name": "Peninsula College"
+  },
+  {
+    "chinese_name": "巴斯帝尔大学",
+    "english_name": "Bastyr University"
+  },
+  {
+    "chinese_name": "贝克学院",
+    "english_name": "Baker College"
+  },
+  {
+    "chinese_name": "布雷诺大学",
+    "english_name": "Brenau University"
+  },
+  {
+    "chinese_name": "贝瑟尼路德学院",
+    "english_name": "Bethany Lutheran College"
+  },
+  {
+    "chinese_name": "包伊州立大学",
+    "english_name": "Bowie State University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚米勒斯维尔大学",
+    "english_name": "Millersville University of Pennsylvania"
+  },
+  {
+    "chinese_name": "北方州立大学",
+    "english_name": "Northern State University"
+  },
+  {
+    "chinese_name": "白求恩库曼大学",
+    "english_name": "Bethune - Cookman University"
+  },
+  {
+    "chinese_name": "贝翰文大学",
+    "english_name": "Belhaven University"
+  },
+  {
+    "chinese_name": "北卡罗莱纳中央大学",
+    "english_name": "North Carolina Central University"
+  },
+  {
+    "chinese_name": "博伊西州立大学",
+    "english_name": "Boise State University"
+  },
+  {
+    "chinese_name": "北肯塔基大学",
+    "english_name": "Northern Kentucky University"
+  },
+  {
+    "chinese_name": "波多黎各大学里奥彼得拉斯分校（波多黎各）",
+    "english_name": "University of Puerto Rico  Rio Piedras Campus（Puerto Rico）"
+  },
+  {
+    "chinese_name": "波多黎各大学马亚圭斯分校（波多黎各）",
+    "english_name": "University of Puerto Rico  Mayagüez Campus Campus（Puerto Rico）"
+  },
+  {
+    "chinese_name": "波多黎各与加勒比地区高级研究中心（波多黎各）",
+    "english_name": "Centro de Estudios Avanzados de Puerto Rico y el Caribe（Puerto Rico）"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学威明顿分校",
+    "english_name": "The University of North Carolina at Wilmington"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学教堂山分校",
+    "english_name": "The University of North Carolina at Chapel Hill"
+  },
+  {
+    "chinese_name": "巴特学院",
+    "english_name": "Butte College"
+  },
+  {
+    "chinese_name": "巴布森学院",
+    "english_name": "Babson College"
+  },
+  {
+    "chinese_name": "波莫纳学院",
+    "english_name": "Pomona College"
+  },
+  {
+    "chinese_name": "宾夕法尼亚美术学院",
+    "english_name": "Pennsylvania Academy of the Fine Arts"
+  },
+  {
+    "chinese_name": "贝茨学院",
+    "english_name": "Bates College"
+  },
+  {
+    "chinese_name": "贝勒大学",
+    "english_name": "Baylor University"
+  },
+  {
+    "chinese_name": "鲍灵格林州立大学",
+    "english_name": "Bowling Green State University"
+  },
+  {
+    "chinese_name": "北达科他大学",
+    "english_name": "University of North Dakota"
+  },
+  {
+    "chinese_name": "北西雅图社区学院",
+    "english_name": "North Seattle Community College"
+  },
+  {
+    "chinese_name": "北美大学（弗吉尼亚州）",
+    "english_name": "University of North America"
+  },
+  {
+    "chinese_name": "北方中央大学",
+    "english_name": "Northcentral University"
+  },
+  {
+    "chinese_name": "波音特洛马拿撒勒大学",
+    "english_name": "Point Loma Nazarene University"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学格林斯博罗分校",
+    "english_name": "The University of North Carolina at Greensboro"
+  },
+  {
+    "chinese_name": "波士顿学院",
+    "english_name": "Boston College"
+  },
+  {
+    "chinese_name": "贝尔蒙特大学",
+    "english_name": "Belmont University"
+  },
+  {
+    "chinese_name": "布拉佐斯波特学院",
+    "english_name": "Brazosport College"
+  },
+  {
+    "chinese_name": "巴德学院",
+    "english_name": "Bard College"
+  },
+  {
+    "chinese_name": "北卡罗莱纳州立大学",
+    "english_name": "North Carolina State University"
+  },
+  {
+    "chinese_name": "北美大学（德克萨斯州）",
+    "english_name": "North American University"
+  },
+  {
+    "chinese_name": "北佐治亚大学",
+    "english_name": "University of North Georgia"
+  },
+  {
+    "chinese_name": "北卡罗莱纳卫斯理学院",
+    "english_name": "North Carolina Wesleyan College"
+  },
+  {
+    "chinese_name": "布里奇沃特学院",
+    "english_name": "Bridgewater college"
+  },
+  {
+    "chinese_name": "贝尔维尤大学",
+    "english_name": "Bellevue University"
+  },
+  {
+    "chinese_name": "北部中心学院",
+    "english_name": "North Central College"
+  },
+  {
+    "chinese_name": "宾夕法尼亚克拉里恩大学",
+    "english_name": "Clarion University of Pennsylvania"
+  },
+  {
+    "chinese_name": "宾夕法尼亚联邦大学",
+    "english_name": "Commonwealth University of Pennsylvania"
+  },
+  {
+    "chinese_name": "宾夕法尼亚联邦大学曼斯菲尔德大学",
+    "english_name": "Mansfield University  Commonwealth University of Pennsylvania"
+  },
+  {
+    "chinese_name": "巴德学院西蒙洛克巴德学院",
+    "english_name": "Bard College at Simon's Rock  Bard College"
+  },
+  {
+    "chinese_name": "宾夕法尼亚滑石大学",
+    "english_name": "Slippery Rock University of Pennsylvania"
+  },
+  {
+    "chinese_name": "鲍登学院",
+    "english_name": "Bowdoin College"
+  },
+  {
+    "chinese_name": "北园大学",
+    "english_name": "North Park University"
+  },
+  {
+    "chinese_name": "北德克萨斯大学沃思堡健康科学中心",
+    "english_name": "University of North Texas Health Science Center at Fort Worth"
+  },
+  {
+    "chinese_name": "本德海岸学院",
+    "english_name": "Coastal Bend College"
+  },
+  {
+    "chinese_name": "北卡罗莱纳农工州立大学",
+    "english_name": "North Carolina A&T State University"
+  },
+  {
+    "chinese_name": "北亚利桑那大学",
+    "english_name": "Northern Arizona University"
+  },
+  {
+    "chinese_name": "北伊利诺伊大学",
+    "english_name": "Northern Illinois University"
+  },
+  {
+    "chinese_name": "北西雅图学院",
+    "english_name": "North Seattle College"
+  },
+  {
+    "chinese_name": "贝尔维尤学院",
+    "english_name": "Bellevue College"
+  },
+  {
+    "chinese_name": "班尼迪克大学",
+    "english_name": "Benedictine University"
+  },
+  {
+    "chinese_name": "宾夕法尼亚洛克黑文大学",
+    "english_name": "Lock Haven University of Pennsylvania"
+  },
+  {
+    "chinese_name": "北佛罗里达大学",
+    "english_name": "University of North Florida"
+  },
+  {
+    "chinese_name": "巴尔的摩大学",
+    "english_name": "The University of Baltimore"
+  },
+  {
+    "chinese_name": "伯克利音乐学院",
+    "english_name": "Berklee College of Music"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学夏洛特分校",
+    "english_name": "The University of North Carolina at Charlotte"
+  },
+  {
+    "chinese_name": "北密歇根大学",
+    "english_name": "Northern Michigan University"
+  },
+  {
+    "chinese_name": "波士顿建筑学院",
+    "english_name": "The Boston Architectural College"
+  },
+  {
+    "chinese_name": "北爱达荷学院",
+    "english_name": "North Idaho College"
+  },
+  {
+    "chinese_name": "贝里学院",
+    "english_name": "Berry College"
+  },
+  {
+    "chinese_name": "巴顿学院",
+    "english_name": "Barton College"
+  },
+  {
+    "chinese_name": "北卡罗莱纳大学彭布罗克分校",
+    "english_name": "The University of North Carolina at Pembroke"
+  },
+  {
+    "chinese_name": "布鲁克林法学院",
+    "english_name": "Brooklyn Law School"
+  },
+  {
+    "chinese_name": "卑尔根社区学院",
+    "english_name": "Bergen Community College"
+  },
+  {
+    "chinese_name": "贝宁顿学院",
+    "english_name": "Bennington College"
+  },
+  {
+    "chinese_name": "鲍德温华莱士大学",
+    "english_name": "Baldwin Wallace University"
+  },
+  {
+    "chinese_name": "贝克大学",
+    "english_name": "Baker University"
+  },
+  {
+    "chinese_name": "波特兰大学",
+    "english_name": "University of Portland"
+  },
+  {
+    "chinese_name": "贝塞斯达大学",
+    "english_name": "Bethesda University"
+  },
+  {
+    "chinese_name": "布劳沃德学院",
+    "english_name": "Broward College"
+  },
+  {
+    "chinese_name": "柴恩大学",
+    "english_name": "Trine University"
+  },
+  {
+    "chinese_name": "查普林学院",
+    "english_name": "Champlain College"
+  },
+  {
+    "chinese_name": "查普曼大学",
+    "english_name": "Chapman University"
+  },
+  {
+    "chinese_name": "查尔斯顿学院",
+    "english_name": "The College of Charleston"
+  },
+  {
+    "chinese_name": "查尔斯河德鲁医学和科学大学",
+    "english_name": "Charles R. Drew University of Medicine and Science"
+  },
+  {
+    "chinese_name": "Chi大学",
+    "english_name": "Chi University"
+  },
+  {
+    "chinese_name": "常春藤技术社区学院",
+    "english_name": "Ivy Tech Community College"
+  },
+  {
+    "chinese_name": "查塔努加州立社区学院",
+    "english_name": "Chattanooga State Community College"
+  },
+  {
+    "chinese_name": "查德隆州立学院",
+    "english_name": "Chadron State College"
+  },
+  {
+    "chinese_name": "常青州立学院",
+    "english_name": "The Evergreen State College"
+  },
+  {
+    "chinese_name": "创意研究学院",
+    "english_name": "College for Creative Studies"
+  },
+  {
+    "chinese_name": "春田学院",
+    "english_name": "Springfield College"
+  },
+  {
+    "chinese_name": "查尔斯顿大学",
+    "english_name": "University of Charleston"
+  },
+  {
+    "chinese_name": "查塔姆大学",
+    "english_name": "Chatham University"
+  },
+  {
+    "chinese_name": "德克萨斯大学阿灵顿分校",
+    "english_name": "The University of Texas at Arlington"
+  },
+  {
+    "chinese_name": "德克萨斯大学埃尔帕索分校",
+    "english_name": "The University of Texas at El Paso"
+  },
+  {
+    "chinese_name": "迪拉徳大学",
+    "english_name": "Dillard University"
+  },
+  {
+    "chinese_name": "达拉斯浸会大学",
+    "english_name": "Dallas Baptist University"
+  },
+  {
+    "chinese_name": "东海岸理工大学",
+    "english_name": "ECPI University"
+  },
+  {
+    "chinese_name": "迪吉彭理工学院",
+    "english_name": "DigiPen Institute of Technology"
+  },
+  {
+    "chinese_name": "德克萨斯大学帕米亚盆地分校",
+    "english_name": "The University of Texas Permian Basin"
+  },
+  {
+    "chinese_name": "达科他卫斯理大学",
+    "english_name": "Dakota Wesleyan University"
+  },
+  {
+    "chinese_name": "德克萨斯大学休斯顿健康科学中心",
+    "english_name": "The University of Texas Health Science Center at Houston"
+  },
+  {
+    "chinese_name": "东北伊利诺伊大学",
+    "english_name": "Northeastern Illinois University"
+  },
+  {
+    "chinese_name": "东德克萨斯浸信会大学",
+    "english_name": "East Texas Baptist University"
+  },
+  {
+    "chinese_name": "得梅因地区社区学院",
+    "english_name": "Des Moines Area Community College"
+  },
+  {
+    "chinese_name": "大峡谷大学",
+    "english_name": "Grand Canyon University"
+  },
+  {
+    "chinese_name": "大西洋中医学院",
+    "english_name": "Atlantic Institute of Oriental Medicine"
+  },
+  {
+    "chinese_name": "丹佛大学",
+    "english_name": "University of Denver"
+  },
+  {
+    "chinese_name": "底特律梅西大学",
+    "english_name": "University of Detroit Mercy"
+  },
+  {
+    "chinese_name": "东西大学",
+    "english_name": "East-West University"
+  },
+  {
+    "chinese_name": "东南浸会神学院",
+    "english_name": "Southeastern Baptist Theological Seminary"
+  },
+  {
+    "chinese_name": "德保罗大学",
+    "english_name": "DePaul University"
+  },
+  {
+    "chinese_name": "迪堡大学",
+    "english_name": "DePauw University"
+  },
+  {
+    "chinese_name": "东中部大学",
+    "english_name": "East Central University"
+  },
+  {
+    "chinese_name": "杜比克大学",
+    "english_name": "University of Dubuque"
+  },
+  {
+    "chinese_name": "迪金森州立大学",
+    "english_name": "Dickinson State University"
+  },
+  {
+    "chinese_name": "达拉斯大学",
+    "english_name": "The University of Dallas"
+  },
+  {
+    "chinese_name": "德鲁里大学",
+    "english_name": "Drury University"
+  },
+  {
+    "chinese_name": "东北大学",
+    "english_name": "Northeastern University"
+  },
+  {
+    "chinese_name": "东北初级学院",
+    "english_name": "Northeastern Junior College"
+  },
+  {
+    "chinese_name": "达拉斯神学院",
+    "english_name": "Dallas Theological Seminary"
+  },
+  {
+    "chinese_name": "东华盛顿大学",
+    "english_name": "Eastern Washington University"
+  },
+  {
+    "chinese_name": "东新墨西哥大学",
+    "english_name": "Eastern New Mexico University"
+  },
+  {
+    "chinese_name": "德克萨斯大学达拉斯分校",
+    "english_name": "The University of Texas at Dallas"
+  },
+  {
+    "chinese_name": "道家传统中医学院",
+    "english_name": "Daoist Traditions College of Chinese Medical Arts"
+  },
+  {
+    "chinese_name": "戴维森学院",
+    "english_name": "Davidson College"
+  },
+  {
+    "chinese_name": "德克萨斯大学安德森癌症中心",
+    "english_name": "The University of Texas M. D. Anderson Cancer Center"
+  },
+  {
+    "chinese_name": "迪恩学院",
+    "english_name": "Dean College"
+  },
+  {
+    "chinese_name": "德克萨斯大学西南医学中心",
+    "english_name": "The University of Texas Southwestern Medical Center"
+  },
+  {
+    "chinese_name": "杜兰大学",
+    "english_name": "Tulane University"
+  },
+  {
+    "chinese_name": "大西洋海角社区学院",
+    "english_name": "Atlantic Cape Community College"
+  },
+  {
+    "chinese_name": "大都会社区学院",
+    "english_name": "Metropolitan Community College"
+  },
+  {
+    "chinese_name": "东康涅狄格州立大学",
+    "english_name": "Eastern Connecticut State University"
+  },
+  {
+    "chinese_name": "大都会州立大学",
+    "english_name": "Metropolitan State University"
+  },
+  {
+    "chinese_name": "东俄勒冈大学",
+    "english_name": "Eastern Oregon University"
+  },
+  {
+    "chinese_name": "代顿大学",
+    "english_name": "University of Dayton"
+  },
+  {
+    "chinese_name": "丹佛大都会州立大学",
+    "english_name": "Metropolitan State University of Denver"
+  },
+  {
+    "chinese_name": "德克萨斯圣安东尼奥圣玛丽大学",
+    "english_name": "St. Mary's University of San Antonio  Texas"
+  },
+  {
+    "chinese_name": "迪金森学院",
+    "english_name": "Dickinson College"
+  },
+  {
+    "chinese_name": "杜肯大学",
+    "english_name": "Duquesne University"
+  },
+  {
+    "chinese_name": "德鲁大学",
+    "english_name": "Drew University"
+  },
+  {
+    "chinese_name": "东密歇根大学",
+    "english_name": "Eastern Michigan University"
+  },
+  {
+    "chinese_name": "东南密苏里州立大学",
+    "english_name": "Southeast Missouri State University"
+  },
+  {
+    "chinese_name": "达特茅斯学院",
+    "english_name": "Dartmouth College"
+  },
+  {
+    "chinese_name": "杜克大学",
+    "english_name": "Duke University"
+  },
+  {
+    "chinese_name": "东部大学",
+    "english_name": "Eastern University"
+  },
+  {
+    "chinese_name": "德克萨斯农工大学",
+    "english_name": "Texas A & M University"
+  },
+  {
+    "chinese_name": "德克萨斯基督教大学",
+    "english_name": "Texas Christian University"
+  },
+  {
+    "chinese_name": "东南大学（佛罗里达州）",
+    "english_name": "Southeastern University"
+  },
+  {
+    "chinese_name": "大卫利普斯科姆大学",
+    "english_name": "David Lipscomb University"
+  },
+  {
+    "chinese_name": "德雷克塞尔大学",
+    "english_name": "Drexel University"
+  },
+  {
+    "chinese_name": "德雷克大学",
+    "english_name": "Drake University"
+  },
+  {
+    "chinese_name": "德克萨斯农工大学科珀斯科里斯蒂分校",
+    "english_name": "Texas A&M University-Corpus Christi"
+  },
+  {
+    "chinese_name": "德克萨斯脊椎指压疗法学院",
+    "english_name": "Texas Chiropractic College"
+  },
+  {
+    "chinese_name": "德克萨斯学院",
+    "english_name": "Texas College"
+  },
+  {
+    "chinese_name": "德克萨斯南方大学",
+    "english_name": "Texas Southern University"
+  },
+  {
+    "chinese_name": "德克萨斯卫斯理大学",
+    "english_name": "Texas Wesleyan University"
+  },
+  {
+    "chinese_name": "德克萨斯大学圣安东尼奥分校",
+    "english_name": "The University of Texas at San Antonio"
+  },
+  {
+    "chinese_name": "德克萨斯大学泰勒分校",
+    "english_name": "The University of Texas at Tyler"
+  },
+  {
+    "chinese_name": "德克萨斯大学圣安东尼奥健康科学中心",
+    "english_name": "The University of Texas Health Science Center at San Antonio"
+  },
+  {
+    "chinese_name": "德克萨斯大学加尔维斯顿医学部",
+    "english_name": "The University of Texas Medical Branch at Galveston"
+  },
+  {
+    "chinese_name": "丹尼森大学",
+    "english_name": "Denison University"
+  },
+  {
+    "chinese_name": "东门诺大学",
+    "english_name": "Eastern Mennonite University"
+  },
+  {
+    "chinese_name": "东斯特劳斯堡大学",
+    "english_name": "East Stroudsburg University"
+  },
+  {
+    "chinese_name": "戴维斯学院",
+    "english_name": "Davis College"
+  },
+  {
+    "chinese_name": "代托纳州立学院",
+    "english_name": "Daytona State College"
+  },
+  {
+    "chinese_name": "达拉斯学院",
+    "english_name": "Dallas College"
+  },
+  {
+    "chinese_name": "东田纳西州立大学",
+    "english_name": "East Tennessee State University"
+  },
+  {
+    "chinese_name": "德克萨斯理工大学",
+    "english_name": "Texas Tech University"
+  },
+  {
+    "chinese_name": "东卡罗莱纳大学",
+    "english_name": "East Carolina University"
+  },
+  {
+    "chinese_name": "德克萨斯理工大学健康科学中心",
+    "english_name": "Texas Tech University Health Sciences Center"
+  },
+  {
+    "chinese_name": "德尤维尔大学",
+    "english_name": "D'Youville University"
+  },
+  {
+    "chinese_name": "东德克萨斯农工大学",
+    "english_name": "East Texas A&M University"
+  },
+  {
+    "chinese_name": "戴维斯和埃尔金斯学院",
+    "english_name": "Davis and Elkins College"
+  },
+  {
+    "chinese_name": "丹佛神学院",
+    "english_name": "Denver Seminary"
+  },
+  {
+    "chinese_name": "德萨尔斯大学",
+    "english_name": "DeSales University"
+  },
+  {
+    "chinese_name": "德克萨斯州立大学",
+    "english_name": "Texas State University"
+  },
+  {
+    "chinese_name": "德克萨斯农工国际大学",
+    "english_name": "Texas A&M International University"
+  },
+  {
+    "chinese_name": "多米尼肯大学",
+    "english_name": "Dominican University"
+  },
+  {
+    "chinese_name": "德克萨斯女子大学",
+    "english_name": "Texas Woman's University"
+  },
+  {
+    "chinese_name": "东南俄克拉荷马州立大学",
+    "english_name": "Southeastern Oklahoma State University"
+  },
+  {
+    "chinese_name": "德锐大学",
+    "english_name": "DeVry University"
+  },
+  {
+    "chinese_name": "东伊利诺伊大学",
+    "english_name": "Eastern Illinois University"
+  },
+  {
+    "chinese_name": "德克萨斯农工大学特克萨卡纳分校",
+    "english_name": "Texas A&M University-Texarkana"
+  },
+  {
+    "chinese_name": "迪亚波罗谷学院",
+    "english_name": "Diablo Valley College"
+  },
+  {
+    "chinese_name": "东洛杉矶学院",
+    "english_name": "East Los Angeles College"
+  },
+  {
+    "chinese_name": "东肯塔基大学",
+    "english_name": "Eastern Kentucky University"
+  },
+  {
+    "chinese_name": "杜鲁门州立大学",
+    "english_name": "Truman State University"
+  },
+  {
+    "chinese_name": "多恩大学",
+    "english_name": "Doane University"
+  },
+  {
+    "chinese_name": "达文波特大学",
+    "english_name": "Davenport University"
+  },
+  {
+    "chinese_name": "大河谷州立大学",
+    "english_name": "Grand Valley State University"
+  },
+  {
+    "chinese_name": "东南路易斯安那大学",
+    "english_name": "Southeastern Louisiana University"
+  },
+  {
+    "chinese_name": "达拉斯国际大学",
+    "english_name": "Dallas International University"
+  },
+  {
+    "chinese_name": "道尔顿州立大学",
+    "english_name": "Dalton State College"
+  },
+  {
+    "chinese_name": "德克萨斯大学奥斯汀分校",
+    "english_name": "The University of Texas at Austin"
+  },
+  {
+    "chinese_name": "蒂芬大学",
+    "english_name": "Tiffin University"
+  },
+  {
+    "chinese_name": "德安萨学院",
+    "english_name": "De Anza College"
+  },
+  {
+    "chinese_name": "德克萨斯大学里奥格兰德谷分校",
+    "english_name": "The University of Texas Rio Grande Valley"
+  },
+  {
+    "chinese_name": "东北州立大学",
+    "english_name": "Northeastern State University"
+  },
+  {
+    "chinese_name": "德克萨斯农工大学金斯维尔分校",
+    "english_name": "Texas A&M University-Kingsville"
+  },
+  {
+    "chinese_name": "俄亥俄大学",
+    "english_name": "The Ohio University"
+  },
+  {
+    "chinese_name": "俄亥俄州立大学",
+    "english_name": "The Ohio State University"
+  },
+  {
+    "chinese_name": "俄勒冈州立大学",
+    "english_name": "Oregon State University"
+  },
+  {
+    "chinese_name": "俄亥俄北方大学",
+    "english_name": "Ohio Northern University"
+  },
+  {
+    "chinese_name": "俄克拉荷马城市社区学院",
+    "english_name": "Oklahoma City Community College"
+  },
+  {
+    "chinese_name": "厄勒姆学院",
+    "english_name": "Earlham College"
+  },
+  {
+    "chinese_name": "俄克拉荷马大学",
+    "english_name": "The University of Oklahoma"
+  },
+  {
+    "chinese_name": "俄勒冈大学",
+    "english_name": "University of Oregon"
+  },
+  {
+    "chinese_name": "尔湾谷学院",
+    "english_name": "Irvine Valley College"
+  },
+  {
+    "chinese_name": "俄亥俄多米尼肯大学",
+    "english_name": "Ohio Dominican University"
+  },
+  {
+    "chinese_name": "俄克拉荷马州立大学",
+    "english_name": "Oklahoma State University"
+  },
+  {
+    "chinese_name": "俄亥俄卫斯理大学",
+    "english_name": "Ohio Wesleyan University"
+  },
+  {
+    "chinese_name": "恩波利亚州立大学",
+    "english_name": "Emporia State University"
+  },
+  {
+    "chinese_name": "俄克拉荷马城市大学",
+    "english_name": "Oklahoma City University"
+  },
+  {
+    "chinese_name": "俄克拉荷马基督教会大学",
+    "english_name": "Oklahoma Christian University"
+  },
+  {
+    "chinese_name": "俄勒冈健康与科学大学",
+    "english_name": "Oregon Health and Science University"
+  },
+  {
+    "chinese_name": "恩迪科特学院",
+    "english_name": "Endicott College"
+  },
+  {
+    "chinese_name": "俄克拉荷马狭地州立大学",
+    "english_name": "Oklahoma Panhandle State University"
+  },
+  {
+    "chinese_name": "俄克拉荷马浸会大学",
+    "english_name": "Oklahoma Baptist University"
+  },
+  {
+    "chinese_name": "俄克拉荷马州立大学技术学院",
+    "english_name": "Oklahoma State University Institute of Technology"
+  },
+  {
+    "chinese_name": "富特希尔学院",
+    "english_name": "Foothill College"
+  },
+  {
+    "chinese_name": "佛罗里达农工大学",
+    "english_name": "Florida Agricultural and Mechanical University"
+  },
+  {
+    "chinese_name": "弗吉尼亚大学",
+    "english_name": "The University of Virginia"
+  },
+  {
+    "chinese_name": "菲尔莱狄更斯大学",
+    "english_name": "Fairleigh Dickinson University"
+  },
+  {
+    "chinese_name": "富特海斯州立大学",
+    "english_name": "Fort Hays State University"
+  },
+  {
+    "chinese_name": "福特汉姆大学",
+    "english_name": "Fordham University"
+  },
+  {
+    "chinese_name": "弗吉尼亚理工大学",
+    "english_name": "Virginia Polytechnic Institute and State University"
+  },
+  {
+    "chinese_name": "佛罗里达大西洋大学",
+    "english_name": "Florida Atlantic University"
+  },
+  {
+    "chinese_name": "凤凰城大学",
+    "english_name": "University of Phoenix"
+  },
+  {
+    "chinese_name": "范德库克音乐学院",
+    "english_name": "VanderCook College of Music"
+  },
+  {
+    "chinese_name": "弗吉尼亚军事学院",
+    "english_name": "Virginia Military Institute"
+  },
+  {
+    "chinese_name": "丰博纳大学",
+    "english_name": "Fontbonne University"
+  },
+  {
+    "chinese_name": "芬德雷大学",
+    "english_name": "The University of Findlay"
+  },
+  {
+    "chinese_name": "弗雷明汉州立大学",
+    "english_name": "Framingham State University"
+  },
+  {
+    "chinese_name": "弗吉尼亚联合大学",
+    "english_name": "Virginia Union University"
+  },
+  {
+    "chinese_name": "范安德尔研究所研究生院",
+    "english_name": "Van Andel Institute Graduate School"
+  },
+  {
+    "chinese_name": "佛罗里达大学",
+    "english_name": "The University of Florida"
+  },
+  {
+    "chinese_name": "佛罗里达理工学院",
+    "english_name": "Florida Institute of Technology"
+  },
+  {
+    "chinese_name": "菲耶特维尔州立大学",
+    "english_name": "Fayetteville State University"
+  },
+  {
+    "chinese_name": "丰博纳学院",
+    "english_name": "Fontbonne College"
+  },
+  {
+    "chinese_name": "佛罗里达国际大学",
+    "english_name": "Florida International University"
+  },
+  {
+    "chinese_name": "弗雷斯诺城市学院",
+    "english_name": "Fresno City College"
+  },
+  {
+    "chinese_name": "富勒神学院",
+    "english_name": "Fuller Theological Seminary"
+  },
+  {
+    "chinese_name": "富勒顿学院",
+    "english_name": "Fullerton College"
+  },
+  {
+    "chinese_name": "佛罗里达州立大学",
+    "english_name": "Florida State University"
+  },
+  {
+    "chinese_name": "富尔顿蒙哥马利社区学院",
+    "english_name": "Fulton-Montgomery Community College"
+  },
+  {
+    "chinese_name": "佛罗里达南方学院",
+    "english_name": "Florida Southern College"
+  },
+  {
+    "chinese_name": "福尔曼大学",
+    "english_name": "Furman University"
+  },
+  {
+    "chinese_name": "费舍尔学院",
+    "english_name": "Fisher College"
+  },
+  {
+    "chinese_name": "费城社区学院",
+    "english_name": "Community College of Philadelphia"
+  },
+  {
+    "chinese_name": "弗吉尼亚卫斯理大学",
+    "english_name": "Virginia Wesleyan University"
+  },
+  {
+    "chinese_name": "丰田工业大学芝加哥分校",
+    "english_name": "The Toyota Technological Institute at Chicago"
+  },
+  {
+    "chinese_name": "佛蒙特大学",
+    "english_name": "The University of Vermont"
+  },
+  {
+    "chinese_name": "富兰克林和马歇尔学院",
+    "english_name": "Franklin and Marshall College"
+  },
+  {
+    "chinese_name": "费尔菲尔德大学",
+    "english_name": "Fairfield University"
+  },
+  {
+    "chinese_name": "服装设计营销学院",
+    "english_name": "Fashion Institute of Design & Merchandising"
+  },
+  {
+    "chinese_name": "富勒研究生院",
+    "english_name": "Fuller Graduate Schools"
+  },
+  {
+    "chinese_name": "佛罗里达塞米诺尔州立学院",
+    "english_name": "Seminole State College of Florida"
+  },
+  {
+    "chinese_name": "弗吉尼亚联邦大学",
+    "english_name": "Virginia Commonwealth University"
+  },
+  {
+    "chinese_name": "费利西安大学",
+    "english_name": "Felician University"
+  },
+  {
+    "chinese_name": "佛罗里达海湾海岸大学",
+    "english_name": "Florida Gulf Coast University"
+  },
+  {
+    "chinese_name": "福赛斯技术社区学院",
+    "english_name": "Forsyth Technical Community College"
+  },
+  {
+    "chinese_name": "富兰克林·欧林工程学院",
+    "english_name": "Franklin W. Olin College of Engineering"
+  },
+  {
+    "chinese_name": "费鲁姆学院",
+    "english_name": "Ferrum College"
+  },
+  {
+    "chinese_name": "佛州中医学院",
+    "english_name": "Florida College of Integrative Medicine"
+  },
+  {
+    "chinese_name": "费佛大学",
+    "english_name": "Pfeiffer University"
+  },
+  {
+    "chinese_name": "佛罗斯堡州立大学",
+    "english_name": "Frostburg State University"
+  },
+  {
+    "chinese_name": "弗朗西斯马里恩大学",
+    "english_name": "Francis Marion University"
+  },
+  {
+    "chinese_name": "富兰克林皮尔斯大学",
+    "english_name": "Franklin Pierce University"
+  },
+  {
+    "chinese_name": "福赛大学",
+    "english_name": "Full Sail University"
+  },
+  {
+    "chinese_name": "费里斯州立大学",
+    "english_name": "Ferris State University"
+  },
+  {
+    "chinese_name": "范德比尔特大学",
+    "english_name": "Vanderbilt University"
+  },
+  {
+    "chinese_name": "弗雷斯诺太平洋大学",
+    "english_name": "Fresno Pacific University"
+  },
+  {
+    "chinese_name": "弗拉格勒学院",
+    "english_name": "Flagler College"
+  },
+  {
+    "chinese_name": "费尔蒙特州立大学",
+    "english_name": "Fairmont State University"
+  },
+  {
+    "chinese_name": "富兰克林大学",
+    "english_name": "Franklin University"
+  },
+  {
+    "chinese_name": "弗吉尼亚州立大学",
+    "english_name": "Virginia State University"
+  },
+  {
+    "chinese_name": "哥伦布艺术与设计学院",
+    "english_name": "Columbus College of Art and Design"
+  },
+  {
+    "chinese_name": "格林斯博罗学院",
+    "english_name": "Greensboro College"
+  },
+  {
+    "chinese_name": "甘农大学",
+    "english_name": "Gannon University"
+  },
+  {
+    "chinese_name": "格罗斯蒙特学院",
+    "english_name": "Grossmont College"
+  },
+  {
+    "chinese_name": "哥伦比亚大学",
+    "english_name": "Columbia University"
+  },
+  {
+    "chinese_name": "古斯塔夫斯艾道佛斯学院",
+    "english_name": "Gustavus Adolphus College"
+  },
+  {
+    "chinese_name": "格林奈尔学院",
+    "english_name": "Grinnell College"
+  },
+  {
+    "chinese_name": "哥伦比亚国际大学",
+    "english_name": "Columbia International University"
+  },
+  {
+    "chinese_name": "盖特威神学院",
+    "english_name": "Gateway Seminary"
+  },
+  {
+    "chinese_name": "格雷斯教会大学",
+    "english_name": "Grace Mission University"
+  },
+  {
+    "chinese_name": "国家自然医学大学",
+    "english_name": "National University of Natural Medicine"
+  },
+  {
+    "chinese_name": "哥伦比亚学院（加利福尼亚州）",
+    "english_name": "Columbia College"
+  },
+  {
+    "chinese_name": "戈登学院",
+    "english_name": "Gordon College"
+  },
+  {
+    "chinese_name": "国际神学院",
+    "english_name": "International Theological Seminary"
+  },
+  {
+    "chinese_name": "格伦代尔社区学院",
+    "english_name": "Glendale Community College"
+  },
+  {
+    "chinese_name": "戈尔登西部学院",
+    "english_name": "Golden West College"
+  },
+  {
+    "chinese_name": "哥伦比亚学院（密苏里州）",
+    "english_name": "Columbia College"
+  },
+  {
+    "chinese_name": "关岛大学",
+    "english_name": "University of Guam"
+  },
+  {
+    "chinese_name": "国民大学",
+    "english_name": "National University"
+  },
+  {
+    "chinese_name": "国际医药大学",
+    "english_name": "University of East-West Medicine"
+  },
+  {
+    "chinese_name": "高地毕肯学院",
+    "english_name": "Goldey-Beacom College"
+  },
+  {
+    "chinese_name": "格林威尔大学",
+    "english_name": "Greenville University"
+  },
+  {
+    "chinese_name": "格兰布林州立大学",
+    "english_name": "Grambling State University"
+  },
+  {
+    "chinese_name": "贡萨格大学",
+    "english_name": "Gonzaga University"
+  },
+  {
+    "chinese_name": "国际美国大学",
+    "english_name": "International American University"
+  },
+  {
+    "chinese_name": "高盛学院",
+    "english_name": "Goshen College"
+  },
+  {
+    "chinese_name": "改革宗神学院",
+    "english_name": "Reformed Theological Seminary"
+  },
+  {
+    "chinese_name": "哥伦布州立大学",
+    "english_name": "Columbus State University"
+  },
+  {
+    "chinese_name": "国王学院",
+    "english_name": "King's College"
+  },
+  {
+    "chinese_name": "古彻学院",
+    "english_name": "Goucher College"
+  },
+  {
+    "chinese_name": "哥伦布州立社区学院",
+    "english_name": "Columbus State Community College"
+  },
+  {
+    "chinese_name": "哥伦比亚学院（南卡罗莱纳州）",
+    "english_name": "Columbia College"
+  },
+  {
+    "chinese_name": "哥伦比亚特区大学",
+    "english_name": "University of the District of Columbia"
+  },
+  {
+    "chinese_name": "格温内德梅西大学",
+    "english_name": "Gwynedd Mercy University"
+  },
+  {
+    "chinese_name": "格罗夫城市学院",
+    "english_name": "Grove City College"
+  },
+  {
+    "chinese_name": "盖茨堡学院",
+    "english_name": "Gettysburg College"
+  },
+  {
+    "chinese_name": "格里斯兰大学",
+    "english_name": "Graceland University"
+  },
+  {
+    "chinese_name": "橄榄山大学",
+    "english_name": "University of Mount Olive"
+  },
+  {
+    "chinese_name": "华盛顿与李大学",
+    "english_name": "Washington and Lee University"
+  },
+  {
+    "chinese_name": "霍夫斯特拉大学",
+    "english_name": "Hofstra University"
+  },
+  {
+    "chinese_name": "哈维马德学院",
+    "english_name": "Harvey Mudd College"
+  },
+  {
+    "chinese_name": "华盛顿学院",
+    "english_name": "Washington College"
+  },
+  {
+    "chinese_name": "哈丁大学",
+    "english_name": "Harding University"
+  },
+  {
+    "chinese_name": "哈姆林大学",
+    "english_name": "Hamline University"
+  },
+  {
+    "chinese_name": "华盛顿州立大学",
+    "english_name": "Washington State University"
+  },
+  {
+    "chinese_name": "霍巴特和威廉史密斯学院（霍巴特学院）",
+    "english_name": "Hobart College  Hobart and William Smith Colleges"
+  },
+  {
+    "chinese_name": "河谷市州立大学",
+    "english_name": "Valley City State University"
+  },
+  {
+    "chinese_name": "亨德森州立大学",
+    "english_name": "Henderson State University"
+  },
+  {
+    "chinese_name": "汉尼拔拉格朗日大学",
+    "english_name": "Hannibal-LaGrange University"
+  },
+  {
+    "chinese_name": "荷晶大学",
+    "english_name": "Herzing University"
+  },
+  {
+    "chinese_name": "皇冠学院",
+    "english_name": "Crown College"
+  },
+  {
+    "chinese_name": "哈弗福德学院",
+    "english_name": "Haverford College"
+  },
+  {
+    "chinese_name": "罕布什尔学院",
+    "english_name": "Hampshire College"
+  },
+  {
+    "chinese_name": "胡德学院",
+    "english_name": "Hood College"
+  },
+  {
+    "chinese_name": "黑鹰学院",
+    "english_name": "Black Hawk College"
+  },
+  {
+    "chinese_name": "汉密尔顿学院",
+    "english_name": "Hamilton College"
+  },
+  {
+    "chinese_name": "哈特维克学院",
+    "english_name": "Hartwick College"
+  },
+  {
+    "chinese_name": "赫尔基摩郡社区学院",
+    "english_name": "Herkimer County Community College"
+  },
+  {
+    "chinese_name": "汉普顿-悉尼学院",
+    "english_name": "Hampden-Sydney College"
+  },
+  {
+    "chinese_name": "华盛顿湖理工学院",
+    "english_name": "Lake Washington Institute of Technology"
+  },
+  {
+    "chinese_name": "哈丁-西蒙斯大学",
+    "english_name": "Hardin-Simmons University"
+  },
+  {
+    "chinese_name": "黄帝东洋汉医科大学",
+    "english_name": "Emperor's College of Traditional Oriental Medicine"
+  },
+  {
+    "chinese_name": "汉普顿大学",
+    "english_name": "Hampton University"
+  },
+  {
+    "chinese_name": "霍林斯大学",
+    "english_name": "Hollins University"
+  },
+  {
+    "chinese_name": "亨廷顿大学",
+    "english_name": "Huntington University"
+  },
+  {
+    "chinese_name": "惠特沃斯大学",
+    "english_name": "Whitworth University"
+  },
+  {
+    "chinese_name": "霍巴特和威廉史密斯学院（威廉史密斯学院）",
+    "english_name": "William Smith College  Hobart and William Smith Colleges"
+  },
+  {
+    "chinese_name": "湖滨大学",
+    "english_name": "Lakeland University"
+  },
+  {
+    "chinese_name": "华盛顿与杰斐逊学院",
+    "english_name": "Washington & Jefferson College"
+  },
+  {
+    "chinese_name": "惠特曼学院",
+    "english_name": "Whitman College"
+  },
+  {
+    "chinese_name": "霍特科社区学院",
+    "english_name": "Whatcom Community College"
+  },
+  {
+    "chinese_name": "汉弗莱斯大学",
+    "english_name": "Humphreys University"
+  },
+  {
+    "chinese_name": "哈金森社区学院",
+    "english_name": "Hutchinson Community College"
+  },
+  {
+    "chinese_name": "海岸线学院",
+    "english_name": "Coastline College"
+  },
+  {
+    "chinese_name": "华盛顿基督复临大学",
+    "english_name": "Washington Adventist University"
+  },
+  {
+    "chinese_name": "霍特国际商学院",
+    "english_name": "Hult International Business School"
+  },
+  {
+    "chinese_name": "霍华德大学",
+    "english_name": "Howard University"
+  },
+  {
+    "chinese_name": "哈里斯堡社区学院",
+    "english_name": "Harrisburg Area Community College"
+  },
+  {
+    "chinese_name": "亨利福特学院",
+    "english_name": "Henry Ford College"
+  },
+  {
+    "chinese_name": "亨德里克斯学院",
+    "english_name": "Hendrix College"
+  },
+  {
+    "chinese_name": "海莱恩学院",
+    "english_name": "Highline College"
+  },
+  {
+    "chinese_name": "华盛顿大学",
+    "english_name": "The University of Washington"
+  },
+  {
+    "chinese_name": "汉诺威学院",
+    "english_name": "Hanover College"
+  },
+  {
+    "chinese_name": "海波特大学",
+    "english_name": "High Point University"
+  },
+  {
+    "chinese_name": "海德堡大学",
+    "english_name": "Heidelberg University"
+  },
+  {
+    "chinese_name": "哈森大学",
+    "english_name": "Husson University"
+  },
+  {
+    "chinese_name": "哈特福德大学",
+    "english_name": "University of Hartford"
+  },
+  {
+    "chinese_name": "惠提尔学院",
+    "english_name": "Whittier College"
+  },
+  {
+    "chinese_name": "怀俄明大学",
+    "english_name": "University of Wyoming"
+  },
+  {
+    "chinese_name": "霍华德社区学院",
+    "english_name": "Howard Community College"
+  },
+  {
+    "chinese_name": "哈佛大学",
+    "english_name": "Harvard University"
+  },
+  {
+    "chinese_name": "华美中医学院",
+    "english_name": "American College of Acupuncture & Oriental Medicine"
+  },
+  {
+    "chinese_name": "黑山州立大学",
+    "english_name": "Black Hills State University"
+  },
+  {
+    "chinese_name": "河滨城市学院",
+    "english_name": "Riverside City College"
+  },
+  {
+    "chinese_name": "哈里斯堡科技大学",
+    "english_name": "The Harrisburg University of Science and Technology"
+  },
+  {
+    "chinese_name": "霍普学院",
+    "english_name": "Hope College"
+  },
+  {
+    "chinese_name": "霍巴特和威廉史密斯学院",
+    "english_name": "Hobart & William Smith Colleges"
+  },
+  {
+    "chinese_name": "华盛顿杰斐逊学院",
+    "english_name": "Washington and Jefferson College"
+  },
+  {
+    "chinese_name": "吉尔福德学院",
+    "english_name": "Guilford College"
+  },
+  {
+    "chinese_name": "加利福尼亚大学圣克鲁斯分校",
+    "english_name": "University of California  Santa Cruz"
+  },
+  {
+    "chinese_name": "加利福尼亚大学圣地亚哥分校",
+    "english_name": "University of California  San Diego"
+  },
+  {
+    "chinese_name": "加利福尼亚多米尼克大学",
+    "english_name": "Dominican University of California"
+  },
+  {
+    "chinese_name": "杰克逊州立大学",
+    "english_name": "Jackson State University"
+  },
+  {
+    "chinese_name": "纪念斯隆-凯特琳癌症中心小路易斯·V·郭士纳生物医学研究生院",
+    "english_name": "Louis V. Gerstner  Jr. Graduate School of Biomedical Sciences at Memorial Sloan-Kettering Cancer Center"
+  },
+  {
+    "chinese_name": "迦太基学院",
+    "english_name": "Carthage College"
+  },
+  {
+    "chinese_name": "加利福尼亚浸会大学",
+    "english_name": "California Baptist University"
+  },
+  {
+    "chinese_name": "加劳德特大学",
+    "english_name": "Gallaudet University"
+  },
+  {
+    "chinese_name": "加利福尼亚艺术学院",
+    "english_name": "California College of the Arts"
+  },
+  {
+    "chinese_name": "加利福尼亚大学尔湾分校",
+    "english_name": "University of California  Irvine"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学长滩分校",
+    "english_name": "California State University  Long Beach"
+  },
+  {
+    "chinese_name": "加利福尼亚大学戴维斯分校",
+    "english_name": "University of California  Davis"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学奇科分校",
+    "english_name": "California State University  Chico"
+  },
+  {
+    "chinese_name": "旧金山音乐学院",
+    "english_name": "San Francisco Conservatory of Music"
+  },
+  {
+    "chinese_name": "杰克逊维尔州立大学",
+    "english_name": "Jacksonville State University"
+  },
+  {
+    "chinese_name": "加利福尼亚大学旧金山分校",
+    "english_name": "University of California  San Francisco"
+  },
+  {
+    "chinese_name": "加利福尼亚大学河滨分校",
+    "english_name": "University of California  Riverside"
+  },
+  {
+    "chinese_name": "金斯顿大学",
+    "english_name": "Kingston University"
+  },
+  {
+    "chinese_name": "加德纳韦伯大学",
+    "english_name": "Gardner-Webb University"
+  },
+  {
+    "chinese_name": "基督复临健康大学",
+    "english_name": "AdventHealth University"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学海峡群岛分校",
+    "english_name": "California State University Channel Islands"
+  },
+  {
+    "chinese_name": "教育艺术大学",
+    "english_name": "The Art of Education University"
+  },
+  {
+    "chinese_name": "接力教育研究生院",
+    "english_name": "Relay Graduate School of Education"
+  },
+  {
+    "chinese_name": "杰克逊维尔佛罗里达州立学院",
+    "english_name": "Florida State College at Jacksonville"
+  },
+  {
+    "chinese_name": "旧金山湾大学",
+    "english_name": "San Francisco Bay University"
+  },
+  {
+    "chinese_name": "加利福尼亚大学洛杉矶分校",
+    "english_name": "University of California  Los Angeles"
+  },
+  {
+    "chinese_name": "加利福尼亚综合研究学院",
+    "english_name": "California Institute of Integral Studies"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学贝克斯菲尔德分校",
+    "english_name": "California State University  Bakersfield"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学弗雷斯诺分校",
+    "english_name": "California State University  Fresno"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学东湾分校",
+    "english_name": "California State University  East Bay"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学洛杉矶分校",
+    "english_name": "California State University  Los Angeles"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学蒙特雷湾分校",
+    "english_name": "California State University  Monterey Bay"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学北岭分校",
+    "english_name": "California State University  Northridge"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学萨克拉门托分校",
+    "english_name": "California State University  Sacramento"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学圣伯纳迪诺分校",
+    "english_name": "California State University  San Bernardino"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学圣马可斯分校",
+    "english_name": "California State University  San Marcos"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学特洛克分校",
+    "english_name": "California State University  Stanislaus"
+  },
+  {
+    "chinese_name": "加利福尼亚大学圣芭芭拉分校",
+    "english_name": "University of California  Santa Barbara"
+  },
+  {
+    "chinese_name": "旧金山艺术学院",
+    "english_name": "Academy of Art College"
+  },
+  {
+    "chinese_name": "加利福尼亚维克多大学",
+    "english_name": "California Victor University"
+  },
+  {
+    "chinese_name": "加利福尼亚州立理工大学波莫纳分校",
+    "english_name": "California State Polytechnic University  Pomona"
+  },
+  {
+    "chinese_name": "杰克逊维尔大学",
+    "english_name": "Jacksonville University"
+  },
+  {
+    "chinese_name": "加利福尼亚大学伯克利分校",
+    "english_name": "University of California  Berkeley"
+  },
+  {
+    "chinese_name": "金门大学",
+    "english_name": "Golden Gate University"
+  },
+  {
+    "chinese_name": "旧金山州立大学",
+    "english_name": "San Francisco State University"
+  },
+  {
+    "chinese_name": "基督兄弟大学",
+    "english_name": "Christian Brothers University"
+  },
+  {
+    "chinese_name": "杰克逊学院",
+    "english_name": "Jackson College"
+  },
+  {
+    "chinese_name": "健康科学统一服务大学",
+    "english_name": "Uniformed Services University of the Health Sciences"
+  },
+  {
+    "chinese_name": "基石大学",
+    "english_name": "Cornerstone University"
+  },
+  {
+    "chinese_name": "旧金山大学",
+    "english_name": "University of San Francisco"
+  },
+  {
+    "chinese_name": "加利福尼亚州立理工大学圣路易斯奥比斯波分校",
+    "english_name": "California Polytechnic State University  San Luis Obispo"
+  },
+  {
+    "chinese_name": "旧金山城市学院",
+    "english_name": "City College of San Francisco"
+  },
+  {
+    "chinese_name": "加利福尼亚理工学院",
+    "english_name": "California Institute of Technology"
+  },
+  {
+    "chinese_name": "旧金山艺术大学",
+    "english_name": "Academy of Art University"
+  },
+  {
+    "chinese_name": "加利福尼亚科技大学",
+    "english_name": "California Science and Technology University"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学富勒顿分校",
+    "english_name": "California State University  Fullerton"
+  },
+  {
+    "chinese_name": "加利福尼亚大学旧金山法学院",
+    "english_name": "University of California College of the Law  San Francisco"
+  },
+  {
+    "chinese_name": "加利福尼亚州立大学多明斯山分校",
+    "english_name": "California State University  Dominguez Hills"
+  },
+  {
+    "chinese_name": "加利福尼亚州立理工大学洪堡分校",
+    "english_name": "California State Polytechnic University  Humboldt"
+  },
+  {
+    "chinese_name": "基恩州立学院",
+    "english_name": "Keene State College"
+  },
+  {
+    "chinese_name": "吉斯通学院",
+    "english_name": "Keystone College"
+  },
+  {
+    "chinese_name": "金合欢大学",
+    "english_name": "Acacia University"
+  },
+  {
+    "chinese_name": "加利福尼亚圣玛丽学院",
+    "english_name": "Saint Mary's College of California"
+  },
+  {
+    "chinese_name": "加利福尼亚路德大学",
+    "english_name": "California Lutheran University"
+  },
+  {
+    "chinese_name": "加利福尼亚高级管理学院",
+    "english_name": "California Institute of Advanced Management"
+  },
+  {
+    "chinese_name": "加利福尼亚大学默塞德分校",
+    "english_name": "University of California  Merced"
+  },
+  {
+    "chinese_name": "剑桥学院",
+    "english_name": "Cambridge College"
+  },
+  {
+    "chinese_name": "卡尔文大学",
+    "english_name": "Calvin University"
+  },
+  {
+    "chinese_name": "库利学院",
+    "english_name": "Curry College"
+  },
+  {
+    "chinese_name": "卡比奥拉尼社区学院",
+    "english_name": "Kapi'olani Community College"
+  },
+  {
+    "chinese_name": "康考迪亚大学（内布拉斯加州）",
+    "english_name": "Concordia University"
+  },
+  {
+    "chinese_name": "康考迪亚大学（威斯康星州）",
+    "english_name": "Concordia University"
+  },
+  {
+    "chinese_name": "凯泽大学",
+    "english_name": "Keiser University"
+  },
+  {
+    "chinese_name": "昆西学院",
+    "english_name": "Quincy College"
+  },
+  {
+    "chinese_name": "卡罗大学",
+    "english_name": "Carlow University"
+  },
+  {
+    "chinese_name": "克利夫兰音乐学院",
+    "english_name": "Cleveland Institute of Music"
+  },
+  {
+    "chinese_name": "科罗拉多州立大学普韦布洛分校",
+    "english_name": "Colorado State University-Pueblo"
+  },
+  {
+    "chinese_name": "克利夫兰艺术学院",
+    "english_name": "Cleveland Institute of Art"
+  },
+  {
+    "chinese_name": "科罗拉多学院",
+    "english_name": "Colorado College"
+  },
+  {
+    "chinese_name": "康奈尔学院",
+    "english_name": "Cornell College"
+  },
+  {
+    "chinese_name": "康考迪亚大学尔湾分校",
+    "english_name": "Concordia University Irvine"
+  },
+  {
+    "chinese_name": "肯尼索州立大学",
+    "english_name": "Kennesaw State University"
+  },
+  {
+    "chinese_name": "克兰布鲁克艺术学院",
+    "english_name": "Cranbrook Academy of Art"
+  },
+  {
+    "chinese_name": "凯特琳大学",
+    "english_name": "Kettering University"
+  },
+  {
+    "chinese_name": "卡尔顿学院",
+    "english_name": "Carleton College"
+  },
+  {
+    "chinese_name": "肯特州立大学",
+    "english_name": "Kent State University"
+  },
+  {
+    "chinese_name": "康奈尔大学",
+    "english_name": "Cornell University"
+  },
+  {
+    "chinese_name": "考克大学",
+    "english_name": "Coker University"
+  },
+  {
+    "chinese_name": "克里斯托弗纽波特大学",
+    "english_name": "Christopher Newport University"
+  },
+  {
+    "chinese_name": "康涅狄格学院",
+    "english_name": "Connecticut College"
+  },
+  {
+    "chinese_name": "卡拉马祖学院",
+    "english_name": "Kalamazoo College"
+  },
+  {
+    "chinese_name": "卡斯卡迪亚学院",
+    "english_name": "Cascadia College"
+  },
+  {
+    "chinese_name": "康考迪亚学院 （明尼苏达州）",
+    "english_name": "Concordia College"
+  },
+  {
+    "chinese_name": "卡罗尔大学",
+    "english_name": "Carroll University"
+  },
+  {
+    "chinese_name": "科罗拉多梅萨大学",
+    "english_name": "Colorado Mesa University"
+  },
+  {
+    "chinese_name": "克利夫兰州立大学",
+    "english_name": "Cleveland State University"
+  },
+  {
+    "chinese_name": "卡洛斯阿尔比祖大学（迈阿密）",
+    "english_name": "Carlos Albizu University-Miami Campus"
+  },
+  {
+    "chinese_name": "昆宁佩克大学",
+    "english_name": "Quinnipiac University"
+  },
+  {
+    "chinese_name": "肯塔基大学",
+    "english_name": "University of Kentucky"
+  },
+  {
+    "chinese_name": "卡布里洛学院",
+    "english_name": "Cabrillo College"
+  },
+  {
+    "chinese_name": "克拉克森大学",
+    "english_name": "Clarkson University"
+  },
+  {
+    "chinese_name": "科罗拉多州立大学",
+    "english_name": "Colorado State University"
+  },
+  {
+    "chinese_name": "坎伯兰大学",
+    "english_name": "University of the Cumberlands"
+  },
+  {
+    "chinese_name": "卡森纽曼大学",
+    "english_name": "Carson-Newman University"
+  },
+  {
+    "chinese_name": "堪萨斯大学",
+    "english_name": "The University of Kansas"
+  },
+  {
+    "chinese_name": "康涅狄格大学",
+    "english_name": "University of Connecticut"
+  },
+  {
+    "chinese_name": "康伯斯威尔大学",
+    "english_name": "Campbellsville University"
+  },
+  {
+    "chinese_name": "科罗拉多理工大学",
+    "english_name": "Colorado Technical University"
+  },
+  {
+    "chinese_name": "克莱姆森大学",
+    "english_name": "Clemson University"
+  },
+  {
+    "chinese_name": "克莱蒙研究生大学",
+    "english_name": "Claremont Graduate University"
+  },
+  {
+    "chinese_name": "克莱蒙麦肯纳学院",
+    "english_name": "Claremont McKenna College"
+  },
+  {
+    "chinese_name": "克莱蒙神学院",
+    "english_name": "Claremont School of Theology"
+  },
+  {
+    "chinese_name": "堪萨斯州立大学",
+    "english_name": "Kansas State University"
+  },
+  {
+    "chinese_name": "康考迪亚大学芝加哥分校",
+    "english_name": "Concordia University Chicago"
+  },
+  {
+    "chinese_name": "卡佩拉大学",
+    "english_name": "Capella University"
+  },
+  {
+    "chinese_name": "寇提学院",
+    "english_name": "Cottey College"
+  },
+  {
+    "chinese_name": "克拉克大学",
+    "english_name": "Clark University"
+  },
+  {
+    "chinese_name": "克莱顿大学",
+    "english_name": "Creighton University"
+  },
+  {
+    "chinese_name": "科比索亚学院",
+    "english_name": "Colby-Sawyer College"
+  },
+  {
+    "chinese_name": "克拉克学院",
+    "english_name": "Clark College"
+  },
+  {
+    "chinese_name": "卡姆登郡学院",
+    "english_name": "Camden County College"
+  },
+  {
+    "chinese_name": "堪萨斯中央基督教学院",
+    "english_name": "Central Christian College of Kansas"
+  },
+  {
+    "chinese_name": "克莱顿州立大学",
+    "english_name": "Clayton State University"
+  },
+  {
+    "chinese_name": "考德威尔大学",
+    "english_name": "Caldwell University"
+  },
+  {
+    "chinese_name": "凯恩大学",
+    "english_name": "Cairn University"
+  },
+  {
+    "chinese_name": "科罗拉多基督大学",
+    "english_name": "Colorado Christian University"
+  },
+  {
+    "chinese_name": "堪萨斯卫斯理大学",
+    "english_name": "Kansas Wesleyan University"
+  },
+  {
+    "chinese_name": "克拉克亚特兰大大学",
+    "english_name": "Clark Atlanta University"
+  },
+  {
+    "chinese_name": "凯斯西储大学",
+    "english_name": "Case Western Reserve University"
+  },
+  {
+    "chinese_name": "肯塔基州立大学",
+    "english_name": "Kentucky State University"
+  },
+  {
+    "chinese_name": "科罗拉多中医药大学",
+    "english_name": "Colorado Chinese Medicine University"
+  },
+  {
+    "chinese_name": "科罗拉多大学科罗拉多斯普林斯分校",
+    "english_name": "University of Colorado at Colorado Springs"
+  },
+  {
+    "chinese_name": "坎贝尔大学",
+    "english_name": "Campbell University"
+  },
+  {
+    "chinese_name": "科本学院",
+    "english_name": "The Colburn School"
+  },
+  {
+    "chinese_name": "卡罗莱纳海岸大学",
+    "english_name": "Coastal Carolina University"
+  },
+  {
+    "chinese_name": "科罗拉多矿业学院",
+    "english_name": "Colorado School of Mines"
+  },
+  {
+    "chinese_name": "库克学院",
+    "english_name": "Keuka College"
+  },
+  {
+    "chinese_name": "考林县社区学院",
+    "english_name": "Collin County Community College District"
+  },
+  {
+    "chinese_name": "库伯高级科学艺术联合学院",
+    "english_name": "Cooper Union for the Advancement of Science and Art"
+  },
+  {
+    "chinese_name": "科尔盖特大学",
+    "english_name": "Colgate University"
+  },
+  {
+    "chinese_name": "凯尼恩学院",
+    "english_name": "Kenyon College"
+  },
+  {
+    "chinese_name": "卡耐基梅隆大学",
+    "english_name": "Carnegie Mellon University"
+  },
+  {
+    "chinese_name": "柯伊学院",
+    "english_name": "Coe College"
+  },
+  {
+    "chinese_name": "卡文南特学院",
+    "english_name": "Covenant College"
+  },
+  {
+    "chinese_name": "肯尼亚达学院",
+    "english_name": "Cañada College"
+  },
+  {
+    "chinese_name": "康考迪亚大学圣保罗分校",
+    "english_name": "Concordia University  St. Paul"
+  },
+  {
+    "chinese_name": "康考迪亚大学德克萨斯分校",
+    "english_name": "Concordia University Texas"
+  },
+  {
+    "chinese_name": "科罗拉多大学博德分校",
+    "english_name": "University of Colorado at Boulder"
+  },
+  {
+    "chinese_name": "康沃斯学院",
+    "english_name": "Converse College"
+  },
+  {
+    "chinese_name": "肯恩大学",
+    "english_name": "Kean University"
+  },
+  {
+    "chinese_name": "孔特拉科斯塔学院",
+    "english_name": "Contra Costa College"
+  },
+  {
+    "chinese_name": "科比学院",
+    "english_name": "Colby College"
+  },
+  {
+    "chinese_name": "克洛弗帕克技术学院",
+    "english_name": "Clover Park Technical College"
+  },
+  {
+    "chinese_name": "科罗拉多大学丹佛分校",
+    "english_name": "University of Colorado at Denver"
+  },
+  {
+    "chinese_name": "康沃斯大学",
+    "english_name": "Converse University"
+  },
+  {
+    "chinese_name": "卡罗琳大学",
+    "english_name": "Caroline University"
+  },
+  {
+    "chinese_name": "昆藤商业与技术学院",
+    "english_name": "Quantic School of Business and Technology"
+  },
+  {
+    "chinese_name": "卡罗尔学院",
+    "english_name": "Carroll College"
+  },
+  {
+    "chinese_name": "科蒂斯音乐学院",
+    "english_name": "Curtis Institute of Music"
+  },
+  {
+    "chinese_name": "落基山学院",
+    "english_name": "Rocky Mountain College"
+  },
+  {
+    "chinese_name": "里德学院",
+    "english_name": "Reed College"
+  },
+  {
+    "chinese_name": "拉文大学",
+    "english_name": "University of La Verne"
+  },
+  {
+    "chinese_name": "林顿伍德大学",
+    "english_name": "Lindenwood University"
+  },
+  {
+    "chinese_name": "罗德岛设计学院",
+    "english_name": "Rhode Island School of Design"
+  },
+  {
+    "chinese_name": "罗切斯特理工学院",
+    "english_name": "Rochester Institute of Technology"
+  },
+  {
+    "chinese_name": "罗斯霍曼理工学院",
+    "english_name": "Rose-Hulman Institute of Technology"
+  },
+  {
+    "chinese_name": "里奥洪多学院",
+    "english_name": "Rio Hondo College"
+  },
+  {
+    "chinese_name": "利普斯科姆大学",
+    "english_name": "Lipscomb University"
+  },
+  {
+    "chinese_name": "绿河社区学院",
+    "english_name": "Green River Community College"
+  },
+  {
+    "chinese_name": "蓝天学院",
+    "english_name": "Skyline College"
+  },
+  {
+    "chinese_name": "罗克赫斯特大学",
+    "english_name": "Rockhurst University"
+  },
+  {
+    "chinese_name": "罗德岛大学",
+    "english_name": "University of Rhode Island"
+  },
+  {
+    "chinese_name": "联合学院与大学",
+    "english_name": "Union Institute & University"
+  },
+  {
+    "chinese_name": "莱克福里斯特学院",
+    "english_name": "Lake Forest College"
+  },
+  {
+    "chinese_name": "拉什大学",
+    "english_name": "Rush University"
+  },
+  {
+    "chinese_name": "劳伦斯大学",
+    "english_name": "Lawrence University"
+  },
+  {
+    "chinese_name": "洛克菲勒大学",
+    "english_name": "The Rockefeller University"
+  },
+  {
+    "chinese_name": "罗杰威廉姆斯大学",
+    "english_name": "Roger Williams University"
+  },
+  {
+    "chinese_name": "路易斯安那州立大学什里夫波特分校",
+    "english_name": "Louisiana State University at Shreveport"
+  },
+  {
+    "chinese_name": "兰卡斯特圣经学院",
+    "english_name": "Lancaster Bible College"
+  },
+  {
+    "chinese_name": "路易斯大学",
+    "english_name": "National Louis University"
+  },
+  {
+    "chinese_name": "兰道夫学院",
+    "english_name": "Randolph College"
+  },
+  {
+    "chinese_name": "劳伦斯理工大学",
+    "english_name": "Lawrence Technological University"
+  },
+  {
+    "chinese_name": "拉谢拉大学",
+    "english_name": "La Sierra University"
+  },
+  {
+    "chinese_name": "莱尼学院",
+    "english_name": "Laney College"
+  },
+  {
+    "chinese_name": "联合基督复临大学",
+    "english_name": "Union Adventist University"
+  },
+  {
+    "chinese_name": "莱图尔诺大学",
+    "english_name": "Letourneau University"
+  },
+  {
+    "chinese_name": "里士满大学",
+    "english_name": "University of Richmond"
+  },
+  {
+    "chinese_name": "莱莫恩学院",
+    "english_name": "Le Moyne College"
+  },
+  {
+    "chinese_name": "罗斯蒙特学院",
+    "english_name": "Rosemont College"
+  },
+  {
+    "chinese_name": "拉法耶特学院",
+    "english_name": "Lafayette College"
+  },
+  {
+    "chinese_name": "联合神学院",
+    "english_name": "Union Theological Seminary"
+  },
+  {
+    "chinese_name": "拉马尔理工学院",
+    "english_name": "Lamar Institute of Technology"
+  },
+  {
+    "chinese_name": "拉伯克基督大学",
+    "english_name": "Lubbock Christian University"
+  },
+  {
+    "chinese_name": "兰德大学",
+    "english_name": "Lander University"
+  },
+  {
+    "chinese_name": "罗伯特莫里斯大学",
+    "english_name": "Robert Morris University"
+  },
+  {
+    "chinese_name": "路易斯安那州立大学和农工学院",
+    "english_name": "Louisiana State University and Agricultural and Mechanical College"
+  },
+  {
+    "chinese_name": "拉格朗日学院",
+    "english_name": "LaGrange College"
+  },
+  {
+    "chinese_name": "拉勒米郡社区学院",
+    "english_name": "Laramie County Community College"
+  },
+  {
+    "chinese_name": "莱克福里斯特管理研究生院",
+    "english_name": "Lake Forest Graduate School of Management"
+  },
+  {
+    "chinese_name": "林赛威尔逊学院",
+    "english_name": "Lindsey Wilson College"
+  },
+  {
+    "chinese_name": "林肯纪念大学",
+    "english_name": "Lincoln Memorial University"
+  },
+  {
+    "chinese_name": "路易斯维尔大学",
+    "english_name": "The University of Louisville"
+  },
+  {
+    "chinese_name": "路易斯安那大学拉斐特分校",
+    "english_name": "University of Louisiana at Lafayette"
+  },
+  {
+    "chinese_name": "拉玛尔大学",
+    "english_name": "Lamar University"
+  },
+  {
+    "chinese_name": "林菲尔德大学",
+    "english_name": "Linfield University"
+  },
+  {
+    "chinese_name": "林菲尔德学院",
+    "english_name": "Linfield College"
+  },
+  {
+    "chinese_name": "路易斯安纳州立大学健康科学中心新奥尔良分校",
+    "english_name": "Louisiana State University Health Sciences Center at New Orleans"
+  },
+  {
+    "chinese_name": "罗伯茨卫斯理大学",
+    "english_name": "Roberts Wesleyan University"
+  },
+  {
+    "chinese_name": "拉古纳艺术与设计学院",
+    "english_name": "Laguna College of Art and Design"
+  },
+  {
+    "chinese_name": "里沃兰德社区学院",
+    "english_name": "Riverland Community College"
+  },
+  {
+    "chinese_name": "里彭学院",
+    "english_name": "Ripon College"
+  },
+  {
+    "chinese_name": "洛杉矶音乐学院",
+    "english_name": "Los Angeles College of Music"
+  },
+  {
+    "chinese_name": "雷德兰兹大学",
+    "english_name": "University of Redlands"
+  },
+  {
+    "chinese_name": "林恩-本顿社区学院",
+    "english_name": "Linn-Benton Community College"
+  },
+  {
+    "chinese_name": "罗斯福大学",
+    "english_name": "Roosevelt University"
+  },
+  {
+    "chinese_name": "洛杉矶电影学院",
+    "english_name": "The Los Angeles Film School"
+  },
+  {
+    "chinese_name": "拉罗什大学",
+    "english_name": "La Roche University"
+  },
+  {
+    "chinese_name": "路易斯安那圣泽维尔大学",
+    "english_name": "Xavier University of Louisiana"
+  },
+  {
+    "chinese_name": "冷泉港实验室",
+    "english_name": "Cold Spring Harbor Laboratory"
+  },
+  {
+    "chinese_name": "拉萨尔大学",
+    "english_name": "La Salle University"
+  },
+  {
+    "chinese_name": "莱特州立大学",
+    "english_name": "Wright State University"
+  },
+  {
+    "chinese_name": "路易斯克拉克学院",
+    "english_name": "Lewis and Clark College"
+  },
+  {
+    "chinese_name": "拉斯维加斯塔斯学院",
+    "english_name": "Las Positas College"
+  },
+  {
+    "chinese_name": "林肯大学（加利福尼亚州）",
+    "english_name": "Lincoln University"
+  },
+  {
+    "chinese_name": "洛马琳达大学",
+    "english_name": "Loma Linda University"
+  },
+  {
+    "chinese_name": "洛杉矶城市学院",
+    "english_name": "Los Angeles City College"
+  },
+  {
+    "chinese_name": "洛杉矶海港学院",
+    "english_name": "Los Angeles Harbor College"
+  },
+  {
+    "chinese_name": "罗恩大学",
+    "english_name": "Rowan University"
+  },
+  {
+    "chinese_name": "莱斯大学",
+    "english_name": "Rice University"
+  },
+  {
+    "chinese_name": "联合大学",
+    "english_name": "Union University"
+  },
+  {
+    "chinese_name": "罗格斯新泽西州立大学",
+    "english_name": "Rutgers  The State University of New Jersey"
+  },
+  {
+    "chinese_name": "莱斯利大学",
+    "english_name": "Lesley University"
+  },
+  {
+    "chinese_name": "里海大学",
+    "english_name": "Lehigh University"
+  },
+  {
+    "chinese_name": "罗诺克学院",
+    "english_name": "Roanoke College"
+  },
+  {
+    "chinese_name": "李大学",
+    "english_name": "Lee University"
+  },
+  {
+    "chinese_name": "罗德学院",
+    "english_name": "Rhodes College"
+  },
+  {
+    "chinese_name": "洛干大学",
+    "english_name": "Logan University"
+  },
+  {
+    "chinese_name": "赖特学院",
+    "english_name": "The Wright Institute"
+  },
+  {
+    "chinese_name": "罗切斯特大学",
+    "english_name": "University of Rochester"
+  },
+  {
+    "chinese_name": "洛约拉玛丽蒙特大学",
+    "english_name": "Loyola Marymount University"
+  },
+  {
+    "chinese_name": "路易斯安那理工大学",
+    "english_name": "Louisiana Tech University"
+  },
+  {
+    "chinese_name": "黎巴嫩谷学院",
+    "english_name": "Lebanon Valley College"
+  },
+  {
+    "chinese_name": "罗莎琳德富兰克林医科大学",
+    "english_name": "Rosalind Franklin University of Medicine and Science"
+  },
+  {
+    "chinese_name": "利康明学院",
+    "english_name": "Lycoming College"
+  },
+  {
+    "chinese_name": "雷恩社区学院",
+    "english_name": "Lane Community College"
+  },
+  {
+    "chinese_name": "拉塞尔大学",
+    "english_name": "Lasell University"
+  },
+  {
+    "chinese_name": "路易斯堡学院",
+    "english_name": "Fort Lewis College"
+  },
+  {
+    "chinese_name": "林肯基督教大学",
+    "english_name": "Lincoln Christian University"
+  },
+  {
+    "chinese_name": "绿河学院",
+    "english_name": "Green River College"
+  },
+  {
+    "chinese_name": "利哈伊碳社区学院",
+    "english_name": "Lehigh Carbon Community College"
+  },
+  {
+    "chinese_name": "联合学院（纽约州）",
+    "english_name": "Union College (New York)"
+  },
+  {
+    "chinese_name": "罗克福德大学",
+    "english_name": "Rockford University"
+  },
+  {
+    "chinese_name": "路德学院",
+    "english_name": "Luther College"
+  },
+  {
+    "chinese_name": "林恩大学",
+    "english_name": "Lynn University"
+  },
+  {
+    "chinese_name": "朗沃德大学",
+    "english_name": "Longwood University"
+  },
+  {
+    "chinese_name": "路易斯克拉克州立大学",
+    "english_name": "Lewis-Clark State College"
+  },
+  {
+    "chinese_name": "密尔沃基艺术与设计学院",
+    "english_name": "Milwaukee Institute of Art and Design"
+  },
+  {
+    "chinese_name": "梅瑞迪斯学院",
+    "english_name": "Meredith College"
+  },
+  {
+    "chinese_name": "马萨诸塞文科学院",
+    "english_name": "Massachusetts College of Liberal Arts"
+  },
+  {
+    "chinese_name": "麻省综合医院健康职业学院",
+    "english_name": "MGH Institute of Health Professions"
+  },
+  {
+    "chinese_name": "莫里斯郡学院",
+    "english_name": "County College of Morris"
+  },
+  {
+    "chinese_name": "蒙大拿州立大学北部分校",
+    "english_name": "Montana State University Northern"
+  },
+  {
+    "chinese_name": "马格纳斯学院",
+    "english_name": "Albertus Magnus College"
+  },
+  {
+    "chinese_name": "美国公共大学系统",
+    "english_name": "American Public University System"
+  },
+  {
+    "chinese_name": "美国马里兰东海岸大学",
+    "english_name": "University of Maryland Eastern Shore"
+  },
+  {
+    "chinese_name": "玛丽蒙特大学",
+    "english_name": "Marymount University"
+  },
+  {
+    "chinese_name": "莫尔豪斯学院",
+    "english_name": "Morehouse College"
+  },
+  {
+    "chinese_name": "玛赫西国际大学",
+    "english_name": "Maharishi International University"
+  },
+  {
+    "chinese_name": "马歇尔敦社区学院",
+    "english_name": "Marshalltown Community College"
+  },
+  {
+    "chinese_name": "缅因大学法明顿分校",
+    "english_name": "University of Maine at Farmington"
+  },
+  {
+    "chinese_name": "莫瑞州立大学",
+    "english_name": "Murray State University"
+  },
+  {
+    "chinese_name": "密歇根大学迪尔伯恩分校",
+    "english_name": "The University of Michigan  Dearborn"
+  },
+  {
+    "chinese_name": "蒙莫斯学院",
+    "english_name": "Monmouth College"
+  },
+  {
+    "chinese_name": "密尔斯学院",
+    "english_name": "Mills College"
+  },
+  {
+    "chinese_name": "梅西赫斯特大学",
+    "english_name": "Mercyhurst University"
+  },
+  {
+    "chinese_name": "密尔沃基工程学院",
+    "english_name": "Milwaukee School of Engineering"
+  },
+  {
+    "chinese_name": "马萨诸塞大学达特茅斯分校",
+    "english_name": "University of Massachusetts Dartmouth"
+  },
+  {
+    "chinese_name": "莫德斯托专科学院",
+    "english_name": "Modesto Junior College"
+  },
+  {
+    "chinese_name": "穆尔帕克学院",
+    "english_name": "Moorpark College"
+  },
+  {
+    "chinese_name": "芒特圣安东尼奥学院",
+    "english_name": "Mt San Antonio College"
+  },
+  {
+    "chinese_name": "芒特圣哈辛托学院",
+    "english_name": "Mt. San Jacinto College"
+  },
+  {
+    "chinese_name": "梅奥临床医学院",
+    "english_name": "Mayo Clinic College of Medicine and Science"
+  },
+  {
+    "chinese_name": "米德兰大学",
+    "english_name": "Midland University"
+  },
+  {
+    "chinese_name": "马萨诸塞大学波士顿分校",
+    "english_name": "University of Massachusetts Boston"
+  },
+  {
+    "chinese_name": "孟菲斯大学",
+    "english_name": "The University of Memphis"
+  },
+  {
+    "chinese_name": "密苏里大学堪萨斯分校",
+    "english_name": "University of Missouri-Kansas City"
+  },
+  {
+    "chinese_name": "密苏里大学圣路易斯分校",
+    "english_name": "University of Missouri-St. Louis"
+  },
+  {
+    "chinese_name": "马萨诸塞大学罗威尔分校",
+    "english_name": "University of Massachusetts Lowell"
+  },
+  {
+    "chinese_name": "蒙大拿大学密苏拉分校",
+    "english_name": "The University of Montana-Missoula"
+  },
+  {
+    "chinese_name": "美国创价大学",
+    "english_name": "Soka University of America"
+  },
+  {
+    "chinese_name": "玛丽大学",
+    "english_name": "University of Mary"
+  },
+  {
+    "chinese_name": "美属萨摩亚社区学院",
+    "english_name": "American Samoa Community College"
+  },
+  {
+    "chinese_name": "密涅瓦大学",
+    "english_name": "Minerva University"
+  },
+  {
+    "chinese_name": "莫里斯学院",
+    "english_name": "Morris College"
+  },
+  {
+    "chinese_name": "马萨诸塞大学陈氏医学院",
+    "english_name": "University of Massachusetts Chan Medical School"
+  },
+  {
+    "chinese_name": "蒙哥马利郡社区学院",
+    "english_name": "Montgomery County Community College"
+  },
+  {
+    "chinese_name": "密歇根大学弗林特分校",
+    "english_name": "The University of Michigan  Flint"
+  },
+  {
+    "chinese_name": "梅里特学院",
+    "english_name": "Merritt College"
+  },
+  {
+    "chinese_name": "默塞徳学院",
+    "english_name": "Merced College"
+  },
+  {
+    "chinese_name": "米德尔伯里学院",
+    "english_name": "Middlebury College"
+  },
+  {
+    "chinese_name": "密苏里科技大学",
+    "english_name": "Missouri University of Science and Technology"
+  },
+  {
+    "chinese_name": "麦迪逊区技术学院",
+    "english_name": "Madison Area Technical College"
+  },
+  {
+    "chinese_name": "玛丽华盛顿大学",
+    "english_name": "University of Mary Washington"
+  },
+  {
+    "chinese_name": "穆伦堡学院",
+    "english_name": "Muhlenberg College"
+  },
+  {
+    "chinese_name": "密利克大学",
+    "english_name": "Millikin University"
+  },
+  {
+    "chinese_name": "迈阿密达德学院",
+    "english_name": "Miami Dade College"
+  },
+  {
+    "chinese_name": "玛丽哈丁贝勒大学",
+    "english_name": "University of Mary Hardin-Baylor"
+  },
+  {
+    "chinese_name": "摩拉维亚大学",
+    "english_name": "Moravian University"
+  },
+  {
+    "chinese_name": "马尔斯希尔大学",
+    "english_name": "Mars Hill University"
+  },
+  {
+    "chinese_name": "玛丽埃塔学院",
+    "english_name": "Marietta College"
+  },
+  {
+    "chinese_name": "蒙大拿州立大学比灵斯分校",
+    "english_name": "Montana State University Billings"
+  },
+  {
+    "chinese_name": "密西西比女子大学",
+    "english_name": "Mississippi University for Women"
+  },
+  {
+    "chinese_name": "麦克尼斯州立大学",
+    "english_name": "McNeese State University"
+  },
+  {
+    "chinese_name": "马歇尔大学",
+    "english_name": "Marshall University"
+  },
+  {
+    "chinese_name": "麦当娜大学",
+    "english_name": "Madonna University"
+  },
+  {
+    "chinese_name": "米拉科斯塔学院",
+    "english_name": "Mira Costa College"
+  },
+  {
+    "chinese_name": "明尼苏达州立大学摩海德分校",
+    "english_name": "Minnesota State University Moorhead"
+  },
+  {
+    "chinese_name": "明尼苏达大学双城分校",
+    "english_name": "University of Minnesota  Twin Cities"
+  },
+  {
+    "chinese_name": "马里兰州圣玛丽学院",
+    "english_name": "St. Mary's College of Maryland"
+  },
+  {
+    "chinese_name": "迈阿密国际艺术与设计大学",
+    "english_name": "Miami International University of Art and Design"
+  },
+  {
+    "chinese_name": "美国军事大学",
+    "english_name": "American Military University"
+  },
+  {
+    "chinese_name": "密歇根理工大学",
+    "english_name": "Michigan Technological University"
+  },
+  {
+    "chinese_name": "麦卡莱斯特学院",
+    "english_name": "Macalester College"
+  },
+  {
+    "chinese_name": "蒙特克莱州立大学",
+    "english_name": "Montclair State University"
+  },
+  {
+    "chinese_name": "蒙特霍利奥克学院",
+    "english_name": "Mount Holyoke College"
+  },
+  {
+    "chinese_name": "密西西比大学",
+    "english_name": "University of Mississippi"
+  },
+  {
+    "chinese_name": "米尔萨普斯学院",
+    "english_name": "Millsaps College"
+  },
+  {
+    "chinese_name": "迈阿密大学（佛罗里达州）",
+    "english_name": "University of Miami"
+  },
+  {
+    "chinese_name": "蒙大拿州立大学波兹曼分校",
+    "english_name": "Montana State University Bozeman"
+  },
+  {
+    "chinese_name": "明尼苏达圣玛丽大学",
+    "english_name": "Saint Mary's University of Minnesota"
+  },
+  {
+    "chinese_name": "曼哈顿音乐学院",
+    "english_name": "Manhattan School of Music"
+  },
+  {
+    "chinese_name": "玛丽伍德大学",
+    "english_name": "Marywood University"
+  },
+  {
+    "chinese_name": "莫海德州立大学",
+    "english_name": "Morehead State University"
+  },
+  {
+    "chinese_name": "密西西比州立大学",
+    "english_name": "Mississippi State University"
+  },
+  {
+    "chinese_name": "曼哈顿学院",
+    "english_name": "Manhattan College"
+  },
+  {
+    "chinese_name": "明尼苏达大学莫里斯分校",
+    "english_name": "University of Minnesota  Morris"
+  },
+  {
+    "chinese_name": "麻省理工学院",
+    "english_name": "Massachusetts Institute of Technology"
+  },
+  {
+    "chinese_name": "马凯特大学",
+    "english_name": "Marquette University"
+  },
+  {
+    "chinese_name": "马里兰艺术学院",
+    "english_name": "Maryland Institute College of Art"
+  },
+  {
+    "chinese_name": "美利坚大学",
+    "english_name": "The American University"
+  },
+  {
+    "chinese_name": "缅因大学",
+    "english_name": "The University of Maine"
+  },
+  {
+    "chinese_name": "马里兰大学巴尔的摩郡分校",
+    "english_name": "University of Maryland  Baltimore County"
+  },
+  {
+    "chinese_name": "缅因大学普雷斯克艾尔分校",
+    "english_name": "University of Maine at Presque Isle"
+  },
+  {
+    "chinese_name": "梅萨社区学院",
+    "english_name": "Mesa Community College"
+  },
+  {
+    "chinese_name": "美国教育学院",
+    "english_name": "American College of Education"
+  },
+  {
+    "chinese_name": "摩尔艺术设计学院",
+    "english_name": "Moore College of Art and Design"
+  },
+  {
+    "chinese_name": "美洲中国文化医药学院",
+    "english_name": "Academy of Chinese Culture and Health Sciences"
+  },
+  {
+    "chinese_name": "密歇根州立大学",
+    "english_name": "Michigan State University"
+  },
+  {
+    "chinese_name": "马里兰大学帕克分校",
+    "english_name": "University of Maryland  College Park"
+  },
+  {
+    "chinese_name": "默瑟大学",
+    "english_name": "Mercer University"
+  },
+  {
+    "chinese_name": "美国电影学院",
+    "english_name": "American Film Institute"
+  },
+  {
+    "chinese_name": "密歇根大学",
+    "english_name": "The University of Michigan"
+  },
+  {
+    "chinese_name": "梅里马克学院",
+    "english_name": "Merrimack College"
+  },
+  {
+    "chinese_name": "密苏里浸会大学",
+    "english_name": "Missouri Baptist University"
+  },
+  {
+    "chinese_name": "民众大学",
+    "english_name": "University of the People"
+  },
+  {
+    "chinese_name": "弥赛亚大学",
+    "english_name": "Messiah University"
+  },
+  {
+    "chinese_name": "莫比尔大学",
+    "english_name": "University of Mobile"
+  },
+  {
+    "chinese_name": "美国海军学院",
+    "english_name": "United States Naval Academy"
+  },
+  {
+    "chinese_name": "摩西山大学",
+    "english_name": "Mount Mercy University"
+  },
+  {
+    "chinese_name": "麻省药科与健康科学大学",
+    "english_name": "MCPHS University"
+  },
+  {
+    "chinese_name": "曼隆学院",
+    "english_name": "Menlo College"
+  },
+  {
+    "chinese_name": "密苏里州立大学",
+    "english_name": "Missouri State University"
+  },
+  {
+    "chinese_name": "密苏里大学哥伦比亚分校",
+    "english_name": "University of Missouri-Columbia"
+  },
+  {
+    "chinese_name": "明尼苏达州立大学曼凯托分校",
+    "english_name": "Minnesota State University  Mankato"
+  },
+  {
+    "chinese_name": "蒙特圣文森大学",
+    "english_name": "University of Mount Saint Vincent"
+  },
+  {
+    "chinese_name": "门罗大学",
+    "english_name": "Monroe University"
+  },
+  {
+    "chinese_name": "密西西比学院",
+    "english_name": "Mississippi College"
+  },
+  {
+    "chinese_name": "玛丽蒙特曼哈顿学院",
+    "english_name": "Marymount Manhattan College"
+  },
+  {
+    "chinese_name": "莫霍克谷社区学院",
+    "english_name": "Mohawk Valley Community College"
+  },
+  {
+    "chinese_name": "门罗学院",
+    "english_name": "Monroe College"
+  },
+  {
+    "chinese_name": "门罗社区学院",
+    "english_name": "Monroe Community College"
+  },
+  {
+    "chinese_name": "迈阿密大学（俄亥俄州）",
+    "english_name": "Miami University"
+  },
+  {
+    "chinese_name": "马里斯特学院",
+    "english_name": "Marist College"
+  },
+  {
+    "chinese_name": "美国军事学院",
+    "english_name": "United States Military Academy"
+  },
+  {
+    "chinese_name": "马萨诸塞艺术与设计学院",
+    "english_name": "Massachusetts College of Art and Design"
+  },
+  {
+    "chinese_name": "马萨诸塞大学阿默斯特分校",
+    "english_name": "University of Massachusetts Amherst"
+  },
+  {
+    "chinese_name": "摩根州立大学",
+    "english_name": "Morgan State University"
+  },
+  {
+    "chinese_name": "马里兰洛约拉大学",
+    "english_name": "Loyola University Maryland"
+  },
+  {
+    "chinese_name": "美国天主教大学",
+    "english_name": "The Catholic University of America"
+  },
+  {
+    "chinese_name": "玛斯金格姆大学",
+    "english_name": "Muskingum University"
+  },
+  {
+    "chinese_name": "明尼苏达大学德鲁斯分校",
+    "english_name": "University of Minnesota  Duluth"
+  },
+  {
+    "chinese_name": "曼哈顿维尔学院",
+    "english_name": "Manhattanville College"
+  },
+  {
+    "chinese_name": "蒙莫斯大学",
+    "english_name": "Monmouth University"
+  },
+  {
+    "chinese_name": "慕迪圣经学院",
+    "english_name": "Moody Bible Institute"
+  },
+  {
+    "chinese_name": "麦克默里大学",
+    "english_name": "McMurry University"
+  },
+  {
+    "chinese_name": "明尼阿波利斯艺术设计学院",
+    "english_name": "Minneapolis College of Art and Design"
+  },
+  {
+    "chinese_name": "密苏里南部州立大学",
+    "english_name": "Missouri Southern State University"
+  },
+  {
+    "chinese_name": "明尼苏达大学克鲁克斯顿分校",
+    "english_name": "University of Minnesota  Crookston"
+  },
+  {
+    "chinese_name": "马丁路德学院",
+    "english_name": "Martin Luther College"
+  },
+  {
+    "chinese_name": "玛丽维尔学院",
+    "english_name": "Maryville College"
+  },
+  {
+    "chinese_name": "蒙特瓦洛大学",
+    "english_name": "University of Montevallo"
+  },
+  {
+    "chinese_name": "美国烹饪学院",
+    "english_name": "The Culinary Institute of America"
+  },
+  {
+    "chinese_name": "蒙哥马利学院",
+    "english_name": "Montgomery College"
+  },
+  {
+    "chinese_name": "马里兰大学巴尔的摩分校",
+    "english_name": "University of Maryland  Baltimore"
+  },
+  {
+    "chinese_name": "纽约法学院",
+    "english_name": "New York Law School"
+  },
+  {
+    "chinese_name": "南卡罗莱纳军事学院",
+    "english_name": "The Citadel Military College of South Carolina"
+  },
+  {
+    "chinese_name": "内布拉斯加卫理公会学院",
+    "english_name": "Nebraska Methodist College"
+  },
+  {
+    "chinese_name": "纽约州立大学时装技术学院",
+    "english_name": "State University of New York  Fashion Institute of Technology"
+  },
+  {
+    "chinese_name": "纽约利姆时装管理学院",
+    "english_name": "LIM College"
+  },
+  {
+    "chinese_name": "南达科他大学",
+    "english_name": "The University of South Dakota"
+  },
+  {
+    "chinese_name": "诺伊曼大学",
+    "english_name": "Neumann University"
+  },
+  {
+    "chinese_name": "纽约美术学院",
+    "english_name": "New York Academy of Art"
+  },
+  {
+    "chinese_name": "尼科尔斯州立大学",
+    "english_name": "Nicholls State University"
+  },
+  {
+    "chinese_name": "南卡罗来纳医科大学",
+    "english_name": "Medical University of South Carolina"
+  },
+  {
+    "chinese_name": "纽约州立大学海事学院",
+    "english_name": "State University of New York Maritime College"
+  },
+  {
+    "chinese_name": "纳穆尔圣母大学",
+    "english_name": "Notre Dame de Namur University"
+  },
+  {
+    "chinese_name": "南卫理公会大学",
+    "english_name": "Southern Methodist University"
+  },
+  {
+    "chinese_name": "内华达大学拉斯维加斯分校",
+    "english_name": "University of Nevada  Las Vegas"
+  },
+  {
+    "chinese_name": "南密西西比大学",
+    "english_name": "The University of Southern Mississippi"
+  },
+  {
+    "chinese_name": "纽约市立大学约克学院",
+    "english_name": "York College of the City University of New York"
+  },
+  {
+    "chinese_name": "南拿撒勒大学",
+    "english_name": "Southern Nazarene University"
+  },
+  {
+    "chinese_name": "南卡罗莱纳大学哥伦比亚分校",
+    "english_name": "University of South Carolina-Columbia"
+  },
+  {
+    "chinese_name": "南方学院",
+    "english_name": "South College"
+  },
+  {
+    "chinese_name": "纽约州立大学理工学院",
+    "english_name": "State University of New York Polytechnic Institute"
+  },
+  {
+    "chinese_name": "纽柏利学院",
+    "english_name": "Newberry College"
+  },
+  {
+    "chinese_name": "纽约州立大学法明代尔州立学院",
+    "english_name": "State University of New York  Farmingdale State College"
+  },
+  {
+    "chinese_name": "南部浸会神学院",
+    "english_name": "The Southern Baptist Theological Seminary"
+  },
+  {
+    "chinese_name": "纽约州立大学上州医科大学",
+    "english_name": "State University of New York Upstate Medical University"
+  },
+  {
+    "chinese_name": "那洛巴大学",
+    "english_name": "Naropa University"
+  },
+  {
+    "chinese_name": "纽约州立大学布法罗分校",
+    "english_name": "State University of New York at Buffalo"
+  },
+  {
+    "chinese_name": "纽约市立大学拉瓜迪亚社区学院",
+    "english_name": "LaGuardia Community College of the City University of New York"
+  },
+  {
+    "chinese_name": "纽约市立大学纽约市立技术学院",
+    "english_name": "The City University of New York  New York City College of Technology"
+  },
+  {
+    "chinese_name": "纽约市立大学皇后学院",
+    "english_name": "The City University of New York  Queens College"
+  },
+  {
+    "chinese_name": "纽约市立大学皇后区社区学院",
+    "english_name": "Queensborough Community College of the City University of New York"
+  },
+  {
+    "chinese_name": "南达科他矿业与技术学院",
+    "english_name": "South Dakota School of Mines and Technology"
+  },
+  {
+    "chinese_name": "纽约州立大学杰尼索欧分校",
+    "english_name": "State University of New York at Geneseo"
+  },
+  {
+    "chinese_name": "南达科他州立大学",
+    "english_name": "South Dakota State University"
+  },
+  {
+    "chinese_name": "纽黑文大学",
+    "english_name": "University of New Haven"
+  },
+  {
+    "chinese_name": "南内华达学院",
+    "english_name": "College of Southern Nevada"
+  },
+  {
+    "chinese_name": "内布拉斯加大学奥马哈分校",
+    "english_name": "University of Nebraska-Omaha"
+  },
+  {
+    "chinese_name": "南阿拉巴马大学",
+    "english_name": "The University of South Alabama"
+  },
+  {
+    "chinese_name": "南犹他大学",
+    "english_name": "Southern Utah University"
+  },
+  {
+    "chinese_name": "纽约中医学院",
+    "english_name": "New York College of Traditional Chinese Medicine"
+  },
+  {
+    "chinese_name": "南佛罗里达大学",
+    "english_name": "University of South Florida"
+  },
+  {
+    "chinese_name": "南卡罗莱纳州立大学",
+    "english_name": "South Carolina State University"
+  },
+  {
+    "chinese_name": "南方大学",
+    "english_name": "South University"
+  },
+  {
+    "chinese_name": "南方大学与农工学院",
+    "english_name": "Southern University and A & M College"
+  },
+  {
+    "chinese_name": "南印第安纳大学",
+    "english_name": "University of Southern Indiana"
+  },
+  {
+    "chinese_name": "南普吉湾社区学院",
+    "english_name": "South Puget Sound Community College"
+  },
+  {
+    "chinese_name": "南查尔斯顿大学",
+    "english_name": "Charleston Southern University"
+  },
+  {
+    "chinese_name": "南卡罗莱纳大学上州分校",
+    "english_name": "University of South Carolina Upstate"
+  },
+  {
+    "chinese_name": "南卡罗莱纳大学艾肯分校",
+    "english_name": "University of South Carolina-Aiken"
+  },
+  {
+    "chinese_name": "南伊利诺伊大学卡本代尔分校",
+    "english_name": "Southern Illinois University Carbondale"
+  },
+  {
+    "chinese_name": "纽约市立大学约翰杰伊刑事司法学院",
+    "english_name": "The City University of New York  John Jay College of Criminal Justice"
+  },
+  {
+    "chinese_name": "纽约州立大学科贝尔斯基农业技术学院",
+    "english_name": "State University of New York College of Agriculture and Technology at Cobleskill"
+  },
+  {
+    "chinese_name": "南加利福尼亚先锋大学",
+    "english_name": "Vanguard University of Southern California"
+  },
+  {
+    "chinese_name": "内布拉斯加大学医学中心",
+    "english_name": "University of Nebraska Medical Center"
+  },
+  {
+    "chinese_name": "内布拉斯加大学科尼分校",
+    "english_name": "The University of Nebraska at Kearney"
+  },
+  {
+    "chinese_name": "诺威治大学",
+    "english_name": "Norwich University"
+  },
+  {
+    "chinese_name": "南阿肯色大学",
+    "english_name": "Southern Arkansas University"
+  },
+  {
+    "chinese_name": "诺斯伍徳大学",
+    "english_name": "Northwood University"
+  },
+  {
+    "chinese_name": "南康涅狄格州立大学",
+    "english_name": "Southern Connecticut State University"
+  },
+  {
+    "chinese_name": "南加利福尼亚建筑学院",
+    "english_name": "Southern California Institute of Architecture"
+  },
+  {
+    "chinese_name": "纽约州立大学石溪分校",
+    "english_name": "State University of New York at Stony Brook"
+  },
+  {
+    "chinese_name": "南湾中医药大学",
+    "english_name": "South Baylo University"
+  },
+  {
+    "chinese_name": "南西雅图社区学院",
+    "english_name": "South Seattle Community College"
+  },
+  {
+    "chinese_name": "纽约健康职业学院",
+    "english_name": "New York College of Health Professions"
+  },
+  {
+    "chinese_name": "南加利福尼亚州立大学",
+    "english_name": "Southern California State University"
+  },
+  {
+    "chinese_name": "诺克斯学院",
+    "english_name": "Knox College"
+  },
+  {
+    "chinese_name": "纽约州立大学环境科学与林业学院",
+    "english_name": "State University of New York College of Environmental Science and Forestry"
+  },
+  {
+    "chinese_name": "纽约州立大学宾汉姆顿分校",
+    "english_name": "State University of New York at Binghamton"
+  },
+  {
+    "chinese_name": "南伊利诺伊大学爱德华兹维尔分校",
+    "english_name": "Southern Illinois University Edwardsville"
+  },
+  {
+    "chinese_name": "尼亚加拉大学",
+    "english_name": "Niagara University"
+  },
+  {
+    "chinese_name": "纽约圣约瑟夫学院",
+    "english_name": "Saint Joseph's College  New York"
+  },
+  {
+    "chinese_name": "纽约州立大学弗雷多尼亚分校",
+    "english_name": "State University of New York at Fredonia"
+  },
+  {
+    "chinese_name": "纽约州立大学古西堡学院",
+    "english_name": "State University of New York College at Old Westbury"
+  },
+  {
+    "chinese_name": "纽约州立大学奥斯威戈分校",
+    "english_name": "State University of New York at Oswego"
+  },
+  {
+    "chinese_name": "纽约州立大学波兹坦分校",
+    "english_name": "State University of New York  College at Potsdam"
+  },
+  {
+    "chinese_name": "纽约州立大学莫里斯维尔农业技术学院",
+    "english_name": "State University of New York College of Agriculture & Technology at Morrisville"
+  },
+  {
+    "chinese_name": "纽约州立大学视光学院",
+    "english_name": "State University of New York College of Optometry"
+  },
+  {
+    "chinese_name": "南新罕布什尔大学",
+    "english_name": "Southern New Hampshire University"
+  },
+  {
+    "chinese_name": "纽约市立大学巴鲁克学院",
+    "english_name": "Baruch College of the City University of New York"
+  },
+  {
+    "chinese_name": "南俄勒冈大学",
+    "english_name": "Southern Oregon University"
+  },
+  {
+    "chinese_name": "南西雅图学院",
+    "english_name": "South Seattle College"
+  },
+  {
+    "chinese_name": "纽约市立大学费烈罗H.拉瓜迪亚社区学院",
+    "english_name": "Fiorello H. LaGuardia Community College of the City University of New York"
+  },
+  {
+    "chinese_name": "纽约电影学院",
+    "english_name": "New York Film Academy"
+  },
+  {
+    "chinese_name": "纽约州立大学布法罗州立大学",
+    "english_name": "State University of New York Buffalo State University"
+  },
+  {
+    "chinese_name": "纽约州立大学帕切斯分校",
+    "english_name": "State University of New York College at Purchase"
+  },
+  {
+    "chinese_name": "南加利福尼亚大学",
+    "english_name": "University of Southern California"
+  },
+  {
+    "chinese_name": "纽约州立大学纽帕兹分校",
+    "english_name": "State University of New York New Paltz"
+  },
+  {
+    "chinese_name": "诺福克州立大学",
+    "english_name": "Norfolk State University"
+  },
+  {
+    "chinese_name": "纽约州立大学奥尔巴尼分校",
+    "english_name": "State University of New York at Albany"
+  },
+  {
+    "chinese_name": "内华达大学里诺分校",
+    "english_name": "University of Nevada  Reno"
+  },
+  {
+    "chinese_name": "拿撒勒大学",
+    "english_name": "Nazareth University"
+  },
+  {
+    "chinese_name": "诺思兰学院",
+    "english_name": "Northland College"
+  },
+  {
+    "chinese_name": "南哥伦比亚大学",
+    "english_name": "Columbia Southern University"
+  },
+  {
+    "chinese_name": "南原学院",
+    "english_name": "South Plains College"
+  },
+  {
+    "chinese_name": "南缅因大学",
+    "english_name": "University of Southern Maine"
+  },
+  {
+    "chinese_name": "纽约大都会学院",
+    "english_name": "Metropolitan College of New York"
+  },
+  {
+    "chinese_name": "纽约州立大学拿骚社区学院",
+    "english_name": "Nassau Community College  State University of New York College"
+  },
+  {
+    "chinese_name": "纽约理工学院",
+    "english_name": "New York Institute of Technology"
+  },
+  {
+    "chinese_name": "纽约医学院",
+    "english_name": "New York Medical College"
+  },
+  {
+    "chinese_name": "纽约德锐学院",
+    "english_name": "DeVry College of New York"
+  },
+  {
+    "chinese_name": "南基督复临大学",
+    "english_name": "Southern Adventist University"
+  },
+  {
+    "chinese_name": "纽约大学",
+    "english_name": "New York University"
+  },
+  {
+    "chinese_name": "纽约市立大学金斯堡社区学院",
+    "english_name": "Kingsborough Community College of the City University of New York"
+  },
+  {
+    "chinese_name": "纽约室内设计学院",
+    "english_name": "New York School of Interior Design"
+  },
+  {
+    "chinese_name": "诺瓦东南大学",
+    "english_name": "Nova Southeastern University"
+  },
+  {
+    "chinese_name": "纽约市立大学曼哈顿社区学院",
+    "english_name": "The City University of New York  Borough of Manhattan Community College"
+  },
+  {
+    "chinese_name": "纽约市立大学布朗克斯社区学院",
+    "english_name": "The City University of New York  Bronx Community College"
+  },
+  {
+    "chinese_name": "纽约市立大学布鲁克林学院",
+    "english_name": "The City University of New York  Brooklyn College"
+  },
+  {
+    "chinese_name": "纽约市立大学研究生院及大学中心",
+    "english_name": "The City University of New York  The Graduate School and University Center"
+  },
+  {
+    "chinese_name": "南方大学新奥尔良分校",
+    "english_name": "Southern University at New Orleans"
+  },
+  {
+    "chinese_name": "内布拉斯加大学林肯分校",
+    "english_name": "The University of Nebraska-Lincoln"
+  },
+  {
+    "chinese_name": "欧道明大学",
+    "english_name": "Old Dominion University"
+  },
+  {
+    "chinese_name": "欧克伍德大学",
+    "english_name": "Oakwood University"
+  },
+  {
+    "chinese_name": "欧扎克基督学院",
+    "english_name": "Ozark Christian College"
+  },
+  {
+    "chinese_name": "欧扎克斯学院",
+    "english_name": "College of the Ozarks"
+  },
+  {
+    "chinese_name": "帕西菲卡研究所",
+    "english_name": "Pacifica Graduate Institute"
+  },
+  {
+    "chinese_name": "帕萨迪纳城市学院",
+    "english_name": "Pasadena City College"
+  },
+  {
+    "chinese_name": "皮特泽学院",
+    "english_name": "Pitzer College"
+  },
+  {
+    "chinese_name": "匹兹堡州立大学",
+    "english_name": "Pittsburg State University"
+  },
+  {
+    "chinese_name": "佩波戴恩大学",
+    "english_name": "Pepperdine University"
+  },
+  {
+    "chinese_name": "皮尔斯学院",
+    "english_name": "Pierce College"
+  },
+  {
+    "chinese_name": "彭萨科拉基督学院",
+    "english_name": "Pensacola Christian College"
+  },
+  {
+    "chinese_name": "普渡大学全球分校",
+    "english_name": "Purdue University Global"
+  },
+  {
+    "chinese_name": "帕默脊骨神经医学院（西校区）",
+    "english_name": "Palmer College of Chiropractic (West Campus)"
+  },
+  {
+    "chinese_name": "彭萨科拉州立学院",
+    "english_name": "Pensacola State College"
+  },
+  {
+    "chinese_name": "普罗维登斯学院",
+    "english_name": "Providence College"
+  },
+  {
+    "chinese_name": "皮马社区学院",
+    "english_name": "Pima Community College"
+  },
+  {
+    "chinese_name": "派里希比州立社区学院",
+    "english_name": "Pellissippi State Community College"
+  },
+  {
+    "chinese_name": "普利维尔农工大学",
+    "english_name": "Prairie View A&M University"
+  },
+  {
+    "chinese_name": "普吉特海湾大学",
+    "english_name": "University of Puget Sound"
+  },
+  {
+    "chinese_name": "普利茅斯州立大学",
+    "english_name": "Plymouth State University"
+  },
+  {
+    "chinese_name": "彭萨科拉基督教学院",
+    "english_name": "Pensacola Christian College"
+  },
+  {
+    "chinese_name": "帕默脊骨神经医学院（佛罗里达校区）",
+    "english_name": "Palmer College of Chiropractic (Florida Campus)"
+  },
+  {
+    "chinese_name": "帕洛阿尔托大学",
+    "english_name": "Palo Alto University"
+  },
+  {
+    "chinese_name": "普拉特学院",
+    "english_name": "Pratt Institute"
+  },
+  {
+    "chinese_name": "普渡大学西北分校",
+    "english_name": "Purdue University Northwest"
+  },
+  {
+    "chinese_name": "普斯特大学",
+    "english_name": "Post University"
+  },
+  {
+    "chinese_name": "帕克大学",
+    "english_name": "Parker University"
+  },
+  {
+    "chinese_name": "普雷斯科特学院",
+    "english_name": "Prescott College"
+  },
+  {
+    "chinese_name": "帕克兰学院",
+    "english_name": "Parkland College"
+  },
+  {
+    "chinese_name": "派克维尔大学",
+    "english_name": "University of Pikeville"
+  },
+  {
+    "chinese_name": "普渡大学韦恩堡分校",
+    "english_name": "Purdue University Fort Wayne"
+  },
+  {
+    "chinese_name": "佩斯大学",
+    "english_name": "Pace University"
+  },
+  {
+    "chinese_name": "匹兹堡大学",
+    "english_name": "The University of Pittsburgh"
+  },
+  {
+    "chinese_name": "普渡大学",
+    "english_name": "Purdue University"
+  },
+  {
+    "chinese_name": "普林斯顿大学",
+    "english_name": "Princeton University"
+  },
+  {
+    "chinese_name": "乔治亚法庭大学",
+    "english_name": "Georgian Court University"
+  },
+  {
+    "chinese_name": "乔治敦学院",
+    "english_name": "Georgetown College"
+  },
+  {
+    "chinese_name": "桥水州立大学",
+    "english_name": "Bridgewater State University"
+  },
+  {
+    "chinese_name": "乔治华盛顿大学",
+    "english_name": "The George Washington University"
+  },
+  {
+    "chinese_name": "桥港大学",
+    "english_name": "University of Bridgeport"
+  },
+  {
+    "chinese_name": "乔治敦大学",
+    "english_name": "Georgetown University"
+  },
+  {
+    "chinese_name": "乔治梅森大学",
+    "english_name": "George Mason University"
+  },
+  {
+    "chinese_name": "乔治福克斯大学",
+    "english_name": "George Fox University"
+  },
+  {
+    "chinese_name": "瑞格林艺术与设计学院",
+    "english_name": "Ringling College of Art and Design"
+  },
+  {
+    "chinese_name": "瑞吉斯大学",
+    "english_name": "Regis University"
+  },
+  {
+    "chinese_name": "瑞德福大学",
+    "english_name": "Radford University"
+  },
+  {
+    "chinese_name": "瑞吉斯学院",
+    "english_name": "Regis College"
+  },
+  {
+    "chinese_name": "若林斯学院",
+    "english_name": "Rollins College"
+  },
+  {
+    "chinese_name": "仁斯利尔理工学院",
+    "english_name": "Rensselaer Polytechnic Institute"
+  },
+  {
+    "chinese_name": "瑞德大学",
+    "english_name": "Rider University"
+  },
+  {
+    "chinese_name": "瑞金大学",
+    "english_name": "Regent University"
+  },
+  {
+    "chinese_name": "日内瓦学院",
+    "english_name": "Geneva College"
+  },
+  {
+    "chinese_name": "萨尔夫里贾纳大学",
+    "english_name": "Salve Regina University"
+  },
+  {
+    "chinese_name": "圣泽维尔大学",
+    "english_name": "Saint Xavier University"
+  },
+  {
+    "chinese_name": "森特学院",
+    "english_name": "Centre College"
+  },
+  {
+    "chinese_name": "圣达菲学院",
+    "english_name": "Santa Fe College"
+  },
+  {
+    "chinese_name": "塞勒姆学院",
+    "english_name": "Salem College"
+  },
+  {
+    "chinese_name": "塞拉斯大学",
+    "english_name": "Salus University"
+  },
+  {
+    "chinese_name": "圣约翰学院",
+    "english_name": "St. John's College"
+  },
+  {
+    "chinese_name": "生命大学",
+    "english_name": "Life University"
+  },
+  {
+    "chinese_name": "圣使徒神学院",
+    "english_name": "Holy Apostles College and Seminary"
+  },
+  {
+    "chinese_name": "斯波坎社区学院",
+    "english_name": "Spokane Community College"
+  },
+  {
+    "chinese_name": "斯普林奥博大学",
+    "english_name": "Spring Arbor University"
+  },
+  {
+    "chinese_name": "圣奥古斯汀健康科学大学",
+    "english_name": "University of St. Augustine for Health Sciences"
+  },
+  {
+    "chinese_name": "斯巴达航空技术学院",
+    "english_name": "Spartan College of Aeronautics and Technology"
+  },
+  {
+    "chinese_name": "斯诺学院",
+    "english_name": "Snow College"
+  },
+  {
+    "chinese_name": "圣巴巴拉城市学院",
+    "english_name": "Santa Barbara City College"
+  },
+  {
+    "chinese_name": "圣母大学",
+    "english_name": "University of Notre Dame"
+  },
+  {
+    "chinese_name": "圣约瑟夫大学（康涅狄格州）",
+    "english_name": "University of Saint Joseph (Connecticut)"
+  },
+  {
+    "chinese_name": "圣约瑟夫学院（缅因州）",
+    "english_name": "Saint Joseph's College of Maine"
+  },
+  {
+    "chinese_name": "索尔兹伯里大学",
+    "english_name": "Salisbury University"
+  },
+  {
+    "chinese_name": "沙漠学院",
+    "english_name": "College of the Desert"
+  },
+  {
+    "chinese_name": "圣马泰奥学院",
+    "english_name": "College of San Mateo"
+  },
+  {
+    "chinese_name": "圣爱德华大学",
+    "english_name": "St. Edward's University"
+  },
+  {
+    "chinese_name": "索菲亚大学",
+    "english_name": "Sofia University"
+  },
+  {
+    "chinese_name": "三一国际大学",
+    "english_name": "Trinity International University"
+  },
+  {
+    "chinese_name": "圣安瑟伦学院",
+    "english_name": "Saint Anselm College"
+  },
+  {
+    "chinese_name": "斯特雷耶大学",
+    "english_name": "Strayer University"
+  },
+  {
+    "chinese_name": "斯克里普斯研究所",
+    "english_name": "The Scripps Research Institute"
+  },
+  {
+    "chinese_name": "圣弗朗西斯大学韦恩堡分校",
+    "english_name": "University of Saint Francis-Fort Wayne"
+  },
+  {
+    "chinese_name": "圣心大学",
+    "english_name": "Sacred Heart University"
+  },
+  {
+    "chinese_name": "沙利文大学",
+    "english_name": "Sullivan University"
+  },
+  {
+    "chinese_name": "史蒂文斯理工学院",
+    "english_name": "Stevens Institute of Technology"
+  },
+  {
+    "chinese_name": "圣弗朗西斯学院",
+    "english_name": "St. Francis College"
+  },
+  {
+    "chinese_name": "圣玛丽山学院",
+    "english_name": "Mount Saint Mary College"
+  },
+  {
+    "chinese_name": "圣马丁大学",
+    "english_name": "Saint Martin's University"
+  },
+  {
+    "chinese_name": "圣克拉拉大学",
+    "english_name": "Santa Clara University"
+  },
+  {
+    "chinese_name": "圣十字学院",
+    "english_name": "Holy Cross College"
+  },
+  {
+    "chinese_name": "史丹森大学",
+    "english_name": "Stetson University"
+  },
+  {
+    "chinese_name": "萨拉劳伦斯学院",
+    "english_name": "Sarah Lawrence College"
+  },
+  {
+    "chinese_name": "塞波特学院",
+    "english_name": "Chabot College"
+  },
+  {
+    "chinese_name": "斯道尔斯医学研究所",
+    "english_name": "Stowers Institute for Medical Research"
+  },
+  {
+    "chinese_name": "斯卡吉特谷学院",
+    "english_name": "Skagit Valley College"
+  },
+  {
+    "chinese_name": "圣母湖女子大学",
+    "english_name": "Our Lady of the Lake University"
+  },
+  {
+    "chinese_name": "圣贝尼迪克学院",
+    "english_name": "College of Saint Benedict"
+  },
+  {
+    "chinese_name": "斯坦福大学",
+    "english_name": "Stanford University"
+  },
+  {
+    "chinese_name": "圣文德大学",
+    "english_name": "St. Bonaventure University"
+  },
+  {
+    "chinese_name": "三一大学",
+    "english_name": "Trinity University"
+  },
+  {
+    "chinese_name": "圣路易斯玛丽维尔大学",
+    "english_name": "Maryville University of Saint Louis"
+  },
+  {
+    "chinese_name": "萨基诺州立大学",
+    "english_name": "Saginaw Valley State University"
+  },
+  {
+    "chinese_name": "圣地亚哥大学",
+    "english_name": "University of San Diego"
+  },
+  {
+    "chinese_name": "圣玛丽大学",
+    "english_name": "St. Mary's University"
+  },
+  {
+    "chinese_name": "圣地亚哥州立大学",
+    "english_name": "San Diego State University"
+  },
+  {
+    "chinese_name": "圣路易斯华盛顿大学",
+    "english_name": "Washington University in St. Louis"
+  },
+  {
+    "chinese_name": "三角洲州立大学",
+    "english_name": "Delta State University"
+  },
+  {
+    "chinese_name": "圣地亚哥基督学院",
+    "english_name": "San Diego Christian College"
+  },
+  {
+    "chinese_name": "生命脊骨神经医学院（西部）",
+    "english_name": "Life Chiropractic College West"
+  },
+  {
+    "chinese_name": "圣克劳德州立大学",
+    "english_name": "St. Cloud State University"
+  },
+  {
+    "chinese_name": "森坦纳瑞大学",
+    "english_name": "Centenary University"
+  },
+  {
+    "chinese_name": "斯波坎瀑布社区学院",
+    "english_name": "Spokane Falls Community College"
+  },
+  {
+    "chinese_name": "石山学院",
+    "english_name": "Stonehill College"
+  },
+  {
+    "chinese_name": "首都大学",
+    "english_name": "Capital University"
+  },
+  {
+    "chinese_name": "斯伯丁大学",
+    "english_name": "Spalding University"
+  },
+  {
+    "chinese_name": "萨凡纳州立大学",
+    "english_name": "Savannah State University"
+  },
+  {
+    "chinese_name": "圣心大学（波多黎各）",
+    "english_name": "Universidad del Sagrado Corazón（Puerto Rico）"
+  },
+  {
+    "chinese_name": "圣玛丽山大学",
+    "english_name": "Mount Saint Mary's University"
+  },
+  {
+    "chinese_name": "圣托马斯大学（明尼苏达州）",
+    "english_name": "University of St. Thomas"
+  },
+  {
+    "chinese_name": "萨凡纳艺术与设计学院",
+    "english_name": "Savannah College of Art and Design"
+  },
+  {
+    "chinese_name": "萨福克大学",
+    "english_name": "Suffolk University"
+  },
+  {
+    "chinese_name": "视觉艺术学院",
+    "english_name": "School of Visual Arts"
+  },
+  {
+    "chinese_name": "斯克兰顿大学",
+    "english_name": "University of Scranton"
+  },
+  {
+    "chinese_name": "圣约瑟夫大学",
+    "english_name": "Saint Joseph's University"
+  },
+  {
+    "chinese_name": "三一学院",
+    "english_name": "Trinity College"
+  },
+  {
+    "chinese_name": "桑福德大学",
+    "english_name": "Samford University"
+  },
+  {
+    "chinese_name": "萨克拉门托市立学院",
+    "english_name": "Sacramento City College"
+  },
+  {
+    "chinese_name": "萨德尔巴克学院",
+    "english_name": "Saddleback College"
+  },
+  {
+    "chinese_name": "塞缪尔梅里特学院",
+    "english_name": "Samuel Merritt University"
+  },
+  {
+    "chinese_name": "圣荷塞市立学院",
+    "english_name": "San Jose City College"
+  },
+  {
+    "chinese_name": "圣何塞州立大学",
+    "english_name": "San Jose State University"
+  },
+  {
+    "chinese_name": "圣莫尼卡学院",
+    "english_name": "Santa Monica College"
+  },
+  {
+    "chinese_name": "圣迈克尔学院",
+    "english_name": "Saint Michael's College"
+  },
+  {
+    "chinese_name": "塞勒姆州立大学",
+    "english_name": "Salem State University"
+  },
+  {
+    "chinese_name": "圣弗朗西斯大学（伊利诺伊州）",
+    "english_name": "University of St. Francis"
+  },
+  {
+    "chinese_name": "圣罗莎初级学院",
+    "english_name": "Santa Rosa Junior College"
+  },
+  {
+    "chinese_name": "圣地亚哥峡谷学院",
+    "english_name": "Santiago Canyon College"
+  },
+  {
+    "chinese_name": "斯克里普斯学院",
+    "english_name": "Scripps College"
+  },
+  {
+    "chinese_name": "圣路易斯大学",
+    "english_name": "Saint Louis University"
+  },
+  {
+    "chinese_name": "圣斯科勒斯蒂卡学院",
+    "english_name": "The College of Saint Scholastica"
+  },
+  {
+    "chinese_name": "圣约翰大学",
+    "english_name": "St. John's University"
+  },
+  {
+    "chinese_name": "圣彼得大学",
+    "english_name": "Saint Peter's University"
+  },
+  {
+    "chinese_name": "塞布鲁克大学",
+    "english_name": "Saybrook University"
+  },
+  {
+    "chinese_name": "三一基督学院",
+    "english_name": "Trinity Christian College"
+  },
+  {
+    "chinese_name": "圣道大学",
+    "english_name": "University of the Incarnate Word"
+  },
+  {
+    "chinese_name": "斯克德摩尔学院",
+    "english_name": "Skidmore College"
+  },
+  {
+    "chinese_name": "圣劳伦斯大学",
+    "english_name": "St. Lawrence University"
+  },
+  {
+    "chinese_name": "萨福克郡社区学院",
+    "english_name": "Suffolk County Community College"
+  },
+  {
+    "chinese_name": "沙利文郡社区大学",
+    "english_name": "Sullivan County Community College"
+  },
+  {
+    "chinese_name": "圣凯瑟琳大学",
+    "english_name": "St. Catherine University"
+  },
+  {
+    "chinese_name": "圣彼得堡学院",
+    "english_name": "St. Petersburg College"
+  },
+  {
+    "chinese_name": "苏富比艺术学院",
+    "english_name": "Sotheby's Institute of Art"
+  },
+  {
+    "chinese_name": "塞伦大学",
+    "english_name": "Salem University"
+  },
+  {
+    "chinese_name": "上爱荷华大学",
+    "english_name": "Upper Iowa University"
+  },
+  {
+    "chinese_name": "圣保罗西北大学",
+    "english_name": "University of Northwestern - St.Paul"
+  },
+  {
+    "chinese_name": "斯佩尔曼学院",
+    "english_name": "Spelman College"
+  },
+  {
+    "chinese_name": "斯托本弗朗西斯大学",
+    "english_name": "Franciscan University of Steubenville"
+  },
+  {
+    "chinese_name": "圣里奥大学",
+    "english_name": "Saint Leo University"
+  },
+  {
+    "chinese_name": "圣玛丽学院",
+    "english_name": "Saint Mary's College"
+  },
+  {
+    "chinese_name": "圣托马斯大学（德克萨斯州）",
+    "english_name": "University of St. Thomas"
+  },
+  {
+    "chinese_name": "圣安布鲁斯大学",
+    "english_name": "St. Ambrose University"
+  },
+  {
+    "chinese_name": "圣奥拉夫学院",
+    "english_name": "St. Olaf College"
+  },
+  {
+    "chinese_name": "山姆休斯敦州立大学",
+    "english_name": "Sam Houston State University"
+  },
+  {
+    "chinese_name": "斯提芬奥斯汀州立大学",
+    "english_name": "Stephen F. Austin State University"
+  },
+  {
+    "chinese_name": "苏尔罗斯州立大学",
+    "english_name": "Sul Ross State University"
+  },
+  {
+    "chinese_name": "萨斯克汉那大学",
+    "english_name": "Susquehanna University"
+  },
+  {
+    "chinese_name": "斯托克顿大学",
+    "english_name": "Stockton University"
+  },
+  {
+    "chinese_name": "圣托马斯大学（佛罗里达州）",
+    "english_name": "St. Thomas University"
+  },
+  {
+    "chinese_name": "斯沃斯莫尔学院",
+    "english_name": "Swarthmore College"
+  },
+  {
+    "chinese_name": "史密斯学院",
+    "english_name": "Smith College"
+  },
+  {
+    "chinese_name": "山南道大学",
+    "english_name": "Shenandoah University"
+  },
+  {
+    "chinese_name": "圣地亚哥设计研究所",
+    "english_name": "Design Institute of San Diego"
+  },
+  {
+    "chinese_name": "萨尔瓦多卡米诺学院",
+    "english_name": "El Camino College"
+  },
+  {
+    "chinese_name": "神学研究联盟",
+    "english_name": "Graduate Theological Union"
+  },
+  {
+    "chinese_name": "圣托马斯大学",
+    "english_name": "Saint Thomas University"
+  },
+  {
+    "chinese_name": "圣弗朗西斯大学（宾夕法尼亚州）",
+    "english_name": "Saint Francis University"
+  },
+  {
+    "chinese_name": "索诺玛州立大学",
+    "english_name": "Sonoma State University"
+  },
+  {
+    "chinese_name": "塔夫茨大学",
+    "english_name": "Tufts University"
+  },
+  {
+    "chinese_name": "天普大学",
+    "english_name": "Temple University"
+  },
+  {
+    "chinese_name": "坦帕大学",
+    "english_name": "The University of Tampa"
+  },
+  {
+    "chinese_name": "太平洋诸州大学",
+    "english_name": "Pacific States University"
+  },
+  {
+    "chinese_name": "太平洋联合学院",
+    "english_name": "Pacific Union College"
+  },
+  {
+    "chinese_name": "特洛伊大学",
+    "english_name": "Troy University"
+  },
+  {
+    "chinese_name": "特拉华州立大学",
+    "english_name": "Delaware State University"
+  },
+  {
+    "chinese_name": "塔尔萨大学",
+    "english_name": "The University of Tulsa"
+  },
+  {
+    "chinese_name": "特拉华大学",
+    "english_name": "University of Delaware"
+  },
+  {
+    "chinese_name": "田纳西理工大学",
+    "english_name": "Tennessee Technological University"
+  },
+  {
+    "chinese_name": "托马斯阿奎那斯学院",
+    "english_name": "Thomas Aquinas College"
+  },
+  {
+    "chinese_name": "特洛伊州立大学",
+    "english_name": "Troy State University"
+  },
+  {
+    "chinese_name": "太平洋大学（俄勒冈州）",
+    "english_name": "Pacific University"
+  },
+  {
+    "chinese_name": "天主教神学联盟",
+    "english_name": "Catholic Theological Union"
+  },
+  {
+    "chinese_name": "田纳西大学诺克斯维尔分校",
+    "english_name": "The University of Tennessee  Knoxville"
+  },
+  {
+    "chinese_name": "塔拉哈西社区学院",
+    "english_name": "Tallahassee Community College"
+  },
+  {
+    "chinese_name": "塔勒顿州立大学",
+    "english_name": "Tarleton State University"
+  },
+  {
+    "chinese_name": "田纳西大学健康医学中心",
+    "english_name": "The University of Tennessee Health Science Center"
+  },
+  {
+    "chinese_name": "塔科马社区学院",
+    "english_name": "Tacoma Community College"
+  },
+  {
+    "chinese_name": "特里夫卡拿撒勒大学",
+    "english_name": "Trevecca Nazarene University"
+  },
+  {
+    "chinese_name": "特尔学院",
+    "english_name": "Thiel College"
+  },
+  {
+    "chinese_name": "特兰西瓦尼亚大学",
+    "english_name": "Transylvania University"
+  },
+  {
+    "chinese_name": "托莱多大学",
+    "english_name": "The University of Toledo"
+  },
+  {
+    "chinese_name": "陶格鲁学院",
+    "english_name": "Tougaloo College"
+  },
+  {
+    "chinese_name": "托罗大学",
+    "english_name": "Touro University"
+  },
+  {
+    "chinese_name": "檀香山夏曼纳德大学",
+    "english_name": "Chaminade University of Honolulu"
+  },
+  {
+    "chinese_name": "托马斯杰弗逊大学",
+    "english_name": "Thomas Jefferson University"
+  },
+  {
+    "chinese_name": "托马斯杰弗逊法学院",
+    "english_name": "Thomas Jefferson School of Law"
+  },
+  {
+    "chinese_name": "特拉华社区技术学院",
+    "english_name": "Delaware Technical Community College"
+  },
+  {
+    "chinese_name": "天使学院工业城校区",
+    "english_name": "Angeles College  City of Industry"
+  },
+  {
+    "chinese_name": "泰勒大学",
+    "english_name": "Taylor University"
+  },
+  {
+    "chinese_name": "田纳西大学马丁分校",
+    "english_name": "The University of Tennessee at Martin"
+  },
+  {
+    "chinese_name": "陶森大学",
+    "english_name": "Towson University"
+  },
+  {
+    "chinese_name": "太平洋路德大学",
+    "english_name": "Pacific Lutheran University"
+  },
+  {
+    "chinese_name": "田纳西州立大学",
+    "english_name": "Tennessee State University"
+  },
+  {
+    "chinese_name": "托马斯大学",
+    "english_name": "Thomas University"
+  },
+  {
+    "chinese_name": "太平洋大学（加利福尼亚州）",
+    "english_name": "University of the Pacific"
+  },
+  {
+    "chinese_name": "托科阿瀑布学院",
+    "english_name": "Toccoa Falls College"
+  },
+  {
+    "chinese_name": "特拉华谷大学",
+    "english_name": "Delaware Valley University"
+  },
+  {
+    "chinese_name": "田纳西大学查塔努加分校",
+    "english_name": "The University of Tennessee at Chattanooga"
+  },
+  {
+    "chinese_name": "太平洋健康与科学学院",
+    "english_name": "Pacific College of Health and Science"
+  },
+  {
+    "chinese_name": "托马斯爱迪生州立大学",
+    "english_name": "Thomas Edison State University"
+  },
+  {
+    "chinese_name": "威顿学院（马萨诸塞州）",
+    "english_name": "Wheaton College (Massachusetts)"
+  },
+  {
+    "chinese_name": "威奇塔州立大学",
+    "english_name": "Wichita State University"
+  },
+  {
+    "chinese_name": "沃西本恩大学",
+    "english_name": "Washburn University"
+  },
+  {
+    "chinese_name": "威斯康星路德学院",
+    "english_name": "Wisconsin Lutheran College"
+  },
+  {
+    "chinese_name": "威诺纳州立大学",
+    "english_name": "Winona State University"
+  },
+  {
+    "chinese_name": "瓦尔帕莱索大学",
+    "english_name": "Valparaiso University"
+  },
+  {
+    "chinese_name": "威廉伍德大学",
+    "english_name": "William Woods University"
+  },
+  {
+    "chinese_name": "威斯康星大学史蒂文分校",
+    "english_name": "University of Wisconsin-Stevens Point"
+  },
+  {
+    "chinese_name": "沃伦威尔逊学院",
+    "english_name": "Warren Wilson College"
+  },
+  {
+    "chinese_name": "温斯洛普大学",
+    "english_name": "Winthrop University"
+  },
+  {
+    "chinese_name": "威斯康星大学拉克罗斯分校",
+    "english_name": "University of Wisconsin-La Crosse"
+  },
+  {
+    "chinese_name": "伍德圣玛丽学院",
+    "english_name": "Saint Mary-of-the-Woods College"
+  },
+  {
+    "chinese_name": "威斯康星大学苏必利尔分校",
+    "english_name": "University of Wisconsin-Superior"
+  },
+  {
+    "chinese_name": "温特沃斯理工学院",
+    "english_name": "Wentworth Institute of Technology"
+  },
+  {
+    "chinese_name": "威廉杰瑟普大学",
+    "english_name": "William Jessup University"
+  },
+  {
+    "chinese_name": "威斯敏斯特神学院",
+    "english_name": "Westminster Theological Seminary"
+  },
+  {
+    "chinese_name": "温盖特大学",
+    "english_name": "Wingate University"
+  },
+  {
+    "chinese_name": "乌尔苏拉学院",
+    "english_name": "Ursuline College"
+  },
+  {
+    "chinese_name": "威斯康星大学河城分校",
+    "english_name": "University of Wisconsin-River Falls"
+  },
+  {
+    "chinese_name": "卫理公会大学",
+    "english_name": "Methodist University"
+  },
+  {
+    "chinese_name": "渥太华大学",
+    "english_name": "Ottawa University"
+  },
+  {
+    "chinese_name": "维特博大学",
+    "english_name": "Viterbo University"
+  },
+  {
+    "chinese_name": "卫斯理安学院",
+    "english_name": "Wesleyan College"
+  },
+  {
+    "chinese_name": "韦伯州立大学",
+    "english_name": "Weber State University"
+  },
+  {
+    "chinese_name": "威斯康星大学白水分校",
+    "english_name": "University of Wisconsin-Whitewater"
+  },
+  {
+    "chinese_name": "韦德纳大学",
+    "english_name": "Widener University"
+  },
+  {
+    "chinese_name": "韦伯斯特大学",
+    "english_name": "Webster University"
+  },
+  {
+    "chinese_name": "威廉玛丽学院",
+    "english_name": "The College of William and Mary"
+  },
+  {
+    "chinese_name": "威顿堡大学",
+    "english_name": "Wittenberg University"
+  },
+  {
+    "chinese_name": "韦兰浸会大学",
+    "english_name": "Wayland Baptist University"
+  },
+  {
+    "chinese_name": "威斯康星大学绿湾分校",
+    "english_name": "University of Wisconsin-Green Bay"
+  },
+  {
+    "chinese_name": "威斯康星大学斯托特分校",
+    "english_name": "University of Wisconsin-Stout"
+  },
+  {
+    "chinese_name": "威斯康星大学帕克赛德分校",
+    "english_name": "University of Wisconsin-Parkside"
+  },
+  {
+    "chinese_name": "伍斯特学院",
+    "english_name": "The College of Wooster"
+  },
+  {
+    "chinese_name": "温斯顿萨勒姆州立大学",
+    "english_name": "Winston-Salem State University"
+  },
+  {
+    "chinese_name": "威斯蒙特学院",
+    "english_name": "Westmont College"
+  },
+  {
+    "chinese_name": "威斯康星医学院",
+    "english_name": "The Medical College of Wisconsin"
+  },
+  {
+    "chinese_name": "韦恩州立大学",
+    "english_name": "Wayne State University"
+  },
+  {
+    "chinese_name": "沃尔什会计与工商管理学院",
+    "english_name": "Walsh College of Accountancy and Business Administration"
+  },
+  {
+    "chinese_name": "韦恩斯堡大学",
+    "english_name": "Waynesburg University"
+  },
+  {
+    "chinese_name": "威彻斯特社区学院",
+    "english_name": "Westchester Community College"
+  },
+  {
+    "chinese_name": "威廉姆斯学院",
+    "english_name": "Williams College"
+  },
+  {
+    "chinese_name": "威拉姆特大学",
+    "english_name": "Willamette University"
+  },
+  {
+    "chinese_name": "威斯康星大学奥什科什分校",
+    "english_name": "University of Wisconsin-Oshkosh"
+  },
+  {
+    "chinese_name": "五系大学",
+    "english_name": "Five Branches University  Graduate School of Traditional Chinese Medicine"
+  },
+  {
+    "chinese_name": "卫斯理大学",
+    "english_name": "Wesleyan University"
+  },
+  {
+    "chinese_name": "瓦萨尔学院",
+    "english_name": "Vassar College"
+  },
+  {
+    "chinese_name": "韦兰诺瓦大学",
+    "english_name": "Villanova University"
+  },
+  {
+    "chinese_name": "沃恩航空科技学院",
+    "english_name": "Vaughn College of Aeronautics and Technology"
+  },
+  {
+    "chinese_name": "威明顿大学",
+    "english_name": "Wilmington University"
+  },
+  {
+    "chinese_name": "威顿学院（伊利诺伊州）",
+    "english_name": "Wheaton College"
+  },
+  {
+    "chinese_name": "威廉凯瑞大学",
+    "english_name": "William Carey University"
+  },
+  {
+    "chinese_name": "温森斯大学",
+    "english_name": "Vincennes University"
+  },
+  {
+    "chinese_name": "Won研究学院",
+    "english_name": "The Won Institute of Graduate Studies"
+  },
+  {
+    "chinese_name": "威廉贾威尔学院",
+    "english_name": "William Jewell College"
+  },
+  {
+    "chinese_name": "伍佛德学院",
+    "english_name": "Wofford College"
+  },
+  {
+    "chinese_name": "威斯康星大学欧克莱尔分校",
+    "english_name": "University of Wisconsin-Eau Claire"
+  },
+  {
+    "chinese_name": "沃希托浸会大学",
+    "english_name": "Ouachita Baptist University"
+  },
+  {
+    "chinese_name": "瓦尔多斯塔州立大学",
+    "english_name": "Valdosta State University"
+  },
+  {
+    "chinese_name": "威廉姆森学院",
+    "english_name": "Williamson College"
+  },
+  {
+    "chinese_name": "威尔克斯大学",
+    "english_name": "Wilkes University"
+  },
+  {
+    "chinese_name": "伍斯特州立大学",
+    "english_name": "Worcester State University"
+  },
+  {
+    "chinese_name": "乌尔辛纳斯学院",
+    "english_name": "Ursinus College"
+  },
+  {
+    "chinese_name": "威斯康星大学普拉特维尔分校",
+    "english_name": "University of Wisconsin-Platteville"
+  },
+  {
+    "chinese_name": "威斯康星大学麦迪逊分校",
+    "english_name": "University of Wisconsin-Madison"
+  },
+  {
+    "chinese_name": "威斯康星大学密尔沃基分校",
+    "english_name": "University of Wisconsin-Milwaukee"
+  },
+  {
+    "chinese_name": "沃特伯格学院",
+    "english_name": "Wartburg College"
+  },
+  {
+    "chinese_name": "韦斯特菲尔德州立大学",
+    "english_name": "Westfield State University"
+  },
+  {
+    "chinese_name": "瓦格纳学院",
+    "english_name": "Wagner College"
+  },
+  {
+    "chinese_name": "沃什特瑙社区学院",
+    "english_name": "Washtenaw Community College"
+  },
+  {
+    "chinese_name": "伍斯特理工学院",
+    "english_name": "Worcester Polytechnic Institute"
+  },
+  {
+    "chinese_name": "伍德伯里大学",
+    "english_name": "Woodbury University"
+  },
+  {
+    "chinese_name": "威廉匹斯大学",
+    "english_name": "William Peace University"
+  },
+  {
+    "chinese_name": "韦纳奇谷学院",
+    "english_name": "Wenatchee Valley College"
+  },
+  {
+    "chinese_name": "维克技术社区学院",
+    "english_name": "Wake Technical Community College"
+  },
+  {
+    "chinese_name": "威尔斯利学院",
+    "english_name": "Wellesley College"
+  },
+  {
+    "chinese_name": "维利学院",
+    "english_name": "Wiley College"
+  },
+  {
+    "chinese_name": "沃巴什学院",
+    "english_name": "Wabash College"
+  },
+  {
+    "chinese_name": "韦伯国际大学",
+    "english_name": "Webber International University"
+  },
+  {
+    "chinese_name": "沃拉沃拉大学",
+    "english_name": "Walla Walla University"
+  },
+  {
+    "chinese_name": "维克森林大学",
+    "english_name": "Wake Forest University"
+  },
+  {
+    "chinese_name": "西阿拉巴马大学",
+    "english_name": "University of West Alabama"
+  },
+  {
+    "chinese_name": "新建筑与设计学院",
+    "english_name": "NewSchool of Architecture and Design"
+  },
+  {
+    "chinese_name": "西方学院",
+    "english_name": "Occidental College"
+  },
+  {
+    "chinese_name": "新墨西哥矿业技术学院",
+    "english_name": "New Mexico Institute of Mining and Technology"
+  },
+  {
+    "chinese_name": "西华盛顿大学",
+    "english_name": "Western Washington University"
+  },
+  {
+    "chinese_name": "新墨西哥大学",
+    "english_name": "The University of New Mexico"
+  },
+  {
+    "chinese_name": "新奥尔良大学",
+    "english_name": "University of New Orleans"
+  },
+  {
+    "chinese_name": "西佛罗里达大学",
+    "english_name": "The University of West Florida"
+  },
+  {
+    "chinese_name": "夏洛特皇后大学",
+    "english_name": "Queens University of Charlotte"
+  },
+  {
+    "chinese_name": "新河社区学院",
+    "english_name": "New River Community College"
+  },
+  {
+    "chinese_name": "西敏斯特学院（犹他州）",
+    "english_name": "Westminster College"
+  },
+  {
+    "chinese_name": "新英格兰学院",
+    "english_name": "New England College"
+  },
+  {
+    "chinese_name": "西北大学（华盛顿州）",
+    "english_name": "Northwest University"
+  },
+  {
+    "chinese_name": "先进技术大学",
+    "english_name": "University of Advancing Technology"
+  },
+  {
+    "chinese_name": "西北太平洋艺术学院",
+    "english_name": "Pacific Northwest College of Art"
+  },
+  {
+    "chinese_name": "新泽西理工学院",
+    "english_name": "New Jersey Institute of Technology"
+  },
+  {
+    "chinese_name": "新奥尔良洛约拉大学",
+    "english_name": "Loyola University New Orleans"
+  },
+  {
+    "chinese_name": "西部大学",
+    "english_name": "University of the West"
+  },
+  {
+    "chinese_name": "西德克萨斯农工大学",
+    "english_name": "West Texas A&M University"
+  },
+  {
+    "chinese_name": "西雅图大学",
+    "english_name": "Seattle University"
+  },
+  {
+    "chinese_name": "新泽西瑞曼波学院",
+    "english_name": "Ramapo College of New Jersey"
+  },
+  {
+    "chinese_name": "新泽西城市大学",
+    "english_name": "New Jersey City University"
+  },
+  {
+    "chinese_name": "西雅图太平洋大学",
+    "english_name": "Seattle Pacific University"
+  },
+  {
+    "chinese_name": "西洛杉矶大学",
+    "english_name": "University of West Los Angeles"
+  },
+  {
+    "chinese_name": "西雅图城市大学",
+    "english_name": "City University of Seattle"
+  },
+  {
+    "chinese_name": "西南社区学院",
+    "english_name": "Southwestern Community College"
+  },
+  {
+    "chinese_name": "西部州长大学",
+    "english_name": "Western Governors University"
+  },
+  {
+    "chinese_name": "西北大学",
+    "english_name": "Northwestern University"
+  },
+  {
+    "chinese_name": "锡耶拉学院",
+    "english_name": "Sierra College"
+  },
+  {
+    "chinese_name": "辛辛那提大学",
+    "english_name": "University of Cincinnati"
+  },
+  {
+    "chinese_name": "西勒斯学院",
+    "english_name": "Citrus College"
+  },
+  {
+    "chinese_name": "休斯顿大学",
+    "english_name": "The University of Houston"
+  },
+  {
+    "chinese_name": "西蒙斯大学",
+    "english_name": "Simmons University"
+  },
+  {
+    "chinese_name": "西达克瑞斯特学院",
+    "english_name": "Cedar Crest College"
+  },
+  {
+    "chinese_name": "新泽西学院",
+    "english_name": "The College of New Jersey"
+  },
+  {
+    "chinese_name": "谢伯德大学",
+    "english_name": "Shepherd University"
+  },
+  {
+    "chinese_name": "新佛罗里达学院",
+    "english_name": "New College of Florida"
+  },
+  {
+    "chinese_name": "西北阿肯色社区学院",
+    "english_name": "Northwest Arkansas Community College"
+  },
+  {
+    "chinese_name": "西南俄勒冈社区学院",
+    "english_name": "Southwestern Oregon Community College"
+  },
+  {
+    "chinese_name": "西密苏里州立大学",
+    "english_name": "Missouri Western State University"
+  },
+  {
+    "chinese_name": "夏威夷大学希罗分校",
+    "english_name": "University of Hawaii at Hilo"
+  },
+  {
+    "chinese_name": "西南基督大学",
+    "english_name": "Southwestern Christian University"
+  },
+  {
+    "chinese_name": "西蒙洛克巴德学院",
+    "english_name": "Bard College at Simon's Rock"
+  },
+  {
+    "chinese_name": "新英格兰大学",
+    "english_name": "University of New England"
+  },
+  {
+    "chinese_name": "新特格莱斯卡大学",
+    "english_name": "Sinte Gleska University"
+  },
+  {
+    "chinese_name": "西顿大学",
+    "english_name": "Seton Hall University"
+  },
+  {
+    "chinese_name": "锡耶纳高地大学",
+    "english_name": "Siena Heights University"
+  },
+  {
+    "chinese_name": "席勒国际大学",
+    "english_name": "Schiller International University"
+  },
+  {
+    "chinese_name": "西俄勒冈大学",
+    "english_name": "Western Oregon University"
+  },
+  {
+    "chinese_name": "雪兰社区学院",
+    "english_name": "Shoreline Community College"
+  },
+  {
+    "chinese_name": "西北密苏里州立大学",
+    "english_name": "Northwest Missouri State University"
+  },
+  {
+    "chinese_name": "西佐治亚大学",
+    "english_name": "University of West Georgia"
+  },
+  {
+    "chinese_name": "西新墨西哥大学",
+    "english_name": "Western New Mexico University"
+  },
+  {
+    "chinese_name": "夏威夷太平洋大学",
+    "english_name": "Hawaii Pacific University"
+  },
+  {
+    "chinese_name": "新英格兰视光学院",
+    "english_name": "The New England College of Optometry"
+  },
+  {
+    "chinese_name": "峡谷学院",
+    "english_name": "College of the Canyons"
+  },
+  {
+    "chinese_name": "夏威夷大学马诺分校",
+    "english_name": "University of Hawaii at Manoa"
+  },
+  {
+    "chinese_name": "希望国际大学",
+    "english_name": "Hope International University"
+  },
+  {
+    "chinese_name": "休斯敦基督教大学",
+    "english_name": "Houston Christian University"
+  },
+  {
+    "chinese_name": "西新英格兰大学",
+    "english_name": "Western New England University"
+  },
+  {
+    "chinese_name": "西雅图中央学院",
+    "english_name": "Seattle Central College"
+  },
+  {
+    "chinese_name": "西南学院（堪萨斯州）",
+    "english_name": "Southwestern College"
+  },
+  {
+    "chinese_name": "夏威夷东海国际学院",
+    "english_name": "Hawaii Tokai International College"
+  },
+  {
+    "chinese_name": "西敏斯特学院（密苏里州）",
+    "english_name": "Westminster College"
+  },
+  {
+    "chinese_name": "辛普森大学",
+    "english_name": "Simpson University"
+  },
+  {
+    "chinese_name": "锡达维尔大学",
+    "english_name": "Cedarville University"
+  },
+  {
+    "chinese_name": "西北学院",
+    "english_name": "Northwestern College"
+  },
+  {
+    "chinese_name": "西南浸会大学",
+    "english_name": "Southwest Baptist University"
+  },
+  {
+    "chinese_name": "西弗吉尼亚州立大学",
+    "english_name": "West Virginia State University"
+  },
+  {
+    "chinese_name": "西南俄克拉荷马州立大学",
+    "english_name": "Southwestern Oklahoma State University"
+  },
+  {
+    "chinese_name": "锡拉丘兹大学",
+    "english_name": "Syracuse University"
+  },
+  {
+    "chinese_name": "新罕布什尔大学",
+    "english_name": "University of New Hampshire"
+  },
+  {
+    "chinese_name": "西敏斯特大学",
+    "english_name": "Westminster University"
+  },
+  {
+    "chinese_name": "西肯塔基大学",
+    "english_name": "Western Kentucky University"
+  },
+  {
+    "chinese_name": "西南浸信会神学院",
+    "english_name": "Southwestern Baptist Theological Seminary"
+  },
+  {
+    "chinese_name": "西南大学",
+    "english_name": "Southwestern University"
+  },
+  {
+    "chinese_name": "西卡罗莱纳大学",
+    "english_name": "Western Carolina University"
+  },
+  {
+    "chinese_name": "休斯顿大学明湖分校",
+    "english_name": "University of Houston-Clear Lake"
+  },
+  {
+    "chinese_name": "休斯顿大学市中心分校",
+    "english_name": "University of Houston-Downtown"
+  },
+  {
+    "chinese_name": "休斯顿大学维多利亚分校",
+    "english_name": "University of Houston-Victoria"
+  },
+  {
+    "chinese_name": "新泽西威廉佩特森大学",
+    "english_name": "William Paterson University of New Jersey"
+  },
+  {
+    "chinese_name": "新墨西哥州立大学",
+    "english_name": "New Mexico State University"
+  },
+  {
+    "chinese_name": "西北拿撒勒大学",
+    "english_name": "Northwest Nazarene University"
+  },
+  {
+    "chinese_name": "西伊利诺伊大学",
+    "english_name": "Western Illinois University"
+  },
+  {
+    "chinese_name": "休斯敦社区学院",
+    "english_name": "Houston Community College"
+  },
+  {
+    "chinese_name": "肖尼州立大学",
+    "english_name": "Shawnee State University"
+  },
+  {
+    "chinese_name": "西雅图中央社区学院",
+    "english_name": "Seattle Central Community College"
+  },
+  {
+    "chinese_name": "西加利福尼亚法学院",
+    "english_name": "California Western School of Law"
+  },
+  {
+    "chinese_name": "西崖大学",
+    "english_name": "Westcliff University"
+  },
+  {
+    "chinese_name": "新英格兰音乐学院",
+    "english_name": "New England Conservatory of Music"
+  },
+  {
+    "chinese_name": "夏威夷大学西欧胡分校",
+    "english_name": "University of Hawaii at West Oahu"
+  },
+  {
+    "chinese_name": "西南法学院",
+    "english_name": "Southwestern Law School"
+  },
+  {
+    "chinese_name": "新英格兰法学院",
+    "english_name": "New England Law | Boston"
+  },
+  {
+    "chinese_name": "希尔斯堡社区学院",
+    "english_name": "Hillsborough Community College"
+  },
+  {
+    "chinese_name": "西北州立大学",
+    "english_name": "Northwestern State University"
+  },
+  {
+    "chinese_name": "西北健康科学大学",
+    "english_name": "Northwestern Health Sciences University"
+  },
+  {
+    "chinese_name": "西奈山伊坎医学院",
+    "english_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "chinese_name": "希拉姆学院",
+    "english_name": "Hiram College"
+  },
+  {
+    "chinese_name": "西北密歇根学院",
+    "english_name": "Northwestern Michigan College"
+  },
+  {
+    "chinese_name": "新学院",
+    "english_name": "The New School"
+  },
+  {
+    "chinese_name": "西密歇根大学",
+    "english_name": "Western Michigan University"
+  },
+  {
+    "chinese_name": "西自由大学",
+    "english_name": "West Liberty University"
+  },
+  {
+    "chinese_name": "西弗吉尼亚大学",
+    "english_name": "West Virginia University"
+  },
+  {
+    "chinese_name": "西谷学院",
+    "english_name": "West Valley College"
+  },
+  {
+    "chinese_name": "辛克莱社区学院",
+    "english_name": "Sinclair Community College"
+  },
+  {
+    "chinese_name": "西南明尼苏达州立大学",
+    "english_name": "Southwest Minnesota State University"
+  },
+  {
+    "chinese_name": "新墨西哥高地大学",
+    "english_name": "New Mexico Highlands University"
+  },
+  {
+    "chinese_name": "西康涅狄格州立大学",
+    "english_name": "Western Connecticut State University"
+  },
+  {
+    "chinese_name": "西部卫生科学大学",
+    "english_name": "Western University of Health Sciences"
+  },
+  {
+    "chinese_name": "伊利诺伊理工学院",
+    "english_name": "Illinois Institute of Technology"
+  },
+  {
+    "chinese_name": "伊萨卡学院",
+    "english_name": "Ithaca College"
+  },
+  {
+    "chinese_name": "亚利桑那大学",
+    "english_name": "The University of Arizona"
+  },
+  {
+    "chinese_name": "杨百翰大学",
+    "english_name": "Brigham Young University"
+  },
+  {
+    "chinese_name": "印第安纳大学布鲁明顿分校",
+    "english_name": "Indiana University Bloomington"
+  },
+  {
+    "chinese_name": "印第安纳大学东部分校",
+    "english_name": "Indiana University East"
+  },
+  {
+    "chinese_name": "伊利诺伊大学春田分校",
+    "english_name": "University of Illinois at Springfield"
+  },
+  {
+    "chinese_name": "犹他大学",
+    "english_name": "The University of Utah"
+  },
+  {
+    "chinese_name": "伊凡斯维尔大学",
+    "english_name": "University of Evansville"
+  },
+  {
+    "chinese_name": "伊利诺伊东部社区学院",
+    "english_name": "Illinois Eastern Community Colleges"
+  },
+  {
+    "chinese_name": "杨百翰大学夏威夷分校",
+    "english_name": "Brigham Young University-Hawaii"
+  },
+  {
+    "chinese_name": "银行街教育学院",
+    "english_name": "Bank Street College of Education"
+  },
+  {
+    "chinese_name": "友三中医大学",
+    "english_name": "Yo San University of Traditional Chinese Medicine"
+  },
+  {
+    "chinese_name": "伊利诺伊大学芝加哥分校",
+    "english_name": "University of Illinois at Chicago"
+  },
+  {
+    "chinese_name": "伊利诺伊学院",
+    "english_name": "Illinois College"
+  },
+  {
+    "chinese_name": "约翰逊郡社区学院",
+    "english_name": "Johnson County Community College"
+  },
+  {
+    "chinese_name": "约翰逊大学",
+    "english_name": "Johnson University"
+  },
+  {
+    "chinese_name": "盐湖城社区学院",
+    "english_name": "Salt Lake Community College"
+  },
+  {
+    "chinese_name": "伊雷尔与马内拉希望之城生物科学研究生院",
+    "english_name": "Irell & Manella Graduate School of Biological Sciences at City of Hope"
+  },
+  {
+    "chinese_name": "约翰逊C.史密斯大学",
+    "english_name": "Johnson C.Smith University"
+  },
+  {
+    "chinese_name": "印第安河州立学院",
+    "english_name": "Indian River State College"
+  },
+  {
+    "chinese_name": "伊曼纽尔学院（马萨诸塞州）",
+    "english_name": "Emmanuel College"
+  },
+  {
+    "chinese_name": "亚利桑那州立大学",
+    "english_name": "Arizona State University"
+  },
+  {
+    "chinese_name": "扬斯敦州立大学",
+    "english_name": "Youngstown State University"
+  },
+  {
+    "chinese_name": "伊丽莎白城市州立大学",
+    "english_name": "Elizabeth City State University"
+  },
+  {
+    "chinese_name": "印第安纳卫斯里大学",
+    "english_name": "Indiana Wesleyan University"
+  },
+  {
+    "chinese_name": "伊利诺伊大学香槟分校",
+    "english_name": "University of Illinois at Urbana-Champaign"
+  },
+  {
+    "chinese_name": "约翰伍德社区学院",
+    "english_name": "John Wood Community College"
+  },
+  {
+    "chinese_name": "犹他理工大学",
+    "english_name": "Utah Tech University"
+  },
+  {
+    "chinese_name": "约翰霍普金斯大学",
+    "english_name": "The Johns Hopkins University"
+  },
+  {
+    "chinese_name": "耶希瓦大学",
+    "english_name": "Yeshiva University"
+  },
+  {
+    "chinese_name": "印第安纳大学西北分校",
+    "english_name": "Indiana University Northwest"
+  },
+  {
+    "chinese_name": "伊利社区学院",
+    "english_name": "Erie Community College"
+  },
+  {
+    "chinese_name": "尤肯国际大学",
+    "english_name": "Eucon International University"
+  },
+  {
+    "chinese_name": "音乐家学院",
+    "english_name": "Musicians Institute"
+  },
+  {
+    "chinese_name": "印第安纳波利斯大学",
+    "english_name": "University of Indianapolis"
+  },
+  {
+    "chinese_name": "亚当斯州立大学",
+    "english_name": "Adams State University"
+  },
+  {
+    "chinese_name": "约瑟夫农宗座学院",
+    "english_name": "The Pontifical College Josephinum"
+  },
+  {
+    "chinese_name": "艺术中心设计学院",
+    "english_name": "Art Center College of Design"
+  },
+  {
+    "chinese_name": "伊凡格尔大学",
+    "english_name": "Evangel University"
+  },
+  {
+    "chinese_name": "约翰帕特里克健康与应用科学大学",
+    "english_name": "John Patrick University of Health and Applied Sciences"
+  },
+  {
+    "chinese_name": "犹他山谷大学",
+    "english_name": "Utah Valley University"
+  },
+  {
+    "chinese_name": "伊利诺伊卫斯理大学",
+    "english_name": "Illinois Wesleyan University"
+  },
+  {
+    "chinese_name": "约翰逊威尔士大学",
+    "english_name": "Johnson & Wales University"
+  },
+  {
+    "chinese_name": "犹他州立大学",
+    "english_name": "Utah State University"
+  },
+  {
+    "chinese_name": "耶鲁大学",
+    "english_name": "Yale University"
+  },
+  {
+    "chinese_name": "印第安纳大学南本德分校",
+    "english_name": "Indiana University South Bend"
+  },
+  {
+    "chinese_name": "伊利诺伊州立大学",
+    "english_name": "Illinois State University"
+  },
+  {
+    "chinese_name": "印第安纳州立大学",
+    "english_name": "Indiana State University"
+  },
+  {
+    "chinese_name": "印第安纳大学-普渡大学印第安纳波利斯分校",
+    "english_name": "Indiana University Purdue University at Indianapolis"
+  },
+  {
+    "chinese_name": "约翰卡罗尔大学",
+    "english_name": "John Carroll University"
+  },
+  {
+    "chinese_name": "依隆大学",
+    "english_name": "Elon University"
+  },
+  {
+    "chinese_name": "印第安纳大学科科莫分校",
+    "english_name": "Indiana University Kokomo"
+  },
+  {
+    "chinese_name": "伊马库雷塔大学",
+    "english_name": "Immaculata University"
+  },
+  {
+    "chinese_name": "杨百翰大学爱达荷分校",
+    "english_name": "Brigham Young University - Idaho"
+  },
+  {
+    "chinese_name": "伊丽莎白城学院",
+    "english_name": "Elizabethtown College"
+  },
+  {
+    "chinese_name": "约翰布朗大学",
+    "english_name": "John Brown University"
+  },
+  {
+    "chinese_name": "朱尼亚塔学院",
+    "english_name": "Juniata College"
+  },
+  {
+    "chinese_name": "中密苏里大学",
+    "english_name": "University of Central Missouri"
+  },
+  {
+    "chinese_name": "茱莉亚音乐学院",
+    "english_name": "The Juilliard School"
+  },
+  {
+    "chinese_name": "佐治亚学院暨州立大学",
+    "english_name": "Georgia College & State University"
+  },
+  {
+    "chinese_name": "中阿肯色大学",
+    "english_name": "University of Central Arkansas"
+  },
+  {
+    "chinese_name": "中佛罗里达大学",
+    "english_name": "University of Central Florida"
+  },
+  {
+    "chinese_name": "芝加哥艺术学院",
+    "english_name": "School of the Art Institute of Chicago"
+  },
+  {
+    "chinese_name": "佐治亚理工学院",
+    "english_name": "The Georgia Institute of Technology"
+  },
+  {
+    "chinese_name": "佐治亚南方大学",
+    "english_name": "Georgia Southern University"
+  },
+  {
+    "chinese_name": "芝加哥洛约拉大学",
+    "english_name": "Loyola University Chicago"
+  },
+  {
+    "chinese_name": "詹姆斯麦迪逊大学",
+    "english_name": "James Madison University"
+  },
+  {
+    "chinese_name": "泽维尔大学",
+    "english_name": "Xavier University"
+  },
+  {
+    "chinese_name": "中西部大学",
+    "english_name": "Midwest University"
+  },
+  {
+    "chinese_name": "中怀俄明学院",
+    "english_name": "Central Wyoming College"
+  },
+  {
+    "chinese_name": "中密歇根大学",
+    "english_name": "Central Michigan University"
+  },
+  {
+    "chinese_name": "中美浸会神学院",
+    "english_name": "Mid-America Baptist Theological Seminary"
+  },
+  {
+    "chinese_name": "中佛罗里达学院",
+    "english_name": "College of Central Florida"
+  },
+  {
+    "chinese_name": "棕榈滩大西洋大学",
+    "english_name": "Palm Beach Atlantic University"
+  },
+  {
+    "chinese_name": "佐治亚大学",
+    "english_name": "The University of Georgia"
+  },
+  {
+    "chinese_name": "芝加哥哥伦比亚学院",
+    "english_name": "Columbia College Chicago"
+  },
+  {
+    "chinese_name": "佐治亚州立大学",
+    "english_name": "Georgia State University"
+  },
+  {
+    "chinese_name": "中华盛顿大学",
+    "english_name": "Central Washington University"
+  },
+  {
+    "chinese_name": "中西州立大学",
+    "english_name": "Midwestern State University"
+  },
+  {
+    "chinese_name": "中北大学",
+    "english_name": "Northcentral University"
+  },
+  {
+    "chinese_name": "中佐治亚州立大学",
+    "english_name": "Middle Georgia State University"
+  },
+  {
+    "chinese_name": "中央弗吉尼亚州社区学院",
+    "english_name": "Central Virginia Community College"
+  },
+  {
+    "chinese_name": "中央学院",
+    "english_name": "Central College"
+  },
+  {
+    "chinese_name": "中田纳西州立大学",
+    "english_name": "Middle Tennessee State University"
+  },
+  {
+    "chinese_name": "佐治亚格威内特学院",
+    "english_name": "Georgia Gwinnett College"
+  },
+  {
+    "chinese_name": "中密歇根学院",
+    "english_name": "Mid Michigan College"
+  },
+  {
+    "chinese_name": "芝加哥大学",
+    "english_name": "The University of Chicago"
+  },
+  {
+    "chinese_name": "中俄克拉荷马大学",
+    "english_name": "University of Central Oklahoma"
+  },
+  {
+    "chinese_name": "中央皮特蒙特社区学院",
+    "english_name": "Central Piedmont Community College"
+  },
+  {
+    "chinese_name": "州长州立大学",
+    "english_name": "Governors State University"
+  },
+  {
+    "chinese_name": "职业高尔夫球手职业学院",
+    "english_name": "Professional Golfers Career College"
+  },
+  {
+    "chinese_name": "中西大学",
+    "english_name": "Midwestern University"
+  },
+  {
+    "chinese_name": "正道福音神学院",
+    "english_name": "Logos Evangelical Seminary"
+  },
+  {
+    "chinese_name": "自由大学",
+    "english_name": "Liberty University"
+  },
+  {
+    "chinese_name": "佐治亚西南州立大学",
+    "english_name": "Georgia Southwestern State University"
+  },
+  {
+    "chinese_name": "长岛大学",
+    "english_name": "Long Island University"
+  },
+  {
+    "chinese_name": "芝加哥城市学院哈罗德华盛顿学院",
+    "english_name": "City Colleges of Chicago  Harold Washington College"
+  },
+  {
+    "chinese_name": "中美拿撒勒大学",
+    "english_name": "MidAmerica Nazarene University"
+  },
+  {
+    "chinese_name": "中康涅狄格州立大学",
+    "english_name": "Central Connecticut State University"
+  },
+  {
+    "chinese_name": "长老会学院",
+    "english_name": "Presbyterian College"
+  }
+]

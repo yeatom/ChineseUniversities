@@ -1,0 +1,654 @@
+[
+  {
+    "chinese_name": "阿伯泰大学",
+    "english_name": "Abertay University"
+  },
+  {
+    "chinese_name": "奥斯特大学",
+    "english_name": "University of Ulster"
+  },
+  {
+    "chinese_name": "阿斯顿大学",
+    "english_name": "Aston University"
+  },
+  {
+    "chinese_name": "艾伯瑞斯特维斯大学",
+    "english_name": "Aberystwyth University"
+  },
+  {
+    "chinese_name": "安格利亚罗斯金大学",
+    "english_name": "Anglia Ruskin University"
+  },
+  {
+    "chinese_name": "埃奇希尔大学",
+    "english_name": "Edge Hill University"
+  },
+  {
+    "chinese_name": "爱丁堡玛格丽特女王大学",
+    "english_name": "Queen Margaret University  Edinburgh"
+  },
+  {
+    "chinese_name": "埃克斯特大学",
+    "english_name": "University of Exeter"
+  },
+  {
+    "chinese_name": "埃塞克斯大学",
+    "english_name": "University of Essex"
+  },
+  {
+    "chinese_name": "爱丁堡大学",
+    "english_name": "The University of Edinburgh"
+  },
+  {
+    "chinese_name": "阿伯丁大学",
+    "english_name": "University of Aberdeen"
+  },
+  {
+    "chinese_name": "北安普顿大学",
+    "english_name": "The University of Northampton"
+  },
+  {
+    "chinese_name": "贝尔法斯特女王大学",
+    "english_name": "The Queen's University of Belfast"
+  },
+  {
+    "chinese_name": "伯恩茅斯艺术大学",
+    "english_name": "Arts University Bournemouth"
+  },
+  {
+    "chinese_name": "BIMM大学",
+    "english_name": "BIMM University"
+  },
+  {
+    "chinese_name": "贝福德郡大学",
+    "english_name": "University of Bedfordshire"
+  },
+  {
+    "chinese_name": "白金汉郡新大学",
+    "english_name": "Buckinghamshire New University"
+  },
+  {
+    "chinese_name": "白金汉大学",
+    "english_name": "The University of Buckingham"
+  },
+  {
+    "chinese_name": "布里斯托大学",
+    "english_name": "University of Bristol"
+  },
+  {
+    "chinese_name": "布莱顿大学",
+    "english_name": "University of Brighton"
+  },
+  {
+    "chinese_name": "布莱德福德大学",
+    "english_name": "University of Bradford"
+  },
+  {
+    "chinese_name": "伯恩茅斯大学",
+    "english_name": "Bournemouth University"
+  },
+  {
+    "chinese_name": "博尔顿大学",
+    "english_name": "University of Bolton"
+  },
+  {
+    "chinese_name": "伯明翰大学学院",
+    "english_name": "University College Birmingham"
+  },
+  {
+    "chinese_name": "伯明翰城市大学",
+    "english_name": "Birmingham City University"
+  },
+  {
+    "chinese_name": "伯明翰大学",
+    "english_name": "University of Birmingham"
+  },
+  {
+    "chinese_name": "巴斯思巴大学",
+    "english_name": "Bath Spa University"
+  },
+  {
+    "chinese_name": "巴斯大学",
+    "english_name": "The University of Bath"
+  },
+  {
+    "chinese_name": "班戈大学",
+    "english_name": "Bangor University"
+  },
+  {
+    "chinese_name": "创意艺术大学",
+    "english_name": "University for the Creative Arts"
+  },
+  {
+    "chinese_name": "德蒙特福特大学",
+    "english_name": "De Montfort University"
+  },
+  {
+    "chinese_name": "德比大学",
+    "english_name": "The University of Derby"
+  },
+  {
+    "chinese_name": "蒂赛德大学",
+    "english_name": "Teesside University"
+  },
+  {
+    "chinese_name": "杜伦大学",
+    "english_name": "University of Durham"
+  },
+  {
+    "chinese_name": "帝国理工学院",
+    "english_name": "Imperial College London"
+  },
+  {
+    "chinese_name": "东安格利亚大学",
+    "english_name": "University of East Anglia"
+  },
+  {
+    "chinese_name": "东伦敦大学",
+    "english_name": "University of East London"
+  },
+  {
+    "chinese_name": "邓迪大学",
+    "english_name": "University of Dundee"
+  },
+  {
+    "chinese_name": "福尔茅斯大学",
+    "english_name": "Falmouth University"
+  },
+  {
+    "chinese_name": "法律大学",
+    "english_name": "The University of Law"
+  },
+  {
+    "chinese_name": "高地与群岛大学",
+    "english_name": "University of the Highlands and Islands"
+  },
+  {
+    "chinese_name": "国家影视学院",
+    "english_name": "National Film and Television School"
+  },
+  {
+    "chinese_name": "格洛斯特郡大学",
+    "english_name": "University of Gloucestershire"
+  },
+  {
+    "chinese_name": "格拉斯哥咯里多尼亚大学",
+    "english_name": "Glasgow Caledonian University"
+  },
+  {
+    "chinese_name": "格拉斯哥大学",
+    "english_name": "University of Glasgow"
+  },
+  {
+    "chinese_name": "格罗斯泰斯特主教大学",
+    "english_name": "Bishop Grosseteste University"
+  },
+  {
+    "chinese_name": "格林尼治大学",
+    "english_name": "University of Greenwich"
+  },
+  {
+    "chinese_name": "皇家北方音乐学院",
+    "english_name": "Royal Northern College of Music"
+  },
+  {
+    "chinese_name": "华威大学",
+    "english_name": "The University of Warwick"
+  },
+  {
+    "chinese_name": "哈珀•亚当斯大学",
+    "english_name": "Harper Adams University"
+  },
+  {
+    "chinese_name": "赫瑞-瓦特大学",
+    "english_name": "Heriot-Watt University"
+  },
+  {
+    "chinese_name": "哈德斯菲尔德大学",
+    "english_name": "University of Huddersfield"
+  },
+  {
+    "chinese_name": "赫尔大学",
+    "english_name": "The University of Hull"
+  },
+  {
+    "chinese_name": "赫特福德郡大学",
+    "english_name": "University of Hertfordshire"
+  },
+  {
+    "chinese_name": "皇家农业大学",
+    "english_name": "Royal Agricultural University"
+  },
+  {
+    "chinese_name": "皇家艺术学院",
+    "english_name": "Royal College of Art"
+  },
+  {
+    "chinese_name": "皇家音乐学院",
+    "english_name": "Royal College of Music"
+  },
+  {
+    "chinese_name": "哈特伯瑞大学",
+    "english_name": "Hartpury University"
+  },
+  {
+    "chinese_name": "吉尔德霍尔音乐与戏剧学院",
+    "english_name": "Guildhall School of Music and Drama"
+  },
+  {
+    "chinese_name": "金斯顿大学",
+    "english_name": "Kingston University"
+  },
+  {
+    "chinese_name": "剑桥大学",
+    "english_name": "University of Cambridge"
+  },
+  {
+    "chinese_name": "基尔大学",
+    "english_name": "University of Keele"
+  },
+  {
+    "chinese_name": "建筑联盟学院",
+    "english_name": "Architectural Association School of Architecture"
+  },
+  {
+    "chinese_name": "开放大学",
+    "english_name": "The Open University"
+  },
+  {
+    "chinese_name": "坎特伯雷大学",
+    "english_name": "Canterbury Christ Church University"
+  },
+  {
+    "chinese_name": "卡迪夫都市大学",
+    "english_name": "Cardiff Metropolitan University"
+  },
+  {
+    "chinese_name": "卡迪夫大学",
+    "english_name": "Cardiff University"
+  },
+  {
+    "chinese_name": "考文垂大学",
+    "english_name": "Coventry University"
+  },
+  {
+    "chinese_name": "克兰菲尔德大学",
+    "english_name": "Cranfield University"
+  },
+  {
+    "chinese_name": "坎布里亚大学",
+    "english_name": "University of Cumbria"
+  },
+  {
+    "chinese_name": "肯特大学",
+    "english_name": "University of Kent"
+  },
+  {
+    "chinese_name": "伦敦雷文斯本大学",
+    "english_name": "Ravensbourne University London"
+  },
+  {
+    "chinese_name": "伦敦玛丽女王大学",
+    "english_name": "Queen Mary University of London"
+  },
+  {
+    "chinese_name": "雷丁大学",
+    "english_name": "University of Reading"
+  },
+  {
+    "chinese_name": "伦敦摄政大学",
+    "english_name": "Regent's University London"
+  },
+  {
+    "chinese_name": "罗伯特高登大学",
+    "english_name": "Robert Gordon University  Aberdeen"
+  },
+  {
+    "chinese_name": "罗汉普顿大学",
+    "english_name": "Roehampton University"
+  },
+  {
+    "chinese_name": "伦敦大学皇家中央演讲与戏剧学院",
+    "english_name": "Royal Central School of Speech and Drama  University of London"
+  },
+  {
+    "chinese_name": "兰卡斯特大学",
+    "english_name": "The University of Lancaster"
+  },
+  {
+    "chinese_name": "利兹大学",
+    "english_name": "The University of Leeds"
+  },
+  {
+    "chinese_name": "利兹三一大学",
+    "english_name": "Leeds Trinity University"
+  },
+  {
+    "chinese_name": "莱斯特大学",
+    "english_name": "University of Leicester"
+  },
+  {
+    "chinese_name": "伦敦大学伦敦卫生与热带医学学院",
+    "english_name": "London School of Hygiene and Tropical Medicine  University of London"
+  },
+  {
+    "chinese_name": "伦敦政治经济学院",
+    "english_name": "The London School of Economics and Political Science"
+  },
+  {
+    "chinese_name": "伦敦南岸大学",
+    "english_name": "London South Bank University"
+  },
+  {
+    "chinese_name": "伦敦大学学院",
+    "english_name": "University College London"
+  },
+  {
+    "chinese_name": "拉夫堡大学",
+    "english_name": "Loughborough University"
+  },
+  {
+    "chinese_name": "伦敦大学亚非研究学院",
+    "english_name": "School of Oriental and African Studies  University of London"
+  },
+  {
+    "chinese_name": "伦敦艺术大学",
+    "english_name": "University of the Arts London"
+  },
+  {
+    "chinese_name": "伦敦布鲁内尔大学",
+    "english_name": "Brunel University London"
+  },
+  {
+    "chinese_name": "伦敦大学城市学院",
+    "english_name": "City  University of London"
+  },
+  {
+    "chinese_name": "龙比亚大学",
+    "english_name": "Edinburgh Napier University"
+  },
+  {
+    "chinese_name": "伦敦大学格尔德史密斯学院",
+    "english_name": "Goldsmiths College  University of London"
+  },
+  {
+    "chinese_name": "伦敦国王学院",
+    "english_name": "King's College London"
+  },
+  {
+    "chinese_name": "伦敦大学伯克贝克学院",
+    "english_name": "Birkbeck College  University of London"
+  },
+  {
+    "chinese_name": "伦敦大学皇家音乐学院",
+    "english_name": "Royal Academy of Music  University of London"
+  },
+  {
+    "chinese_name": "伦敦大学高级研究学院（高等法律研究院）",
+    "english_name": "School of Advanced Study（Institute of Advanced Legal Studies），University of London"
+  },
+  {
+    "chinese_name": "伦敦大学考陶德艺术学院",
+    "english_name": "Courtauld Institute of Art  University of London"
+  },
+  {
+    "chinese_name": "伦敦大学皇家霍洛威和贝德福德新学院",
+    "english_name": "Royal Holloway and Bedford New College  University of London"
+  },
+  {
+    "chinese_name": "伦敦大学癌症研究所皇家癌症医院",
+    "english_name": "Institute of Cancer Research: Royal Cancer Hospital  University of London"
+  },
+  {
+    "chinese_name": "利物浦热带医学院",
+    "english_name": "Liverpool School of Tropical Medicine"
+  },
+  {
+    "chinese_name": "利兹艺术大学",
+    "english_name": "Leeds Arts University"
+  },
+  {
+    "chinese_name": "罗斯布鲁弗戏剧演艺学院",
+    "english_name": "Rose Bruford College of Theatre and Performance"
+  },
+  {
+    "chinese_name": "伦敦大学高等研究学院（瓦尔堡研究院）",
+    "english_name": "School of Advanced Study (Warburg Institute)  University of London"
+  },
+  {
+    "chinese_name": "伦敦大学圣乔治医学院",
+    "english_name": "St George's Hospital Medical School  University of London"
+  },
+  {
+    "chinese_name": "雷克瑟姆大学",
+    "english_name": "Wrexham University"
+  },
+  {
+    "chinese_name": "利兹贝克特大学",
+    "english_name": "Leeds Beckett University"
+  },
+  {
+    "chinese_name": "伦敦大学皇家兽医院",
+    "english_name": "The Royal Veterinary College  University of London"
+  },
+  {
+    "chinese_name": "伦敦城市大学",
+    "english_name": "London Metropolitan University"
+  },
+  {
+    "chinese_name": "林肯大学",
+    "english_name": "University of Lincoln"
+  },
+  {
+    "chinese_name": "利物浦大学",
+    "english_name": "University of Liverpool"
+  },
+  {
+    "chinese_name": "利物浦希望大学",
+    "english_name": "Liverpool Hope University"
+  },
+  {
+    "chinese_name": "利物浦约翰摩尔斯大学",
+    "english_name": "Liverpool John Moores University"
+  },
+  {
+    "chinese_name": "伦敦大学",
+    "english_name": "University of London"
+  },
+  {
+    "chinese_name": "伦敦商学院",
+    "english_name": "London Business School"
+  },
+  {
+    "chinese_name": "曼彻斯特大学",
+    "english_name": "The University of Manchester"
+  },
+  {
+    "chinese_name": "曼彻斯特城市大学",
+    "english_name": "Manchester Metropolitan University"
+  },
+  {
+    "chinese_name": "密德萨斯大学",
+    "english_name": "Middlesex University"
+  },
+  {
+    "chinese_name": "美国里士满国际大学伦敦分校",
+    "english_name": "Richmond  The American International University in London"
+  },
+  {
+    "chinese_name": "诺森比亚大学",
+    "english_name": "University of Northumbria at Newcastle"
+  },
+  {
+    "chinese_name": "诺里奇艺术大学",
+    "english_name": "Norwich University of the Arts"
+  },
+  {
+    "chinese_name": "诺丁汉大学",
+    "english_name": "The University of Nottingham"
+  },
+  {
+    "chinese_name": "牛津大学",
+    "english_name": "University of Oxford"
+  },
+  {
+    "chinese_name": "牛津布鲁克斯大学",
+    "english_name": "Oxford Brookes University"
+  },
+  {
+    "chinese_name": "纽卡斯尔大学",
+    "english_name": "University of Newcastle upon Tyne"
+  },
+  {
+    "chinese_name": "南威尔士大学",
+    "english_name": "University of South Wales"
+  },
+  {
+    "chinese_name": "南安普顿大学",
+    "english_name": "University of Southampton"
+  },
+  {
+    "chinese_name": "诺丁汉特伦特大学",
+    "english_name": "Nottingham Trent University"
+  },
+  {
+    "chinese_name": "普利茅斯大学",
+    "english_name": "University of Plymouth"
+  },
+  {
+    "chinese_name": "朴次茅斯大学",
+    "english_name": "University of Portsmouth"
+  },
+  {
+    "chinese_name": "普利茅斯艺术大学",
+    "english_name": "Arts University Plymouth"
+  },
+  {
+    "chinese_name": "切斯特大学",
+    "english_name": "University of Chester"
+  },
+  {
+    "chinese_name": "奇切斯特大学",
+    "english_name": "University of Chichester"
+  },
+  {
+    "chinese_name": "苏格兰皇家音乐学院",
+    "english_name": "The Royal Conservatoire of Scotland"
+  },
+  {
+    "chinese_name": "索尔福德大学",
+    "english_name": "University of Salford"
+  },
+  {
+    "chinese_name": "圣安德鲁斯大学",
+    "english_name": "University of St Andrews"
+  },
+  {
+    "chinese_name": "圣马克与圣约翰大学",
+    "english_name": "University of St Mark and St John  Plymouth"
+  },
+  {
+    "chinese_name": "斯塔福德郡大学",
+    "english_name": "Staffordshire University"
+  },
+  {
+    "chinese_name": "斯特灵大学",
+    "english_name": "University of Stirling"
+  },
+  {
+    "chinese_name": "斯特拉斯克莱德大学",
+    "english_name": "University of Strathclyde"
+  },
+  {
+    "chinese_name": "桑德兰大学",
+    "english_name": "University of Sunderland"
+  },
+  {
+    "chinese_name": "萨里大学",
+    "english_name": "University of Surrey"
+  },
+  {
+    "chinese_name": "萨塞克斯大学",
+    "english_name": "University of Sussex"
+  },
+  {
+    "chinese_name": "斯旺西大学",
+    "english_name": "Swansea University"
+  },
+  {
+    "chinese_name": "圣三一拉邦音乐与舞蹈学院",
+    "english_name": "Trinity Laban Conservatoire of Music and Dance"
+  },
+  {
+    "chinese_name": "索伦特大学",
+    "english_name": "Solent University"
+  },
+  {
+    "chinese_name": "萨福克大学",
+    "english_name": "University of Suffolk"
+  },
+  {
+    "chinese_name": "特威克南圣玛丽大学",
+    "english_name": "St Mary's University Twickenham London"
+  },
+  {
+    "chinese_name": "威尔士大学",
+    "english_name": "University of Wales"
+  },
+  {
+    "chinese_name": "威尔士三一圣大卫大学",
+    "english_name": "University of Wales Trinity Saint David"
+  },
+  {
+    "chinese_name": "威斯敏斯特大学",
+    "english_name": "The University of Westminster"
+  },
+  {
+    "chinese_name": "温彻斯特大学",
+    "english_name": "The University of Winchester"
+  },
+  {
+    "chinese_name": "伍尔弗汉普顿大学",
+    "english_name": "University of Wolverhampton"
+  },
+  {
+    "chinese_name": "伍赛斯特大学",
+    "english_name": "University of Worcester"
+  },
+  {
+    "chinese_name": "谢菲尔德大学",
+    "english_name": "The University of Sheffield"
+  },
+  {
+    "chinese_name": "谢菲尔德哈勒姆大学",
+    "english_name": "Sheffield Hallam University"
+  },
+  {
+    "chinese_name": "西伦敦大学",
+    "english_name": "University of West London"
+  },
+  {
+    "chinese_name": "西苏格兰大学",
+    "english_name": "University of the West of Scotland"
+  },
+  {
+    "chinese_name": "西英格兰大学-布里斯托",
+    "english_name": "University of the West of England  Bristol"
+  },
+  {
+    "chinese_name": "英博夏尔大学",
+    "english_name": "BPP University"
+  },
+  {
+    "chinese_name": "约克圣约翰大学",
+    "english_name": "York St John University"
+  },
+  {
+    "chinese_name": "约克大学",
+    "english_name": "University of York"
+  },
+  {
+    "chinese_name": "中央兰开夏大学",
+    "english_name": "University of Central Lancashire"
+  }
+]

@@ -1,4 +1,4 @@
-﻿Chinese Name,English Name
+﻿chinese_name,english_name
 埃尔金社区学院,Elgin Community College
 阿什兰大学,Ashland University
 阿维拉大学,Avila University
@@ -113,7 +113,7 @@
 贝拉明大学,Bellarmine University
 波特兰社区学院,Portland Community College
 贝勒医学院,Baylor College of Medicine
-巴特勒社区学院（埃尔多拉多）,Butler Community College（El Dorado）
+巴特勒社区学院（埃尔多拉多）,Butler Community College (El Dorado)
 巴特勒大学,Butler University
 布朗大学,Brown University
 北弗吉尼亚社区学院,Northern Virginia Community College
@@ -154,9 +154,9 @@
 北卡罗莱纳中央大学,North Carolina Central University
 博伊西州立大学,Boise State University
 北肯塔基大学,Northern Kentucky University
-波多黎各大学里奥彼得拉斯分校（波多黎各）,University of Puerto Rico  Rio Piedras Campus（Puerto Rico）
-波多黎各大学马亚圭斯分校（波多黎各）,University of Puerto Rico  Mayagüez Campus Campus（Puerto Rico）
-波多黎各与加勒比地区高级研究中心（波多黎各）,Centro de Estudios Avanzados de Puerto Rico y el Caribe（Puerto Rico）
+波多黎各大学里奥彼得拉斯分校（波多黎各）,University of Puerto Rico Rio Piedras Campus
+波多黎各大学马亚圭斯分校（波多黎各）,University of Puerto Rico Mayagüez Campus
+波多黎各与加勒比地区高级研究中心（波多黎各）,Center for Advanced Studies of Puerto Rico and the Caribbean
 北卡罗莱纳大学威明顿分校,The University of North Carolina at Wilmington
 北卡罗莱纳大学教堂山分校,The University of North Carolina at Chapel Hill
 巴特学院,Butte College
@@ -299,7 +299,6 @@ Chi大学,Chi University
 德克萨斯大学泰勒分校,The University of Texas at Tyler
 德克萨斯大学圣安东尼奥健康科学中心,The University of Texas Health Science Center at San Antonio
 德克萨斯大学加尔维斯顿医学部,The University of Texas Medical Branch at Galveston
-德克萨斯大学帕米亚盆地分校,The University of Texas of the Permian Basin
 丹尼森大学,Denison University
 东门诺大学,Eastern Mennonite University
 东斯特劳斯堡大学,East Stroudsburg University
@@ -541,7 +540,6 @@ Chi大学,Chi University
 杰克逊维尔佛罗里达州立学院,Florida State College at Jacksonville
 旧金山湾大学,San Francisco Bay University
 加利福尼亚大学洛杉矶分校,University of California  Los Angeles
-加利福尼亚艺术学院,California Institute of the Arts
 加利福尼亚综合研究学院,California Institute of Integral Studies
 加利福尼亚州立大学贝克斯菲尔德分校,California State University  Bakersfield
 加利福尼亚州立大学弗雷斯诺分校,California State University  Fresno
@@ -578,7 +576,6 @@ Chi大学,Chi University
 基恩州立学院,Keene State College
 吉斯通学院,Keystone College
 金合欢大学,Acacia University
-旧金山艺术学院,San Francisco Art Institute
 加利福尼亚圣玛丽学院,Saint Mary's College of California
 加利福尼亚路德大学,California Lutheran University
 加利福尼亚高级管理学院,California Institute of Advanced Management
@@ -704,7 +701,6 @@ Chi大学,Chi University
 莱尼学院,Laney College
 联合基督复临大学,Union Adventist University
 莱图尔诺大学,Letourneau University
-路易斯大学,Lewis University
 里士满大学,University of Richmond
 莱莫恩学院,Le Moyne College
 罗斯蒙特学院,Rosemont College
@@ -956,7 +952,6 @@ Chi大学,Chi University
 南卡罗莱纳州立大学,South Carolina State University
 南方大学,South University
 南方大学与农工学院,Southern University and A & M College
-南方大学,The University of the South
 南印第安纳大学,University of Southern Indiana
 南普吉湾社区学院,South Puget Sound Community College
 南查尔斯顿大学,Charleston Southern University
@@ -999,7 +994,6 @@ Chi大学,Chi University
 纽约州立大学布法罗州立大学,State University of New York Buffalo State University
 纽约州立大学帕切斯分校,State University of New York College at Purchase
 南加利福尼亚大学,University of Southern California
-纽约州立大学帕切斯分校,State University of New York Purchase College
 纽约州立大学纽帕兹分校,State University of New York New Paltz
 诺福克州立大学,Norfolk State University
 纽约州立大学奥尔巴尼分校,State University of New York at Albany
@@ -1019,7 +1013,6 @@ Chi大学,Chi University
 纽约市立大学金斯堡社区学院,Kingsborough Community College of the City University of New York
 纽约室内设计学院,New York School of Interior Design
 诺瓦东南大学,Nova Southeastern University
-纽约市立大学巴鲁克学院,The City University of New York  The Bernard M. Baruch College
 纽约市立大学曼哈顿社区学院,The City University of New York  Borough of Manhattan Community College
 纽约市立大学布朗克斯社区学院,The City University of New York  Bronx Community College
 纽约市立大学布鲁克林学院,The City University of New York  Brooklyn College
@@ -1057,7 +1050,6 @@ Chi大学,Chi University
 帕克兰学院,Parkland College
 派克维尔大学,University of Pikeville
 普渡大学韦恩堡分校,Purdue University Fort Wayne
-帕克大学,Park University
 佩斯大学,Pace University
 匹兹堡大学,The University of Pittsburgh
 普渡大学,Purdue University
@@ -1131,7 +1123,6 @@ Chi大学,Chi University
 圣玛丽大学,St. Mary's University
 圣地亚哥州立大学,San Diego State University
 圣路易斯华盛顿大学,Washington University in St. Louis
-圣十字学院,College of the Holy Cross
 三角洲州立大学,Delta State University
 圣地亚哥基督学院,San Diego Christian College
 生命脊骨神经医学院（西部）,Life Chiropractic College West
@@ -1142,7 +1133,7 @@ Chi大学,Chi University
 首都大学,Capital University
 斯伯丁大学,Spalding University
 萨凡纳州立大学,Savannah State University
-圣心大学（波多黎各）,Universidad del Sagrado Corazón（Puerto Rico）
+圣心大学（波多黎各）,University of the Sacred Heart
 圣玛丽山大学,Mount Saint Mary's University
 圣托马斯大学（明尼苏达州）,University of St. Thomas
 萨凡纳艺术与设计学院,Savannah College of Art and Design
@@ -1166,7 +1157,6 @@ Chi大学,Chi University
 斯克里普斯学院,Scripps College
 圣路易斯大学,Saint Louis University
 圣斯科勒斯蒂卡学院,The College of Saint Scholastica
-圣克劳德州立大学,Saint Cloud State University
 圣约翰大学,St. John's University
 圣彼得大学,Saint Peter's University
 塞布鲁克大学,Saybrook University
@@ -1179,7 +1169,6 @@ Chi大学,Chi University
 圣凯瑟琳大学,St. Catherine University
 圣彼得堡学院,St. Petersburg College
 苏富比艺术学院,Sotheby's Institute of Art
-圣约翰大学,Saint John's University
 塞伦大学,Salem University
 上爱荷华大学,Upper Iowa University
 圣保罗西北大学,University of Northwestern - St.Paul

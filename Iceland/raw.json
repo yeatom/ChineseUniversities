@@ -1,0 +1,47 @@
+[
+  {
+    "TWOCODE": null,
+    "IMG": null,
+    "COUNTRYINDEX": "B",
+    "EDITTIME": null,
+    "ADDTIME": null,
+    "ENGLISH_NAME": "Háskóli Íslands",
+    "CHINESE_NAME": "冰岛大学",
+    "STATUS": "0",
+    "COUNTRY": "冰岛",
+    "UNIVERSITYINDEX": "B",
+    "THREECODE": null,
+    "ID": "103341",
+    "ICON": null
+  },
+  {
+    "TWOCODE": null,
+    "IMG": null,
+    "COUNTRYINDEX": "B",
+    "EDITTIME": null,
+    "ADDTIME": null,
+    "ENGLISH_NAME": "Listaháskóli Íslands",
+    "CHINESE_NAME": "冰岛艺术大学",
+    "STATUS": "0",
+    "COUNTRY": "冰岛",
+    "UNIVERSITYINDEX": "B",
+    "THREECODE": null,
+    "ID": "106350",
+    "ICON": null
+  },
+  {
+    "TWOCODE": null,
+    "IMG": null,
+    "COUNTRYINDEX": "B",
+    "EDITTIME": null,
+    "ADDTIME": null,
+    "ENGLISH_NAME": "Háskólinn í Reykjavík",
+    "CHINESE_NAME": "雷克雅未克大学",
+    "STATUS": "0",
+    "COUNTRY": "冰岛",
+    "UNIVERSITYINDEX": "L",
+    "THREECODE": null,
+    "ID": "106052",
+    "ICON": null
+  }
+]

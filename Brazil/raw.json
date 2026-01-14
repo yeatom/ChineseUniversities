@@ -1,0 +1,430 @@
+[
+  {
+    "chinese_name": "埃斯塔西奥·德·萨大学",
+    "english_name": "Universidade Estácio de Sá"
+  },
+  {
+    "chinese_name": "阿拉戈斯联邦大学",
+    "english_name": "Universidade Federal de Alagoas"
+  },
+  {
+    "chinese_name": "AIEC学院",
+    "english_name": "Faculdade AIEC"
+  },
+  {
+    "chinese_name": "安汉比莫隆比大学",
+    "english_name": "Universidade Anhembi Morumbi"
+  },
+  {
+    "chinese_name": "阿曼多·阿尔瓦雷斯·彭特亚多基金会法学院",
+    "english_name": "Faculdade de Direito da Fundação Armando Alvares Penteado"
+  },
+  {
+    "chinese_name": "保利斯塔大学",
+    "english_name": "Universidade Paulista"
+  },
+  {
+    "chinese_name": "巴拉那图尤蒂大学",
+    "english_name": "Universidade Tuiuti do Paraná"
+  },
+  {
+    "chinese_name": "巴西利亚大学中心",
+    "english_name": "Centro Universitário de Brasília"
+  },
+  {
+    "chinese_name": "伯南布哥卫生学院",
+    "english_name": "Faculdade Pernambucana de Saúde"
+  },
+  {
+    "chinese_name": "巴拉那联邦技术大学",
+    "english_name": "Universidade Tecnológica Federal do Paraná"
+  },
+  {
+    "chinese_name": "伯南布哥联邦大学",
+    "english_name": "Universidade Federal de Pernambuco"
+  },
+  {
+    "chinese_name": "巴拉那联邦大学",
+    "english_name": "Universidade Federal do Paraná"
+  },
+  {
+    "chinese_name": "巴拉那天主教大学",
+    "english_name": "Pontifícia Universidade Católica do Paraná"
+  },
+  {
+    "chinese_name": "伯南布哥大学",
+    "english_name": "Universidade de Pernambuco"
+  },
+  {
+    "chinese_name": "北里奥格兰德联邦大学",
+    "english_name": "Universidade Federal do Rio Grande do Norte"
+  },
+  {
+    "chinese_name": "巴拉那高等教育学院",
+    "english_name": "Faculdade de Educação Superior do Paraná"
+  },
+  {
+    "chinese_name": "巴伊亚联邦大学",
+    "english_name": "Universidade Federal da Bahia"
+  },
+  {
+    "chinese_name": "巴西利亚大学",
+    "english_name": "Universidade de Brasília"
+  },
+  {
+    "chinese_name": "巴西物理研究中心",
+    "english_name": "Centro Brasileiro de Pesquisas Físicas"
+  },
+  {
+    "chinese_name": "巴西利亚教育、发展与研究学院",
+    "english_name": "Instituto Brasileiro de Ensino  Desenvolvimento e Pesquisa de Brasília"
+  },
+  {
+    "chinese_name": "北里奥格兰德科学、文化与推广学院",
+    "english_name": "Faculdade de Ciências  Cultura e Extensão do Rio Grande do Norte"
+  },
+  {
+    "chinese_name": "CESUMAR大学",
+    "english_name": "Universidade Cesumar"
+  },
+  {
+    "chinese_name": "弗鲁米嫩塞联邦大学",
+    "english_name": "Universidade Federal Fluminense"
+  },
+  {
+    "chinese_name": "FIEO大学中心",
+    "english_name": "Centro Universitário FIEO"
+  },
+  {
+    "chinese_name": "福塔雷萨大学",
+    "english_name": "Universidade de Fortaleza"
+  },
+  {
+    "chinese_name": "费瓦利大学",
+    "english_name": "Universidade Feevale"
+  },
+  {
+    "chinese_name": "高乔山谷大学中心",
+    "english_name": "Centro Universitário da Serra Gaúcha"
+  },
+  {
+    "chinese_name": "管理与商业学院",
+    "english_name": "Faculdade FIA de Administração e Negócios"
+  },
+  {
+    "chinese_name": "戈亚斯联邦大学",
+    "english_name": "Universidade Federal de Goiás"
+  },
+  {
+    "chinese_name": "国立纯数学与应用数学研究所",
+    "english_name": "Instituto Nacional de Matemática Pura e Aplicada"
+  },
+  {
+    "chinese_name": "广告与营销高等学院",
+    "english_name": "Escola Superior de Propaganda e Marketing"
+  },
+  {
+    "chinese_name": "戈亚斯天主教大学",
+    "english_name": "Universidade Católica de Goiás"
+  },
+  {
+    "chinese_name": "瓜鲁柳斯大学",
+    "english_name": "Universidade Guarulhos"
+  },
+  {
+    "chinese_name": "国家电信学院",
+    "english_name": "Instituto Nacional de Telecomunicações"
+  },
+  {
+    "chinese_name": "核技术发展中心",
+    "english_name": "Centro de Desenvolvimento da Tecnologia Nuclear"
+  },
+  {
+    "chinese_name": "Insper教学与研究学院",
+    "english_name": "Insper Instituto de Ensino e Pesquisa"
+  },
+  {
+    "chinese_name": "IBMEC大学中心",
+    "english_name": "Centro Universitário IBMEC"
+  },
+  {
+    "chinese_name": "伽利略亚马孙技术与教育学院",
+    "english_name": "Instituto de Tecnologia e Educação Galileo da Amazônia"
+  },
+  {
+    "chinese_name": "库里蒂巴大学中心",
+    "english_name": "Centro Universitário Curitiba"
+  },
+  {
+    "chinese_name": "坎皮纳斯州立大学",
+    "english_name": "Universidade Estadual de Campinas"
+  },
+  {
+    "chinese_name": "坎皮纳斯天主教大学",
+    "english_name": "Pontifícia Universidade Católica de Campinas"
+  },
+  {
+    "chinese_name": "里特尔多雷斯大学中心",
+    "english_name": "Centro Universitário Ritter dos Reis"
+  },
+  {
+    "chinese_name": "里约麦肯锡长老会学院",
+    "english_name": "Faculdade Presbiteriana Mackenzie Rio"
+  },
+  {
+    "chinese_name": "里约热内卢天主教大学",
+    "english_name": "Pontifícia Universidade Católica do Rio de Janeiro"
+  },
+  {
+    "chinese_name": "里约热内卢联邦大学",
+    "english_name": "Universidade Federal do Rio de Janeiro"
+  },
+  {
+    "chinese_name": "拉丁美洲一体化联邦大学",
+    "english_name": "Universidade Federal da Integração Latino-Americana"
+  },
+  {
+    "chinese_name": "里约热内卢州联邦大学",
+    "english_name": "Universidade Federal do Estado do Rio de Janeiro"
+  },
+  {
+    "chinese_name": "里约热内卢拉萨尔大学中心",
+    "english_name": "Centro Universitário la Salle do Rio de Janeiro"
+  },
+  {
+    "chinese_name": "里约热内卢州立大学",
+    "english_name": "Universidade do Estado do Rio de Janeiro"
+  },
+  {
+    "chinese_name": "门德斯大学",
+    "english_name": "Universidade Candido Mendes"
+  },
+  {
+    "chinese_name": "马塞约大学中心",
+    "english_name": "Centro Universitário de Maceió"
+  },
+  {
+    "chinese_name": "玛莎·法尔考学院",
+    "english_name": "Faculdade Martha Falcão"
+  },
+  {
+    "chinese_name": "麦肯锡长老会大学",
+    "english_name": "Universidade Presbiteriana Mackenzie"
+  },
+  {
+    "chinese_name": "马林加州立大学",
+    "english_name": "Universidade Estadual de Maringá"
+  },
+  {
+    "chinese_name": "米纳斯吉拉斯联邦大学",
+    "english_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "chinese_name": "南大河州联邦大学",
+    "english_name": "Universidade Federal do Rio Grande do Sul"
+  },
+  {
+    "chinese_name": "南大河州天主教大学",
+    "english_name": "Pontifícia Universidade Católica do Rio Grande do Sul"
+  },
+  {
+    "chinese_name": "南雅拉瓜圣卡塔琳娜天主教大学中心",
+    "english_name": "Centro Universitário - Católica de Santa Catarina em Jaraguá do Sul"
+  },
+  {
+    "chinese_name": "南部技术学院",
+    "english_name": "Faculdade de Tecnologia da Zona Sul"
+  },
+  {
+    "chinese_name": "欧洲设计学院",
+    "english_name": "Istituto Europeo di Design (IED)"
+  },
+  {
+    "chinese_name": "佩洛塔斯联邦大学",
+    "english_name": "Universidade Federal de Pelotas"
+  },
+  {
+    "chinese_name": "佩洛塔斯阿尼杨格拉学院",
+    "english_name": "Faculdade Anhanguera de Pelotas"
+  },
+  {
+    "chinese_name": "皮塔戈拉斯尤诺帕尔大学",
+    "english_name": "Universidade Pitágoras Unopar"
+  },
+  {
+    "chinese_name": "佩洛塔斯天主教大学",
+    "english_name": "Universidade Católica de Pelotas"
+  },
+  {
+    "chinese_name": "帕拉伊巴河谷大学",
+    "english_name": "Universidade do Vale do Paraíba"
+  },
+  {
+    "chinese_name": "普斯迪伍大学中心",
+    "english_name": "Centro Universitário Positivo"
+  },
+  {
+    "chinese_name": "帕苏丰杜大学",
+    "english_name": "Universidade de Passo Fundo"
+  },
+  {
+    "chinese_name": "七月九日大学",
+    "english_name": "Universidade Nove de Julho"
+  },
+  {
+    "chinese_name": "若因维利地区大学",
+    "english_name": "Universidade da Região de Joinville"
+  },
+  {
+    "chinese_name": "圣保罗大学",
+    "english_name": "Universidade de São Paulo"
+  },
+  {
+    "chinese_name": "萨尔瓦多天主教大学",
+    "english_name": "Universidade Católica do Salvador"
+  },
+  {
+    "chinese_name": "圣保罗联邦大学",
+    "english_name": "Universidade Federal de São Paulo"
+  },
+  {
+    "chinese_name": "圣卡塔琳娜州立大学",
+    "english_name": "Universidade do Estado de Santa Catarina"
+  },
+  {
+    "chinese_name": "圣卡塔琳娜联邦大学",
+    "english_name": "Universidade Federal de Santa Catarina"
+  },
+  {
+    "chinese_name": "圣保罗阿尼扬格拉大学",
+    "english_name": "Universidade Anhanguera de São Paulo"
+  },
+  {
+    "chinese_name": "上克鲁斯大学",
+    "english_name": "Universidade de Cruz Alta"
+  },
+  {
+    "chinese_name": "圣保罗城市大学",
+    "english_name": "Universidade Cidade de São Paulo"
+  },
+  {
+    "chinese_name": "圣保罗天主教大学",
+    "english_name": "Pontifícia Universidade Católica de São Paulo"
+  },
+  {
+    "chinese_name": "圣卡塔琳娜南部大学",
+    "english_name": "Universidade do Extremo Sul Catarinense"
+  },
+  {
+    "chinese_name": "圣保罗美术大学中心",
+    "english_name": "Centro Universitário Belas Artes de São Paulo"
+  },
+  {
+    "chinese_name": "索罗卡巴大学",
+    "english_name": "Universidade de Sorocaba"
+  },
+  {
+    "chinese_name": "圣心大学",
+    "english_name": "Universidade do Sagrado Coração"
+  },
+  {
+    "chinese_name": "圣犹大·达陡大学",
+    "english_name": "Universidade São Judas Tadeu"
+  },
+  {
+    "chinese_name": "塞维里诺·桑布拉大学",
+    "english_name": "Universidade Severino Sombra"
+  },
+  {
+    "chinese_name": "圣保罗州立大学",
+    "english_name": "Universidade Estadual Paulista “Júlio de Mesquita Filho”"
+  },
+  {
+    "chinese_name": "圣保罗基督复临会大学中心",
+    "english_name": "Centro Universitário Adventista de São Paulo"
+  },
+  {
+    "chinese_name": "圣卡洛斯联邦大学",
+    "english_name": "Universidade Federal de São Carlos"
+  },
+  {
+    "chinese_name": "圣埃斯皮里图联邦大学",
+    "english_name": "Universidade Federal do Espírito Santo"
+  },
+  {
+    "chinese_name": "圣保罗卫理公会大学",
+    "english_name": "Universidade Metodista de São Paulo"
+  },
+  {
+    "chinese_name": "圣玛利亚联邦大学",
+    "english_name": "Universidade Federal de Santa Maria"
+  },
+  {
+    "chinese_name": "塞阿拉联邦大学",
+    "english_name": "Universidade Federal do Ceará"
+  },
+  {
+    "chinese_name": "堂·佩德罗二世学院",
+    "english_name": "Faculdade Dom Pedro II"
+  },
+  {
+    "chinese_name": "Unic大学中心",
+    "english_name": "Centro Universitário Unic"
+  },
+  {
+    "chinese_name": "UNIVATES大学中心",
+    "english_name": "Centro Universitário UNIVATES"
+  },
+  {
+    "chinese_name": "瓦加斯基金会巴西公共与企业管理学院",
+    "english_name": "Escola Brasileira de Administração Pública e de Empresas da Fundação Getulio Vargas"
+  },
+  {
+    "chinese_name": "瓦加斯基金会国际关系学院",
+    "english_name": "Escola de Relações Internacionais da Fundação Getulio Vargas"
+  },
+  {
+    "chinese_name": "维索萨联邦大学",
+    "english_name": "Universidade Federal de Viçosa"
+  },
+  {
+    "chinese_name": "瓦加斯基金会圣保罗经济学院",
+    "english_name": "Escola de Economia de São Paulo da Fundação Getulio Vargas"
+  },
+  {
+    "chinese_name": "瓦加斯基金会圣保罗工商管理学院",
+    "english_name": "Escola de Administração de Empresas de São Paulo da Fundação Getulio Vargas"
+  },
+  {
+    "chinese_name": "瓦加斯基金会圣保罗法学院",
+    "english_name": "Escola de Direito de São Paulo da Fundação Getulio Vargas"
+  },
+  {
+    "chinese_name": "西诺斯谷大学",
+    "english_name": "Universidade do Vale do Rio dos Sinos"
+  },
+  {
+    "chinese_name": "伊塔茹巴联邦大学",
+    "english_name": "Universidade Federal de Itajubá"
+  },
+  {
+    "chinese_name": "亚马孙高等教育大学中心",
+    "english_name": "Centro Universitário de Ensino Superior do Amazonas"
+  },
+  {
+    "chinese_name": "伊塔佩蒂宁加技术学院",
+    "english_name": "Faculdade de Tecnologia de Itapetininga"
+  },
+  {
+    "chinese_name": "伊塔贾伊河谷大学",
+    "english_name": "Universidade do Vale do Itajaí"
+  },
+  {
+    "chinese_name": "伊塔茹巴大学中心",
+    "english_name": "Centro Universitário de Itajubá"
+  },
+  {
+    "chinese_name": "亚马孙大学",
+    "english_name": "Universidade da Amazônia"
+  }
+]
