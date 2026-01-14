@@ -20,7 +20,26 @@ def generate_summary():
         "Singapore": "新加坡",
         "Qatar": "卡塔尔",
         "Ireland": "爱尔兰",
-        "Philippines": "菲律宾"
+        "Philippines": "菲律宾",
+        "Ethiopia": "埃塞俄比亚",
+        "UAE": "阿联酋",
+        "South Korea": "韩国",
+        "Bangladesh": "孟加拉国",
+        "Moldova": "摩尔多瓦",
+        "Russia": "俄罗斯",
+        "France": "法国",
+        "Germany": "德国",
+        "Afghanistan": "阿富汗",
+        "Cambodia": "柬埔寨",
+        "Canada": "加拿大",
+        "Kenya": "肯尼亚",
+        "Cameroon": "喀麦隆",
+        "South Africa": "南非",
+        "Switzerland": "瑞士",
+        "Sweden": "瑞典",
+        "Vietnam": "越南",
+        "Italy": "意大利",
+        "Israel": "以色列"
     }
     
     # Search for all csv files in subdirectories

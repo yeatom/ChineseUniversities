@@ -1,0 +1,738 @@
+[
+    {
+        "chinese_name": "阿韦利诺音乐学院",
+        "original_name": "Conservatorio statale di musica di Avellino \"Domenico Cimarosa\""
+    },
+    {
+        "chinese_name": "阿德里亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Adria (RO) \"Antonio Buzzolla\""
+    },
+    {
+        "chinese_name": "巴勒莫音乐学院",
+        "original_name": "Conservatorio di Musica di PALERMO \"Vincenzo Bellini\""
+    },
+    {
+        "chinese_name": "贝尔卡莫大学",
+        "original_name": "Università degli Studi di BERGAMO"
+    },
+    {
+        "chinese_name": "博科尼商业大学",
+        "original_name": "Università Commerciale \"Luigi Bocconi\" MILANO"
+    },
+    {
+        "chinese_name": "博洛尼亚大学",
+        "original_name": "Università degli Studi di BOLOGNA"
+    },
+    {
+        "chinese_name": "比萨大学",
+        "original_name": "Università di PISA"
+    },
+    {
+        "chinese_name": "布雷西亚大学",
+        "original_name": "Università degli Studi di BRESCIA"
+    },
+    {
+        "chinese_name": "巴里理工大学",
+        "original_name": "Politecnico di BARI"
+    },
+    {
+        "chinese_name": "波尔扎诺自由大学",
+        "original_name": "Libera Università di BOLZANO"
+    },
+    {
+        "chinese_name": "巴里大学",
+        "original_name": "Università degli Studi di BARI Aldo Moro"
+    },
+    {
+        "chinese_name": "巴勒莫大学",
+        "original_name": "Università degli Studi di PALERMO"
+    },
+    {
+        "chinese_name": "比萨高等师范学校",
+        "original_name": "Scuola Normale Superiore di PISA"
+    },
+    {
+        "chinese_name": "贝内文托大学",
+        "original_name": "Università degli Studi del SANNIO di BENEVENTO"
+    },
+    {
+        "chinese_name": "巴里美术学院",
+        "original_name": "Accademia di Belle Arti di BARI"
+    },
+    {
+        "chinese_name": "博洛尼亚美术学院",
+        "original_name": "Accademia di Belle Arti di BOLOGNA"
+    },
+    {
+        "chinese_name": "巴勒莫美术学院",
+        "original_name": "Accademia di Belle Arti di PALERMO"
+    },
+    {
+        "chinese_name": "博洛尼亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Bologna \"Giovan Battista Martini\""
+    },
+    {
+        "chinese_name": "布雷西亚自由美术学院",
+        "original_name": "Libera Accademia di Belle Arti (LABA) – Brescia"
+    },
+    {
+        "chinese_name": "贝内文托音乐学院",
+        "original_name": "Conservatorio statale di musica di Benevento \"Nicola Sala\""
+    },
+    {
+        "chinese_name": "巴里音乐学院",
+        "original_name": "Conservatorio statale di musica di Bari \"Niccolò Piccinni\""
+    },
+    {
+        "chinese_name": "波尔扎诺音乐学院",
+        "original_name": "Conservatorio statale di musica/Hochschule für musik di Bolzano/Bozen \"Claudio Monteverdi\""
+    },
+    {
+        "chinese_name": "波坦察音乐学院",
+        "original_name": "Conservatorio statale di Musica di POTENZA \"Gesualdo da Venosa\""
+    },
+    {
+        "chinese_name": "布雷西亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Brescia \"Luca Marenzio\" "
+    },
+    {
+        "chinese_name": "贝尔卡莫综合艺术学院",
+        "original_name": "Politecnico delle Arti statale di Bergamo “Gaetano Donizetti-Giacomo Carrara”"
+    },
+    {
+        "chinese_name": "布鲁诺·马代尔纳-嘉·雷迪米音乐学院",
+        "original_name": "Conservatorio di Musica \"B.Maderna - G.Lettimi\" (sedi a Cesena ed a Rimini)"
+    },
+    {
+        "chinese_name": "都灵大学",
+        "original_name": "Università degli Studi di TORINO"
+    },
+    {
+        "chinese_name": "都灵理工大学",
+        "original_name": "Politecnico di TORINO"
+    },
+    {
+        "chinese_name": "的里雅斯特大学",
+        "original_name": "Università degli Studi di TRIESTE"
+    },
+    {
+        "chinese_name": "的里雅斯特国际高等研究院",
+        "original_name": "Scuola Internazionale Superiore di Studi Avanzati di TRIESTE"
+    },
+    {
+        "chinese_name": "都灵美术学院",
+        "original_name": "Accademia di Belle Arti di TORINO \"Albertina\""
+    },
+    {
+        "chinese_name": "都灵音乐学院",
+        "original_name": "Conservatorio statale di musica di Torino \"Giuseppe Verdi\""
+    },
+    {
+        "chinese_name": "的里雅斯特音乐学院",
+        "original_name": "Conservatorio statale di musica di Trieste \"Giuseppe Tartini\""
+    },
+    {
+        "chinese_name": "恩纳科雷大学",
+        "original_name": "Università Kore di ENNA"
+    },
+    {
+        "chinese_name": "佛罗伦萨美术学院",
+        "original_name": "Accademia di Belle Arti di FIRENZE"
+    },
+    {
+        "chinese_name": "福贾美术学院",
+        "original_name": "Accademia di Belle Arti di FOGGIA"
+    },
+    {
+        "chinese_name": "弗罗西诺内美术学院",
+        "original_name": "Accademia di Belle Arti di FROSINONE"
+    },
+    {
+        "chinese_name": "佛罗伦萨大学",
+        "original_name": "Università degli Studi di FIRENZE"
+    },
+    {
+        "chinese_name": "费拉拉大学",
+        "original_name": "Università degli Studi di FERRARA"
+    },
+    {
+        "chinese_name": "佛罗意大里克大学",
+        "original_name": "Università degli Studi di ROMA \"Foro Italico\""
+    },
+    {
+        "chinese_name": "弗罗西诺内音乐学院",
+        "original_name": "Conservatorio statale di musica di Frosinone \"Licinio Refice\""
+    },
+    {
+        "chinese_name": "佛罗伦萨自由美术学院",
+        "original_name": "Libera Accademia di Belle Arti (LABA) – Firenze"
+    },
+    {
+        "chinese_name": "费拉拉音乐学院",
+        "original_name": "Conservatorio statale di musica di Ferrara \"Girolamo Frescobaldi\""
+    },
+    {
+        "chinese_name": "佛罗伦萨音乐学院",
+        "original_name": "Conservatorio statale di musica di Firenze \"Luigi Cherubini\""
+    },
+    {
+        "chinese_name": "费尔莫音乐学院",
+        "original_name": "Conservatorio statale di musica di Fermo \"Giovambattista Pergolesi\""
+    },
+    {
+        "chinese_name": "福贾音乐学院",
+        "original_name": "Conservatorio statale di musica di Foggia \"Umberto Giordano\""
+    },
+    {
+        "chinese_name": "国家舞蹈学院",
+        "original_name": "Accademia Nazionale di Danza di ROMA"
+    },
+    {
+        "chinese_name": "格兰萨索科学研究院",
+        "original_name": "Gran Sasso Science Institute - Scuola di Dottorato Internazionale"
+    },
+    {
+        "chinese_name": "加拉拉泰音乐学院",
+        "original_name": "Conservatorio statale di musica di Gallarate (VA) “Giacomo Puccini”"
+    },
+    {
+        "chinese_name": "卡洛卡塔内奥大学",
+        "original_name": "Università \"Carlo Cattaneo\""
+    },
+    {
+        "chinese_name": "卡梅里诺大学",
+        "original_name": "Università degli Studi di CAMERINO"
+    },
+    {
+        "chinese_name": "卡西诺-南拉齐奥大学",
+        "original_name": "Università degli studi di CASSINO e del LAZIO Meridionale"
+    },
+    {
+        "chinese_name": "卡拉布里亚大学",
+        "original_name": "Università della CALABRIA"
+    },
+    {
+        "chinese_name": "卡塔尼亚大学",
+        "original_name": "Università degli Studi di CATANIA"
+    },
+    {
+        "chinese_name": "卡利亚里大学",
+        "original_name": "Università degli Studi di CAGLIARI"
+    },
+    {
+        "chinese_name": "卡帕尼亚大学",
+        "original_name": "Università degli Studi della CAMPANIA \"Luigi Vanvitelli\""
+    },
+    {
+        "chinese_name": "卡拉拉美术学院",
+        "original_name": "Accademia di Belle Arti di CARRARA"
+    },
+    {
+        "chinese_name": "科莫美术学院",
+        "original_name": "Accademia di Belle Arti Legalmente Riconosciuta di COMO \"Aldo Galli\""
+    },
+    {
+        "chinese_name": "克雷莫纳高等音乐学院",
+        "original_name": "Istituto Superiore di Studi Musicali di CREMONA \"Claudio Monteverdi\""
+    },
+    {
+        "chinese_name": "坎波巴索音乐学院",
+        "original_name": "Conservatorio di Musica di CAMPOBASSO \"Lorenzo Perosi\""
+    },
+    {
+        "chinese_name": "卡斯特弗朗科维内托音乐学院",
+        "original_name": "Conservatorio di Musica di CASTELFRANCO VENETO \"Agostino Steffani\""
+    },
+    {
+        "chinese_name": "库内奥美术学院",
+        "original_name": "Accademia di Belle Arti di Cuneo"
+    },
+    {
+        "chinese_name": "卡利亚里音乐学院",
+        "original_name": "Conservatorio di musica statale di Cagliari \"Pierluigi da Palestrina\""
+    },
+    {
+        "chinese_name": "科莫威尔第音乐学院",
+        "original_name": "Conservatorio statale di musica di Como \"Giuseppe Verdi\""
+    },
+    {
+        "chinese_name": "科森扎音乐学院",
+        "original_name": "Conservatorio statale di musica di Cosenza \"Stanislao Giacomantonio”"
+    },
+    {
+        "chinese_name": "库内奥音乐学院",
+        "original_name": "Conservatorio statale di musica di Cuneo \"Giorgio Federico Ghedini\""
+    },
+    {
+        "chinese_name": "雷焦卡拉布里亚外国人大学",
+        "original_name": "Università per Stranieri \"Dante Alighieri\" di REGGIO CALABRIA"
+    },
+    {
+        "chinese_name": "拉文纳美术学院",
+        "original_name": "Accademia di Belle Arti Statale di Ravenna"
+    },
+    {
+        "chinese_name": "罗马艺术产业高等研究院",
+        "original_name": "Istituto Superiore per le Industrie Artistiche (ISIA) di ROMA"
+    },
+    {
+        "chinese_name": "雷焦卡拉布里亚大学",
+        "original_name": "Università degli Studi \"Mediterranea\" di REGGIO CALABRIA"
+    },
+    {
+        "chinese_name": "罗马国际研究大学",
+        "original_name": "Università degli Studi Internazionali di ROMA"
+    },
+    {
+        "chinese_name": "罗马大学",
+        "original_name": "Università degli Studi di ROMA \"La Sapienza\""
+    },
+    {
+        "chinese_name": "罗马第二大学",
+        "original_name": "Università degli Studi di ROMA \"Tor Vergata\""
+    },
+    {
+        "chinese_name": "罗马第三大学",
+        "original_name": "Università degli Studi ROMA TRE"
+    },
+    {
+        "chinese_name": "路易斯▪圭多▪卡利大学",
+        "original_name": "Libera Università Internazionale degli Studi Sociali “Guido Carli” LUISS ROMA"
+    },
+    {
+        "chinese_name": "拉奎拉大学",
+        "original_name": "Università degli Studi dell'AQUILA"
+    },
+    {
+        "chinese_name": "领克大学",
+        "original_name": "Link Campus University"
+    },
+    {
+        "chinese_name": "卢卡机构、市场、技术高等研究学院",
+        "original_name": "Scuola IMT - Istituzioni, Mercati, Tecnologie - Alti Studi - LUCCA"
+    },
+    {
+        "chinese_name": "拉奎拉美术学院",
+        "original_name": "Accademia di Belle Arti di L'AQUILA"
+    },
+    {
+        "chinese_name": "莱切美术学院",
+        "original_name": "Accademia di Belle Arti di LECCE"
+    },
+    {
+        "chinese_name": "雷焦卡拉布里亚美术学院",
+        "original_name": "Accademia di Belle Arti di REGGIO CALABRIA"
+    },
+    {
+        "chinese_name": "罗马美术学院",
+        "original_name": "Accademia di Belle Arti di ROMA"
+    },
+    {
+        "chinese_name": "拉文纳高等音乐学院",
+        "original_name": "Istituto Superiore di Studi Musicali di RAVENNA \"Giuseppe Verdi\""
+    },
+    {
+        "chinese_name": "拉蒂纳音乐学院",
+        "original_name": "Conservatorio di Musica di LATINA \"Ottorino Respighi\""
+    },
+    {
+        "chinese_name": "罗马RUFA美术学院",
+        "original_name": "Rome University of Fine Arts (RUFA)"
+    },
+    {
+        "chinese_name": "卢卡音乐学院",
+        "original_name": "Conservatorio statale di musica di Lucca “Luigi Boccherini”"
+    },
+    {
+        "chinese_name": "莱切音乐学院",
+        "original_name": "Conservatorio statale di musica di Lecce \"Tito Schipa\""
+    },
+    {
+        "chinese_name": "雷焦艾米利亚卡斯特诺沃内蒙迪音乐学院",
+        "original_name": "Conservatorio statale di musica di Reggio Emilia e Castelnuovo né Monti “Achille Peri e Claudio Merulo”"
+    },
+    {
+        "chinese_name": "卢索服装学院",
+        "original_name": "Accademia del Lusso"
+    },
+    {
+        "chinese_name": "罗马音乐学院",
+        "original_name": "Conservatorio statale di musica di Roma \"Santa Cecilia\""
+    },
+    {
+        "chinese_name": "拉斯佩齐亚音乐学院",
+        "original_name": "Conservatorio statale di musica di La Spezia \"Giacomo Puccini\""
+    },
+    {
+        "chinese_name": "利贝拉音乐学院",
+        "original_name": "Conservatorio statale di musica di Ribera (AG) “Arturo Toscanini”"
+    },
+    {
+        "chinese_name": "拉奎拉音乐学院",
+        "original_name": "Conservatorio Statale di Musica di L'AQUILA \"Alfredo Casella\""
+    },
+    {
+        "chinese_name": "罗维戈音乐学院",
+        "original_name": "Conservatorio statale di musica di Rovigo \"Francesco Venezze\""
+    },
+    {
+        "chinese_name": "雷焦卡拉布利亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Reggio Calabria \"Francesco Cilea\""
+    },
+    {
+        "chinese_name": "莫利塞大学",
+        "original_name": "Università degli Studi del MOLISE"
+    },
+    {
+        "chinese_name": "米兰大学",
+        "original_name": "Università degli Studi di MILANO"
+    },
+    {
+        "chinese_name": "米兰比可卡大学",
+        "original_name": "Università degli Studi di MILANO-BICOCCA"
+    },
+    {
+        "chinese_name": "米兰理工大学",
+        "original_name": "Politecnico di MILANO"
+    },
+    {
+        "chinese_name": "摩德纳-雷焦艾米利亚大学",
+        "original_name": "Università degli Studi di MODENA e REGGIO EMILIA"
+    },
+    {
+        "chinese_name": "马尔凯理工大学",
+        "original_name": "Università Politecnica delle MARCHE"
+    },
+    {
+        "chinese_name": "马切拉塔大学",
+        "original_name": "Università degli Studi di MACERATA"
+    },
+    {
+        "chinese_name": "墨西拿大学",
+        "original_name": "Università degli Studi di MESSINA"
+    },
+    {
+        "chinese_name": "玛丽亚圣阿苏塔自由大学",
+        "original_name": "Libera Università degli Studi \"Maria SS.Assunta\""
+    },
+    {
+        "chinese_name": "马切拉塔美术学院",
+        "original_name": "Accademia di Belle Arti di MACERATA"
+    },
+    {
+        "chinese_name": "米兰布雷拉美术学院",
+        "original_name": "Accademia di Belle Arti di MILANO \"Brera\""
+    },
+    {
+        "chinese_name": "摩德纳-卡普里高等音乐学院",
+        "original_name": "Istituto Superiore di Studi Musicali di MODENA e CARPI \"Orazio Vecchi - Antonio Tonelli\""
+    },
+    {
+        "chinese_name": "马兰欧尼学院",
+        "original_name": "Istituto Marangoni"
+    },
+    {
+        "chinese_name": "米兰音乐学院",
+        "original_name": "Conservatorio statale di musica di Milano \"Giuseppe Verdi\""
+    },
+    {
+        "chinese_name": "米兰ACME美术学院",
+        "original_name": "Academy of Fine Arts and Media (ACME) – Milano"
+    },
+    {
+        "chinese_name": "米兰克劳迪奥•阿巴多市立音乐学院",
+        "original_name": "Civica Scuola di Musica “Claudio Abbado” – Milano"
+    },
+    {
+        "chinese_name": "曼托瓦音乐学院",
+        "original_name": "Conservatorio statale di musica di Mantova \"Lucio Campiani\""
+    },
+    {
+        "chinese_name": "墨西拿音乐学院",
+        "original_name": "Conservatorio statale di musica di Messina \"Arcangelo Corelli\""
+    },
+    {
+        "chinese_name": "莫诺波利音乐学院",
+        "original_name": "Conservatorio statale di musica di Monopoli (BA) \"Nino Rota\""
+    },
+    {
+        "chinese_name": "那不勒斯帕特诺普大学",
+        "original_name": "Università degli Studi di NAPOLI \"Parthenope\""
+    },
+    {
+        "chinese_name": "那不勒斯费德里克二世大学",
+        "original_name": "Università degli Studi di NAPOLI Federico II"
+    },
+    {
+        "chinese_name": "那不勒斯东方大学",
+        "original_name": "Università degli Studi di NAPOLI \"L'Orientale\""
+    },
+    {
+        "chinese_name": "那不勒斯美术学院",
+        "original_name": "Accademia di Belle Arti di NAPOLI"
+    },
+    {
+        "chinese_name": "诺瓦拉ACME美术学院",
+        "original_name": "Accademia di Belle Arti Legalmente Riconosciuta di NOVARA \"ACME\""
+    },
+    {
+        "chinese_name": "那不勒斯音乐学院",
+        "original_name": "Conservatorio statale di musica di Napoli \"S. Pietro a Majella\""
+    },
+    {
+        "chinese_name": "NABA美术学院",
+        "original_name": "Nuova Accademia di Belle Arti (NABA)"
+    },
+    {
+        "chinese_name": "诺瓦拉音乐学院",
+        "original_name": "Conservatorio statale di musica di Novara \"Guido Cantelli\""
+    },
+    {
+        "chinese_name": "欧洲设计学院",
+        "original_name": "Istituto Europeo del Design (IED)"
+    },
+    {
+        "chinese_name": "欧洲大学学院",
+        "original_name": "European University Institute"
+    },
+    {
+        "chinese_name": "佩鲁贾大学",
+        "original_name": "Università degli Studi di PERUGIA"
+    },
+    {
+        "chinese_name": "帕维亚大学",
+        "original_name": "Università degli Studi di PAVIA"
+    },
+    {
+        "chinese_name": "帕多瓦大学",
+        "original_name": "Università degli Studi di PADOVA"
+    },
+    {
+        "chinese_name": "佩鲁贾外国人大学",
+        "original_name": "Università per Stranieri di PERUGIA"
+    },
+    {
+        "chinese_name": "佩斯卡拉大学",
+        "original_name": "Università degli Studi \"G. d'Annunzio\" CHIETI-PESCARA"
+    },
+    {
+        "chinese_name": "帕尔玛大学",
+        "original_name": "Università degli Studi di PARMA"
+    },
+    {
+        "chinese_name": "佩鲁贾美术学院",
+        "original_name": "Accademia di Belle Arti di Perugia “Pietro Vannucci”"
+    },
+    {
+        "chinese_name": "佩斯卡拉音乐学院",
+        "original_name": "Conservatorio statale di musica di Pescara \"Luisa d'Annunzio\""
+    },
+    {
+        "chinese_name": "佩扎罗音乐学院",
+        "original_name": "Conservatorio statale di musica di Pesaro \"Gioachino Rossini\""
+    },
+    {
+        "chinese_name": "佩鲁贾音乐学院",
+        "original_name": "Conservatorio statale di musica di Perugia \"Francesco Morlacchi\""
+    },
+    {
+        "chinese_name": "帕多瓦音乐学院",
+        "original_name": "Conservatorio statale di musica di Padova \"Cesare Pollini\""
+    },
+    {
+        "chinese_name": "帕尔马音乐学院",
+        "original_name": "Conservatorio statale di musica di Parma \"Arrigo Boito\""
+    },
+    {
+        "chinese_name": "皮亚琴察音乐学院",
+        "original_name": "Conservatorio statale di musica di Piacenza \"Giuseppe Nicolini\""
+    },
+    {
+        "chinese_name": "帕维亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Pavia \"Franco Vittadini\""
+    },
+    {
+        "chinese_name": "热那亚大学",
+        "original_name": "Università degli Studi di GENOVA"
+    },
+    {
+        "chinese_name": "热那亚美术学院",
+        "original_name": "Accademia di Belle Arti di Genova “Ligustica”"
+    },
+    {
+        "chinese_name": "热那亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Genova \"Nicolò Paganini\""
+    },
+    {
+        "chinese_name": "圣拉斐尔生命健康自由大学",
+        "original_name": "Libera Università \"Vita Salute S.Raffaele\" di MILANO"
+    },
+    {
+        "chinese_name": "萨萨里音乐学院",
+        "original_name": "Conservatorio di Musica di SASSARI \"Luigi Canepa\""
+    },
+    {
+        "chinese_name": "圣安娜高等研究学院",
+        "original_name": "Scuola Superiore di Studi Universitari e Perfezionamento Sant'Anna"
+    },
+    {
+        "chinese_name": "萨兰托大学",
+        "original_name": "Università del SALENTO"
+    },
+    {
+        "chinese_name": "萨勒诺大学",
+        "original_name": "Università degli Studi di SALERNO"
+    },
+    {
+        "chinese_name": "萨萨里大学",
+        "original_name": "Università degli Studi di SASSARI"
+    },
+    {
+        "chinese_name": "时尚与服装学院",
+        "original_name": "Accademia di Costume e Moda"
+    },
+    {
+        "chinese_name": "萨勒诺音乐学院",
+        "original_name": "Conservatorio statale di musica di Salerno \"Giuseppe Martucci\""
+    },
+    {
+        "chinese_name": "圣心天主教大学",
+        "original_name": "Università Cattolica del Sacro Cuore"
+    },
+    {
+        "chinese_name": "圣雷莫美术学院",
+        "original_name": "Accademia di Belle Arti di Sanremo – Sanremo (IM)"
+    },
+    {
+        "chinese_name": "圣路易斯音乐学院",
+        "original_name": "Saint Louis College of Music"
+    },
+    {
+        "chinese_name": "特拉莫大学",
+        "original_name": "Università degli Studi di TERAMO"
+    },
+    {
+        "chinese_name": "特拉帕尼音乐学院",
+        "original_name": "Conservatorio statale di musica di Trapani \"Antonio Scontrino\""
+    },
+    {
+        "chinese_name": "特伦托大学",
+        "original_name": "Università degli Studi di TRENTO"
+    },
+    {
+        "chinese_name": "图思雅大学",
+        "original_name": "Università degli Studi della TUSCIA"
+    },
+    {
+        "chinese_name": "特伦托音乐学院",
+        "original_name": "Conservatorio statale di musica di Trento \"Francesco Antonio Bonporti\""
+    },
+    {
+        "chinese_name": "塔兰托音乐学院",
+        "original_name": "Conservatorio statale di musica di Taranto “Giovanni Paisiello”"
+    },
+    {
+        "chinese_name": "特拉莫音乐学院",
+        "original_name": "Conservatorio statale di musica di Teramo “Gaetano Braga”"
+    },
+    {
+        "chinese_name": "维泰博美术学院",
+        "original_name": "Accademia di Belle Arti \"Lorenzo da Viterbo\""
+    },
+    {
+        "chinese_name": "韦伯瓦伦蒂亚音乐学院",
+        "original_name": "Conservatorio statale di musica di VIBO VALENTIA \"Fausto Torrefranca\""
+    },
+    {
+        "chinese_name": "威尼斯东方大学",
+        "original_name": "Università \"Ca' Foscari\" VENEZIA"
+    },
+    {
+        "chinese_name": "威尼斯建筑大学",
+        "original_name": "Università IUAV di VENEZIA"
+    },
+    {
+        "chinese_name": "乌迪内大学",
+        "original_name": "Università degli Studi di UDINE"
+    },
+    {
+        "chinese_name": "维罗纳大学",
+        "original_name": "Università degli Studi di VERONA"
+    },
+    {
+        "chinese_name": "乌尔比诺大学",
+        "original_name": "Università degli Studi di URBINO Carlo Bo"
+    },
+    {
+        "chinese_name": "乌尔比诺美术学院",
+        "original_name": "Accademia di Belle Arti di URBINO"
+    },
+    {
+        "chinese_name": "威尼斯美术学院",
+        "original_name": "Accademia di Belle Arti di VENEZIA"
+    },
+    {
+        "chinese_name": "万神殿设计与科技学院",
+        "original_name": "Istituto Pantheon Design & Technology"
+    },
+    {
+        "chinese_name": "乌迪内美术学院",
+        "original_name": "Accademia di Belle Arti \"G.B. Tiepolo\""
+    },
+    {
+        "chinese_name": "维罗纳音乐学院",
+        "original_name": "Conservatorio statale di musica di Verona \"Evaristo Felice Dall'Abaco\""
+    },
+    {
+        "chinese_name": "威尼斯音乐学院",
+        "original_name": "Conservatorio statale di musica di Venezia \"Benedetto Marcello\""
+    },
+    {
+        "chinese_name": "维琴察音乐学院",
+        "original_name": "Conservatorio statale di musica di Vicenza \"Arrigo Pedrollo\""
+    },
+    {
+        "chinese_name": "瓦莱达奥斯塔高等音乐学院",
+        "original_name": "Istituto superiore pareggiato di studi musicali della Valle d'Aosta/Conservatoire de la Vallée d'Aoste"
+    },
+    {
+        "chinese_name": "乌迪内音乐学院",
+        "original_name": "Conservatorio statale di Musica di UDINE \"Jacopo Tomadini\""
+    },
+    {
+        "chinese_name": "维罗纳美术学院",
+        "original_name": "Accademia di Belle Arti Statale di Verona"
+    },
+    {
+        "chinese_name": "锡耶纳音乐学院",
+        "original_name": "Conservatorio statale di musica di Siena \"Rinaldo Franci\""
+    },
+    {
+        "chinese_name": "锡耶纳大学",
+        "original_name": "Università degli Studi di SIENA"
+    },
+    {
+        "chinese_name": "锡耶纳外国人大学",
+        "original_name": "Università per Stranieri di SIENA"
+    },
+    {
+        "chinese_name": "应用艺术与设计学院",
+        "original_name": "Istituto d'Arte Applicata e Design (IAAD)"
+    },
+    {
+        "chinese_name": "意大利艺术、时尚与设计学院",
+        "original_name": "Accademia Italiana d'Arte, Moda e Design"
+    },
+    {
+        "chinese_name": "语言与传播自由大学",
+        "original_name": "Libera Università di Lingue e Comunicazione IULM-MI"
+    },
+    {
+        "chinese_name": "英苏布里亚大学",
+        "original_name": "Università degli Studi INSUBRIA Varese-Como"
+    },
+    {
+        "chinese_name": "亚历山德里亚音乐学院",
+        "original_name": "Conservatorio statale di musica di Alessandria \"Antonio Vivaldi\""
+    }
+]
